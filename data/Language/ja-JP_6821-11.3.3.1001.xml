@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Max number of parsable phrases is capped at 4096 in csstringrepo.c --><phrases>
+<trkLocaleName>Japanese_Japan</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  Conference Microphones ###########-->
+
+<phrase i="L_WirelessPairing_info" t="マイクロフォン%dのミュートキーを3秒間長押ししてください。マイクロフォンは、ペアリングしている間白く点滅します。"/>
+<phrase i="L_UNPLUG_WIRED" t="［ﾍﾟｱﾘﾝｸﾞ］を押す前に有線マイクロフォンの接続を解除してください。"/>
+
+<phrase i="L_WIRED_MIC_CONNECTED" t="有線マイクロフォン %d が接続されました。"/>
+<phrase i="L_WIRED_MIC_DISCONNECTED" t="有線マイクロフォン %d が切断されました。"/>
+<phrase i="L_WIRELESS_MIC_DISCONNECTED" t="無線マイクロフォン %d が切断されました。"/>
+<phrase i="L_WIRELESS_MIC_CONNECTED" t="無線マイクロフォン %d が接続されました。"/>
+
+<phrase i="L_LOW_BATTERY" t="マイクロフォンのバッテリーが充電%d%25%25を下回りました。"/>
+<phrase i="L_RANGE" t="感度"/>
+<phrase i="L_BATTERY_LEVEL" t="バッテリー残量：%d%%"/>
+<phrase i="L_BATTERY_POOR_CONNECTION" t="バッテリー接続状態 不安定"/>
+<phrase i="L_BATTERY_BAD" t="バッテリー不良"/>
+<phrase i="L_PAIRED" t="ペアリング済み"/>
+<phrase i="L_UNPAIRED" t="ペアリングなし"/>
+<phrase i="L_LOST_LINK" t="接続が切断"/>
+<phrase i="L_UPGRADE_IN_PROGRES" t="アップグレード中"/>
+<phrase i="L_WIRELESS_MICROPHONE" t="無線マイクロフォン %d"/>
+<phrase i="L_MICROPHONE" t="マイクロフォン%d"/>
+<phrase i="L_MICROPHONES" t="マイクロフォン"/>
+<phrase i="L_WIRED_MIC" t="有線マイクロフォン"/>
+<phrase i="L_WIRELESS_MIC" t="無線マイクロフォン"/>
+<phrase i="L_PAIR" t="ﾍﾟｱﾘﾝｸﾞ"/>
+<phrase i="L_UNPAIR" t="ペア解除"/>
+<phrase i="L_LOSTLINK" t="接続が切断"/>
+<phrase i="L_WIRELESS_MICROPHONE_ID" t="マイクロフォン%dのペアリング"/>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="システムを起動しています"/>
+<phrase i="L_S_NET" t="ネットワークを初期化しています"/>
+<phrase i="L_S_DOWNLOAD" t="ダウンロード中"/>
+<phrase i="L_S_UPGRADE" t="アップグレード中"/>
+<phrase i="L_S_UPGRADEFAILED" t="アップグレードに失敗しました。"/>
+<phrase i="L_S_RESYNC" t="再同期中"/>
+<phrase i="L_S_RESYNCFAILED" t="再同期に失敗しました。"/>
+<phrase i="L_S_SRVC_PROVISIONING_FAILED" t="プロビジョニング設定を確認するか、サービスプロバイダにお問い合わせください。"/>
+<phrase i="L_S_CONNECT" t="接続中"/>
+<phrase i="L_S_NOCME" t="UCxxxが見つかりません。管理者にお問い合わせください。"/>
+<phrase i="L_S_REGTOKENREJECT" t="SPCP登録トークンが拒否されました。再試行しています..."/>
+<phrase i="L_S_REGISTERING" t="登録しています"/>
+<phrase i="L_S_REGISTERED" t="登録が完了しました。"/>
+<phrase i="L_S_REGREJECT" t="登録が拒否されました。"/>
+<phrase i="L_S_REGFAILED" t="登録に失敗しました。"/>
+<phrase i="L_S_NO_REG" t="お使いの電話は登録されていません。管理者にお問い合わせください。"/>
+<phrase i="L_S_NO_NETWORK" t="お使いの電話はネットワークに接続できません。電話ケーブルを確認してください。問題が解決しない場合は、管理者にお問い合わせください。"/>
+<phrase i="L_S_NO_WIFI_NETWORK" t="通話機能を有効にするには、ネットワークを設定する必要があります。"/>
+<phrase i="L_S_SRVC_NO_NETWORK" t="インターネット接続を確認するか、サービスプロバイダにお問い合わせください。"/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_NEWCALL" t="発信"/>
+<phrase i="L_DS_ENTERNUMBER" t="番号を入力してください"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="全コールの転送"/>
+<phrase i="L_DS_ENTER_CFWD" t="転送"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="話中転送"/>
+<phrase i="L_DS_ENTER_NOANS" t="無応答時転送"/>
+<phrase i="L_DS_ENTER_BXFER" t="ブラインド転送先を入力してください"/>
+<phrase i="L_DS_ENTER_PARK" t="パークする番号を入力してください"/>
+<phrase i="L_DS_ENTER_UNPARK" t="パーク解除する番号を入力してください"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="紹介サービスのターゲットを入力してください"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="特別サービスのターゲットを入力してください"/>
+<phrase i="L_DS_ENTER_MORE" t="追加の桁を入力してください"/>
+<phrase i="L_DS_ENTER_PICKUP" t="ピックアップ番号を入力してください"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="ピックアップグループを入力してください"/>
+<phrase i="L_DS_ENTER_PAGE" t="ページターゲットを入力してください"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="外部番号を入力してください"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="アカウントコードを入力してください"/>
+<phrase i="L_DS_ENTER_PROXYCALL" t="プロキシコール"/>
+<phrase i="L_DS_ENTER_DIVERTALL" t="すべて代理応答"/>
+<phrase i="L_DS_LINE" t="回線: %s"/>
+<phrase i="L_DS_FOR" t="%s"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="回線"/>
+<phrase i="L_READY" t="レディ"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="未登録"/>
+<phrase i="L_CAPPN_DISABLED" t="無効"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="短縮ダイヤル"/>
+<phrase i="L_CAPPN_APP" t="アプリケーション"/>
+<phrase i="L_CAPPN_URL" t="サービスURL"/>
+<phrase i="L_CAPPN_FEAT" t="機能"/>
+<phrase i="L_CAPPN_EXTFUNC" t="拡張機能"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="ゲストレディ"/>
+<phrase i="CALL_RINGING" t="着信コール"/>
+<phrase i="L_CONNECTED" t="接続済み"/>
+<phrase i="L_NOT_CONNECTED" t="接続されていません"/>
+<phrase i="L_OK" t="OK"/>
+<phrase i="L_DUPLICATED" t="重複しています"/>
+<phrase i="L_INITIALIZING" t="初期化中"/>
+<phrase i="L_CONNECTING" t="接続中"/>
+<phrase i="L_DHCP_ERROR" t="DHCPエラー"/>
+<phrase i="CALL_HOLDING" t="コール保留"/>
+<phrase i="CALL_END" t="通話終了"/>
+<phrase i="CALL_CALLING" t="通話中"/>
+<phrase i="CALL_SEIZED" t="補足済み"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="保留"/>
+<phrase i="CALL_DIALING" t="ダイヤル中"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="再開しています"/>
+<phrase i="CALL_SHARE" t="通話の共有"/>
+<phrase i="CALL_PAGE" t="ページ"/>
+<phrase i="CALL_PICKUP" t="コールピックアップ"/>
+<phrase i="CALL_PICKUPCALL" t="ピックアップコール"/>
+<phrase i="CALL_PICKUPFAILED" t="コールピックアップに失敗しました。"/>
+<phrase i="CALL_PICKUP_NULL" t="呼び出し中のコールがありません。"/>
+<phrase i="CALL_GPICKUP" t="グループコールピックアップ"/>
+<phrase i="CALL_GPICKUPSTATION" t="ステーションピックアップ"/>
+<phrase i="CALL_ANSWERING" t="応答中"/>
+<phrase i="CALL_UNKNOWN" t="不明"/>
+<phrase i="CALL_ANONYMOUS" t="非通知"/>
+<phrase i="CALL_USER" t="ユーザ"/>
+<phrase i="CALL_IDLE" t="アイドル"/>
+<phrase i="CALL_PROGRESSING" t="進行中"/>
+<phrase i="CALL_ALERT" t="アラート"/>
+<phrase i="CALL_ACTIVE" t="アクティブ"/>
+<phrase i="CALL_HELD" t="保留"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="ブリッジ能動"/>
+<phrase i="CALL_BRIDGE_HELD" t="ブリッジ保留"/>
+<phrase i="CALL_FROM" t="発信元"/>
+<phrase i="CALL_TO" t="発信先"/>
+<phrase i="CALL_CALLBACK" t="コールバック"/>
+<phrase i="CALL_FORWARD" t="転送"/>
+<phrase i="CALL_XFERTO" t="転送先"/>
+<phrase i="CALL_PAGEFROM" t="送信元ページ"/>
+<phrase i="CALL_PAGETO" t="宛先ページ"/>
+<phrase i="CALL_BY" t="/"/>
+<phrase i="CALL_CALLER" t="発信者"/>
+<phrase i="CALL_BUSY" t="話し中"/>
+<phrase i="CALL_REORDER" t="リオーダー"/>
+<phrase i="CALL_CONGESTION" t="輻輳"/>
+<phrase i="CALL_PROCEED" t="続行"/>
+<phrase i="CALL_RML" t="リモートマルチラインは使用中です"/>
+<phrase i="CALL_INVALIDNUM" t="無効な番号"/>
+<phrase i="CALL_INVALID" t="無効"/>
+<phrase i="L_GATHERINFO" t="情報を収集しています"/>
+<phrase i="L_FAILED" t="失敗"/>
+<phrase i="L_Empty" t="なし"/>
+<phrase i="L_DND" t="サイレント"/>
+<phrase i="L_CFWD" t="コールが"/>
+<phrase i="L_CFWDTO" t="：%s"/>
+<phrase i="L_MissedCall" t="新規不在着信"/>
+<phrase i="L_MissedCalls" t="新規不在着信"/>
+<phrase i="L_RingCallList" t="呼出コールリスト"/>
+<phrase i="L_RingStationList" t="呼出ステーションリスト"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="無効なパーク番号"/>
+<phrase i="L_SECS_LOGIN_OK" t="ログインに成功しました。"/>
+<phrase i="L_SECS_LOGIN_FAILED" t="ログインに失敗しました。ユーザIDとパスワードを確認してください。"/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="ACD可用性の更新に失敗しました。"/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="ACD可用性の更新に成功しました。"/>
+<phrase i="L_SECS_ACD_PROGRESS" t="ACDサーバにアクセスしています"/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="ユーザIDとパスワードを入力してください。"/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="サーバーにアクセスしています。"/>
+<phrase i="L_SECS_HOTELING_OK" t="ログインに成功しました。"/>
+<phrase i="L_SECS_HOTELING_FAILED" t="ログインに失敗しました。"/>
+<phrase i="L_SECS_HOTELING_LOGOUT_CONFIRMATION" t="ログアウトしてよろしいですか?"/>
+<phrase i="L_ACD_LoginForm" t="ACDログインフォーム"/>
+<phrase i="L_TRANSFERRING" t="転送中"/>
+<phrase i="L_XFERFAILED" t="転送に失敗しました"/>
+<phrase i="L_LineSeizing" t="回線捕捉を試行"/>
+<phrase i="L_GatheringCallInfo" t="通話情報を収集しています"/>
+<phrase i="L_SelectingCall" t="通話を選択しています"/>
+<phrase i="L_SelectingStation" t="ステーションを選択しています"/>
+<phrase i="L_ContactingStunServer" t="STUNサーバにアクセスしています"/>
+<phrase i="L_CalledPartyRinging" t="着信側呼出音"/>
+<phrase i="L_TryingHold" t="保留中"/>
+<phrase i="L_TringResume" t="再開中"/>
+<phrase i="L_StunIn" t="STUNイン"/>
+<phrase i="L_Shared" t="共有"/>
+<phrase i="L_Conference" t="会議"/>
+<phrase i="L_SecureCallIndication" t="セキュアコールの表示"/>
+<phrase i="L_SystemBeep" t="システムビープ音"/>
+<phrase i="L_2ndDial" t="セカンドダイヤル"/>
+<phrase i="L_OutsideDial" t="外部ダイヤル"/>
+<phrase i="L_BluetoothDial" t="Bluetoothダイヤル"/>
+<phrase i="L_MessageWaiting" t="待機中のメッセージ"/>
+<phrase i="L_RingBack" t="リングバック"/>
+<phrase i="L_OffhookWarning" t="オフフック警告"/>
+<phrase i="L_Ring" t="呼出音"/>
+<phrase i="L_Alert" t="アラート"/>
+<phrase i="L_Ring_hold" t="呼出音 - 保留"/>
+<phrase i="L_Ring_Callback" t="呼出音 - コールバック"/>
+<phrase i="L_Inbound" t="着信"/>
+<phrase i="L_Outbound" t="発信"/>
+<phrase i="L_Forwarded" t="転送されました"/>
+<phrase i="L_Transfered" t="転送されました"/>
+<phrase i="L_Transfer" t="転送"/>
+<phrase i="L_Secure" t="セキュア"/>
+<phrase i="L_CallsList" t="コールリスト"/>
+<phrase i="L_InvalidAcntCode" t="無効なアカウントコード"/>
+<phrase i="L_ServiceUnavailable" t="サービスは利用できません"/>
+<phrase i="L_Via" t="(%s経由)"/>
+<phrase i="L_CALL_DTMF_WAIT" t="継続するには追加の桁を入力して[OK]を押してください。"/>
+<phrase i="L_CALL_PARKED" t="コールパーク中"/>
+<phrase i="L_TO" t="："/>
+<phrase i="L_Incoming" t="着信"/>
+<phrase i="L_Private" t="非通知"/>
+<phrase i="L_Seized" t="補足済み"/>
+<phrase i="L_CurrentSelectionTitle" t="%d/%d"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="使用中"/>
+<phrase i="CALL_OTHERRESERVED" t="予約済"/>
+<phrase i="CALL_OTHERIDLE" t="相手側がアイドル状態"/>
+<phrase i="CALL_OTHERNOSERV" t="サービスなし"/>
+<phrase i="CALL_OTHERHOLD" t="相手側保留"/>
+<phrase i="CALL_OTHERRING" t="相手側呼び出し中"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="コール統計"/>
+<phrase i="T_AB_STSCH_LIST" t="コール統計"/>
+<phrase i="L_Name" t="名前"/>
+<phrase i="L_WorkPhone" t="勤務先電話"/>
+<phrase i="L_Extension" t="内線"/>
+<phrase i="L_HomePhone" t="自宅電話"/>
+<phrase i="L_ConferenceNumber" t="会議番号"/>
+<phrase i="L_MobilePhone" t="携帯電話"/>
+<phrase i="L_RingTone" t="呼出音"/>
+<phrase i="L_AT" t="場所："/>
+<phrase i="L_PeerName" t="ピア名"/>
+<phrase i="L_PeerNumber" t="ピア電話"/>
+<phrase i="L_CallType" t="通話タイプ"/>
+<phrase i="L_CallDuration" t="通話時間"/>
+<phrase i="L_CallDuration1" t="継続時間:"/>
+<phrase i="L_EncCodec" t="エンコードコーデック"/>
+<phrase i="L_DecCodec" t="デコードコーデック"/>
+<phrase i="L_CallTime" t="コール時刻"/>
+<phrase i="L_CallID" t="コールID"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="コールパークステータス"/>
+<phrase i="T_AB_CALLPARK_LIST" t="コールパークリスト"/>
+<phrase i="L_ParkingAt" t="パーク場所"/>
+<phrase i="L_ParkingBy" t="パーク実行者"/>
+<phrase i="CPARK_PROGRESSING" t="コールパークステータスを取得しています..."/>
+<phrase i="CPARK_FAILED" t="コールパークステータスの要求に失敗しました"/>
+<phrase i="CPARK_EMPTY" t="コールパークが空です"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="スターコードの選択"/>
+<phrase i="callReturnCode" t="ｺｰﾙﾘﾀｰﾝ"/>
+<phrase i="blindXferCode" t="ﾌﾞﾗｲﾝﾄﾞ転送"/>
+<phrase i="callBackActCode" t="コールバック"/>
+<phrase i="callBackDeactCode" t="コールバック中止"/>
+<phrase i="forwardAllActCode" t="全通話転送"/>
+<phrase i="forwardAllDeactCode" t="全通話転送キャンセル"/>
+<phrase i="forwardBusyActCode" t="話中転送"/>
+<phrase i="forwardBusyDeactCode" t="話中転送のキャンセル"/>
+<phrase i="forwardNoAnsActCode" t="無応答時転送"/>
+<phrase i="forwardNoAnsDeactCode" t="無応答時転送の中止"/>
+<phrase i="forwardNoAnsActCode_s" t="無応答時転送"/>
+<phrase i="forwardNoAnsDeactCode_s" t="無応答時転送の中止"/>
+<phrase i="blockCIDActCode" t="発信者IDブロック"/>
+<phrase i="blockCIDDeactCode" t="CIDブロック中止"/>
+<phrase i="blockCIDPerCallActCode" t="次のCIDブロック"/>
+<phrase i="blockCIDPerCallDeactCode" t="次CIDブロック中止"/>
+<phrase i="blockANCode" t="非通知コールブロック"/>
+<phrase i="blockANCDeactCode" t="非通知ブロックを中止"/>
+<phrase i="blockANCode_s" t="ANC をブロック"/>
+<phrase i="blockANCDeactCode_s" t="ANC ブロック中止"/>
+<phrase i="DNDActCode" t="サイレント"/>
+<phrase i="DNDDeactCode" t="ｻｲﾚﾝﾄのｷｬﾝｾﾙ"/>
+<phrase i="CIDActCode" t="発信者ID"/>
+<phrase i="CIDDeactCode" t="発信者IDキャンセル"/>
+<phrase i="secureAllActCode" t="全通話を安全保護"/>
+<phrase i="secureAllDeactCode" t="全通話の安全保護中止"/>
+<phrase i="secureOneCallActCode" t="次をセキュリティ保護"/>
+<phrase i="secureOneCallDeactCode" t="次の安全保護を中止"/>
+<phrase i="pagingCode" t="ページング"/>
+<phrase i="callParkCode" t="コールパーク"/>
+<phrase i="callUnparkCode" t="コールパーク解除"/>
+<phrase i="callPickupCode" t="コールピックアップ"/>
+<phrase i="groupCallPickupCode" t="ｸﾞﾙｰﾌﾟｺｰﾙﾋﾟｯｸｱｯﾌﾟ"/>
+<phrase i="mediaLoopBackCode" t="メディアループバック"/>
+<phrase i="preferG711uCode" t="G711Uを優先"/>
+<phrase i="forceG711uCode" t="G711Uを強制"/>
+<phrase i="preferG711aCode" t="G711Aを優先"/>
+<phrase i="forceG711aCode" t="G711Aを強制"/>
+<phrase i="preferG723Code" t="G723を優先"/>
+<phrase i="forceG723Code" t="G723を強制"/>
+<phrase i="preferG726r16Code" t="G726r16を優先"/>
+<phrase i="forceG726r16Code" t="G726r16を強制"/>
+<phrase i="preferG726r24Code" t="G726r24を優先"/>
+<phrase i="forceG726r24Code" t="G726r24を強制"/>
+<phrase i="preferG726r32Code" t="G726r32を優先"/>
+<phrase i="forceG726r32Code" t="G726r32を強制"/>
+<phrase i="preferG726r40Code" t="G726r40を優先"/>
+<phrase i="forceG726r40Code" t="G726r40を強制"/>
+<phrase i="preferG729aCode" t="G729Aを優先"/>
+<phrase i="forceG729aCode" t="G729Aを強制"/>
+<phrase i="preferG722Code" t="G722を優先"/>
+<phrase i="forceG722Code" t="G722を強制"/>
+<phrase i="preferL16Code" t="L16を優先"/>
+<phrase i="forceL16Code" t="L16を強制"/>
+<phrase i="preferILBCCode" t="iLBCを優先"/>
+<phrase i="forceILBCCode" t="iLBCを強制"/>
+<phrase i="preferISACCode" t="iSACを優先"/>
+<phrase i="forceISACCode" t="iSACを強制"/>
+<phrase i="preferG722_2Code" t="G722_2を優先"/>
+<phrase i="forceG722_2Code" t="G722_2を強制"/>
+<phrase i="preferOPUSCode" t="OPUSを優先"/>
+<phrase i="forceOPUSCode" t="OPUSを強制"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_AM" t="AM"/>
+<phrase i="L_PM" t="PM"/>
+<phrase i="L_UpTime" t="経過時間"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="日と"/>
+<phrase i="L_DAYS_AND" t="日と"/>
+<phrase i="L_Packets" t="(パケット)"/>
+<phrase i="L_Registered" t="登録済み"/>
+<phrase i="L_notRegistered" t="未登録"/>
+<phrase i="L_notReachable" t="到達不能"/>
+<phrase i="L_Authenticate" t="認証済"/>
+<phrase i="L_Succeeded" t="成功"/>
+<phrase i="L_Error" t="エラー"/>
+<phrase i="L_LastRegAt" t="前回の登録:"/>
+<phrase i="L_NextRegIn" t="次回の登録:"/>
+<phrase i="L_Proxy" t="プロキシ:"/>
+<phrase i="L_Reason" t="理由"/>
+<phrase i="L_Status" t="ステータス"/>
+<phrase i="L_CallStatusInfo" t="ステータス"/>
+<phrase i="L_XMLServices" t="XMLサービス"/>
+<phrase i="L_Tone" t="トーン"/>
+<phrase i="L_Type" t="タイプ"/>
+<phrase i="L_CallName" t="名前"/>
+<phrase i="L_Number" t="番号"/>
+<phrase i="L_Enc" t="エンコード"/>
+<phrase i="L_Dec" t="デコード"/>
+<phrase i="L_Dur" t="継続時間"/>
+<phrase i="L_CALL" t="発信"/>
+<phrase i="L_CALLSTATUS" t="コール%dのステータス"/>
+<phrase i="L_CALL1" t="コール1"/>
+<phrase i="L_CALL2" t="コール2"/>
+<phrase i="L_CALL3" t="コール3"/>
+<phrase i="L_CALL4" t="コール4"/>
+<phrase i="L_CALL5" t="コール5"/>
+<phrase i="L_CALL6" t="コール6"/>
+<phrase i="L_CALL7" t="コール7"/>
+<phrase i="L_CALL8" t="コール8"/>
+<phrase i="L_CALL9" t="コール9"/>
+<phrase i="L_CALL10" t="コール10"/>
+<phrase i="L_CALL11" t="コール11"/>
+<phrase i="L_INFO" t="情報"/>
+<phrase i="L_Extension" t="内線"/>
+<phrase i="L_Extension1" t="内線:"/>
+<phrase i="T_PHN_STATUS" t="電話のステータス"/>
+<phrase i="T_LINE_STATUS" t="回線のステータス"/>
+<phrase i="T_PROV_STATUS" t="プロビジョニング"/>
+<phrase i="T_PROV_STATUS1" t="プロビジョニングステータス1"/>
+<phrase i="T_PROV_STATUS2" t="プロビジョニングステータス2"/>
+<phrase i="T_PROV_STATUS3" t="プロビジョニングステータス3"/>
+<phrase i="T_PHN_SYS_STATUS" t="電話のステータス"/>
+<phrase i="L_ExtLabel" t="内線%dのステータス"/>
+<phrase i="L_Line1Status" t="回線1ステータス"/>
+<phrase i="L_Line2Status" t="回線2ステータス"/>
+<phrase i="L_Line3Status" t="回線3ステータス"/>
+<phrase i="L_Line4Status" t="回線4ステータス"/>
+<phrase i="L_Line5Status" t="回線5ステータス"/>
+<phrase i="L_Line6Status" t="回線6ステータス"/>
+<phrase i="L_Line7Status" t="回線7ステータス"/>
+<phrase i="L_Line8Status" t="回線8ステータス"/>
+<phrase i="L_Line9Status" t="回線9ステータス"/>
+<phrase i="L_Line10Status" t="回線10ステータス"/>
+<phrase i="L_Line11Status" t="回線11ステータス"/>
+<phrase i="L_Line12Status" t="回線12ステータス"/>
+<phrase i="L_Line13Status" t="回線13ステータス"/>
+<phrase i="L_Line14Status" t="回線14ステータス"/>
+<phrase i="L_Line15Status" t="回線15ステータス"/>
+<phrase i="L_Line16Status" t="回線16ステータス"/>
+<phrase i="DeletePrompt" t="%sを削除してよろしいですか?"/>
+<phrase i="DeleteListPrompt" t="%s履歴を削除しますか?"/>
+<phrase i="DeleteAllPrompt" t="すべての履歴を削除しますか?"/>
+<phrase i="DeleteAllCallsPrompt" t="すべての回線のすべてのレコードを削除しますか?"/>
+<phrase i="AddPrompt" t="入力データが不完全です。保存しますか?"/>
+<phrase i="AddNullPrompt" t="入力データが不完全です。 "/>
+<phrase i="AddFullPrompt" t="アドレス帳がいっぱいです。エントリを貼り付けることができません。"/>
+<phrase i="UpdatePrompt" t="入力データが不完全です。更新しますか?"/>
+<phrase i="ClearPrompt" t="レコード%sを消去しますか?"/>
+<phrase i="ClearStatusPrompt" t="ステータスメッセージを消去しますか？"/>
+<phrase i="ClearString" t="%sを消去しますか?"/>
+<phrase i="Prompt_Logout" t="ログアウトしますか?"/>
+<phrase i="Message_Rebooting" t="再起動しています"/>
+<phrase i="Message_UpdateConfig" t="設定を適用しています"/>
+<phrase i="Message_FactoryReset" t="工場出荷時設定にリセットしました。再起動しています。"/>
+<phrase i="Message_RebootingVoIP" t="ボイスコンポーネントを更新しています"/>
+<phrase i="Message_CustomReset" t="カスタム設定にリセットしました。再起動しています。"/>
+<phrase i="All" t="全コール"/>
+<phrase i="Answered" t="着信履歴"/>
+<phrase i="Outgoing" t="発信履歴"/>
+<phrase i="Missed" t="不在着信"/>
+<phrase i="AnsweredCallType" t="コール着信"/>
+<phrase i="OutgoingCallType" t="コール発信"/>
+<phrase i="MissedCallType" t="不在着信"/>
+<phrase i="RebootPrompt" t="システムを再起動しますか?"/>
+<phrase i="DeepsleepPrompt" t="省電力時には、着信できません。"/>
+<phrase i="PowerSavePromptUpgrading" t="現在アップグレード中です。しばらくしてからもう一度お試しください。"/>
+<phrase i="PowerSavePromptEmlogin" t="エクステンションモビリティからログアウトして、もう一度お試しください。"/>
+<phrase i="PowerSavePromptHoteling" t="ログアウトして、もう一度お試しください。"/>
+<phrase i="PowerSavePromptCallInProgress" t="通話中です。通話を終了してからもう一度お試しください。"/>
+<phrase i="FactoryResetPrompt" t="システムを工場出荷時設定にリセットしますか?"/>
+<phrase i="ResetPrompt" t="システムをリセットしますか?"/>
+<phrase i="ClearWlanMessagesPrompt" t="すべてのメッセージを消去しますか？"/>
+<phrase i="CustomResetPrompt" t="カスタマイズプロファイルが更新されているかどうか確認しますか? (処理はバックグラウンドで実行されます)"/>
+<phrase i="WPSPbcPrompt" t="他のデバイスのWPSボタンを押してから、[続ける]を押してください。"/>
+<phrase i="WPSPinPrompt" t="他のデバイスにPIN [%s]を入力"/>
+<phrase i="MSG_InvalidPasswordData" t="資格情報が無効です。"/>
+<phrase i="Label_Day" t="日"/>
+<phrase i="CertInstall" t="ｲﾝｽﾄｰﾙ済"/>
+<phrase i="CertNotInstall" t="未インストール"/>
+<phrase i="L_Network_Type" t="ネットワークタイプ"/>
+<phrase i="L_Network_Statistics" t="ネットワーク統計"/>
+<phrase i="L_Address_Type" t="アドレス指定タイプ"/>
+<phrase i="L_Gateway" t="デフォルトルータ"/>
+<phrase i="L_MAC_Address" t="MACアドレス"/>
+<phrase i="T_DEVICE_INFO" t="製品情報"/>
+<phrase i="L_Product_Name" t="製品名"/>
+<phrase i="L_Serial_Number" t="シリアル番号"/>
+<phrase i="L_Software_Version" t="ソフトウェアバージョン"/>
+<phrase i="L_Wi-Fi_Messages" t="Wi-Fiメッセージ"/>
+<phrase i="L_VID" t="VID"/>
+<phrase i="L_Desp" t="説明"/>
+<phrase i="L_Hardware_Version" t="ハードウェアバージョン"/>
+<phrase i="L_Certificate" t="証明書"/>
+<phrase i="L_Config_Version" t="構成バージョン"/>
+<phrase i="L_CustomizationInfo" t="カスタマイズ"/>
+<phrase i="L_Asset_ID" t="アセットID"/>
+<phrase i="L_DHCP_Server" t="DHCPサーバ"/>
+<phrase i="L_TFTP_Server_1" t="TFTPサーバ1"/>
+<phrase i="L_Last_TFTP_Server" t="前回のTFTPサーバ"/>
+<phrase i="L_Host_Name" t="ホスト名"/>
+<phrase i="L_Domain_Name" t="ドメイン"/>
+<phrase i="L_CallManager_1" t="CallManager 1"/>
+<phrase i="L_Directories_URL" t="ディレクトリURL"/>
+<phrase i="L_Services_URL" t="サービスURL"/>
+<phrase i="L_Messages_URL" t="メッセージURL"/>
+<phrase i="L_Authentication_URL" t="認証URL"/>
+<phrase i="L_User_Locale" t="ユーザロケール"/>
+<phrase i="L_Network_Locale" t="ネットワークロケール"/>
+<phrase i="L_Switch_Port_Link" t="スイッチポートリンク"/>
+<phrase i="L_Switch_Port_Config" t="スイッチポートの設定"/>
+<phrase i="L_PC_Port_Config" t="PCポートの設定"/>
+<phrase i="L_PC_Port_Link" t="PCポートリンク"/>
+<phrase i="L_Status_Messages" t="ステータスメッセージ"/>
+<phrase i="T_PERIPHERAL_STATUS" t="周辺装置ステータス"/>
+<phrase i="L_Peripheral" t="周辺装置"/>
+<phrase i="L_Analog_Headset" t="アナログヘッドセット"/>
+<phrase i="L_USB_Status" t="USBドライブ"/>
+<phrase i="L_xmit" t="送信"/>
+<phrase i="L_recv" t="受信"/>
+<phrase i="L_Multicast" t="マルチキャスト"/>
+<phrase i="L_EthPackets" t="イーサネット: パケット(バイト)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: パケット(バイト)"/>
+<phrase i="L_Wireless" t="ワイヤレス"/>
+<phrase i="L_No_Network" t="ネットワークがありません"/>
+<phrase i="L_Ethernet" t="イーサネット"/>
+<phrase i="L_KEY" t="キー"/>
+<phrase i="L_IPv4Status" t="IPv4ステータス"/>
+<phrase i="L_IPv6Status" t="IPv6ステータス"/>
+<phrase i="L_Prefixlen" t="プレフィックス長"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="アテンダントコンソール1"/>
+<phrase i="L_Sidecar2_Status" t="アテンダントコンソール2"/>
+<phrase i="L_DISCONNECTED" t="切断済み"/>
+<phrase i="L_Attendant_Console_Unit" t="アテンダントコンソールユニット%d"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="はい"/>
+<phrase i="L_No" t="いいえ"/>
+<phrase i="L_Switch0" t="オフ"/>
+<phrase i="L_Switch1" t="オン"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="個人アドレスエントリを編集"/>
+<phrase i="T_AB_Add_Entry" t="個人アドレスエントリの追加"/>
+<phrase i="T_AB_Search" t="アドレスエントリを検索"/>
+<phrase i="T_AB_Select" t="アドレスエントリを選択"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="コール時刻"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="不在着信"/>
+<phrase i="L_PhoneNo" t="番号"/>
+<phrase i="L_CallAt" t="コール時刻"/>
+<phrase i="L_Duration" t="継続時間"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="スピードダイヤルの編集"/>
+<phrase i="T_SD_List" t="短縮ダイヤル"/>
+<phrase i="L_SpeedDialNo" t="スピードダイヤル番号"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="呼出音の選択"/>
+<phrase i="T_RT_Select_USB" t="USBから呼出音を選択"/>
+<phrase i="T_RT_Select_Slot" t="呼出音を保存するスロットを選択"/>
+<phrase i="T_RT_Not_Installed" t="未インストール"/>
+<phrase i="T_RT_USER_1" t="ユーザ1"/>
+<phrase i="T_RT_USER_2" t="ユーザ2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="情報と設定"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Bluetoothヘッドセット"/>
+<phrase i="L_UserPref" t="ユーザ設定"/>
+<phrase i="L_CallRecord" t="コール録音設定"/>
+<phrase i="L_CallRecordMode" t="録音音声モード"/>
+<phrase i="L_CallRecordAudioPath" t="録音音声パス"/>
+<phrase i="L_CallRecordBeep" t="録音ビープリマインダ"/>
+<phrase i="L_CallRecords" t="レコード"/>
+<phrase i="L_CallRecordsPlayer" t="コール録音"/>
+<phrase i="L_Directory" t="ディレクトリ"/>
+<phrase i="OL_Fastest" t="最高速"/>
+<phrase i="OL_Faster" t="高速"/>
+<phrase i="OL_Normal" t="標準"/>
+<phrase i="OL_Slower" t="低速"/>
+<phrase i="OL_Slowest" t="最低速"/>
+<phrase i="L_VoiceSpeed" t="音声スピード"/>
+<phrase i="L_SelectVFSpeed" t="ボイススピードを選択"/>
+<phrase i="L_VoiceVolume" t="音声の音量"/>
+<phrase i="L_VoiceFeedback" t="音声フィードバック"/>
+<phrase i="L_Accessibility" t="アクセシビリティ"/>
+<phrase i="L_CallHistory" t="通話履歴"/>
+<phrase i="L_DisplayFrom" t="通話履歴を表示"/>
+<phrase i="L_SpeedDial" t="短縮ダイヤル"/>
+<phrase i="L_VideoMonitoring" t="ビデオモニタリング"/>
+<phrase i="L_WebApplication" t="アプリケーション"/>
+<phrase i="L_CallPreferences" t="通話設定"/>
+<phrase i="L_Anywhere" t="複数着信"/>
+<phrase i="L_SelectLine" t="回線の選択"/>
+<phrase i="L_Locations" t="ロケーション"/>
+<phrase i="L_EditLocation" t="ロケーションの編集"/>
+<phrase i="L_AddLocation" t="ロケーションの追加"/>
+<phrase i="L_LocationName" t="名前"/>
+<phrase i="L_LocationNumber" t="番号"/>
+<phrase i="L_EnableLocation" t="配置の有効化"/>
+<phrase i="L_DeletePrompt" t="%sを削除しますか?"/>
+<phrase i="L_ConnectionSetting" t="接続設定"/>
+<phrase i="L_NetworkConfig" t="ネットワークの設定"/>
+<phrase i="L_AudioPreferences" t="オーディオ設定"/>
+<phrase i="L_RingSetting" t="呼出設定"/>
+<phrase i="L_ScreenPreferences" t="画面設定"/>
+<phrase i="L_Administration" t="デバイス管理"/>
+<phrase i="T_ST_IP_Address" t="スタティックIPアドレスの設定"/>
+<phrase i="T_ST_IPV4_Address" t="IPv4アドレス設定"/>
+<phrase i="T_ST_IPV6_Address" t="IPv6アドレス設定"/>
+<phrase i="L_IPAddress" t="IPアドレス"/>
+<phrase i="L_StaticIPAddress" t="固定IP"/>
+<phrase i="L_SubnetMask" t="マスク"/>
+<phrase i="L_GatewayAddress" t="アドレス"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="L_PrefixLength" t="プレフィックス長"/>
+<phrase i="L_BroadcastEcho" t="ブロードキャストエコー"/>
+<phrase i="L_AutoConfig" t="自動設定"/>
+<phrase i="T_ST_Admin" t="管理"/>
+<phrase i="L_About" t="バージョン情報"/>
+<phrase i="L_SetPassword" t="パスワードの設定"/>
+<phrase i="L_DateTime" t="日付/時刻"/>
+<phrase i="L_Language" t="言語"/>
+<phrase i="L_Reboot" t="再起動"/>
+<phrase i="L_Reset" t="リセット"/>
+<phrase i="L_UserDataReset" t="ユーザデータのリセット"/>
+<phrase i="L_ConfigReset" t="設定データのリセット"/>
+<phrase i="L_NetworkReset" t="ネットワークデータ"/>
+<phrase i="L_ServiceProviderReset" t="サービスプロバイダーのリセット"/>
+<phrase i="L_Deepsleep" t="省電力"/>
+<phrase i="L_FactoryReset" t="工場出荷時設定にリセット"/>
+<phrase i="L_CustomReset" t="カスタム設定にリセット"/>
+<phrase i="L_ProfileRule" t="プロファイルルール"/>
+<phrase i="L_CallControlSettings" t="呼制御設定"/>
+<phrase i="L_SignalingProtocol" t="シグナリングプロトコル"/>
+<phrase i="L_AutoDetectSPCP" t="SCCPの自動検出"/>
+<phrase i="T_ST_Audio" t="オーディオ設定"/>
+<phrase i="L_PrefAudioDevice" t="優先音声デバイス"/>
+<phrase i="L_EnableStereo" t="ヘッドセットタイプ"/>
+<phrase i="L_PhRingTone" t="デフォルト呼出音"/>
+<phrase i="L_Ext1RingTone" t="内線1 - 呼出音"/>
+<phrase i="L_Ext2RingTone" t="内線2 - 呼出音"/>
+<phrase i="L_Ext3RingTone" t="内線3 - 呼出音"/>
+<phrase i="L_Ext4RingTone" t="内線4 - 呼出音"/>
+<phrase i="L_Ext5RingTone" t="内線5 - 呼出音"/>
+<phrase i="L_Ext6RingTone" t="内線6 - 呼出音"/>
+<phrase i="L_Ext7RingTone" t="内線7 - 呼出音"/>
+<phrase i="L_Ext8RingTone" t="内線8 - 呼出音"/>
+<phrase i="L_Ext9RingTone" t="内線9 - 呼出音"/>
+<phrase i="L_Ext10RingTone" t="内線10 - 呼出音"/>
+<phrase i="L_Ext11RingTone" t="内線11 - 呼出音"/>
+<phrase i="L_Ext12RingTone" t="内線12 - 呼出音"/>
+<phrase i="L_Ext13RingTone" t="内線13 - 呼出音"/>
+<phrase i="L_Ext14RingTone" t="内線14 - 呼出音"/>
+<phrase i="L_Ext15RingTone" t="内線15 - 呼出音"/>
+<phrase i="L_Ext16RingTone" t="内線16 - 呼出音"/>
+<phrase i="L_SpeakerTuning" t="スピーカーの調節"/>
+<phrase i="L_MicrophoneGain" t="マイクロフォンのゲイン"/>
+<phrase i="L_Micgain" t="マイクのゲイン"/>
+
+<phrase i="T_ST_CallForward" t="不在転送設定"/>
+<phrase i="L_ForwardAll" t="不在転送"/>
+<phrase i="L_ForwardBusy" t="話中転送"/>
+<phrase i="L_ForwardNoAns" t="無応答時転送"/>
+<phrase i="L_ForwardAllNumbers" t="転送番号"/>
+<phrase i="L_ForwardBusyNumber" t="話中転送番号"/>
+<phrase i="L_ForwardNoAnsNumber" t="無応答時転送番号"/>
+<phrase i="L_ForwardNoAnsDelay" t="無応答時転送遅延"/>
+<phrase i="L_NumberofRingsBeforeForwarding" t="リング回数"/>
+<phrase i="L_RingReminder" t="着信音による通知"/>
+<phrase i="L_IPMODE" t="IPモード"/>
+<phrase i="L_WiFiConfiguration" t="Wi-Fi設定"/>
+<phrase i="L_EthernetConfiguration" t="イーサネット設定"/>
+<phrase i="L_ConnectionType" t="接続タイプ"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="自動接続"/>
+<phrase i="L_Headset" t="ヘッド"/>
+<phrase i="L_WebServer" t="Webサーバ"/>
+<phrase i="L_DiscoveryAddress" t="検出アドレス"/>
+<phrase i="L_LVSAutoDiscovery" t="キーシステム自動検出"/>
+<phrase i="L_LVSProxyAddress" t="キーシステムのIPアドレス"/>
+<phrase i="L_DHCPOption" t="DHCP選択可"/>
+<phrase i="L_DHCPv6Option" t="DHCPv6選択"/>
+<phrase i="L_TranProtocol" t="転送プロトコル"/>
+<phrase i="L_NetworkStatus" t="ネットワークステータス"/>
+<phrase i="L_RebootHistory" t="再起動履歴"/>
+<phrase i="L_IPStatus" t="IPステータス"/>
+<phrase i="T_ST_SetTime" t="現在時刻の設定"/>
+<phrase i="L_Presence_Available" t="利用可能"/>
+<phrase i="L_Presence_Away" t="退席中"/>
+<phrase i="L_Presence_DND" t="サイレント"/>
+<phrase i="L_Presence_Offline" t="オフライン"/>
+<phrase i="L_Presence_Title" t="マイプレゼンス"/>
+<phrase i="L_IMPContacts" t="IM&amp;P連絡先"/>
+<phrase i="L_ContactDetails" t="連絡先の詳細"/>
+<phrase i="L_AllContacts" t="すべての連絡先"/>
+<phrase i="L_Favorites" t="短縮"/>
+<phrase i="L_XMPPDisconnected" t="サーバから切断"/>
+<phrase i="L_XMPPAuthFailed" t="認証に失敗"/>
+<phrase i="L_AB" t="個人アドレス帳"/>
+<phrase i="L_AllDirectorySearch" t="全て"/>
+<phrase i="L_XMLDirectory" t="社内ディレクトリ(XML)"/>
+<phrase i="L_LDAPDirectory" t="社内ディレクトリ(LDAP)"/>
+<phrase i="L_LVSDirectory" t="社内ディレクトリ"/>
+<phrase i="L_BroadsoftDirectory" t="BroadSoftディレクトリ"/>
+<phrase i="L_BroadsoftPersonal" t="パーソナル"/>
+<phrase i="L_BroadsoftGroup" t="グループ"/>
+<phrase i="L_BroadsoftEnterprise" t="企業"/>
+<phrase i="L_BroadsoftGroupCommon" t="グループ共通"/>
+<phrase i="L_BroadsoftEnterpriseCommon" t="企業ﾞ共通"/>
+<phrase i="L_XMLService" t="Cisco XMLサービス"/>
+<phrase i="T_ST_CallHistories" t="通話履歴"/>
+<phrase i="T_ST_Language" t="言語の選択"/>
+<phrase i="T_ST_Password" t="パスワードの設定"/>
+<phrase i="L_OldPassword" t="古いパスワード"/>
+<phrase i="L_NewPassword" t="新しいパスワード"/>
+<phrase i="L_ReEnterNewPassword" t="パスワード再入力"/>
+<phrase i="L_IncorrectOldPassword" t="古いパスワードが元のパスワードと一致しません。"/>
+<phrase i="L_NewPasswordNotSame" t="新しいパスワードと確認用に入力した新しいパスワードが一致しません。"/>
+<phrase i="L_NewPasswordNotLong" t="ユーザパスワードは、4文字以上にしてください。"/>
+<phrase i="L_CallForwarding" t="不在転送"/>
+<phrase i="L_CallWaiting" t="コール待機"/>
+<phrase i="L_VoiceMail" t="ボイスメール"/>
+<phrase i="L_BlockCallerID" t="発信者IDのブロック"/>
+<phrase i="L_BlockAnonymCall" t="非通知通話のブロック"/>
+<phrase i="L_SecureCall" t="セキュアコール"/>
+<phrase i="L_DialAssist" t="ダイヤル補助"/>
+<phrase i="L_AutoAnswerPage" t="自動応答ページ"/>
+<phrase i="L_MissCallShortCut" t="不在着信短縮"/>
+<phrase i="L_EnabledScreenSaver" t="スクリーンセーバー"/>
+<phrase i="L_DisplayBrightness" t="ディスプレイの明るさ"/>
+<phrase i="L_ContrastLevel" t="コントラストレベル"/>
+<phrase i="L_WallPaper" t="壁紙"/>
+<phrase i="T_ST_ScreenSaver" t="スクリーンセーバーの設定"/>
+<phrase i="L_ScreenSaverType" t="スクリーンセーバー"/>
+<phrase i="L_TriggerInterval" t="トリガー間隔(秒)"/>
+<phrase i="L_RefreshInterval" t="リフレッシュ間隔(秒)"/>
+<phrase i="L_BackLight" t="バックライト"/>
+<phrase i="L_BackLightTimer" t="バックライトタイマー"/>
+<phrase i="L_Contrast" t="コントラスト"/>
+<phrase i="L_Brightness" t="明るさ"/>
+<phrase i="T_StarCodeList" t="スターコードの選択"/>
+<phrase i="T_Select_Image" t="イメージの選択"/>
+<phrase i="T_ST_Time" t="時間設定"/>
+<phrase i="L_TimeZone" t="タイムゾーン"/>
+<phrase i="L_DayLightSaving" t="夏時間調整"/>
+<phrase i="L_NTPServer1" t="NTPサーバ1"/>
+<phrase i="L_NTPServer2" t="NTPサーバ2"/>
+<phrase i="L_SetCurrentTimeManually" t="現在時刻を手動で設定"/>
+<phrase i="T_ST_TimeZone" t="タイムゾーンを選択"/>
+<phrase i="L_TimeFormat" t="時刻形式"/>
+<phrase i="L_DateFormat" t="日付形式"/>
+<phrase i="L_DHCP_Address_Released" t="DHCPアドレス解放"/>
+<phrase i="L_Erase_Config" t="設定の消去"/>
+<phrase i="L_WebServerWritable" t="書き込み可能なWebサーバ"/>
+<phrase i="M_ABEmpty" t="アドレス帳が空です。"/>
+<phrase i="M_ABDuplicate" t="すべてのレコードが同一です。"/>
+<phrase i="M_InvalidVLAN" t="VLAN ID は0〜4095で なければなりません。"/>
+<phrase i="M_InvalidDataportVLAN" t="PCポートVLAN ID は 0〜4095でなければ なりません。"/>
+<phrase i="M_InvalidDHCPVLANOption" t="DHCP VLANオプション[%s]は 無効です。"/>
+<phrase i="M_InvalidDataportPriority" t="優先順位は0～7の範囲でなければなりません。"/>
+<phrase i="M_InvalidMAddr" t="検出アドレスはは「aaa.bbb.ccc.ddd:pppp」の形式で指定する必要があります。"/>
+<phrase i="M_InvalidNetStartupDelay" t="スタートアップ遅延は1〜300  でなければなりません。"/>
+<phrase i="M_RebootInvalid" t="通話中です。再起動できません。"/>
+<phrase i="M_FactoryResetInvalid" t="通話中です。工場出荷時設定にリセットできません。"/>
+<phrase i="M_CustomResetInvalid" t="通話中です。カスタム設定にリセットできません。"/>
+<phrase i="M_OperationInvalid" t="通話中です。操作を実行できません。"/>
+<phrase i="M_OperationInvalidInUpgrade" t="アップグレード中です。操作を実行できません。"/>
+<phrase i="M_ProfileRuleInvalid" t="通話中です。プロファイルルールと再同期できません。"/>
+<phrase i="M_InvalidDHCPOptions" t="この値はカンマ区切りリスト[%s]で指定する必要があります。"/>
+<phrase i="M_UpgradeStart" t="アップグレードを開始します。"/>
+<phrase i="M_UpgradeInProgress" t="アップグレード中です。電源を切断しないでください。"/>
+<phrase i="M_DownloadProgress" t="アドレスエントリをダウンロードしています"/>
+<phrase i="M_UpgradeCompleted" t="アップグレードが完了しました。"/>
+<phrase i="M_UpgradeAborted" t="アップグレードがユーザによって中断されました。"/>
+<phrase i="M_UpgradeAbortedWithError" t="エラーが発生したためアップグレードが中断されました。"/>
+<phrase i="M_UpgradeCompletedReboot" t="アップグレードが完了しました。再起動しています。"/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="エラーが発生したためアップグレードが中断されました。再起動しています。"/>
+<phrase i="M_InvalidCFWDNoAnsDelay" t="無応答時の転送遅延は1〜300でなければなり ません。"/>
+<phrase i="M_InvalidCFWDNoFKS" t="%d文字未満で入力してください。"/>
+<phrase i="M_EmptyCFWDNoFKS" t="[コール転送電話番号] フィールドは必須です"/>
+<phrase i="M_InvalidCFWDNoAnsDelayXSI" t="XSI無応答時転送遅延値は2～20、または0に等しい範囲でなければなりません。"/>
+<phrase i="T_Login_Form" t="ログインフォーム"/>
+<phrase i="L_Pending" t="保留中"/>
+<phrase i="L_Customized" t="カスタマイズ済み"/>
+<phrase i="L_Open" t="オープン"/>
+<phrase i="L_Unavailable" t="利用不可"/>
+<phrase i="L_CustomPending" t="カスタム-保留中"/>
+<phrase i="L_Acquired" t="取得済み"/>
+<phrase i="L_Aborted" t="中断されました"/>
+<phrase i="L_GdsAcquired" t="GDS取得"/>
+<phrase i="L_GdsPending" t="GDS保留"/>
+<phrase i="L_GdsCustomPending" t="GDS-カスタム-保留中"/>
+<phrase i="L_Hour" t="時"/>
+<phrase i="L_Minute" t="分"/>
+<phrase i="L_Second" t="秒"/>
+<phrase i="L_HourShort" t="時"/>
+<phrase i="L_MinuteShort" t="分"/>
+<phrase i="L_SecondShort" t="秒"/>
+<phrase i="M_InvalidRefreshTime" t="更新間隔は1〜999999秒でな ければなりません。"/>
+<phrase i="M_InvalidBackLightTime" t="バックライトトリガー時間は、30以上でなければなりません。"/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="トリガー間隔は30～65000秒 の範囲でなければなりません。"/>
+<phrase i="M_InvalidContrastLevel" t="明るさは4～15の範囲でなければなりません。"/>
+<phrase i="M_InvalidContrastActualLevel" t="コントラストは1～15の範囲でなければなりません。"/>
+<phrase i="L_Att_Cons_Pref" t="アテンダントコンソールの設定"/>
+<phrase i="L_Attendant_Console_Pref" t="アテンダントコンソールの設定"/>
+<phrase i="L_LCD_Contrast" t="明るさ"/>
+<phrase i="L_Font_Size" t="フォントサイズ"/>
+<phrase i="L_Display_Mode" t="ディスプレイモード"/>
+<phrase i="L_Authenticating" t="認証中"/>
+<phrase i="L_Authenticated" t="認証済"/>
+<phrase i="L_Exposure" t="露出"/>
+<phrase i="L_Kem_Type" t="KEMタイプ"/>
+<phrase i="M_Directories_Disabled" t="ディレクトリが無効になっています。管理者にお問い合わせください。"/>
+<phrase i="M_Directories_Unavailable" t="使用できるディレクトリがありません。管理者にお問い合わせください。"/>
+<phrase i="M_DirAll_Unavailable" t="現在、利用できません。管理者に連絡してください。"/>
+<phrase i="L_SIGNIN_FAILED" t="サインイン資格情報にエラー が発生しました。管理者にお 問合せください。"/>
+
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="内部ディレクトリ"/>
+<phrase i="L_EXTERNAL_DIR" t="外部ディレクトリ"/>
+<phrase i="L_GROUPS_DIR" t="グループディレクトリ"/>
+<phrase i="L_STATIONS_DIR" t="ステーションディレクトリ"/>
+<phrase i="L_Auto_Attnd" t="自動アテンダント"/>
+<phrase i="L_Int_Music" t="内部ミュージック"/>
+<phrase i="L_ExternalMusic" t="外部ミュージック"/>
+<phrase i="L_Station" t="ステーション"/>
+<phrase i="L_PageGroup1" t="ページグループ1"/>
+<phrase i="L_PageGroup2" t="ページグループ2"/>
+<phrase i="L_PageGroup3" t="ページグループ3"/>
+<phrase i="L_PageGroup4" t="ページグループ4"/>
+<phrase i="L_PageGroup5" t="ページグループ5"/>
+<phrase i="L_Page_Grp" t="ページグループ"/>
+<phrase i="L_ExternalPage" t="外部ページ"/>
+<phrase i="L_CallPark" t="コールパーク"/>
+<phrase i="L_PickUp" t="ピックアップ"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="組織"/>
+<phrase i="L_FirstName" t="名"/>
+<phrase i="L_LastName" t="姓"/>
+<phrase i="LDAP_DISPLAY_NAME" t="名前"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="勤務先電話"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="携帯電話"/>
+<phrase i="LDAP_ACCESS_ERROR" t="LDAPエラー: サーバに接続できません"/>
+<phrase i="LDAP_STARTTLS_ERROR" t="LDAP エラー: StartTLS 操作に失敗しました"/>
+<phrase i="LDAP_InvalidInput" t="LDAPエラー: 入力値が無効です"/>
+<phrase i="LDAP_NoFilter" t="フィルタを定義します。"/>
+<phrase i="LDAP_TooManyResults" t="一致件数が多過ぎます。検索を絞り込んでください"/>
+<phrase i="LDAP_NoResult" t="一致するものが見つかりません"/>
+<phrase i="NoRingTone" t="呼出音なし"/>
+<phrase i="S_Failed" t="検索失敗"/>
+<phrase i="S_Sys_Err" t="システムエラー"/>
+<phrase i="T_LDAP_ResultList" t="社内名簿(LDAP)結果リスト"/>
+<phrase i="T_LDAPQueryForm" t="LDAPクエリフォーム"/>
+<phrase i="T_LDAPAddrEntry" t="社内名簿(LDAP)帳簿"/>
+<phrase i="T_LDAPQuery" t="LDAPサーバをクエリ"/>
+<phrase i="T_LDAP" t="LDAP"/>
+<phrase i="L_SimpleSearch" t="簡易検索"/>
+<phrase i="L_AdvSearch" t="詳細検索"/>
+<phrase i="T_LDAPSigninForm" t="LDAP サインイン"/>
+<phrase i="L_ClientDN" t="クライアントDN"/>
+
+<!-- #############  #BroadSoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="ディレクトリアクセスに失敗しました。構成とネットワーク設定を確認してください"/>
+<phrase i="BSDIR_ACCESS_TIMEOUT" t="ディレクトリアクセスがタイムアウトしました。構成とネットワーク設定を確認してください"/>
+<phrase i="BSDIR_InvalidInput" t="BroadSoftディレクトリエラー: 入力値が無効です。"/>
+<phrase i="BSDIR_HTTP_AUTH_ERR" t="認証エラー。アカウントを確認してください。"/>
+<phrase i="BSDIR_TooManyResults" t="一致件数が多過ぎます。検索を絞り込んでください。"/>
+<phrase i="BSDIR_NoSearchParameters" t="検索条件を入力してください。"/>
+<phrase i="BSDIR_Setting_MSG" t="この変更は、他のグループ設定に影響します。保存しますか?"/>
+<phrase i="T_BSDIR_CONFIG" t="BroadSoftディレクトリ設定"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="個人ディレクトリを検索"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="グループディレクトリを検索"/>
+<phrase i="T_BSDIR_SEARCH_GROUP_COMMON" t="グループ共通ディレクトリを検索"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="企業名簿を検索"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE_COMMON" t="企業共通名簿を検索"/>
+<phrase i="T_BSDIR_SEARCH_ALL" t="全BroadSoftディレクトリを検索"/>
+<phrase i="T_BSDIR_Pers_Contact_Add" t="BroadSoft の個人連絡先を追加する"/>
+<phrase i="T_BSDIR_Pers_Contact_Edit" t="BroadSoft の個人連絡先を編集する"/>
+<phrase i="M_SavePersContactPrompt" t="連絡先 %s の保存に失敗しました。"/>
+<phrase i="M_DeletePersContactPrompt" t="連絡先 %s の削除に失敗しました。"/>
+
+<phrase i="L_HOST_SERVER" t="ホストサーバ"/>
+<phrase i="L_AUTH_TYPE" t="認証タイプ"/>
+<phrase i="L_SIPAUTH_ID" t="SIP認証ID"/>
+<phrase i="L_SIPAUTH_PWD" t="SIPパスワード"/>
+<phrase i="L_DIR_NAME" t="ディレクトリ名"/>
+<phrase i="T_Configure" t="%sを設定"/>
+
+<phrase i="T_BSDIR_SEARCH" t="BroadSoftディレクトリを検索"/>
+<phrase i="T_SIMPLE_SEARCH" t="簡易検索"/>
+<phrase i="T_ADVANCED_SEARCH" t="詳細検索"/>
+<phrase i="L_BSDIR_LNAME" t="姓"/>
+<phrase i="L_BSDIR_FNAME" t="名"/>
+<phrase i="L_BSDIR_GROUPID" t="グループID"/>
+<phrase i="L_BSDIR_DEPT" t="部署名"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="部署"/>
+<phrase i="L_BSDIR_EMAIL" t="電子メール"/>
+
+<phrase i="BSCLOG_ACCESS_ERROR" t="アクセス失敗、設定とネットワークを確認してください"/>
+<phrase i="BsClog_InvalidInput" t="空または無効な入力値です。"/>
+<phrase i="BsClog_TooManyResults" t="コールログ記録が多すぎます。"/>
+<phrase i="BsClog_NoResult" t="コールログ記録がありません。"/>
+<phrase i="BSCLOG_HTTP_AUTH_ERR" t="認証エラー: 認証を再試行してください。"/>
+
+<phrase i="BsAnywhere_TooManyResults" t="複数着信の最大数に達しました。"/>
+<phrase i="BsAnywhere_NoLine" t="複数着信が可能な回線がありません。"/>
+<phrase i="BsAnywhere_BadRequest" t="入力またはアクションが無効です。"/>
+<phrase i="BsAnywhere_ServerBusy" t="サーバがビジー状態です。"/>
+
+<phrase i="XSI_GET_ERROR" t="XSI 設定の取得に失敗しました。"/>
+<phrase i="XSI_GET_AUTH_ERROR" t="認証エラーです。XSI 設定の取得に失敗しました。"/>
+<phrase i="XSI_GET_DNS_ERROR" t="DNS エラーです。XSI 設定の取得に失敗しました。"/>
+<phrase i="XSI_SET_ERROR" t="XSI 設定の設定に失敗しました。"/>
+<phrase i="XSI_SET_AUTH_ERROR" t="認証エラーです。XSI 設定の設定に失敗しました。"/>
+<phrase i="XSI_SET_DNS_ERROR" t="DNS エラーです。XSI 設定の設定に失敗しました。"/>
+<phrase i="XSI_SET_INVALID" t="無効なパラメータです。XSI 設定の設定に失敗しました。"/>
+<phrase i="XSI_SET_ERR_400_PERMISSION" t="設定を変更する権限がありません。"/>
+<phrase i="XSI_SET_ERR_400_INVALIDNUM" t="電話番号が無効です。番号には、-、0~9、または E.164 番号のみを含める必要があります。最大桁数は 30 です。"/>
+
+<phrase i="T_LVSDIR_REQ" t="サーバからLVSディレクトリを要求しています。"/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="LVSディレクトリの要求に失敗しました。"/>
+
+<!-- #############  #All Directories #############-->
+<phrase i="T_ALLDIRECTORY_SEARCH" t="すべてのディレクトリを検索"/>
+<phrase i="T_ALLDIRECTORY_RESULTS" t="検索結果"/>
+<phrase i="T_ALLDIRECTORY_DETAILS" t="検索結果の詳細"/>
+<phrase i="ALLDIRECTORY_TIMEOUT_ERROR" t="検索がタイムアウトしました。  構成およびネットワークを確認してください。"/>
+
+<!-- #############  #Call Recording #############-->
+<phrase i="L_RECORDING" t="録音中"/>
+<phrase i="L_RECORDINGPAUSED" t="録音中断中"/>
+
+<!-- #############  #Customizable PLKs  #############-->
+<phrase i="L_DefSpeedDial" t="スピードダイヤルを定義"/>
+<phrase i="L_Define_BLF_Presence" t="BLFの存在を定義"/>
+<phrase i="L_PLK_ERROR" t="エラー：入力が無効です。"/>
+<phrase i="PLK_DeletePrompt" t="%s %dの機能を削除してもよろしいですか？"/>
+<phrase i="L_SelectFeature" t="機能を選択"/>
+<phrase i="L_BLF_Presence" t="BLFプレゼンス"/>
+<phrase i="L_BLF_SD" t="BLF + スピードダイヤル"/>
+<phrase i="L_BLF_List" t="BLFリスト"/>
+<phrase i="L_BLF_CP" t="BLF + コールピックアップ"/>
+<phrase i="L_BLF_SD_CP" t="BLF  + スピードダイヤル + コールピックアップ"/>
+<phrase i="L_Define_BLF_Presence" t="BLFの存在を定義"/>
+<phrase i="L_Search_BLF_List" t="BLFリストを検索"/>
+<phrase i="L_Select_User" t="ユーザーを検索"/>
+<phrase i="L_UserId" t="ユーザID"/>
+<phrase i="L_Label" t="ラベル"/>
+<phrase i="L_MWI" t="MWI"/>
+<phrase i="L_MWI_SD" t="MWI + スピードダイヤル"/>
+<phrase i="L_PLK_Shortcut" t="メニューのショートカット"/>
+<phrase i="L_PLK_LCR" t="コールリターン"/>
+<phrase i="L_PLK_ACD" t="ACD"/>
+<phrase i="L_PLK_CallRetrieve" t="コールの保留解除"/>
+<phrase i="L_PLK_Forward" t="転送"/>
+<phrase i="L_PLK_CLR_DND" t="DND クリア"/>
+<phrase i="L_PLK_CLR_Forward" t="転送クリア"/>
+<phrase i="L_PLK_CLR_Divert" t="代理応答クリア"/>
+<phrase i="L_CallInfo" t="コール情報"/>
+<phrase i="L_CallList" t="コールリスト"/>
+<phrase i="L_ProxyCall" t="プロキシコール"/>
+<phrase i="L_Divert" t="代理"/>
+<phrase i="L_CallPush" t="コールプッシュ"/>
+<phrase i="L_BridgeIn" t="ブリッジイン"/>
+<phrase i="M_Key_Disabled" t="キーが無効です。"/>
+<phrase i="M_Callpush_Not_Held" t="コールが接続されていないか、保留になっていません。"/>
+<phrase i="M_Callpush_No_Held" t="この回線で接続または保留にされているコールはありません。"/>
+<phrase i="M_No_Idle_Call" t="続行するアイドルコールはありません。"/>
+<phrase i="M_Not_Remote_Connected" t="コールがリモート側で接続されていません。"/>
+<phrase i="M_No_CallInfo" t="コール情報がありません。"/>
+<!-- PLK labels -->
+<phrase i="L_AttConsole" t="アテンドコンソール"/>
+<phrase i="L_WpsPbc" t="WPS PBC"/>
+<phrase i="L_WpsPin" t="WPS PIN"/>
+<phrase i="L_IPV4_Address" t="IPv4 アドレス"/>
+<phrase i="L_IPV6_Address" t="IPv6 アドレス"/>
+<phrase i="L_UserSignIn" t="ユーザサインイン"/>
+<phrase i="L_UserSignOut" t="ユーザサインアウト"/>
+<phrase i="L_ProAcnt" t="ﾌﾟﾛﾌｨｰﾙｱｶｳﾝﾄ"/>
+<phrase i="L_Phone_Statistics" t="電話統計"/>
+<phrase i="L_XML_Application" t="XML アプリケーション"/>
+<phrase i="L_Personal_Directory" t="個人ディレクトリ"/>
+<phrase i="L_All_Directories" t="すべてのディレクトリ"/>
+<phrase i="L_XML_Directory" t="XML ディレクトリ"/>
+<phrase i="L_LDAP_Directory" t="LDAPﾃﾞｨﾚｸﾄﾘ"/>
+<phrase i="L_BluetoothContacts" t="Bluetoothの連絡先"/>
+<!-- PSK labels -->
+<phrase i="S_Accessibility" t="ｱｸｾｼﾋﾞﾘﾃ"/>
+<phrase i="S_AllCalls" t="全通話"/>
+<phrase i="S_Received" t="着信"/>
+<phrase i="S_Placed" t="発信"/>
+<phrase i="S_Executive" t="ｴｸﾞｾﾞｸ"/>
+<phrase i="S_Assistant" t="ｱｼｽﾀﾝﾄ"/>
+<phrase i="S_UserPref" t="ﾕｰｻﾞ設定"/>
+<phrase i="S_CallPref" t="通話設定"/>
+<phrase i="S_CfwdSetting" t="転送設定"/>
+<phrase i="S_Anywhere" t="Anywhere"/>
+<phrase i="S_AudioPref" t="音声設定"/>
+<phrase i="S_ScreenPref" t="画面設定"/>
+<phrase i="S_ScreenSaver" t="ｽｸﾘﾝｾｲﾊﾞ"/>
+<phrase i="S_AttConsole" t="Attｺﾝｿｰﾙ"/>
+<phrase i="S_RingTone" t="呼出音"/>
+<phrase i="S_BlueTooth" t="Bluetooth"/>
+<phrase i="S_NetworkConf" t="ﾈｯﾄﾜｰｸ"/>
+<phrase i="S_EthernetConf" t="ｲｰｻﾈｯﾄ"/>
+<phrase i="S_WiFiConf" t="WiFi設定"/>
+<phrase i="S_WlanProfile" t="WiFiﾌﾟﾛﾌ"/>
+<phrase i="S_WpsPbc" t="WPS PBC"/>
+<phrase i="S_WpsPin" t="WPS PIN"/>
+<phrase i="S_WlanStatus" t="WiFi状態"/>
+<phrase i="S_IPV4_Addr" t="IPv4Addr"/>
+<phrase i="S_IPV6_Addr" t="IPv6Addr"/>
+<phrase i="S_DeviceAdmin" t="端末管理"/>
+<phrase i="S_SetPassword" t="パス設定"/>
+<phrase i="S_UserSignIn" t="ｻｲﾝｲﾝ"/>
+<phrase i="S_UserSignOut" t="ｻｲﾝｱｳﾄ"/>
+<phrase i="S_DateTime" t="日付時刻"/>
+<phrase i="S_Language" t="言語"/>
+<phrase i="S_Reboot" t="再起動"/>
+<phrase i="S_Deepsleep" t="省電力"/>
+<phrase i="S_FactoryReset" t="初期化"/>
+<phrase i="S_ProfileRule" t="ﾌﾟﾛﾌﾙｰﾙ"/>
+<phrase i="S_ProfileAccount" t="ﾌﾟﾛﾌｱｶ"/>
+<phrase i="S_MICROPHONES" t="マイク"/>
+<phrase i="S_WIRED_MIC" t="有線ﾏｲｸ"/>
+<phrase i="S_WIRELESS_MIC" t="無線ﾏｲｸ"/>
+<phrase i="S_Status" t="ｽﾃｰﾀｽ"/>
+<phrase i="S_ProductInfo" t="製品情報"/>
+<phrase i="S_NetworkStatus" t="NW状態"/>
+<phrase i="S_IPv4Status" t="IPv4状態"/>
+<phrase i="S_IPv6Status" t="IPv6状態"/>
+<phrase i="S_PHN_STATUS" t="電話状態"/>
+<phrase i="S_Phone_statistics" t="電話統計"/>
+<phrase i="S_LINE_STATUS" t="回線状態"/>
+<phrase i="S_PROV_STATUS" t="プロビ"/>
+<phrase i="S_Call_Statistics" t="通話統計"/>
+<phrase i="S_ReportProblem" t="問題報告"/>
+<phrase i="S_RebootHistory" t="ﾘﾌﾞｰﾄﾘﾚｷ"/>
+<phrase i="S_Accessories" t="ｱｸｾｻﾘ"/>
+<phrase i="S_Status_Msg" t="ｽﾃｰﾀｽmsg"/>
+<phrase i="S_Wi-Fi_Msg" t="WiFi msg"/>
+<phrase i="S_XML_App" t="XMLｱﾌﾟﾘ"/>
+<phrase i="S_Directory" t="ﾃﾞｨﾚｸﾄﾘ"/>
+<phrase i="S_Personal_Dir" t="個人連絡"/>
+<phrase i="S_All_Dirs" t="全連絡先"/>
+<phrase i="S_XML_Dir" t="XML"/>
+<phrase i="S_LDAP_Dir" t="LDAP"/>
+<phrase i="S_BroadsoftDirectory" t="BSFT dir"/>
+<phrase i="S_BroadsoftPersonal" t="ﾊﾟｰｿﾅﾙ"/>
+<phrase i="S_BroadsoftGroup" t="グループ"/>
+<phrase i="S_BroadsoftEnterprise" t="企業"/>
+<phrase i="S_BroadsoftGroupCommon" t="Grp共通"/>
+<phrase i="S_BroadsoftEnterpriseCommon" t="企業共通"/>
+<phrase i="S_BT_contacts" t="BT連絡"/>
+<phrase i="S_IMPContacts" t="IMP連絡"/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="会議回線"/>
+<phrase i="S_XferLx" t="回線転送"/>
+<phrase i="S_Redial" t="ﾘﾀﾞｲﾔﾙ"/>
+<phrase i="S_Contacts" t="連絡先"/>
+<phrase i="S_Recents" t="通話履歴"/>
+<phrase i="S_Forward" t="転送"/>
+<phrase i="S_ForwardAll" t="不在転送"/>
+<phrase i="S_DND" t="ｻｲﾚﾝﾄ"/>
+<phrase i="S_NForward" t="転送削除"/>
+<phrase i="S_NForwardAll" t="不在転送オフ"/>
+<phrase i="S_NDND" t="ｻｲﾚﾝﾄｸﾘｱ"/>
+<phrase i="S_LCR" t="折り返し"/>
+<phrase i="S_Missed" t="不在着信"/>
+<phrase i="S_Login" t="ログイン"/>
+<phrase i="S_Logout" t="ｻｲﾝｱｳﾄ"/>
+<phrase i="S_SignIn" t="ログイン"/>
+<phrase i="S_SignOut" t="ｻｲﾝｱｳﾄ"/>
+<phrase i="S_Avail" t="使用可能"/>
+<phrase i="S_UnAvail" t="使用不可"/>
+<phrase i="S_UnPark" t="ﾊﾟｰｸ解除"/>
+<phrase i="S_PickUp" t="ピック"/>
+<phrase i="S_Mobility" t="移動可能"/>
+<phrase i="S_GrPickup" t="Grピック"/>
+<phrase i="S_NewCall" t="発信"/>
+<phrase i="S_Barge" t="割込み"/>
+<phrase i="S_BargeSilent" t="割込SL"/>
+<phrase i="S_Resume" t="再開"/>
+<phrase i="S_Answer" t="応答"/>
+<phrase i="S_Hold" t="保留"/>
+<phrase i="S_EndCall" t="通話終了"/>
+<phrase i="S_End" t="終了"/>
+<phrase i="S_Transfer" t="転送"/>
+<phrase i="S_CONF" t="会議"/>
+<phrase i="S_BXfer" t="BL転送"/>
+<phrase i="S_Park" t="パーク"/>
+<phrase i="S_Join" t="参加"/>
+<phrase i="S_Update" t="更新"/>
+<phrase i="S_Dial" t="発信"/>
+<phrase i="S_delChar" t="文字削除"/>
+<phrase i="S_AbbrDial" t="短縮"/>
+<phrase i="S_Back" t="戻る"/>
+<phrase i="S_Close" t="閉じる"/>
+<phrase i="S_Save" t="保存"/>
+<phrase i="S_Delete" t="削除"/>
+<phrase i="S_Add" t="追加"/>
+<phrase i="S_Option" t="ｵﾌﾟｼｮﾝ"/>
+<phrase i="S_Other" t="その他"/>
+<phrase i="S_EditDial" t="通話編集"/>
+<phrase i="S_EditDial1" t="通話編集"/>
+<phrase i="S_AddNew" t="新規追加"/>
+<phrase i="S_Copy" t="コピー"/>
+<phrase i="S_Paste" t="貼り付け"/>
+<phrase i="S_Search" t="検索"/>
+<phrase i="S_SimpleSearch" t="簡易検索"/>
+<phrase i="S_AdvancedSearch" t="詳細検索"/>
+<phrase i="S_Select" t="選択"/>
+<phrase i="S_Replace" t="置換"/>
+<phrase i="S_Default" t="規定値"/>
+<phrase i="S_Add2SpeedDial" t="ダイヤル追加"/>
+<phrase i="S_SendMessage" t="メッセージ送信"/>
+<phrase i="S_InputAll" t="全て入力"/>
+<phrase i="S_InputNum" t="番号入力"/>
+<phrase i="S_InputIP" t="IP入力"/>
+<phrase i="S_InputHebrew" t="ヘブライ語入力"/>
+<phrase i="S_InputStarCode" t="スターコード入力"/>
+<phrase i="S_Clear" t="クリア"/>
+<phrase i="S_DeleteList" t="リストの削除"/>
+<phrase i="S_DeleteAll" t="全て削除"/>
+<phrase i="S_DeleteEntry" t="エントリの削除"/>
+<phrase i="S_Add2AB" t="連絡先の追加"/>
+<phrase i="S_SortByName" t="名前でソート"/>
+<phrase i="S_Next" t="次へ"/>
+<phrase i="S_Zoom" t="拡大"/>
+<phrase i="S_EditSettings" t="設定編集"/>
+<phrase i="S_Previous" t="前へ"/>
+<phrase i="S_Previous1" t="前へ"/>
+<phrase i="S_Up" t="上へ"/>
+<phrase i="S_Down" t="下へ"/>
+<phrase i="S_SelectFromAB" t="連絡先から追加"/>
+<phrase i="S_Play" t="再生"/>
+<phrase i="S_Exit" t="終了"/>
+<phrase i="S_Resync" t="再同期"/>
+<phrase i="S_SetTime" t="保存"/>
+<phrase i="S_Set" t="設定"/>
+<phrase i="S_MoveUp" t="上へ"/>
+<phrase i="S_MoveDown" t="下へ"/>
+<phrase i="S_Edit" t="編集"/>
+<phrase i="S_View" t="表示"/>
+<phrase i="S_Enable_Disable" t="有効/無効"/>
+<phrase i="S_Refresh" t="更新"/>
+<phrase i="S_List" t="リスト"/>
+<phrase i="S_Stop" t="中止"/>
+<phrase i="S_AddList" t="リストを追加"/>
+<phrase i="S_Scan" t="スキャン"/>
+<phrase i="S_Connect" t="接続"/>
+<phrase i="S_Disconnect" t="接続解除"/>
+<phrase i="S_ConnectAll" t="全て接続"/>
+<phrase i="S_Detail" t="詳細"/>
+<phrase i="S_Cancel" t="ｷｬﾝｾﾙ"/>
+<phrase i="S_OK" t="OK"/>
+<phrase i="S_Unpair" t="切断"/>
+<phrase i="S_SelectAll" t="全て選択"/>
+<phrase i="S_ClearAll" t="全てｸﾘｱ"/>
+<phrase i="S_More" t="次へ"/>
+<phrase i="S_Format" t="形式"/>
+<phrase i="S_Monitor" t="モニタ"/>
+<phrase i="S_VCARD" t="取り込み"/>
+<phrase i="S_Retry" t="再試行"/>
+<phrase i="S_FLASH" t="フラッシュ"/>
+<phrase i="S_STARCODE" t="*コード"/>
+<phrase i="S_IP" t="IP"/>
+<phrase i="S_NUM" t="番号"/>
+<phrase i="S_ALPHA" t="Alpha"/>
+<phrase i="S_Audio" t="音声"/>
+<phrase i="S_Video" t="ビデオ"/>
+<phrase i="S_Call" t="発信"/>
+<phrase i="S_Submit" t="送信"/>
+<phrase i="S_CallRecordStart" t="録音"/>
+<phrase i="S_CallRecordStop" t="録音停止"/>
+<phrase i="S_CallRecordPause" t="録音中断"/>
+<phrase i="S_CallRecordResume" t="録音再開"/>
+<phrase i="S_Pause" t="中断"/> <!--Used on 6821,replace for PauseRec-->
+<phrase i="S_Ignore" t="無視"/>
+<phrase i="S_Override" t="オーバーライド"/>
+<phrase i="S_HotelingGuestIn" t="ｹﾞｽﾄｲﾝ"/>
+<phrase i="S_HotelingGuestOut" t="ｹﾞｽﾄｱｳﾄ"/>
+<phrase i="S_AUDIO_SWAP_IN" t="音声移動"/>
+<phrase i="S_AUDIO_SWAP_OUT" t="音声移動"/>
+<phrase i="S_Skip" t="スキップ"/>
+<phrase i="S_Settings" t="設定"/>
+<phrase i="S_Favorites" t="短縮"/>
+<phrase i="S_Messages" t="伝言"/>
+<phrase i="S_Selfview" t="セルフビュー"/>
+<phrase i="S_CallList" t="リスト"/>
+<phrase i="S_ShowVideo" t="ビデオの表示"/>
+<phrase i="S_Presence" t="状態変更"/>
+<phrase i="S_Swap" t="交換"/>
+<phrase i="S_ProxyCall" t="ﾌﾟﾛｷｼｺｰﾙ"/>
+<phrase i="S_Divert" t="代理"/>
+<phrase i="S_DivertAll" t="すべて代理応答"/>
+<phrase i="S_ClrDivert" t="代理応答クリア"/>
+<phrase i="S_CallPush" t="ｺｰﾙﾌﾟｯｼｭ"/>
+<phrase i="S_CallRetrieve" t="検索"/>
+<phrase i="S_BridgeIn" t="ブリッジイン"/>
+<phrase i="S_Micgain" t="マイクのゲイン"/>
+<phrase i="S_Setup" t="セットアップ"/>
+<phrase i="S_SpeedDial" t="短縮"/>
+<phrase i="S_Continue" t="続ける"/>
+<phrase i="S_WiFiScan" t="Wi-Fiｽｷｬﾝ"/>
+<phrase i="S_Category" t="分類"/>
+<phrase i="S_Filter" t="フィルタ"/>
+
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="華氏"/>
+<phrase i="OL_Celsius" t="摂氏"/>
+<phrase i="OL_MONO" t="モノラル"/>
+<phrase i="OL_STEREO" t="ステレオ"/>
+<phrase i="OL_InProgress" t="進行中"/>
+<phrase i="OL_DnsResolution" t="DNS解決"/>
+<phrase i="OL_NoServerName" t="サーバ名なし"/>
+<phrase i="OL_InvalidServer" t="サーバが無効または制限されています"/>
+<phrase i="OL_NoResources" t="リソースを使い切りました"/>
+<phrase i="OL_FileNotFound" t="ファイルが見つかりません"/>
+<phrase i="OL_CorruptFile" t="ファイルが破損しています"/>
+<phrase i="OL_EncrptionKey" t="暗号キー"/>
+<phrase i="OL_InvalidURL" t="無効なURL"/>
+<phrase i="OL_Phone" t="電話"/>
+<phrase i="OL_Handsfree" t="ハンズフリー"/>
+<phrase i="OL_Both" t="両方"/>
+<phrase i="OL_DownloadFailed" t="ダウンロード失敗"/>
+<phrase i="OL_DownloadConflict" t="%d件の新規エントリがあります。%d件のエントリが競合しています。"/>
+<phrase i="OL_DownloadTypeError" t="Bluetoothがハンズフリーモードではありません。"/>
+<phrase i="OL_DownloadFull" t="アドレス帳がいっぱいです。これ以上エントリをダウンロードできません。"/>
+<phrase i="OL_ParsingError" t="ルール内のエラーを解析"/>
+<phrase i="OL_Ended" t="終了しました"/>
+<phrase i="OL_StaticIP" t="固定IP"/>
+<phrase i="OL_PictureRotation" t="ピクチャの回転"/>
+<phrase i="OL_CurrentWallpaper" t="現在の壁紙"/>
+<phrase i="OL_DownloadPicture" t="ロード"/>
+<phrase i="OL_Default" t="規定値"/>
+<phrase i="OL_Clock" t="クロック"/>
+<phrase i="OL_Logo" t="ロゴ"/>
+<phrase i="OL_Lock" t="ロック"/>
+<phrase i="OL_Speaker" t="スピーカ"/>
+<phrase i="OL_Headset" t="ヘッド"/>
+<phrase i="OL_Handset" t="ハンド"/>
+<phrase i="OL_Ringer" t="呼出音"/>
+<phrase i="OL_Volume" t="ボリューム"/>
+<phrase i="OL_Headset_Fail" t="ヘッドセットコントロールを使用してボリュームを調整してください。"/>
+<phrase i="OL_LightBlue" t="ライトブルー"/>
+<phrase i="OL_LightGray" t="ライトグレー"/>
+<phrase i="OL_LightGreen" t="ライトグリーン"/>
+<phrase i="OL_None" t="なし"/>
+<phrase i="OL_Simple" t="シンプル"/>
+<phrase i="OL_PlainTLS" t="プレーンTLS"/>
+<phrase i="OL_64HEX" t="10桁の16進数"/>
+<phrase i="OL_128HEX" t="26桁の16進数"/>
+<phrase i="OL_64ASCII" t="5文字のASCII"/>
+<phrase i="OL_128ASCII" t="13文字のASCII"/>
+<phrase i="OL_Enterprise" t="企業"/>
+<phrase i="OL_Group" t="グループ"/>
+<phrase i="OL_Personal" t="パーソナル"/>
+<phrase i="OL_EnterpriseCommon" t="企業共通"/>
+<phrase i="OL_GroupCommon" t="グループ共通"/>
+<phrase i="OL_Login_Credentials" t="ﾛｸﾞｲﾝ資格"/>
+<phrase i="OL_SIP_Credentials" t="SIP資格"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_6" t="6"/>
+<phrase i="OL_7" t="7"/>
+<phrase i="OL_8" t="8"/>
+<phrase i="OL_9" t="9"/>
+<phrase i="OL_10" t="10"/>
+<phrase i="OL_11" t="11"/>
+<phrase i="OL_12" t="12"/>
+<phrase i="OL_13" t="13"/>
+<phrase i="OL_14" t="14"/>
+<phrase i="OL_15" t="15"/>
+<phrase i="OL_16" t="16"/>
+<phrase i="OL_Disabled" t="無効"/>
+<phrase i="OL_Enabled" t="有効"/>
+<phrase i="OL_AUTO" t="自動"/>
+<phrase i="OL_10_HALF" t="10MB半二重"/>
+<phrase i="OL_10_FULL" t="10MB全二重"/>
+<phrase i="OL_100_HALF" t="100MB半二重"/>
+<phrase i="OL_100_FULL" t="100MB全二重"/>
+<phrase i="OL_1000_FULL" t="1000全二重"/>
+<phrase i="OL_10s" t="10秒"/>
+<phrase i="OL_20s" t="20秒"/>
+<phrase i="OL_30s" t="30秒"/>
+<phrase i="OL_AlwaysOn" t="常時稼働"/>
+<phrase i="OL_1m" t="1分"/>
+<phrase i="OL_5m" t="5分"/>
+<phrase i="OL_30m" t="30分"/>
+<phrase i="OL_monthday" t="月/日"/>
+<phrase i="OL_daymonth" t="日/月"/>
+<phrase i="OL_12hr" t="12時間"/>
+<phrase i="OL_24hr" t="24時間"/>
+<phrase i="OL_IPv4" t="IPv4のみ"/>
+<phrase i="OL_IPv6" t="IPv6のみ"/>
+<phrase i="OL_DUAL_MODE" t="デュアル"/>
+<phrase i="OL_Phone" t="電話"/>
+<phrase i="OL_Server" t="サーバ"/>
+<phrase i="OL_Show" t="表示"/>
+<phrase i="OL_Hide" t="非表示"/>
+<phrase i="OL_BEKEM" t="BEKEM"/>
+<phrase i="OL_AKEM" t="CP-8800-Audio"/>
+<phrase i="OL_VKEM" t="CP-8800-Video"/>
+
+<!-- Option label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="自動"/>
+<phrase i="OL_Name" t="名前"/>
+<phrase i="OL_Ext" t="内線"/>
+<phrase i="OL_Both" t="両方"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############-->
+<phrase i="T_EditProfile" t="プロファイルを編集"/>
+<phrase i="T_SetupWiFi" t="Wi-Fiの設定"/>
+<phrase i="T_WlanProfileListprofile" t="プロファイルを選択"/>
+<phrase i="T_WlanScanList" t="Wi-Fiに接続"/>
+<phrase i="T_WlanServerCaList" t="ファイルをサーバ証明書として選択"/>
+<phrase i="T_WlanClientCaList" t="ファイルをクライアント証明書として選択"/>
+<phrase i="T_WlanProfileReplace" t="置換対象プロファイルを選択"/>
+<phrase i="T_WlanWpsSelect" t="WPSモードを選択"/>
+<phrase i="WirelessStatusDetail" t="ワイヤレスの詳細"/>
+<phrase i="T_Profile" t="プロファイル"/>
+<phrase i="T_WlanPartitionLsit" t="パーティションの選択"/>
+<phrase i="L_InvalidProfile" t="無効なプロファイル"/>
+<phrase i="L_Disable" t="無効"/>
+<phrase i="L_None" t="なし"/>
+<phrase i="L_Auto" t="自動"/>
+<phrase i="L_EapFast" t="EAP-FAST"/>
+<phrase i="L_PeapGtc" t="PEAP-GTC"/>
+<phrase i="L_PeapMschapv2" t="PEAP-MSCHAPV2"/>
+<phrase i="L_Psk" t="PSK"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_802Dot1x" t="802.1x"/>
+<phrase i="L_WpaEnt" t="WPAエンタープライズ"/>
+<phrase i="L_Wpa2Ent" t="WPA2エンタープライズ"/>
+<phrase i="L_Connection" t="接続"/>
+<phrase i="L_SecurityMode" t="セキュリティモード"/>
+<phrase i="L_ProfileName" t="プロファイル名"/>
+<phrase i="L_SecuredWith" t="セキュリティ保護方法"/>
+<phrase i="L_CipherType" t="暗号タイプ"/>
+<phrase i="L_KeyId" t="デフォルトの送信キー"/>
+<phrase i="L_KeyLen" t="キーの長さ"/>
+<phrase i="L_Key1" t="キー1"/>
+<phrase i="L_Key2" t="キー2"/>
+<phrase i="L_Key3" t="キー3"/>
+<phrase i="L_Key4" t="キー4"/>
+<phrase i="L_PskKey" t="WPA共有キー"/>
+<phrase i="L_WEPKey" t="WEPキー"/>
+<phrase i="L_Pphrase" t="パスフレーズ"/>
+<phrase i="L_EapType" t="EAPタイプ"/>
+<phrase i="L_UserId" t="ユーザID"/>
+<phrase i="L_Password" t="パスワード"/>
+<phrase i="L_CheckSvrCa" t="サーバ証明書の確認"/>
+<phrase i="L_On" t="オン"/>
+<phrase i="L_Off" t="オフ"/>
+<phrase i="L_LinkSignal" t="信号強度"/>
+<phrase i="L_NoiseLevel" t="ノイズレベル"/>
+<phrase i="L_Bssid" t="AP MACアドレス"/>
+<phrase i="L_Frequency" t="周波数"/>
+<phrase i="L_DataEncryption" t="データ暗号化"/>
+<phrase i="L_EncryptionType" t="暗号化タイプ"/>
+<phrase i="L_TransmitRate" t="伝送速度"/>
+<phrase i="L_Channel" t="チャネル"/>
+<phrase i="L_RootCa" t="ルート証明書"/>
+<phrase i="L_UserCa" t="ユーザ証明書"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="秘密鍵のパスワード"/>
+<phrase i="L_AnonyId" t="非通知ID"/>
+<phrase i="L_TtlsInnerProto" t="TTLS内部プロトコル"/>
+<phrase i="L_PeapInnerProto" t="PEAP内部プロトコル"/>
+<phrase i="L_WlanConfiguration" t="ワイヤレス設定"/>
+<phrase i="L_WlanWpsPbc" t="プッシュボタン設定"/>
+<phrase i="L_WlanWpsPbcText1" t="Wi-Fi保護セットアップボタンのあるデバイスの場合、"/>
+<phrase i="L_WlanWpsPbcText2" t="デバイスのボタンを押して、"/>
+<phrase i="L_WlanWpsPbcText3" t="このモードを選択します。"/>
+<phrase i="L_WlanWpsPin" t="PIN設定"/>
+<phrase i="L_WlanWpsPinText1" t="PINを必要とするデバイスの場合、次の番号"/>
+<phrase i="L_WlanWpsPinText2" t="%sを入力して、このモードを選択します。"/>
+<phrase i="L_WlanWpsPinText3" t="このモードを選択します。"/>
+<phrase i="L_WlanProfile" t="Wi-Fiプロファイル"/>
+<phrase i="L_Networksetup" t="ネットワークのセットアップ"/>
+<phrase i="L_WlanAddCurrent" t="接続をプロファイルとして追加"/>
+<phrase i="L_WlanStatus" t="Wi-Fiステータス"/>
+<phrase i="L_WlanWps" t="Wi-Fi保護セットアップ"/>
+<phrase i="WlanMsgPfLock" t="ワイヤレスプロファイルがロックされています"/>
+<phrase i="WlanMsgPfNameLenNull" t="無効なプロファイル名"/>
+<phrase i="WlanMsgPfNameLenOver" t="プロファイル名が長過ぎます"/>
+<phrase i="WlanMsgSssidLenNull" t="ネットワーク名を空白にすることはできません。"/>
+<phrase i="WlanMsgSssidLenOver" t="SSIDが長過ぎます"/>
+<phrase i="WlanMsgWepNoValue" t="キーIDを%dに設定します。キー値はありません。"/>
+<phrase i="WlanMsgWepWrongLen" t="キー%dの長さが無効です。"/>
+<phrase i="WlanMsgWepWrongHex" t="キー%dに16進数桁以外が含まれています。"/>
+<phrase i="WlanMsgPsKeyLenLess" t="WPA共有キーが短か過ぎます。"/>
+<phrase i="WlanMsgPsKeyLenOver" t="WPA共有キーが長過ぎます。"/>
+<phrase i="WlanMsgPsKeyInvalide" t="パスフレーズは16進数で64、またはアスキー文字で8～63文字である必要があります。"/>
+<phrase i="WlanMsgWepKeyInvalid" t="WEPキーは10（16進法で26）、または5文字 （ASCIIで13文字）でなければなりません。"/>
+<phrase i="WlanMsgIdentityLenNull" t="ユーザーIDを空白にすることはできません。"/>
+<phrase i="WlanMsgIdentityLenOver" t="IDが長過ぎます"/>
+<phrase i="WlanMsgServerCaWrong" t="無効なサーバ証明書"/>
+<phrase i="WlanMsgClientCaWrong" t="無効なクライアント証明書"/>
+<phrase i="WlanMsgPasswordLenNull" t="パスワードを空白にすることはできません。"/>
+<phrase i="WlanMsgPasswordLenOver" t="パスワードが長過ぎます"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="非通知IDがありません"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="非通知IDが長過ぎます"/>
+<phrase i="WlanMsgOverMaxPFNum" t="リストがいっぱいです。別のプロファイルを置換しますか?"/>
+<phrase i="WlanMsgUseWpsPbc" t="WPS PBCを使用して接続"/>
+<phrase i="WlanMsgUseWpsPin" t="WPS PINを使用して接続"/>
+<phrase i="WlanNoProfileConnect" t="接続するプロファイルがありません"/>
+<phrase i="WlanNoScanProfileAdd" t="追加するスキャンプロファイルがありません"/>
+<phrase i="WlanProfileExistReplace" t="SSIDが%sのプロファイルはすでに存在しています。既存のプロファイルを置換しますか?"/>
+<phrase i="WlanNotEnable" t="Wi-Fiを有効にする必要があります。"/>
+<phrase i="WlanNotConnect" t="Wi-Fiに接続されませんでした。プロファイルリストに追加できません。"/>
+<phrase i="WPSNotSet" t="WPSを使用するには、[設定]を押してください。"/>
+<phrase i="WLANNotSet" t="WLANを使用するには、[設定]を押してください。"/>
+<phrase i="WlanProfileExist" t="SSIDが%sのプロファイルはすでに存在しています。"/>
+<phrase i="WlanNotInterface" t="Wi-Fiを使用するには、イーサネットが切断されている必要があります。"/>
+<phrase i="WlanMsgAssociating" t="SSID%sと関連付けています"/>
+<phrase i="WlanMsgFailAssociation" t="%sとの関連付けに失敗しました"/>
+<phrase i="WlanMsgFailAssociationContinue" t="%sとの関連付けに失敗しました。バックグラウンドでの試行を継続します。"/>
+<phrase i="WlanMsgOobSkip" t="この手順を省略した場合は、ネットワークを手動で設定する必要があります。"/>
+
+<phrase i="WlanMsgSuccessAssociation" t="正常に接続しました。"/>
+<phrase i="WlanMsgSuccessAssociationSSID" t="%sと正常に接続しました。"/>
+
+<phrase i="WlanProfileAlreadyConnected" t="このプロファイルはすでに接続されています。"/>
+<phrase i="WlanWpsFailConnect" t="WPSとの接続に失敗しました"/>
+<phrase i="WlanAddIntoProfile" t="この設定をプロファイルとして追加しますか?"/>
+<phrase i="WlanScanning" t="ワイヤレススキャン中です"/>
+<phrase i="WlanWpsConnect" t="WPS設定が完了しました。この設定は、[ワイヤレスステータス]ページでプロファイルに追加できます。"/>
+<phrase i="WlanConnectAll1" t="プロファイルリストを使用して接続しますか?"/>
+<phrase i="WlanConnectAll2" t="現在の接続を切断し、プロファイルリストを使用して接続しますか?"/>
+<phrase i="WlanMsgConnectAll" t="プロファイルリストを使用して接続します"/>
+<phrase i="WlanMsgFailConnectAll" t="接続に失敗しました。バックグランドで試行しています。"/>
+<phrase i="WlanAddCurrent" t="現在の接続をプロファイルとして追加しますか?"/>
+<phrase i="FileLengthOver" t="ファイル名の長さが%d文字を超えています。"/>
+<phrase i="WlanProfileConnectDisable" t="Wi-Fiプロファイルが無効化されました"/>
+<phrase i="WlanProfileEnable" t="このプロファイルを有効にしますか?"/>
+<phrase i="WlanProfileDisable" t="このプロファイルを無効にしますか?"/>
+<phrase i="WlanEmptyScanningResult" t="スキャン結果がありません。もう一度試してください"/>
+<phrase i="devRestart" t="デバイスの再登録が必要な可能性があります。"/>
+<phrase i="M_NetworkBusy" t="ネットワークがビジー状態です。"/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="タイトルを選択"/>
+<phrase i="T_MP3SourceList" t="プレイリストにタイトルを追加"/>
+<phrase i="T_MP3PartitionList" t="パーティションを選択して曲を取得"/>
+<phrase i="MP3MsgOverMaxSongNum" t="リストのエントリ件数は%d件に制限されています。"/>
+<phrase i="MP3MsgEntryNotExist" t="エントリが存在しません。"/>
+<phrase i="MP3MsgAPendingCall" t="通話中に音楽を再生することはできません。"/>
+<phrase i="MP3MsgFileNameOverLen" t="%d個のファイル名が長さ%dを超えています。"/>
+<phrase i="MP3MsgGetList" t="USBドライブからリストを取得しています"/>
+<phrase i="MP3MsgSaveRing" t="USBドライブから呼出音を保存しています"/>
+<phrase i="MP3MsgFileIllegle" t="ファイル形式が無効です。"/>
+<phrase i="MP3DeletePrompt" t="プレイリストから%sを削除しますか?"/>
+<phrase i="MP3MsgSelectNull" t="プレイリストに追加する曲が選択されていません。"/>
+<phrase i="MP3MsgSelectOverMax" t="選択した曲数が%d曲を超えています。"/>
+<phrase i="MP3UsbFolderNotPresent" t="'%s'フォルダは存在しません。USBデバイスの'mp3'フォルダにmp3ファイルが保存されていることを確認してください。"/>
+<phrase i="MP3UsbFileNotPresent" t="フォルダ'%s'にMP3ファイルがありません。USBデバイスの'mp3'フォルダにmp3ファイルが保存されていることを確認してください。"/>
+<phrase i="MP3DeleteAllPrompt" t="プレイリストからすべての曲を削除しますか?"/>
+<phrase i="MP3MsgCalcTime" t="再生時間を計算しています"/>
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="イーサネット使用中"/>
+<phrase i="NC_TITLE_WIRELESS" t="ワイヤレス使用中"/>
+<phrase i="NC_NOT_AVAILABLE" t="利用不可"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="APに接続しています"/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="イーサネット接続を確認しています"/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="ワイヤレス接続に失敗しました。"/>
+<phrase i="NC_L2_FAIL_WIRED" t="イーサネット接続に失敗しました。"/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="ワイヤレス接続は正常です。"/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="イーサネット接続は正常です。"/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="スタティックIPを使用します"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="DHCPでIPを取得しています"/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="PPPoEでIPを取得しています"/>
+<phrase i="NC_L3_FAIL_STATIC" t="IPアドレスの設定に失敗しました。"/>
+<phrase i="NC_L3_FAIL_DHCP" t="DHCPによるIPの取得に失敗しました。"/>
+<phrase i="NC_L3_FAIL_PPPOE" t="PPPoEによるIPの取得に失敗しました。"/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="IPアドレスを設定します"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="IPアドレスを取得します"/>
+<phrase i="NC_WAIT_VLAN_ID" t="VLAN IDを取得しています"/>
+<phrase i="NC_NO_PROFILE_LIST" t="プロファイルリストがありません"/>
+<phrase i="NC_VPN_CONNECTING" t="VPN接続を作成します。"/>
+<phrase i="NC_VPN_CONNECTED" t="VPN接続は正常です。"/>
+<phrase i="NC_VPN_FAILED" t="VPN接続の作成に失敗しました。"/>
+<phrase i="NC_WPS_SUCCESS" t="WPSによるネゴシエーションに成功しました。"/>
+<phrase i="NC_WPS_FAIL" t="WPSによるネゴシエーションに失敗しました。"/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="USBデバイスが見つかりません。USBデバイスを電話機のUSBスロットに挿入してください。"/>
+<phrase i="UsbFolderNotPresent" t="'%s'フォルダが存在しません。"/>
+<phrase i="UsbFileNotPresent" t="'%s'フォルダ内にファイルがありません。"/>
+<phrase i="UsbFileNotPresent2" t="%sファイルが存在しません。"/>
+<phrase i="UsbUnknownError" t="USB不明エラー"/>
+<phrase i="UsbPartitionName" t="パーティション"/>
+<phrase i="UsbDevicePluged" t="USBデバイスは接続されています。デバイスがマウントされるまでお待ちください。"/>
+
+<!-- #############  #USB Headset msgs #############-->
+<phrase i="UsbDeviceConnected" t="アクセサリが接続されました。"/>
+<phrase i="UsbDeviceDisconnected" t="アクセサリが切断されました。"/>
+<phrase i="UsbDeviceNotSupported" t="アクセサリがサポートされていません。"/>
+<phrase i="UsbDeviceErrorStatus" t="アクセサリーエラー。"/>
+
+<phrase i="UsbDeviceMaxHeadsets" t="ヘッドセットの最大数を超えました。"/>
+<phrase i="UsbDeviceNoPower" t="電話機がこのアクセサリに給電できません。"/>
+<phrase i="UsbDeviceDisabled" t="アクセサリがサポートされていません。"/>
+<phrase i="UsbDeviceError" t="デバイスを装着し直してください。"/>
+<phrase i="UsbDeviceMaxKEMs" t="アテンダントコンソールの最大数。"/>
+<phrase i="UsbDeviceSysError" t="アクセサリを検出できません。"/>
+
+<!-- #############  #Microphone/Speaker msgs #############-->
+<phrase i="ExternalMicrophone" t="外部マイク。"/>
+<phrase i="ExternalSpeaker" t="外部スピーカ。"/>
+
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="USBの空き領域がありません。コール録音は停止しています。新しいUSBを装着してから、録音を再開してください。"/>
+<phrase i="UsbDeviceIsFull" t="USBの空き領域がありません。新しいUSBを装着してから、録音を再開してください。"/>
+<phrase i="CallRecordMaxSingleFileReached" t="最大単一録音長に達しました。新しい録音を開始してください。"/>
+<phrase i="CallRecordMaxFileNumberReached" t="最大録音件数に達しました。一部の録音を削除してから、録音を再開してください。"/>
+<phrase i="CallRecordListDeletePrompt" t="この録音を削除してよろしいですか:"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="すべての履歴を削除しますか?"/>
+<phrase i="CallRecordNameInvalid" t="コール録音ファイル名が無効です。"/>
+<phrase i="CallRecordLenInvalid" t="コール録音長を計算できません。"/>
+<phrase i="CallRecordFoldInvalid" t="コール録音のディレクトリが無効です。"/>
+<phrase i="CallRecordUnknownError" t="コール録音不明エラー"/>
+<phrase i="CallRecordMsgAPendingCall" t="通話中は録音を再生できません。"/>
+<phrase i="CallRecordStarted" t="録音を開始しました。"/>
+<phrase i="CallRecordStopped" t="録音は停止しました。"/>
+<phrase i="CallRecordPaused" t="録音は一時停止しました。"/>
+<phrase i="CallRecordResumed" t="録音が再開しました。"/>
+<phrase i="CallRecordPending" t="録音開始までお待ちください。"/>
+<phrase i="CallRecordServerError" t="サーバエラー"/>
+<phrase i="CallRecordStartError" t="録音は開始しませんでした。"/>
+<phrase i="CallRecordStopError" t="録音は停止しませんでした。"/>
+<phrase i="CallRecordPauseError" t="録音は一時停止しませんでした。 "/>
+<phrase i="CallRecordResumeError" t="録音は再開しませんでした。"/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="%sの前にBluetoothを有効にしておく必要があります。"/>
+<phrase i="BT_Discovering" t="%sを検出しています。"/>
+<phrase i="BT_Discovered" t="%sを検出しました。"/>
+<phrase i="BT_DiscoveredFaild" t="%sの検出に失敗しました。"/>
+<phrase i="BT_DeviceNotFound" t="Bluetoothデバイスが見つかりません。"/>
+<phrase i="BT_Pairing" t="%sをペアリングしています。"/>
+<phrase i="BT_Paired" t="%sが正常にペアリングされました。"/>
+<phrase i="BT_PairingFailed" t="接続に失敗しました。"/>
+<phrase i="BT_Abort" t="%sへの接続を中断しました。"/>
+<phrase i="BT_UnPairPrompt" t="%sを切断しますか?"/>
+<phrase i="BT_PinCodePrompt" t="PINを入力してください。"/>
+<phrase i="BT_ScanningPrompt" t="スキャン中です。10秒待ってからもう一度実行してください。"/>
+<phrase i="BT_ConnectingPrompt" t="接続中です。10秒待ってからもう一度実行してください。"/>
+<phrase i="BT_DownloadingPrompt" t="ダウンロード中です。10秒待ってからもう一度実行してください。"/>
+<phrase i="BT_CallActivePrompt" t="通話中です。通話が終了してからもう一度お試しください。 "/>
+<phrase i="BT_OP_FAIL" t="操作に失敗しました。"/>
+<phrase i="BT_OP_WAIT_ENABLE" t="Bluetoothを有効にしています。もう一度お試しください。"/>
+<phrase i="BT_Dev_Connected" t="デバイスはすでに接続されています。"/>
+<phrase i="BT_Search" t="Bluetoothデバイスをスキャンします"/>
+<phrase i="BT_Connecting_Dev" t="Bluetoothデバイスを接続中です。"/>
+<phrase i="BT_HeadsetNamePrompt" t="ヘッドセット名を空白にすることはできません。"/>
+<phrase i="BT_PhoneModeError" t="電話モードで携帯電話に接続できません。"/>
+<phrase i="BT_HandsfreeModeError" t="ハンズフリーモードでヘッドセットに接続できません。"/>
+<phrase i="BT_DownloadUpdate" t="個人アドレス帳の更新中です。"/>
+<phrase i="BT_DownloadAddFull" t="アドレス帳がいっぱいです。一部のエントリを追加できません。%d件のエントリを追加し、%d件のエントリを無視しました。"/>
+<phrase i="BT_DownloadConflictFull" t="アドレス帳がいっぱいです。再度エントリを追加することはできません。%d件の競合するエントリを更新し、%d件の新しいエントリを追加し、%d件の新しいエントリを無視しました"/>
+<phrase i="BT_OverMaxProfileNum" t="リストがいっぱいです。別のプロファイルを置換しますか?"/>
+<phrase i="BT_ConToast" t="Bluetoothに接続しました"/>
+<phrase i="BT_DisconToast" t="Bluetoothが切断されました"/>
+<phrase i="BT_HandsfreePin" t="デバイスペアリングに PIN が表示されていることを確認してください"/>
+<phrase i="BT_St_Cntct_Prompt" t="スマートフォンの連絡先をすべてデスクフォンに保存しますか?それらは後で連絡先から削除できます。"/>
+<phrase i="T_Sv_Mob_Cntct" t="携帯電話の連絡先を保存"/>
+<phrase i="T_BluetoothProfileList" t="Bluetoothプロファイルを選択"/>
+<phrase i="T_BluetoothProfilePlace" t="置換するBluetoothプロファイルを選択"/>
+<phrase i="T_BTMode" t="Bluetoothモード"/>
+<phrase i="T_BTProfile" t="Bluetoothプロファイル"/>
+<phrase i="T_AddDevice" t="デバイス"/>
+<phrase i="T_BTHeadsetName" t="ヘッドセット名"/>
+<phrase i="T_BTLoadPhoneBook" t="電話帳をダウンロード"/>
+<phrase i="T_BTShowPhoneBook" t="電話帳を表示"/>
+<phrase i="T_BTChoosePair" t="Bluetoothデバイスを選択"/>
+<phrase i="T_BTEditProfile" t="Bluetoothプロファイルを編集"/>
+<phrase i="L_BTDeviceName" t="デバイス名"/>
+<phrase i="L_BTPINCODE" t="暗証番号"/>
+<phrase i="L_BTConnectAuto" t="自動的に接続"/>
+<phrase i="T_BTDownLoad" t="ダウンロード"/>
+<phrase i="T_BTReplace" t="置換"/>
+<phrase i="T_BTDeleteAccessory" t="アクセサリの削除"/>
+<phrase i="CALL_SERVNOTAVAIL" t="サービスなし"/>
+<phrase i="CALL_NETERR" t="ネットワークエラー"/>
+<phrase i="CALL_NORES" t="応答なし"/>
+<phrase i="CALL_PROTOERR" t="プロトコルエラー"/>
+<phrase i="CALL_NOLINE" t="回線なし"/>
+<phrase i="CALL_TIMEOUT" t="タイムアウト"/>
+<phrase i="S_PHOLD" t="PrivHold"/>
+<phrase i="CALL_PHELD" t="非通知が保留されました"/>
+<phrase i="S_IGNORE" t="無視"/>
+<phrase i="S_DECLINE" t="拒否"/>
+<phrase i="LINE_INUSE" t="使用中"/>
+<phrase i="CALL_PARKED" t="コールをパークしました"/>
+<phrase i="CALL_SERVUNAVAIL" t="サービスは利用できません"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" / . @ 1 : ; = ? - _ &amp; % "/>
+<phrase i="3851" t=" a b c 2 A B C "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" + * ~ ` &lt; &gt; "/>
+<phrase i="3860" t=" 0   , ! ^ ' &quot; | "/>
+<phrase i="3861" t=" # $ £ ¤ \ ( ) { } [ ] "/>
+
+<!-- #############  #language #############-->
+<phrase i="L_English" t="英語"/>
+<phrase i="L_English-US" t="英語(米国)"/>
+<phrase i="L_English-Canada" t="英語(カナダ)"/>
+<phrase i="L_English-Australia" t="英語(オーストラリア)"/>
+<phrase i="L_English-Britain" t="英語(イギリス)"/>
+<phrase i="L_English-NewZealand" t="英語(ニュージーランド)"/>
+<phrase i="L_French" t="フランス語"/>
+<phrase i="L_French-Canada" t="フランス語(カナダ)"/>
+<phrase i="L_Spanish" t="スペイン語"/>
+<phrase i="L_Spanish-Mexico" t="スペイン語(メキシコ)"/>
+<phrase i="L_Italian" t="イタリア語"/>
+<phrase i="L_German" t="ドイツ語"/>
+<phrase i="L_Norwegian" t="ノルウェー語"/>
+<phrase i="L_Portuguese" t="ポルトガル語"/>
+<phrase i="L_Polish" t="ポーランド語"/>
+<phrase i="L_Dutch" t="オランダ語"/>
+<phrase i="L_Swedish" t="スウェーデン語"/>
+<phrase i="L_Russian" t="ロシア語"/>
+<phrase i="L_Turkish" t="トルコ語"/>
+<phrase i="L_Slovak" t="スロバキア語"/>
+<phrase i="L_Hungarian" t="ハンガリー語"/>
+<phrase i="L_Croatian" t="クロアチア語"/>
+<phrase i="L_Bulgarian" t="ブルガリア語"/>
+<phrase i="L_Czech_Republic" t="チェコ共和国"/>
+<phrase i="L_Slovenian" t="スロヴェニア語"/>
+<phrase i="L_Danish" t="デンマーク語"/>
+<phrase i="L_Hebrew" t="ヘブライ語"/>
+
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="カメラ番号"/>
+<phrase i="L_Camera_Name" t="カメラ名"/>
+<phrase i="L_Camera_Ip" t="IPアドレス"/>
+<phrase i="L_Camara_UserName" t="ユーザ名"/>
+<phrase i="L_Camera_Password" t="パスワード"/>
+<phrase i="L_Camera_Port" t="ポート番号"/>
+<phrase i="L_Camera_Resolution" t="解像度"/>
+<phrase i="L_Camera_Quality" t="ビデオ画質"/>
+<phrase i="L_Camera_FrameRate" t="フレームレート"/>
+<phrase i="L_Camera_Status" t="ステータス"/>
+<phrase i="T_Camera_Entry" t="カメラ情報"/>
+<phrase i="T_Camera_List" t="モニタリングするカメラを選択"/>
+<phrase i="CamInvalidParam" t="カメラ%sのパラメータが無効です。"/>
+<phrase i="CamMissingURL" t="カメラ%sのアクセスURLが指定されていません。"/>
+<phrase i="CamMissingUserName" t="カメラ%sのユーザ名が指定されていません。"/>
+<phrase i="CamMissingPassword" t="カメラ%sのパスワードが指定されていません。"/>
+<phrase i="CamInvalidURL" t="カメラ%sのアクセスURLが無効です。"/>
+<phrase i="CamInvalidProtocol" t="カメラ%sのプロトコルがRTSPではありません。"/>
+<phrase i="CamNoVideo" t="ビデオがありません。"/>
+<phrase i="CamConnecting" t="接続中"/>
+<phrase i="CamConnectError" t="ビデオがありません - 接続できません。"/>
+<phrase i="CamAccessError" t="ビデオがありません - アクセス拒否されました。"/>
+<phrase i="CamResolveError" t="ビデオがありません - アドレスを解決できませんでした。"/>
+<phrase i="CamResolutionError" t="ビデオがありません - 解像度が高過ぎます。"/>
+<phrase i="CamBusy" t="カメラが使用中です。しばらく待ってからもう一度お試しください。"/>
+<phrase i="CamActivateDoorOK" t="%sのドア開けを正常に行いました。"/>
+<phrase i="CamActivateDoorFailed" t="%sのドア開けに失敗しました。"/>
+<phrase i="CamFeatureNotAvailable" t="Bluetoothが有効化されている場合、この機能は使用できません"/>
+<phrase i="P_CamAccess" t="ビデオにアクセスしています"/>
+<phrase i="Shutter_Closed" t="シャッターが閉じています。"/>
+<phrase i="Bandwidth_Allowance" t="帯域幅許容範囲"/>
+<phrase i="Exposure" t="露出"/>
+<phrase i="Auto" t="自動"/>
+<phrase i="250_kbps" t="250 Kbps"/>
+<phrase i="500_kbps" t="500 Kbps"/>
+<phrase i="750_kbps" t="750 Kbps"/>
+<phrase i="1_mbps" t="1 Mbps"/>
+<phrase i="2_mbps" t="2 Mbps"/>
+<phrase i="L_Video_Stats" t="ビデオコールステータス"/>
+<phrase i="L_VideoEncoder" t="エンコーダ"/>
+<phrase i="L_VideoDecoder" t="デコーダ"/>
+<phrase i="L_VideoPktSent" t="パケット送信"/>
+<phrase i="L_VideoPktRecv" t="パケット受信"/>
+<phrase i="L_VideoAvgJitter" t="平均ジッター"/>
+<phrase i="L_VideoMaxJitter" t="最大ジッター"/>
+<phrase i="L_VideoRxPktDiscarded" t="Rxパケット破棄"/>
+<phrase i="L_VideoRxPktLost" t="Rxパケット紛失"/>
+<phrase i="L_VideoTxResolution" t="Tx解像度"/>
+<phrase i="L_VideoRxResolution" t="Rx解像度"/>
+<phrase i="L_VideoRxFrames" t="Rxフレーム"/>
+<phrase i="L_VideoTxFrames" t="Txフレーム"/>
+<phrase i="L_VideoTxIDRFrames" t="IDRフレーム"/>
+<phrase i="L_VideoTxFastUpdateReq" t="Tx iframeが必要"/>
+<phrase i="L_VideoRxIDRFrames" t="IDRフレーム"/>
+<phrase i="L_VideoRxFastUpdateReq" t="Rx iframeが必要"/>
+<phrase i="L_VideoTxFrameRate" t="Txフレーム率"/>
+<phrase i="L_VideoRxFrameRate" t="Rxフレーム率"/>
+<phrase i="L_VideoLatency" t="ビデオ待機時間"/>
+<phrase i="L_VideoTxBandwidth" t="Tx帯域幅"/>
+<phrase i="L_VideoRxBandwidth" t="Rx帯域幅"/>
+
+
+<phrase i="OL_Very_Low" t="非常に低い"/>
+<phrase i="OL_Lowest" t="最低"/>
+<phrase i="OL_Low" t="低い"/>
+<phrase i="OL_Medium" t="中"/>
+<phrase i="OL_Normal" t="標準"/>
+<phrase i="OL_High" t="高い"/>
+<phrase i="OL_Highest" t="最高"/>
+<phrase i="OL_Very_High" t="非常に高い"/>
+
+<!-- #############  Profile Account #############-->
+<phrase i="L_ProAcnt_Setup" t="アカウント設定"/>
+<phrase i="L_ProAcnt_Setup_Basic" t="アカウント設定HTTP"/>
+<phrase i="L_ProAcnt_Setup_XsiLogin" t="アカウント設定 (XSI)"/>
+<phrase i="L_ProAcnt_Setup_XsiSip" t="アカウント設定（XSI SIP）"/>
+<phrase i="L_PA_HOST_WARNING" t="ログイン失敗。管理者にお問い合わせください。"/>
+<phrase i="L_PA_Username" t="ユーザ名"/>
+<phrase i="L_PA_RESYNC_TRY" t="アカウントにサインインしています…"/>
+<phrase i="L_PA_RESYNC_OK" t="ログインに成功しました！"/>
+<phrase i="L_PA_RESYNC_DISABLED" t="再同期機能が無効になっています。管理者にお問い合わせください。"/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="エクステンションモビリティ"/>
+<phrase i="L_ExtMob_LoginForm" t="拡張モビリティにログイン"/>
+<phrase i="L_EM_LOGIN_TRY" t="ログインしています。"/>
+<phrase i="L_EM_LOGIN_OK" t="ログインに成功しました。"/>
+<phrase i="L_EM_LOGIN_FAILED" t="ログイン情報が正しくありません。"/>
+<phrase i="L_EM_LOGOUT_TRY" t="ログアウトしています。"/>
+<phrase i="L_EM_LOGOUT_OK" t="ログアウトに成功しました。"/>
+<phrase i="L_EM_LOGOUT_FAILED" t="ログアウトに失敗しました。電話機を再起動します。"/>
+<phrase i="L_EM_LOGIN_WARNING" t="ユーザIDとパスワードを入力してください。"/>
+<phrase i="L_EM_LOGOUT_CONFIRMATION" t="エクステンションモビリティからログアウトしてよろしいですか?"/>
+<phrase i="L_EM_INACTIVE_WARNING" t="無操作の状態が続いたため、エクステンションモビリティからログアウトします。ログイン状態を維持しますか?"/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="リカバリリセットを実行しますか?"/>
+<phrase i="L_RecoveryReset" t="リカバリリセット"/>
+<phrase i="L_FirmwareUpgrade" t="ファームウェアアップグレード"/>
+<phrase i="T_ST_Diag" t="診断リカバリ"/>
+<phrase i="UsbImageFileNotPresent" t="/image/spa525g.binが見つかりません。ファームウェアイメージを/image/spa525g.binにコピーしてください。"/>
+<phrase i="L_Picture" t="ピクチャ"/>
+<phrase i="L_IncomingPage" t="着信ページ"/>
+<phrase i="L_OutgoingPage" t="発信ページ"/>
+
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="%sフォルダは存在しません。USBデバイスの'%s'フォルダにjpgファイルが保存されていることを確認してください。"/>
+<phrase i="ImageUsbFileNotPresent" t="フォルダ'%s'にJPGファイルがありません。USBデバイスの'%s'フォルダにjpgファイルが保存されていることを確認してください。"/>
+<phrase i="T_ImageSelect" t="イメージの選択"/>
+<phrase i="ImageMsgOverMaxImageNum" t="%d個を超えるイメージを選択しました。"/>
+
+<phrase i="WS_Jan" t="1"/>
+<phrase i="WS_Feb" t="2"/>
+<phrase i="WS_Mar" t="3"/>
+<phrase i="WS_Apr" t="4"/>
+<phrase i="WS_May" t="5"/>
+<phrase i="WS_Jun" t="6"/>
+<phrase i="WS_Jul" t="7"/>
+<phrase i="WS_Aug" t="8"/>
+<phrase i="WS_Sep" t="9"/>
+<phrase i="WS_Oct" t="10"/>
+<phrase i="WS_Nov" t="11"/>
+<phrase i="WS_Dec" t="12"/>
+<phrase i="WS_Sun" t="(日)"/>
+<phrase i="WS_Mon" t="(月)"/>
+<phrase i="WS_Tue" t="(火)"/>
+<phrase i="WS_Wed" t="(水)"/>
+<phrase i="WS_Thu" t="(木)"/>
+<phrase i="WS_Fri" t="(金)"/>
+<phrase i="WS_Sat" t="(土)"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="要求中"/>
+<phrase i="T_EmptyHTTPBody" t="HTTPボディ部が空です。"/>
+<phrase i="T_404NotFound" t="404見つかりません。"/>
+<phrase i="T_AudioDataError" t="オーディオデータエラー。"/>
+<phrase i="T_DNSError" t="DNSエラー。"/>
+<phrase i="T_NoServer" t="サーバに接続できません。"/>
+<phrase i="T_NoResponse" t="サーバが応答しませんでした。もう一度お試しください。"/>
+<phrase i="T_DataError" t="データエラー。"/>
+<phrase i="T_UnknownError" t="不明なエラーです。"/>
+<phrase i="T_RTPFail" t="別の通話中です。後でもう一度お試しください。"/>
+<phrase i="T_XMLFormatError" t="XMLフォーマットエラー：無効なパスワードです。"/>
+<phrase i="T_NotValidApp" t="お使いの電話はこのアプリケーションに対応していません。"/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="結果"/>
+<phrase i="PRV_Msg_Resync" t="再同期"/>
+<phrase i="PRV_Msg_ReqFailed" t="リクエストの再同期に失敗しました。電話機は現在、再同期中です。後でもう一度お試しください。"/>
+<phrase i="PRV_Msg_ReqFailedByUpg" t="ファームウェアのアップグレードが原因でリクエストに失敗しました。しばらくしてからもう一度お試しください。"/>
+<phrase i="PRV_Invalid_URL" t="再同期プロファイルルールが無効です。"/>
+<phrase i="StringLengthOver" t="文字列が最大長を超えています。"/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="再同期中です"/>
+<phrase i="PRV_Msg_Resync_OK" t="再同期に成功しました。"/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="電話機を再起動します。お待ちください。"/>
+<phrase i="L_Active_Call_Progress" t="通話中です。通話を終了してからもう一度お試しください。"/>
+<phrase i="L_Unable_To_Add_Participant" t="参加者を追加できません。"/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="なし"/>
+<phrase i="L_RReason1" t="DHCPエラー"/>
+<phrase i="L_RReason2" t="アップグレード"/>
+<phrase i="L_RReason3" t="プロビジョニング"/>
+<phrase i="L_RReason4" t="アップグレード"/>
+<phrase i="L_RReason5" t="ユーザ始動"/>
+<phrase i="L_RReason6" t="アップグレード"/>
+<phrase i="L_RReason7" t="SIP始動"/>
+<phrase i="L_RReason8" t="アップグレード"/>
+<phrase i="L_RReason9" t="システムエラー"/>
+<phrase i="L_RReason10" t="リンクダウン"/>
+<phrase i="L_RReason11" t="システム1"/>
+<phrase i="L_RReason12" t="システム2"/>
+<phrase i="L_RReason13" t="IPが重複しています"/>
+<phrase i="L_RReason14" t="バックアップIP"/>
+<phrase i="L_RReason15" t="システム3"/>
+<phrase i="L_RReason16" t="システム4"/>
+<phrase i="L_RReason17" t="システム5"/>
+<phrase i="L_RReason18" t="システム6"/>
+<phrase i="L_RReason19" t="システム7"/>
+<phrase i="L_RReason20" t="SIP始動"/>
+<phrase i="L_RReason21" t="ディクショナリダウンロード"/>
+<phrase i="L_RReason22" t="VLANが変更されました"/>
+<phrase i="L_RReason23" t="RC"/>
+<phrase i="L_RReason24" t="工場出荷時設定にリセット"/>
+<phrase i="L_RReason25" t="ソフトウェア要求"/>
+<phrase i="L_RReason26" t="IPが変更されました"/>
+
+<phrase i="L_Calls" t="通話"/>
+
+<!-- ############# Full Screen Progress Spinner ########### -->
+<phrase i="L_ProgressSpinnerText" t="ファームウェアのアップグレード中"/>
+
+<!-- ############# Accessories ############ -->
+<phrase i="L_Accessories" t="アクセサリ"/>
+<phrase i="L_AccessoryDetails" t="アクセサリの詳細"/>
+<phrase i="L_DeviceType" t="デバイスタイプ"/>
+<phrase i="L_DeviceClass" t="デバイスクラス"/>
+<phrase i="L_Configured" t="設定済み"/>
+<phrase i="L_unitEnable" t="ユニットが有効化されました"/>
+<phrase i="L_unitState" t="ユニットはオンラインです"/>
+
+<!-- #############  Cisco Headset#############-->
+<phrase i="L_Setup" t="セットアップ"/>
+<phrase i="L_Microphone" t="マイクロフォン"/>
+<phrase i="L_Tuning" t="調節"/>
+<phrase i="L_Sidetone" t="側音"/>
+<phrase i="L_MicrophoneTest" t="マイクロフォンのテスト"/>
+<phrase i="L_InputLevel" t="入力レベル"/>
+<phrase i="L_SpeakNow" t="お話ください"/>
+<phrase i="L_SpeakLevel" t="入力レベルを確認"/>
+<phrase i="L_PlayRecord" t="録音の再生"/>
+<phrase i="L_AdjustMicroGain" t="マイクロフォンのゲイン調節"/>
+<phrase i="L_Softer" t="下げる"/>
+<phrase i="L_Louder" t="上げる"/>
+<phrase i="L_AdjustAudioTune" t="音量調節"/>
+<phrase i="L_Warmer" t="温かい"/>
+<phrase i="L_Brighter" t="明るい"/>
+<phrase i="L_AdjustMicrophone" t="マイクロフォンの調節"/>
+
+<phrase i="L_headsetSettings" t="Cisco製ヘッドセットの設定"/>
+<phrase i="L_headsetSpeaker" t="Cisco製ヘッドセットのスピーカー"/>
+<phrase i="L_headsetMicrophone" t="シスコ製ヘッドセットのマイクロフォン"/>
+<phrase i="L_Test" t="テスト"/>
+<phrase i="L_Gain" t="ゲイン"/>
+<phrase i="L_CiscoWiredHeadset" t="Cisco製有線ヘッドセット"/>
+<phrase i="L_CiscoWirelessHeadset" t="Cisco製ワイヤレスヘッドセット"/>
+<phrase i="L_CiscoHeadset" t="Cisco製ヘッドセット"/>
+<phrase i="L_NewAccDetected" t="新しいアクセサリーが検出されました。"/>
+<phrase i="L_HeadsetSetupProgress" t="ヘッドセットを設定するには[セットアップ]を押してください。何も操作が無ければ、現在のページは%d秒後に閉じます。"/>
+<phrase i="L_HeadsetSetupProgressOneSecond" t="ヘッドセットを設定するには[セットアップ]を押してください。何も操作が無ければ、現在のページは1秒後に閉じます。"/>
+<phrase i="L_HeadsetUpgrade" t="ソフトウェアを更新中です。ヘッドセットを取り外さないでください。"/>
+<phrase i="L_HeadsetMDUpgradeNotify" t="ヘッドセットのファームウェアは、アップグレードの準備ができました。アップグレードには数分かかり、その間ヘッドセットは使用できません。今すぐアップグレードしますか?"/>
+<phrase i="L_CannotRecord" t="通話中にマイクロフォンのゲインや音量を確認することはできません。"/>
+<phrase i="L_Version" t="バージョン"/>
+<phrase i="L_UpgradeFaild" t="アップグレードに失敗しました。"/>
+<phrase i="S_PlayBack" t="再生"/>
+<phrase i="L_Upgrade" t="続行"/>
+<phrase i="L_Postpone" t="延期"/>
+
+<!-- #############  PRT Screen#############-->
+<phrase i="L_ReportProblem" t="問題をレポート"/>
+<phrase i="L_ProblemDate" t="問題の日付"/>
+<phrase i="L_ProblemTime" t="問題の時刻"/>
+<phrase i="L_ProblemDescription" t="問題の説明"/>
+<phrase i="L_SelectProblem" t="説明の選択"/>
+<phrase i="L_PRTProblem1" t="電話の切断または再起動"/>
+<phrase i="L_PRTProblem2" t="ネットワーク接続の失敗"/>
+<phrase i="L_PRTProblem3" t="電話機登録の失敗"/>
+<phrase i="L_PRTProblem4" t="通話を発信できない。"/>
+<phrase i="L_PRTProblem5" t="通話に応答できない。"/>
+<phrase i="L_PRTProblem6" t="通話機能が利用できない。"/>
+<phrase i="L_PRTProblem7" t="低品質のオーディオ/ビデオ"/>
+<phrase i="L_PRTProblem8" t="一方向オーディオ/ビデオ"/>
+<phrase i="L_PRTProblem9" t="オーディオ/ビデオなし"/>
+<phrase i="L_PRTProblem10" t="UI応答を表示"/>
+<phrase i="L_PRTProblem11" t="UIディスプレイエラー"/>
+<phrase i="L_PRTProblem12" t="その他"/>
+<phrase i="L_PrtSpinnerText" t="PRTファイルを生成しています"/>
+<phrase i="L_PrtStatusOKText" t="アップロードに成功。ファイル: %s"/>
+<phrase i="L_PrtStatusFailedText" t="PRTのアップロードに失敗。PRTはWebページ%sにあります"/>
+<phrase i="L_PrtStatusFailedText1" t="PRTのアップロードに失敗しました。PRTはウェブページ上にあります："/>
+<phrase i="L_PrtStatusNoURLText" t="PRTファイルはWebページ(%s)にあります"/>
+<phrase i="L_PrtStatusNoURLText1" t="PRTファイルはウェブページで利用可能です"/>
+<phrase i="L_PrtWarningText" t="問題の説明を選択します。"/>
+<phrase i="T_PRT_Submitted" t="問題が送信されました。"/>
+<phrase i="T_PRT_Error" t="エラー: %d"/>
+
+<!-- #############  802.1X Authentication #############-->
+<phrase i="L_802Authentication" t="802.1X認証"/>
+<phrase i="L_DeviceAuthentication" t="デバイス認証"/>
+<phrase i="L_TransactionStatus" t="トランザクションステータス"/>
+<phrase i="L_Protocol" t="プロトコル"/>
+
+<!-- #############  Agent Login #############-->
+<phrase i="S_AState" t="Agtｽﾃｰﾀｽ"/>
+<phrase i="L_ACD_AGENT_STATE" t="エージェントステータスを設定"/>
+<phrase i="S_ASignIn" t="Agtイン"/>
+<phrase i="S_ASignOut" t="Agアウト"/>
+<phrase i="S_AgtIn" t="Agtイン"/>
+<phrase i="S_AgtOut" t="Agアウト"/>
+<phrase i="T_ACD_CallInformation" t="コール情報"/>
+<phrase i="L_ACD_WaitTime" t="待機時間"/>
+<phrase i="L_ACD_CCUID" t="CC UID"/>
+<phrase i="L_ACD_CCName" t="CC名"/>
+<phrase i="L_ACD_Queue" t="キュー"/>
+<phrase i="L_ACD_LongestWaitTime" t="最長の待機時間"/>
+<phrase i="S_ACallInfo" t="通話情報"/>
+<phrase i="S_ADispCode" t="処分記号"/>
+<phrase i="S_ATrace" t="トレース"/>
+<phrase i="S_AEmergcy" t="緊急"/>
+<phrase i="L_ACD_DispCode" t="廃棄コード"/>
+<phrase i="L_ACD_Emergency" t="緊急拡大"/>
+<phrase i="L_Avail" t="利用可能"/>
+<phrase i="L_Unavail" t="利用不可"/>
+<phrase i="L_Wrap" t="整理中"/>
+<phrase i="L_SignOut" t="サインアウト"/>
+<phrase i="L_AgtState" t="エージェント"/>
+<phrase i="L_AQS_EMPTY" t="なし"/>
+<phrase i="L_AQS_NORMAL" t="キューイング"/>
+<phrase i="L_AQS_FULL" t="フル"/>
+<phrase i="L_SECOND" t="%d s"/>
+<phrase i="L_SECONDS" t="%d s"/>
+<phrase i="L_Queue_Call" t="%d 通話"/>
+<phrase i="L_Queue_Calls" t="%d 通話"/>
+<phrase i="L_AgtIn" t="エージェントサインイン"/>
+<phrase i="L_AgtOut" t="エージェントサインアウト"/>
+
+
+<!-- #############  Exec/Admin Feature #############-->
+<phrase i="L_Executive" t="幹部"/>
+<phrase i="L_Executive_List" t="エグゼクティブリスト"/>
+<phrase i="L_Assistant" t="アシスタント"/>
+<phrase i="L_AllowOptInOut" t="アシスタントのオプトイン/オプトアウト"/>
+<phrase i="L_CallFilter" t="通話フィルタ"/>
+<phrase i="L_CallFilterMode" t="通話フィルタモード"/>
+<phrase i="L_CallFilterType" t="通話フィルタタイプ"/>
+<phrase i="L_AssistsList" t="アシスタントリスト"/>
+<phrase i="M_No_Executive" t="エグゼクティブがいません。"/>
+<phrase i="L_DivertNum" t="代理番号"/>
+<phrase i="OL_AllCalls" t="全通話"/>
+<phrase i="OL_InternalCalls" t="内線通話"/>
+<phrase i="OL_ExternalCalls" t="外線通話"/>
+<phrase i="OL_Simple" t="シンプル"/>
+<phrase i="OL_Advanced" t="アドバンスド"/>
+<phrase i="L_Opt0" t="オプトアウト"/>
+<phrase i="L_Opt1" t="オプトイン"/>
+<phrase i="M_CallFilterPrompt" t="通話フィルタ設定を変更すると、他のすべてのアシスタントにも反映されます。続行しますか?"/>
+<phrase i="M_DivertNumberPrompt" t="代理番号は必須フィールドです。"/>
+
+<!-- #############  GDS Activation Feature #############-->
+<phrase i="L_Welcome" t="ようこそ"/>
+<phrase i="S_Continue" t="続ける"/>
+<phrase i="L_Enter_Activation_Code" t="アクティベーションコードの入力"/>
+<phrase i="L_Activation_Connecting" t="接続中です。"/>
+<phrase i="L_Activation_Download_Configuration" t="ダウンロード中..."/>
+<phrase i="L_Activation_Check_Info" t="無効なアクティベーションコードコードです。"/>
+<phrase i="L_Activation_Invalid_Config" t="無効な設定です。管理者に連絡してください。"/>
+<phrase i="L_Activation_Service_Unavailable" t="サービスは利用できません。しばらくしてから再試行してください。"/>
+<phrase i="L_Activation_Internal_Error" t="電話機を再起動するか、管理者に連絡してください。"/>
+<phrase i="L_Activation_Network_Error" t="インターネット接続を確認するか、管理者に連絡してください。"/>
+<phrase i="L_Activation_Cert_Error" t="無効なサーバ証明書管理者に連絡してください。"/>
+<phrase i="L_Activation_Download_Retrying" t="ダウンロードに失敗しました再試行中..."/>
+<phrase i="L_Activation_Download_Failed" t="ダウンロード失敗。管理者にお問い合わせください。"/>
+<phrase i="M_Config_In_Progress" t="設定の確認が進行中です。これには、数分かかります。"/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/> <!--aks:can be removed after all required screens are fixed-->
+<phrase i="L_NetworkName" t="ネットワーク名"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_802.11" t="周波数帯域"/>
+<phrase i="L_5ghz" t="5 GHz"/>
+<phrase i="L_2.4ghz" t="2.4 GHz"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_WiFi_Type" t="Wi-Fiタイプ"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="YYYY"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="HH"/>
+<phrase i="Label_mm" t="MM"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_SWITCH_PORT_CFG" t="スイッチポートの設定"/>
+<phrase i="L_PC_PORT_CFG" t="PCポートの設定"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_PC_PORT_MIRRORING" t="PCポートミラー"/>
+<phrase i="L_STARTUP_DELAY" t="スタートアップ遅延"/>
+<phrase i="L_DHCP_VLAN_OPTION" t="DHCP VLANオプション"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="VLAN ID"/>
+<phrase i="L_VLAN_PRIPORITY" t="VLAN優先度"/>
+<phrase i="L_DATAPORT_VLAN" t="PCポートVLAN"/>
+<phrase i="L_DATAPORT_VLANID" t="PCポートVLAN ID"/>
+<phrase i="L_DATAPORT_PRIORITY" t="PCポート優先度"/>
+<phrase i="OL_NO_LIMIT" t="制限なし"/>
+<phrase i="S_FDegree" t="華氏"/>
+<phrase i="S_CDegree" t="摂氏"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_WLAN" t="WLAN"/>
+<phrase i="OL_WPS" t="WPS"/>
+<phrase i="OL_RELEASE_DHCP" t="DHCP IPを解放"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_DIGEST-MD5" t="DIGEST-MD5"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  #Status messages #############-->
+<phrase i="M_SM_status_no_connection" t="接続なし"/>
+<phrase i="M_SM_status_Eth_connected" t="イーサネットに接続しました"/>
+<phrase i="M_SM_status_Wifi_connected" t="Wi-Fiに接続しました"/>
+<phrase i="M_SM_Eth_Dis" t="イーサネットが接続されていません"/>
+<phrase i="M_SM_Wifi_Dis" t="Wi-Fiが切断されました"/>
+<phrase i="M_SM_V6_IP_Dup" t="重複するIPv6アドレス"/>
+<phrase i="M_SM_V4_IP_Dup" t="重複するIPv4アドレス"/>
+<phrase i="M_SM_V6_Dns_Err" t="DNSv6解決エラー"/>
+<phrase i="M_SM_Usr_Cncld_Pwr_off" t="電話機オフのキャンセル: ユーザにより、スイッチからの電源オフの指示がキャンセルされました。"/>
+<phrase i="M_SM_POE_Rqd" t="電話機オフのエラー: 電話機の電源をオフにできませんでした。オフにするためには、Power over Ethernetが必要です。"/>
+<phrase i="M_SM_NO_FILE_CHG" t="変更されたファイルはありません"/>
+<phrase i="M_SM_PORT_CFG_ERR" t="ポート設定エラー"/>
+<phrase i="M_SM_V4_ADDR_REL" t="IPv4 address released"/>
+<phrase i="M_SM_V4_ADDR_RENEW" t="IPv4アドレスを更新"/>
+<phrase i="M_SM_NTP_TEMP_TIME" t="手動時刻は、NTPが使用可能になった時点で上書きされます。"/>
+<phrase i="M_SM_CertError" t="SSL証明書エラー%s"/>
+<phrase i="M_SM_DNSError" t="アドレス解決エラー%s"/>
+<phrase i="M_SM_DNSSuccess" t="正常に解決%s"/>
+<phrase i="M_SM_NoGeolocation" t="緊急ロケーションは回線%sから特定できません。"/>
+<phrase i="M_SM_FailedGeolocation" t="緊急ロケーションをシステムから特定できません。"/>
+
+<phrase i="ReadOnly_Prompt" t="この変更を行うための権限がありません。"/>
+<phrase i="Copyright_Year" t="2000-2020"/>
+<phrase i="Copyright_Text" t="Copyright 2000-2020 Cisco Systems, Inc."/>
+
+<!-- #############  #Upgrade error message #############-->
+<phrase i="M_UG_FAIL" t="アップグレードに失敗しました"/>
+<phrase i="M_UG_CRC_FAIL" t="CRCチェックに失敗しました。"/>
+<phrase i="M_UG_MAGIC_FAIL" t="ロードが認識されません"/>
+<phrase i="M_UG_MEMORY_NOT_ENOUGH" t="システムメモリの空き領域が不足しています"/>
+<phrase i="M_UG_FILE_NOT_FOUND" t="ファイルが見つかりません"/>
+<phrase i="M_UG_READ_FAIL" t="データの取得に失敗しました"/>
+<phrase i="M_UG_WRITE_FAIL" t="データの書き込みに失敗しました"/>
+<phrase i="M_UG_HASH_CHECK_FAIL" t="ハッシュチェックに失敗しました"/>
+<phrase i="M_UG_HEADER_FAIL" t="メインヘッダーのチェックに失敗しました"/>
+<phrase i="M_UG_UPGRADE_ABORT" t="アップグレードプロセスが中断されました"/>
+<phrase i="M_UG_FORBID" t="ハードウェアまたはソフトウェアに互換性がありません"/>
+<phrase i="M_UG_CONN_FAIL" t="サーバに接続できません"/>
+<phrase i="M_UG_INTERNAL_ERR" t="アップグレードプロセス内部エラー"/>
+<phrase i="M_UG_BAD_LOAD_EBR" t="ロードまたは拡張ブートレコードが不正です"/>
+<phrase i="M_UG_BAD_SCHEME" t="ダウンロードプロトコルスキームが不正です"/>
+<phrase i="M_UG_IN_PROGRESS" t="アップグレード中"/>
+<phrase i="M_UG_BAD_URL" t="指定されたURLが不正です"/>
+<phrase i="M_UG_AUTHORIZED" t="移行アップグレードが許可されています。"/>
+<phrase i="M_UG_UNAUTHORIZED" t="移行アップグレードが許可されていません。"/>
+<phrase i="M_UG_AUTH_FAIL" t="移行読込の認証手続きが失敗しました"/>
+<phrase i="M_UG_AUTH_FNF" t="移行読込認証のファイルが見つかりません。"/>
+<phrase i="M_UG_SERV_CERT_ERR" t="SSL証明書エラー。"/>
+<phrase i="M_UG_UNKNOWN_ERR" t="不明なエラー"/>
+
+<phrase i="Tr_Configure" t="Configuration check in progress."/>
+<phrase i="Tr_Authorize" t="Authorization in progress."/>
+<phrase i="Tr_Auth_Download" t="移行と復元のアップグレードが許可されました。アップグレード実行中。"/>
+<phrase i="Tr_Unauth_Download" t="復元のアップグレードのみ許可されました。アップグレード実行中。"/>
+<phrase i="Tr_AuthFail" t="認証に失敗しました。 構成を確認してからもう一度お試しください。"/>
+<phrase i="Tr_ConfigureFail" t="Failed to download the configuration. Contact your administrator."/>
+<phrase i="Tr_ContactAdmin" t="Contact your administrator."/>
+
+<!-- TODO: Delete the following 3 strings when all code references are gone-->
+<phrase i="Tr_Revert" t="Load reversion in progress..."/>
+<phrase i="Tr_RevertPrompt" t="Do you want to revert to the previous load?"/>
+<phrase i="Tr_RevertFail" t="Failed to revert to the previous load"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s&amp;mobilePhone=%s"/>
+<phrase i="URL_AddToBSPAB" t="Application_BsDirPersAddToFrom?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2016"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All rights reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi protected setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade file select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi profile name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push button configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching available sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to personal address book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to personal address book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with personal address book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the conflict list"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the personal address book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth device name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices"/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait"/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting wireless profile"/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call history type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add new Wi-Fi profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit all changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware upgrade window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space not allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password not valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available speed dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current personal directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension name of certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter PIN."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of call history entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of received calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of placed calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of missed calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected call history entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected received calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected placed calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected missed calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to personal address book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal address book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Recents"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default transmit key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA shared key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of private key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS inner protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP inner protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="PIN"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone no"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work no"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile no"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home no"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add personal address entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check server certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed calls"/>
+<phrase i="S_Pg_C_All" t="All calls"/>
+<phrase i="S_Pg_C_XsiAll" t="Server All calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import address book from mobile phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- status messages for future use. When using, move them in translatable section-->
+<phrase i="M_SM_cant_pwr_off" t="Phone off error: Could not power off; the required EnergyWise domain is not configured."/>
+<phrase i="M_SM_app_conf" t="apply_config"/>
+<phrase i="M_SM_cust_pend" t="Custom-pending"/>
+<phrase i="M_SM_psp_dev_unreg_pwr_off" t="Device unregistered when it entered powered off due to the Power Save Plus feature"/>
+<phrase i="M_SM_trst_lst_updtd" t="Trust list updated"/>
+<phrase i="M_SM_vpn_proc_not_rng" t="VPN process not running"/>
+<phrase i="M_SM_vpn_clnt_not_rng" t="VPN client not running"/>
+<phrase i="M_SM_vpn_not_cnfgd" t="VPN not configured"/>
+<phrase i="M_SM_trst_lst_updt_faild" t="Trust list update failed"/>
+<phrase i="M_SM_itl_upd_failed" t="ITL update failed"/>
+<phrase i="M_SM_no_trst_lst" t="No trust list installed"/>
+<phrase i="M_SM_itl_instld" t="ITL installed"/>
+<phrase i="M_SM_tz_dnld_failed" t="Time zone data download failed"/>
+<phrase i="M_SM_V6_dns_to" t="IPv6 DNS timeout"/>
+<phrase i="M_SM_V4_no_tftp_svr" t="No IPv4 TFTP server"/>
+<phrase i="M_SM_V6_no_tftp_svr" t="No IPv6 TFTP server"/>
+<phrase i="M_SM_V6_dhcp_to" t="DHCPv6 Timeout"/>
+<phrase i="M_SM_V6_dns_h_un" t="DNS unknown IPv6 host"/>
+<phrase i="M_SM_V6_no_dns_svr" t="No IPv6 DNS server"/>
+<phrase i="M_SM_V6_ADDR_REL" t="IPv6 address released"/>
+<phrase i="M_SM_load_svr_invld" t="Load server is invalid"/>
+<phrase i="M_SM_tftp_svr" t="TFTP server"/>
+<phrase i="M_SM_tftp_not_auth755" t="TFTP not authorized"/>
+<phrase i="M_SM_pend" t="Pending"/>
+<phrase i="M_SM_ctl_instd" t="CTL installed"/>
+<phrase i="M_SM_ctl_updtd_failed" t="CTL update failed"/>
+<phrase i="M_SM_file_auth_fail" t="File auth fail"/>
+<phrase i="M_SM_load_auth_fail" t="Load authenication failed"/>
+<phrase i="M_SM_err_updt_lcl" t="Error updating locale"/>
+<phrase i="M_SM_load_rej_hc" t="Load rejected HC"/>
+<phrase i="M_SM_failback" t="Failback"/>
+<phrase i="M_SM_err_vrfy_cfg" t="Error verifying config info"/>
+<phrase i="M_SM_tftp_err" t="TFTP error"/>
+<phrase i="M_SM_tftp_acc_err" t="TFTP access error"/>
+<phrase i="M_SM_tcp_to" t="TCP-timeout"/>
+<phrase i="M_SM_ver_err" t="Version Error"/>
+<phrase i="M_SM_prog_err" t="Programming Error"/>
+<phrase i="M_SM_no_def_rtr" t="No default router"/>
+<phrase i="M_SM_V4_no_dns_svr" t="No IPv4 DNS server"/>
+<phrase i="M_SM_V4_dns_to" t="IPv4 DNS timeout"/>
+<phrase i="M_SM_V4_dns_h_un" t="DNS unknown IPv4 host"/>
+<phrase i="M_SM_tftp_to" t="TFTP timeout"/>
+<phrase i="M_SM_V4_dhcp_to" t="IPv4 DHCP timeout"/>
+<phrase i="M_SM_V6_Vid_Cap" t="VideoCap with IPv6 Only"/>
+
+<!-- Voice Feedback Strings (hints). DO NOT LOCALIZE this section-->
+<phrase i="VF_FEEDBACK_ON" t="voice feedback on press three times to turn off"/>
+<phrase i="VF_FEEDBACK_OFF" t="voice feedback off"/>
+<phrase i="VF_HOME_SCREEN" t="Home Screen"/>
+<phrase i="VF_STARTUP_SCREEN" t="Startup Screen"/>
+<phrase i="VF_OPTION" t="Option"/>
+<phrase i="VF_XFER_LINE" t="Transfer line"/>
+<phrase i="VF_CONF_LINE" t="Conference line"/>
+<phrase i="VF_INPUT_FIELD" t="Input field"/>
+<phrase i="VF_SWITCH_FIELD" t="Switch field"/>
+<phrase i="VF_OPTION_FIELD" t="Option field"/>
+<phrase i="VF_EXPAND_FIELD" t="Expand field"/>
+<phrase i="VF_NEXT_PAGE" t="Next page"/>
+<phrase i="VF_SLIDER_FIELD" t="Slider field"/>
+<phrase i="VF_MENU" t="Menu"/>
+<phrase i="VF_INCOMING_CALL" t="Incoming call from"/>
+<phrase i="VF_OUTGOING_CALL" t="Outgoing call to"/>
+<phrase i="VF_MISSED_CALL" t="Missed call from"/>
+<phrase i="VF_HELD_CALL" t="Held call with"/>
+<phrase i="VF_CONNECTED_CALL" t="Connected call with"/>
+<phrase i="VF_CANCEL_FORWARD" t="Cancel call forward"/>
+<phrase i="VF_MUTE" t="Mute"/>
+<phrase i="VF_SELECTED" t="Selected"/>
+<phrase i="VF_CURSOR" t="Cursor"/>
+<phrase i="VF_AT_START" t="Cursor at start"/>
+<phrase i="VF_AT_END" t="Cursor at end"/>
+<phrase i="VF_JANUARY" t="January"/>
+<phrase i="VF_FEBRUARY" t="February"/>
+<phrase i="VF_MARCH" t="March"/>
+<phrase i="VF_APRIL" t="April"/>
+<phrase i="VF_MAY" t="May"/>
+<phrase i="VF_JUNE" t="June"/>
+<phrase i="VF_JULY" t="July"/>
+<phrase i="VF_AUGUST" t="August"/>
+<phrase i="VF_SEPTEMBER" t="September"/>
+<phrase i="VF_OCTOBER" t="October"/>
+<phrase i="VF_NOVEMBER" t="November"/>
+<phrase i="VF_DECEMBER" t="December"/>
+<phrase i="VF_MENU_CLOSED" t="Menu Closed"/>
+<phrase i="VF_DND_SET" t="Do Not Disturb Set"/>
+<phrase i="VF_DND_CANCEL" t="Do Not Disturb Cancelled"/>
+<!-- Voice Feedback Strings. END OF THIS SECTION-->
+
+</phrases>

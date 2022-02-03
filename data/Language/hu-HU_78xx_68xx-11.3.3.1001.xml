@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Max number of parsable phrases is capped at 4096 in csstringrepo.c --><phrases>
+<trkLocaleName>Hungarian</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  Conference Microphones ###########-->
+
+<phrase i="L_WirelessPairing_info" t="Nyomja meg, és tartsa lenyomva a némítás gombot a mikrofonon %d-en 3 másodpercig. A párosítás alatt a mikrofon fehéren villog."/>
+<phrase i="L_UNPLUG_WIRED" t="Húzza le a vezetékes mikrofonokat a Párosít gomb megnyomása előtt."/>
+
+<phrase i="L_WIRED_MIC_CONNECTED" t="Vezetékes mikrofon %d csatlakoztatva."/>
+<phrase i="L_WIRED_MIC_DISCONNECTED" t="Vezetékes mikrofon %d csatlakozás megszüntetve."/>
+<phrase i="L_WIRELESS_MIC_DISCONNECTED" t="Vezeték nélküli mikrofon %d csatlakozás megszüntetve."/>
+<phrase i="L_WIRELESS_MIC_CONNECTED" t="Vezeték nélküli mikrofon %d csatlakoztatva."/>
+
+<phrase i="L_LOW_BATTERY" t="A mikrofonakkumulátor töltöttsége %d%25%25 alatt van."/>
+<phrase i="L_RANGE" t="Tartomány"/>
+<phrase i="L_BATTERY_LEVEL" t="Akkumulátor szintje %d%%"/>
+<phrase i="L_BATTERY_POOR_CONNECTION" t="Gyenge akkumulátor csatlakozás"/>
+<phrase i="L_BATTERY_BAD" t="Gyenge akkumulátor"/>
+<phrase i="L_PAIRED" t="Párosítva"/>
+<phrase i="L_UNPAIRED" t="Nincs párosítva"/>
+<phrase i="L_LOST_LINK" t="Megszakadt kapcsolat"/>
+<phrase i="L_UPGRADE_IN_PROGRES" t="Frissítés folyamatban"/>
+<phrase i="L_WIRELESS_MICROPHONE" t="Vezeték nélküli mikrofon %d"/>
+<phrase i="L_MICROPHONE" t="Mikrofon %d"/>
+<phrase i="L_MICROPHONES" t="Mikrofonok"/>
+<phrase i="L_WIRED_MIC" t="Vezetékes mikrofonok"/>
+<phrase i="L_WIRELESS_MIC" t="Vezeték nélküli mikrofonok"/>
+<phrase i="L_PAIR" t="Párosít"/>
+<phrase i="L_UNPAIR" t="Bontás"/>
+<phrase i="L_LOSTLINK" t="Elveszett link"/>
+<phrase i="L_WIRELESS_MICROPHONE_ID" t="Mikrofon párosítása %d"/>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="A rendszer betöltődik"/>
+<phrase i="L_S_NET" t="Hálózat inicializálása"/>
+<phrase i="L_S_DOWNLOAD" t="Letöltés folyamatban"/>
+<phrase i="L_S_UPGRADE" t="Frissítés erre:"/>
+<phrase i="L_S_UPGRADEFAILED" t="Frissítés sikertelen."/>
+<phrase i="L_S_RESYNC" t="Újraszinkronizálás erre:"/>
+<phrase i="L_S_RESYNCFAILED" t="Az újraszinkronizálás sikertelen."/>
+<phrase i="L_S_SRVC_PROVISIONING_FAILED" t="Erősítse meg kiosztási beállításait, vagy lépjen kapcsolatba a szolgáltatójával."/>
+<phrase i="L_S_CONNECT" t="Csatlakozás"/>
+<phrase i="L_S_NOCME" t="Az UCxxx nem található. Forduljon a rendszergazdához."/>
+<phrase i="L_S_REGTOKENREJECT" t="SPCP regisztrálási token visszautasítva. Újrapróbálkozás..."/>
+<phrase i="L_S_REGISTERING" t="Regisztrálás"/>
+<phrase i="L_S_REGISTERED" t="Regisztráció kész."/>
+<phrase i="L_S_REGREJECT" t="Regisztráció visszautasítva."/>
+<phrase i="L_S_REGFAILED" t="Regisztráció sikertelen."/>
+<phrase i="L_S_NO_REG" t="A telefon nem regisztrált. Lépjen kapcsolatba a rendszergazdával."/>
+<phrase i="L_S_NO_NETWORK" t="A telefon nem tud csatlakozni a hálózatra. Ellenőrizze a telefon kábeleit. Ha a probléma továbbra is fennáll, lépjen kapcsolatba a rendszergazdával."/>
+<phrase i="L_S_NO_WIFI_NETWORK" t="Be kell állítania a hálózatot, hogy engedélyezhesse a hívási funkciókat."/>
+<phrase i="L_S_SRVC_NO_NETWORK" t="Ellenőrizze internetkapcsolatát, vagy lépjen kapcsolatba a szolgáltatójával."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_NEWCALL" t="Új hívás"/>
+<phrase i="L_DS_ENTERNUMBER" t="Szám megadása"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="Minden hívás átirányítása"/>
+<phrase i="L_DS_ENTER_CFWD" t="Hívástovábbítás"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="Foglalt hívás átirány."/>
+<phrase i="L_DS_ENTER_NOANS" t="Hívásátirányítás, ha nincs válasz"/>
+<phrase i="L_DS_ENTER_BXFER" t="Feltétlen átkapcsolás céljának megadása"/>
+<phrase i="L_DS_ENTER_PARK" t="Adja meg a várakoztatandó számot"/>
+<phrase i="L_DS_ENTER_UNPARK" t="Adja meg a számot, amit nem akar tovább várakoztatni"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="Ajánlási szolgáltatási cél megadása"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="Speciális szolgáltatási cél megadása"/>
+<phrase i="L_DS_ENTER_MORE" t="Több számjegyet adjon meg"/>
+<phrase i="L_DS_ENTER_PICKUP" t="Hívásfogadási szám megadása"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="Hívásfogadási csoport megadása"/>
+<phrase i="L_DS_ENTER_PAGE" t="Személyhívó céljának megadása"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="Külső szám megadása"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="Fiókkód megadása"/>
+<phrase i="L_DS_ENTER_PROXYCALL" t="Proxy hívás"/>
+<phrase i="L_DS_ENTER_DIVERTALL" t="ÖsszÁtir"/>
+<phrase i="L_DS_LINE" t="Vonal: %s"/>
+<phrase i="L_DS_FOR" t="%s-hoz"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="Vonal"/>
+<phrase i="L_READY" t="Kész"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="Nem regiszt."/>
+<phrase i="L_CAPPN_DISABLED" t="Kikapcsolva"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="Gyors hívás"/>
+<phrase i="L_CAPPN_APP" t="Alkalmazás"/>
+<phrase i="L_CAPPN_URL" t="Szolgáltatás URL-címe"/>
+<phrase i="L_CAPPN_FEAT" t="Funkció"/>
+<phrase i="L_CAPPN_EXTFUNC" t="Kibővített funkció"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="Vendég kész"/>
+<phrase i="CALL_RINGING" t="Bejövő hívás"/>
+<phrase i="L_CONNECTED" t="Csatlakoztatva"/>
+<phrase i="L_NOT_CONNECTED" t="Nincs csatlakoztatva"/>
+<phrase i="L_OK" t="OK"/>
+<phrase i="L_DUPLICATED" t="Duplikált"/>
+<phrase i="L_INITIALIZING" t="Inicializálás"/>
+<phrase i="L_CONNECTING" t="Csatlakozás"/>
+<phrase i="L_DHCP_ERROR" t="DHCP-hiba"/>
+<phrase i="CALL_HOLDING" t="Hívás tartásban"/>
+<phrase i="CALL_END" t="Hívás befejeződött"/>
+<phrase i="CALL_CALLING" t="Hívás folyamatban"/>
+<phrase i="CALL_SEIZED" t="Megszer."/>
+<phrase i="CALL_TRYING_TO_HOLD" t="Tartott"/>
+<phrase i="CALL_DIALING" t="Tárcsázás"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="Folytatás"/>
+<phrase i="CALL_SHARE" t="Hívás megosztása"/>
+<phrase i="CALL_PAGE" t="Oldal"/>
+<phrase i="CALL_PICKUP" t="Hívás felvétele"/>
+<phrase i="CALL_PICKUPCALL" t="Hívás felvétele"/>
+<phrase i="CALL_PICKUPFAILED" t="Hívás felv. sikertelen."/>
+<phrase i="CALL_PICKUP_NULL" t="Nincsenek csengető hívások."/>
+<phrase i="CALL_GPICKUP" t="Csoportos hívás felvétele"/>
+<phrase i="CALL_GPICKUPSTATION" t="Állomás felvétele"/>
+<phrase i="CALL_ANSWERING" t="Válaszol"/>
+<phrase i="CALL_UNKNOWN" t="Ismeretlen"/>
+<phrase i="CALL_ANONYMOUS" t="Névtelen"/>
+<phrase i="CALL_USER" t="Felhasználó"/>
+<phrase i="CALL_IDLE" t="Tétlen"/>
+<phrase i="CALL_PROGRESSING" t="Haladó"/>
+<phrase i="CALL_ALERT" t="Csengetés"/>
+<phrase i="CALL_ACTIVE" t="Aktív"/>
+<phrase i="CALL_HELD" t="Tartott"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="Aktív híd"/>
+<phrase i="CALL_BRIDGE_HELD" t="Tartott híd"/>
+<phrase i="CALL_FROM" t="Hívó fél"/>
+<phrase i="CALL_TO" t="Hívott fél"/>
+<phrase i="CALL_CALLBACK" t="Visszahívás"/>
+<phrase i="CALL_FORWARD" t="HívTov"/>
+<phrase i="CALL_XFERTO" t="Tovább ide"/>
+<phrase i="CALL_PAGEFROM" t="Személyhívás innen"/>
+<phrase i="CALL_PAGETO" t="Személyhívás ide"/>
+<phrase i="CALL_BY" t="a következő által:"/>
+<phrase i="CALL_CALLER" t="Hívó fél"/>
+<phrase i="CALL_BUSY" t="Foglalt"/>
+<phrase i="CALL_REORDER" t="Újrarendez"/>
+<phrase i="CALL_CONGESTION" t="Torlódás"/>
+<phrase i="CALL_PROCEED" t="Folytatás"/>
+<phrase i="CALL_RML" t="Távoli többvonalas használat"/>
+<phrase i="CALL_INVALIDNUM" t="Érvénytelen szám"/>
+<phrase i="CALL_INVALID" t="Érvénytelen"/>
+<phrase i="L_GATHERINFO" t="Információk összegyűjtése..."/>
+<phrase i="L_FAILED" t="Sikertelen"/>
+<phrase i="L_Empty" t="Üres:"/>
+<phrase i="L_DND" t="Ne zavarjanak"/>
+<phrase i="L_CFWD" t="Átirányított hívások"/>
+<phrase i="L_CFWDTO" t="ide: %s"/>
+<phrase i="L_MissedCall" t="Új elmulasztott hívás"/>
+<phrase i="L_MissedCalls" t="Új elmulasztott hívás"/>
+<phrase i="L_RingCallList" t="Csengető hívások listája"/>
+<phrase i="L_RingStationList" t="Csengető állomások listája"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="Érvénytelen hívásvárakoztatási szám"/>
+<phrase i="L_SECS_LOGIN_OK" t="Bejelentkezés sikeres."/>
+<phrase i="L_SECS_LOGIN_FAILED" t="Bejelentkezés sikertelen. Ellenőrizze felhasználói azonosítóját és jelszavát."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="Az automatikus híváselosztó elérhetőségének frissítése sikertelen volt."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="Az automatikus híváselosztó elérhetőségének frissítése sikeres volt."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="Csatlakozás kiszolgálóhoz"/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="Adja meg felhasználói azonosítóját és jelszavát."/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="Kapcsolódás kiszolgálóhoz"/>
+<phrase i="L_SECS_HOTELING_OK" t="Bejelentkezés sikeres."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="Sikertelen bejelentkezés."/>
+<phrase i="L_SECS_HOTELING_LOGOUT_CONFIRMATION" t="Biztosan ki szeretne jelentkezni?"/>
+<phrase i="L_ACD_LoginForm" t="Automatikus híváselosztó bejelentkezési űrlap"/>
+<phrase i="L_TRANSFERRING" t="Átvitel"/>
+<phrase i="L_XFERFAILED" t="Átvitel sikertelen"/>
+<phrase i="L_LineSeizing" t="Vonal megszerzésének megkísérlése"/>
+<phrase i="L_GatheringCallInfo" t="Hívásinformációk gyűjtése"/>
+<phrase i="L_SelectingCall" t="Hívás kiválasztása"/>
+<phrase i="L_SelectingStation" t="Állomás kiválasztása"/>
+<phrase i="L_ContactingStunServer" t="Csatlakozás STUN kiszolgálóhoz"/>
+<phrase i="L_CalledPartyRinging" t="Hívott fél csengetése"/>
+<phrase i="L_TryingHold" t="Tartás folyamatban"/>
+<phrase i="L_TringResume" t="Folytatás folyamatban..."/>
+<phrase i="L_StunIn" t="STUN Be"/>
+<phrase i="L_Shared" t="Megosztott"/>
+<phrase i="L_Conference" t="Konferencia"/>
+<phrase i="L_SecureCallIndication" t="Biztonságos hívás jelzése"/>
+<phrase i="L_SystemBeep" t="Rendszersípolás"/>
+<phrase i="L_2ndDial" t="Második tárcsázás"/>
+<phrase i="L_OutsideDial" t="Külső tárcsázás"/>
+<phrase i="L_BluetoothDial" t="Bluetooth tárcsázás"/>
+<phrase i="L_MessageWaiting" t="Várakozó üzenet"/>
+<phrase i="L_RingBack" t="Visszacsengetés"/>
+<phrase i="L_OffhookWarning" t="Villáról levéve figyelmeztetés"/>
+<phrase i="L_Ring" t="Csengetés"/>
+<phrase i="L_Alert" t="Riasztás"/>
+<phrase i="L_Ring_hold" t="Csengetés – Tartás"/>
+<phrase i="L_Ring_Callback" t="Csengetés – Visszahívás"/>
+<phrase i="L_Inbound" t="Bejövő"/>
+<phrase i="L_Outbound" t="Kimenő"/>
+<phrase i="L_Forwarded" t="Továbbított"/>
+<phrase i="L_Transfered" t="Átadott"/>
+<phrase i="L_Transfer" t="Átadás"/>
+<phrase i="L_Secure" t="Biztonságos"/>
+<phrase i="L_CallsList" t="Hívások listája"/>
+<phrase i="L_InvalidAcntCode" t="Érvénytelen fiókkód"/>
+<phrase i="L_ServiceUnavailable" t="A szolgáltatás nem érhető el"/>
+<phrase i="L_Via" t="(Útvonal: %s)"/>
+<phrase i="L_CALL_DTMF_WAIT" t="Írjon be több számot, majd nyomja meg az OK gombot a folytatáshoz.."/>
+<phrase i="L_CALL_PARKED" t="Hívásvárakoztatás folyamatban"/>
+<phrase i="L_TO" t="címzett"/>
+<phrase i="L_Incoming" t="Bejövő"/>
+<phrase i="L_Private" t="Privát"/>
+<phrase i="L_Seized" t="Megszer."/>
+<phrase i="L_CurrentSelectionTitle" t="%d / %d"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="Használatban"/>
+<phrase i="CALL_OTHERRESERVED" t="Fenntartva"/>
+<phrase i="CALL_OTHERIDLE" t="Más tétlen"/>
+<phrase i="CALL_OTHERNOSERV" t="Nincs szolgáltatás"/>
+<phrase i="CALL_OTHERHOLD" t="Más tartás"/>
+<phrase i="CALL_OTHERRING" t="Más csengetés"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="Hívási statisztikák"/>
+<phrase i="T_AB_STSCH_LIST" t="Hívási statisztikák"/>
+<phrase i="L_Name" t="Név"/>
+<phrase i="L_WorkPhone" t="Munkahelyi tel."/>
+<phrase i="L_Extension" t="Mellék"/>
+<phrase i="L_HomePhone" t="Otthoni telefon"/>
+<phrase i="L_ConferenceNumber" t="Konferenciaszám"/>
+<phrase i="L_MobilePhone" t="Mobiltelefon"/>
+<phrase i="L_RingTone" t="Csengőhang"/>
+<phrase i="L_AT" t=""/>
+<phrase i="L_PeerName" t="Partnernév"/>
+<phrase i="L_PeerNumber" t="Partnertel."/>
+<phrase i="L_CallType" t="Hívás típusa"/>
+<phrase i="L_CallDuration" t="Hívás tartama"/>
+<phrase i="L_CallDuration1" t="Időtartam:"/>
+<phrase i="L_EncCodec" t="Kódoló kodek"/>
+<phrase i="L_DecCodec" t="Dekód. kodek"/>
+<phrase i="L_CallTime" t="Hívás ideje"/>
+<phrase i="L_CallID" t="Hívásazonosítás"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="Hívásvárakoztatás állapota"/>
+<phrase i="T_AB_CALLPARK_LIST" t="Hívásvárakoztatási lista"/>
+<phrase i="L_ParkingAt" t="Hívásvárakoztatás ekkor"/>
+<phrase i="L_ParkingBy" t="Hívásvárakoztatás a következő által"/>
+<phrase i="CPARK_PROGRESSING" t="Hívásvárakoztatási állapot lekérése folyamatban..."/>
+<phrase i="CPARK_FAILED" t="Hívásvárakoztatás állapotának lekérdezése sikertelen"/>
+<phrase i="CPARK_EMPTY" t="Hívásvárakoztatás üres"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="Csillagkódválasztás"/>
+<phrase i="callReturnCode" t="Visszahívás"/>
+<phrase i="blindXferCode" t="Feltétlen átkapcsolás"/>
+<phrase i="callBackActCode" t="Visszahívás"/>
+<phrase i="callBackDeactCode" t="Visszahívás törlése"/>
+<phrase i="forwardAllActCode" t="Minden hívás átirányítás"/>
+<phrase i="forwardAllDeactCode" t="Össz.hív.átirány.törlése"/>
+<phrase i="forwardBusyActCode" t="Foglalt hívás átirány."/>
+<phrase i="forwardBusyDeactCode" t="Hív.átirány.fogl.törlés"/>
+<phrase i="forwardNoAnsActCode" t="Hívásátir. nincs válasz"/>
+<phrase i="forwardNoAnsDeactCode" t="Hív.átirány.n.v.törlés"/>
+<phrase i="forwardNoAnsActCode_s" t="Hívásátir. n.v."/>
+<phrase i="forwardNoAnsDeactCode_s" t="Hív.átirány.n.v.törlés"/>
+<phrase i="blockCIDActCode" t="Hívó azonosító blokk."/>
+<phrase i="blockCIDDeactCode" t="Hív.azon. blokk. törlése"/>
+<phrase i="blockCIDPerCallActCode" t="Követk. hív.azon. blokk."/>
+<phrase i="blockCIDPerCallDeactCode" t="Köv.hív.azon.blok.törlés"/>
+<phrase i="blockANCode" t="Ism. hívás blokkolása"/>
+<phrase i="blockANCDeactCode" t="Ism. hív.blokk. törlése"/>
+<phrase i="blockANCode_s" t="ANC blokkolás"/>
+<phrase i="blockANCDeactCode_s" t="ANC blokkolás törlése"/>
+<phrase i="DNDActCode" t="Ne zavarjanak"/>
+<phrase i="DNDDeactCode" t="Ne zavarjanak törlése"/>
+<phrase i="CIDActCode" t="Hívó azonosító"/>
+<phrase i="CIDDeactCode" t="Hívó azonosító törlése"/>
+<phrase i="secureAllActCode" t="Minden hívás biztonságos"/>
+<phrase i="secureAllDeactCode" t="Össz.hív.biztons.törlés"/>
+<phrase i="secureOneCallActCode" t="Követk. biztonságos"/>
+<phrase i="secureOneCallDeactCode" t="Biztons. követk. törlése"/>
+<phrase i="pagingCode" t="Hívás személyhívón"/>
+<phrase i="callParkCode" t="Hívásparkoltatás"/>
+<phrase i="callUnparkCode" t="Parkoltatás felold."/>
+<phrase i="callPickupCode" t="Hívás felvétele"/>
+<phrase i="groupCallPickupCode" t="Csop. hívás felvétele"/>
+<phrase i="mediaLoopBackCode" t="Média visszacsatolása"/>
+<phrase i="preferG711uCode" t="G711U előnyben részesít."/>
+<phrase i="forceG711uCode" t="G711U kényszerítése"/>
+<phrase i="preferG711aCode" t="G711A előnyben részesít."/>
+<phrase i="forceG711aCode" t="G711A kényszerítése"/>
+<phrase i="preferG723Code" t="G723 előnyben részesít."/>
+<phrase i="forceG723Code" t="G723 kényszerítése"/>
+<phrase i="preferG726r16Code" t="G726r16 előnyben részes."/>
+<phrase i="forceG726r16Code" t="G726r16 kényszerítése"/>
+<phrase i="preferG726r24Code" t="G726r24 előnyben részes."/>
+<phrase i="forceG726r24Code" t="G726r24 kényszerítése"/>
+<phrase i="preferG726r32Code" t="G726r32 előnyben részes."/>
+<phrase i="forceG726r32Code" t="G726r32 kényszerítése"/>
+<phrase i="preferG726r40Code" t="G726r40 előnyben részes."/>
+<phrase i="forceG726r40Code" t="G726r40 kényszerítése"/>
+<phrase i="preferG729aCode" t="G729A előnyben részesít."/>
+<phrase i="forceG729aCode" t="G729A kényszerítése"/>
+<phrase i="preferG722Code" t="G722 előnyben részesít."/>
+<phrase i="forceG722Code" t="G722 kényszerítése"/>
+<phrase i="preferL16Code" t="L16 előnyben részesít."/>
+<phrase i="forceL16Code" t="L16 kényszerítése"/>
+<phrase i="preferILBCCode" t="iLBC előnyben részesít."/>
+<phrase i="forceILBCCode" t="iLBC kényszerítése"/>
+<phrase i="preferISACCode" t="iSAC előnyben részesít."/>
+<phrase i="forceISACCode" t="iSAC kényszerítése"/>
+<phrase i="preferG722_2Code" t="G722_2 előny. részes."/>
+<phrase i="forceG722_2Code" t="G722_2 kényszerítése"/>
+<phrase i="preferOPUSCode" t="OPUS előnyben részesít."/>
+<phrase i="forceOPUSCode" t="OPUS kényszerítése"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_AM" t="de."/>
+<phrase i="L_PM" t="du."/>
+<phrase i="L_UpTime" t="Eltelt idő"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="nap és"/>
+<phrase i="L_DAYS_AND" t="nap és"/>
+<phrase i="L_Packets" t="(csomag)"/>
+<phrase i="L_Registered" t="Regisztrált"/>
+<phrase i="L_notRegistered" t="Nem regiszt."/>
+<phrase i="L_notReachable" t="Nem érh. el"/>
+<phrase i="L_Authenticate" t="Hitelesítés"/>
+<phrase i="L_Succeeded" t="Sikeres"/>
+<phrase i="L_Error" t="Hiba"/>
+<phrase i="L_LastRegAt" t="Legutóbbi regisztráció:"/>
+<phrase i="L_NextRegIn" t="Következő regisztráció:"/>
+<phrase i="L_Proxy" t="Proxy:"/>
+<phrase i="L_Reason" t="Ok"/>
+<phrase i="L_Status" t="Állapot"/>
+<phrase i="L_CallStatusInfo" t="Állapot"/>
+<phrase i="L_XMLServices" t="XML-szolgáltatások"/>
+<phrase i="L_Tone" t="Hang"/>
+<phrase i="L_Type" t="Típus"/>
+<phrase i="L_CallName" t="Név"/>
+<phrase i="L_Number" t="Szám"/>
+<phrase i="L_Enc" t="Kódolás"/>
+<phrase i="L_Dec" t="Dekódolás"/>
+<phrase i="L_Dur" t="Időtartam"/>
+<phrase i="L_CALL" t="Hívás"/>
+<phrase i="L_CALLSTATUS" t="%d. hívás állapota"/>
+<phrase i="L_CALL1" t="1. hívás"/>
+<phrase i="L_CALL2" t="2. hívás"/>
+<phrase i="L_CALL3" t="3. hívás"/>
+<phrase i="L_CALL4" t="4. hívás"/>
+<phrase i="L_CALL5" t="5. hívás"/>
+<phrase i="L_CALL6" t="6. hívás"/>
+<phrase i="L_CALL7" t="7. hívás"/>
+<phrase i="L_CALL8" t="8. hívás"/>
+<phrase i="L_CALL9" t="9. hívás"/>
+<phrase i="L_CALL10" t="10. hívás"/>
+<phrase i="L_CALL11" t="11. hívás"/>
+<phrase i="L_INFO" t="Információ"/>
+<phrase i="L_Extension" t="Mellék"/>
+<phrase i="L_Extension1" t="Mellék:"/>
+<phrase i="T_PHN_STATUS" t="Telefon állapota"/>
+<phrase i="T_LINE_STATUS" t="Vonal állapota"/>
+<phrase i="T_PROV_STATUS" t="Kiosztás"/>
+<phrase i="T_PROV_STATUS1" t="Kiosztási állapot 1"/>
+<phrase i="T_PROV_STATUS2" t="Kiosztási állapot 2"/>
+<phrase i="T_PROV_STATUS3" t="Kiosztási állapot 3"/>
+<phrase i="T_PHN_SYS_STATUS" t="Telefon állapota"/>
+<phrase i="L_ExtLabel" t="%d. mellék állapota"/>
+<phrase i="L_Line1Status" t="1. vonal állapota"/>
+<phrase i="L_Line2Status" t="2. vonal állapota"/>
+<phrase i="L_Line3Status" t="3. vonal állapota"/>
+<phrase i="L_Line4Status" t="4. vonal állapota"/>
+<phrase i="L_Line5Status" t="5. vonal állapota"/>
+<phrase i="L_Line6Status" t="6. vonal állapota"/>
+<phrase i="L_Line7Status" t="7. vonal állapota"/>
+<phrase i="L_Line8Status" t="8. vonal állapota"/>
+<phrase i="L_Line9Status" t="9. vonal állapota"/>
+<phrase i="L_Line10Status" t="10. vonal állapota"/>
+<phrase i="L_Line11Status" t="11. vonal állapota"/>
+<phrase i="L_Line12Status" t="12. vonal állapota"/>
+<phrase i="L_Line13Status" t="13. vonal állapota"/>
+<phrase i="L_Line14Status" t="14. vonal állapota"/>
+<phrase i="L_Line15Status" t="15. vonal állapota"/>
+<phrase i="L_Line16Status" t="16. vonal állapota"/>
+<phrase i="DeletePrompt" t="Biztosan törli a következőt: %s?"/>
+<phrase i="DeleteListPrompt" t="Törölni szeretné a(z) %s előzményeit?"/>
+<phrase i="DeleteAllPrompt" t="Törölni kívánja az összes bejegyzést?"/>
+<phrase i="DeleteAllCallsPrompt" t="Törli az összes vonal összes rekordját?"/>
+<phrase i="AddPrompt" t="A bevitt adatok nem teljesek, menteni kívánja?"/>
+<phrase i="AddNullPrompt" t="A bevitt adatok nem teljesek. "/>
+<phrase i="AddFullPrompt" t="A címjegyzék tele van, a(z) nem tudja beilleszteni a bejegyzést."/>
+<phrase i="UpdatePrompt" t="A bevitt adatok nem teljesek. Frissíteni kívánja?"/>
+<phrase i="ClearPrompt" t="Törölni kívánja a(z) %s bejegyzést?"/>
+<phrase i="ClearStatusPrompt" t="Szeretné kiüríteni az állapotüzeneteket?"/>
+<phrase i="ClearString" t="Törli a következőt: %s?"/>
+<phrase i="Prompt_Logout" t="Ki szeretne jelentkezni?"/>
+<phrase i="Message_Rebooting" t="Újraindítás"/>
+<phrase i="Message_UpdateConfig" t="Konfiguráció alkalmazása"/>
+<phrase i="Message_FactoryReset" t="Nullázás gyári beállításokra. Újraindítás."/>
+<phrase i="Message_RebootingVoIP" t="Hangösszetevő frissítése"/>
+<phrase i="Message_CustomReset" t="Egyéni nullázás. Újratöltés."/>
+<phrase i="All" t="Minden hívás"/>
+<phrase i="Answered" t="Fogadott hívások"/>
+<phrase i="Outgoing" t="Tárcsázott hívások"/>
+<phrase i="Missed" t="Elmulasztott hívások"/>
+<phrase i="AnsweredCallType" t="Fogadott hívás"/>
+<phrase i="OutgoingCallType" t="Tárcsázott hívás"/>
+<phrase i="MissedCallType" t="Elmulasztott hívás"/>
+<phrase i="RebootPrompt" t="Újra kívánja indítani a rendszert?"/>
+<phrase i="DeepsleepPrompt" t="Energiatakarékosság alatt a telefon nem fogadhat hívást"/>
+<phrase i="PowerSavePromptUpgrading" t="Frissítés folyamatban; próbálkozzon újra később."/>
+<phrase i="PowerSavePromptEmlogin" t="Jelentkezzen ki az Extension Mobility funkcióból és próbálkozzon újra."/>
+<phrase i="PowerSavePromptHoteling" t="Jelentkezzen ki és próbálkozzon újra."/>
+<phrase i="PowerSavePromptCallInProgress" t="Hívás folyamatban. Fejezze be a hívást, majd próbálkozzon újra."/>
+<phrase i="FactoryResetPrompt" t="Vissza kívánja állítani a rendszer gyári alapértékeit?"/>
+<phrase i="ResetPrompt" t="Szeretné visszaállítani a rendszert?"/>
+<phrase i="ClearWlanMessagesPrompt" t="Valóban törölni szeretné az összes üzenetet?"/>
+<phrase i="CustomResetPrompt" t="Ellenőrzi a frissítéseket a testreszabási profilhoz? (háttérben dolgozik)"/>
+<phrase i="WPSPbcPrompt" t="A másik készüléken nyomja meg a WPS gombot, majd nyomja meg a Folytat gombot."/>
+<phrase i="WPSPinPrompt" t="Adja meg a PIN kódot [ %s ] a másik készüléken"/>
+<phrase i="MSG_InvalidPasswordData" t="Érvénytelen hitelesítő adatok."/>
+<phrase i="Label_Day" t="Nap"/>
+<phrase i="CertInstall" t="Telepítve"/>
+<phrase i="CertNotInstall" t="Nincs telepítve"/>
+<phrase i="L_Network_Type" t="Hálózat típusa"/>
+<phrase i="L_Network_Statistics" t="Hálózati statisztikák"/>
+<phrase i="L_Address_Type" t="Címzési típus"/>
+<phrase i="L_Gateway" t="Alapért. útvál."/>
+<phrase i="L_MAC_Address" t="MAC-cím"/>
+<phrase i="T_DEVICE_INFO" t="Termékinformációk"/>
+<phrase i="L_Product_Name" t="Terméknév"/>
+<phrase i="L_Serial_Number" t="Sorozatszám"/>
+<phrase i="L_Software_Version" t="Szoftver verziószáma"/>
+<phrase i="L_Wi-Fi_Messages" t="Wi-Fi üzenetek"/>
+<phrase i="L_VID" t="VID"/>
+<phrase i="L_Desp" t="Leírás"/>
+<phrase i="L_Hardware_Version" t="Hardververzió"/>
+<phrase i="L_Certificate" t="Tanúsítvány"/>
+<phrase i="L_Config_Version" t="Konfiguráció verzió"/>
+<phrase i="L_CustomizationInfo" t="Testreszabás"/>
+<phrase i="L_Asset_ID" t="Erőforrás azonosítója"/>
+<phrase i="L_DHCP_Server" t="DHCP-kiszolgáló"/>
+<phrase i="L_TFTP_Server_1" t="TFTP-kiszolgáló 1"/>
+<phrase i="L_Last_TFTP_Server" t="Utolsó TFTP-kiszolgáló"/>
+<phrase i="L_Host_Name" t="Állomásnév"/>
+<phrase i="L_Domain_Name" t="Tartomány"/>
+<phrase i="L_CallManager_1" t="CallManager 1"/>
+<phrase i="L_Directories_URL" t="Címtárakek URL-címe"/>
+<phrase i="L_Services_URL" t="Szolgáltatások URL-címe"/>
+<phrase i="L_Messages_URL" t="Üzenetek URL-címe"/>
+<phrase i="L_Authentication_URL" t="Hitelesítési URL-cím"/>
+<phrase i="L_User_Locale" t="Felhasználó területi beállításai"/>
+<phrase i="L_Network_Locale" t="Hálózat területi beállításai"/>
+<phrase i="L_Switch_Port_Link" t="Port linkjének átváltása"/>
+<phrase i="L_Switch_Port_Config" t="Portbeállítás átváltása"/>
+<phrase i="L_PC_Port_Config" t="Számítógépes portbeállítás"/>
+<phrase i="L_PC_Port_Link" t="PC port link"/>
+<phrase i="L_Status_Messages" t="Állapotüzenetek"/>
+<phrase i="T_PERIPHERAL_STATUS" t="Perifériás állapot"/>
+<phrase i="L_Peripheral" t="Periféria"/>
+<phrase i="L_Analog_Headset" t="Analóg fejhallgató"/>
+<phrase i="L_USB_Status" t="USB-meghajtó"/>
+<phrase i="L_xmit" t="továbbít"/>
+<phrase i="L_recv" t="fogad"/>
+<phrase i="L_Multicast" t="többes üz.küld."/>
+<phrase i="L_EthPackets" t="Ethernet: Csomagok (bájtok)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: Csomagok (bájtok)"/>
+<phrase i="L_Wireless" t="Vezeték nélküli"/>
+<phrase i="L_No_Network" t="Nincs hálózat"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="Kulcs"/>
+<phrase i="L_IPv4Status" t="IPv4 állapota"/>
+<phrase i="L_IPv6Status" t="IPv6 állapota"/>
+<phrase i="L_Prefixlen" t="Előtag hossza"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="1.felügy.kon"/>
+<phrase i="L_Sidecar2_Status" t="2.felügy.kon"/>
+<phrase i="L_DISCONNECTED" t="Lecsatlakoztatva"/>
+<phrase i="L_Attendant_Console_Unit" t="Kezelőkonzol egység %d"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="Igen"/>
+<phrase i="L_No" t="Nem"/>
+<phrase i="L_Switch0" t="Ki"/>
+<phrase i="L_Switch1" t="Be"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="Személyes címtárbejegy. szerkeszt."/>
+<phrase i="T_AB_Add_Entry" t="Személyes címbejegyzés hozzáadása"/>
+<phrase i="T_AB_Search" t="Címbejegyzés keresése"/>
+<phrase i="T_AB_Select" t="Címbejegyzés kiválasztása"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="Hívás ideje"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="Elmulasztott hívás"/>
+<phrase i="L_PhoneNo" t="Szám"/>
+<phrase i="L_CallAt" t="Hívás ekkor"/>
+<phrase i="L_Duration" t="Időtartam"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="Gyorshívó szerkesztése"/>
+<phrase i="T_SD_List" t="Gyorstárcsázások"/>
+<phrase i="L_SpeedDialNo" t="Gyorstárcsázás száma"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="Csengőhang választása"/>
+<phrase i="T_RT_Select_USB" t="Csengőhang választása USB-ről"/>
+<phrase i="T_RT_Select_Slot" t="Válasszon helyet a csengőhang mentéséhez"/>
+<phrase i="T_RT_Not_Installed" t="Nincs telepítve"/>
+<phrase i="T_RT_USER_1" t="1. felhasználó"/>
+<phrase i="T_RT_USER_2" t="2. felhasználó"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="Információk és beállítások"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Bluetooth fejhallgató"/>
+<phrase i="L_UserPref" t="Felhasználói beállítások"/>
+<phrase i="L_CallRecord" t="Hívásrögzítés beállításai"/>
+<phrase i="L_CallRecordMode" t="Hangrögzítési üzemmód"/>
+<phrase i="L_CallRecordAudioPath" t="Hang elérési útjának rögzítése"/>
+<phrase i="L_CallRecordBeep" t="Felvétel hangemlékeztető"/>
+<phrase i="L_CallRecords" t="Felvételek"/>
+<phrase i="L_CallRecordsPlayer" t="Hívási felvételek"/>
+<phrase i="L_Directory" t="Címtárak"/>
+<phrase i="OL_Fastest" t="Leggyorsabb"/>
+<phrase i="OL_Faster" t="Gyorsabb"/>
+<phrase i="OL_Normal" t="Normál"/>
+<phrase i="OL_Slower" t="Lassabb"/>
+<phrase i="OL_Slowest" t="Leglassabb"/>
+<phrase i="L_VoiceSpeed" t="Hang sebesség"/>
+<phrase i="L_SelectVFSpeed" t="Hang sebesség kiválasztása"/>
+<phrase i="L_VoiceVolume" t="Hang hangerő"/>
+<phrase i="L_VoiceFeedback" t="Hangvisszajelzés"/>
+<phrase i="L_Accessibility" t="Hozzáférhetőség"/>
+<phrase i="L_CallHistory" t="Híváslista"/>
+<phrase i="L_DisplayFrom" t="Híváslista megjel."/>
+<phrase i="L_SpeedDial" t="Gyorstárcsázások"/>
+<phrase i="L_VideoMonitoring" t="Videofigyelés"/>
+<phrase i="L_WebApplication" t="Alkalmazások"/>
+<phrase i="L_CallPreferences" t="Hívási beállítások"/>
+<phrase i="L_Anywhere" t="Anywhere"/>
+<phrase i="L_SelectLine" t="Vonal választása"/>
+<phrase i="L_Locations" t="Helyek"/>
+<phrase i="L_EditLocation" t="Hely szerkesztése"/>
+<phrase i="L_AddLocation" t="Hely hozzáadása"/>
+<phrase i="L_LocationName" t="Név"/>
+<phrase i="L_LocationNumber" t="Szám"/>
+<phrase i="L_EnableLocation" t="Hely engedélyezése"/>
+<phrase i="L_DeletePrompt" t="Törlés %s?"/>
+<phrase i="L_ConnectionSetting" t="Kapcsolat beállításai"/>
+<phrase i="L_NetworkConfig" t="Hálózat konfigurálása"/>
+<phrase i="L_AudioPreferences" t="Hangbeállítások"/>
+<phrase i="L_RingSetting" t="Csengetési beállítások"/>
+<phrase i="L_ScreenPreferences" t="Képernyő-beállítások"/>
+<phrase i="L_Administration" t="Készülékkezelés"/>
+<phrase i="T_ST_IP_Address" t="Statikus IP-cím beállításai"/>
+<phrase i="T_ST_IPV4_Address" t="IPv4-cím beállítások"/>
+<phrase i="T_ST_IPV6_Address" t="IPv6 cím beállítások"/>
+<phrase i="L_IPAddress" t="IP-cím"/>
+<phrase i="L_StaticIPAddress" t="Statikus IP-cím"/>
+<phrase i="L_SubnetMask" t="Alhálóz. maszk"/>
+<phrase i="L_GatewayAddress" t="Átjáró címe"/>
+<phrase i="L_PrimaryDNS" t="1. DNS"/>
+<phrase i="L_SecondaryDNS" t="2. DNS"/>
+<phrase i="L_PrefixLength" t="Előtag hossza"/>
+<phrase i="L_BroadcastEcho" t="Sugárzási visszhang"/>
+<phrase i="L_AutoConfig" t="Autom. konfig."/>
+<phrase i="T_ST_Admin" t="Adminisztráció"/>
+<phrase i="L_About" t="Névjegy"/>
+<phrase i="L_SetPassword" t="Jelszó beállítása"/>
+<phrase i="L_DateTime" t="Dátum/idő"/>
+<phrase i="L_Language" t="Nyelv"/>
+<phrase i="L_Reboot" t="Újraindítás"/>
+<phrase i="L_Reset" t="Visszaállítás"/>
+<phrase i="L_UserDataReset" t="Felhasználói adatok visszaállítása"/>
+<phrase i="L_ConfigReset" t="Adatvisszaállítás konfig"/>
+<phrase i="L_NetworkReset" t="Hálózat adat"/>
+<phrase i="L_ServiceProviderReset" t="Szolgáltató visszaállítása"/>
+<phrase i="L_Deepsleep" t="Energiatakarékosság"/>
+<phrase i="L_FactoryReset" t="Gyári alapértékek"/>
+<phrase i="L_CustomReset" t="Egyéni nullázás"/>
+<phrase i="L_ProfileRule" t="Profilszabály"/>
+<phrase i="L_CallControlSettings" t="Hívás-ellenőrzési beállítások"/>
+<phrase i="L_SignalingProtocol" t="Jelzési protokoll"/>
+<phrase i="L_AutoDetectSPCP" t="SCCP autom.észlelése"/>
+<phrase i="T_ST_Audio" t="Hangbeállítások"/>
+<phrase i="L_PrefAudioDevice" t="Elsődl. hangeszköz"/>
+<phrase i="L_EnableStereo" t="Fülhallgató típusa"/>
+<phrase i="L_PhRingTone" t="Alapértelmezett csengetés"/>
+<phrase i="L_Ext1RingTone" t="1. mellék csengőh."/>
+<phrase i="L_Ext2RingTone" t="2. mellék csengőh."/>
+<phrase i="L_Ext3RingTone" t="3. mellék csengőh."/>
+<phrase i="L_Ext4RingTone" t="4. mellék csengőh."/>
+<phrase i="L_Ext5RingTone" t="5. mellék csengőh."/>
+<phrase i="L_Ext6RingTone" t="6. mellék csengőh."/>
+<phrase i="L_Ext7RingTone" t="7. mellék csengőh."/>
+<phrase i="L_Ext8RingTone" t="8. mellék csengőh."/>
+<phrase i="L_Ext9RingTone" t="9. mellék csengőh."/>
+<phrase i="L_Ext10RingTone" t="10. mellék csengőh."/>
+<phrase i="L_Ext11RingTone" t="11. mellék csengőh."/>
+<phrase i="L_Ext12RingTone" t="12. mellék csengőh."/>
+<phrase i="L_Ext13RingTone" t="13. mellék csengőh."/>
+<phrase i="L_Ext14RingTone" t="14. mellék csengőh."/>
+<phrase i="L_Ext15RingTone" t="15. mellék csengőh."/>
+<phrase i="L_Ext16RingTone" t="16. mellék csengőh."/>
+<phrase i="L_SpeakerTuning" t="Hangszóró hangolása"/>
+<phrase i="L_MicrophoneGain" t="Mikrofon erősítés"/>
+<phrase i="L_Micgain" t="Mikr erősítés"/>
+
+<phrase i="T_ST_CallForward" t="Hívásátirányítási beállítások"/>
+<phrase i="L_ForwardAll" t="ÖsszTov"/>
+<phrase i="L_ForwardBusy" t="Tov., ha fogl."/>
+<phrase i="L_ForwardNoAns" t="Hívásátirányítás, nincs válasz"/>
+<phrase i="L_ForwardAllNumbers" t="Minden hívás átirány."/>
+<phrase i="L_ForwardBusyNumber" t="Átirány., ha foglalt"/>
+<phrase i="L_ForwardNoAnsNumber" t="Átirány., ha nem vál."/>
+<phrase i="L_ForwardNoAnsDelay" t="Átir.kés., ha n.vál."/>
+<phrase i="L_NumberofRingsBeforeForwarding" t="Csengések száma"/>
+<phrase i="L_RingReminder" t="Csengetési emlékeztető"/>
+<phrase i="L_IPMODE" t="IP-mód"/>
+<phrase i="L_WiFiConfiguration" t="Wi-Fi beállításai"/>
+<phrase i="L_EthernetConfiguration" t="Ethernet beállítása"/>
+<phrase i="L_ConnectionType" t="Kapcsolat típusa"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="Automatikus csatlakozás"/>
+<phrase i="L_Headset" t="Fejhallgató"/>
+<phrase i="L_WebServer" t="Webkiszolgáló"/>
+<phrase i="L_DiscoveryAddress" t="Felismerési cím"/>
+<phrase i="L_LVSAutoDiscovery" t="Kulcsrendszer autom. felismerése"/>
+<phrase i="L_LVSProxyAddress" t="Kulcsrendszer IP-címe"/>
+<phrase i="L_DHCPOption" t="Használandó DHCP"/>
+<phrase i="L_DHCPv6Option" t="Használandó DHCPv6"/>
+<phrase i="L_TranProtocol" t="Átviteli protokoll"/>
+<phrase i="L_NetworkStatus" t="Hálózat állapota"/>
+<phrase i="L_RebootHistory" t="Újraindítási előzmények"/>
+<phrase i="L_IPStatus" t="IP állapota"/>
+<phrase i="T_ST_SetTime" t="Aktuális idő beállítása"/>
+<phrase i="L_Presence_Available" t="Elérhető"/>
+<phrase i="L_Presence_Away" t="Távol"/>
+<phrase i="L_Presence_DND" t="Ne zavarjanak"/>
+<phrase i="L_Presence_Offline" t="Nem elérhető"/>
+<phrase i="L_Presence_Title" t="Jelenlétem"/>
+<phrase i="L_IMPContacts" t="IM&amp;P kapcsolatok"/>
+<phrase i="L_ContactDetails" t="Kapcsolat adatai"/>
+<phrase i="L_AllContacts" t="Összes névjegy"/>
+<phrase i="L_Favorites" t="Kedvencek"/>
+<phrase i="L_XMPPDisconnected" t="Megszak. a kapcs. a kiszolgálóval"/>
+<phrase i="L_XMPPAuthFailed" t="Hitelesítési hibák"/>
+<phrase i="L_AB" t="Személyes címjegyzék"/>
+<phrase i="L_AllDirectorySearch" t="Összes"/>
+<phrase i="L_XMLDirectory" t="Vállalati címtár (XML)"/>
+<phrase i="L_LDAPDirectory" t="Vállalati címtár (LDAP)"/>
+<phrase i="L_LVSDirectory" t="Vállalati címtár"/>
+<phrase i="L_BroadsoftDirectory" t="BroadSoft-címtárak"/>
+<phrase i="L_BroadsoftPersonal" t="Személyes"/>
+<phrase i="L_BroadsoftGroup" t="Csoport"/>
+<phrase i="L_BroadsoftEnterprise" t="Nagyvállalat"/>
+<phrase i="L_BroadsoftGroupCommon" t="Csop. köz."/>
+<phrase i="L_BroadsoftEnterpriseCommon" t="Vállalat közös"/>
+<phrase i="L_XMLService" t="Cisco XML-szolgáltatások"/>
+<phrase i="T_ST_CallHistories" t="Híváselőzmények"/>
+<phrase i="T_ST_Language" t="Nyelvválasztás"/>
+<phrase i="T_ST_Password" t="Jelszó beállítása"/>
+<phrase i="L_OldPassword" t="Régi jelszó"/>
+<phrase i="L_NewPassword" t="Új jelszó"/>
+<phrase i="L_ReEnterNewPassword" t="Jelszó beírása ismét"/>
+<phrase i="L_IncorrectOldPassword" t="A régi jelszó nem egyezik az eredeti jelszóval."/>
+<phrase i="L_NewPasswordNotSame" t="Az új jelszó és az új jelszó megerősítése nem egyezik."/>
+<phrase i="L_NewPasswordNotLong" t="A felhasználó jelszavának legalább 4 karakterből kell állnia."/>
+<phrase i="L_CallForwarding" t="Hívásátirányítás"/>
+<phrase i="L_CallWaiting" t="Hívásvárakozás"/>
+<phrase i="L_VoiceMail" t="Hangposta"/>
+<phrase i="L_BlockCallerID" t="Hívó fél azon. blokkol."/>
+<phrase i="L_BlockAnonymCall" t="Ism. hívás blkolása"/>
+<phrase i="L_SecureCall" t="Biztonságos hívás"/>
+<phrase i="L_DialAssist" t="Tárcsázási segédlet"/>
+<phrase i="L_AutoAnswerPage" t="Személyhívó autom.válasz"/>
+<phrase i="L_MissCallShortCut" t="Elmul. hívás p.ikon"/>
+<phrase i="L_EnabledScreenSaver" t="Képernyővédő"/>
+<phrase i="L_DisplayBrightness" t="Kijelző fényereje"/>
+<phrase i="L_ContrastLevel" t="Kontraszt szintje"/>
+<phrase i="L_WallPaper" t="Háttérkép"/>
+<phrase i="T_ST_ScreenSaver" t="Képernyővédő beállításai"/>
+<phrase i="L_ScreenSaverType" t="Képernyővédő típusa"/>
+<phrase i="L_TriggerInterval" t="Indítási időköz (mp)"/>
+<phrase i="L_RefreshInterval" t="Frissítési időköz (mp)"/>
+<phrase i="L_BackLight" t="Háttérvilágítás"/>
+<phrase i="L_BackLightTimer" t="Háttérvilágítás időzítője"/>
+<phrase i="L_Contrast" t="Kontraszt"/>
+<phrase i="L_Brightness" t="Fényerő"/>
+<phrase i="T_StarCodeList" t="Csillagkód választása"/>
+<phrase i="T_Select_Image" t="Kép választása"/>
+<phrase i="T_ST_Time" t="Időbeállítások"/>
+<phrase i="L_TimeZone" t="Időzóna"/>
+<phrase i="L_DayLightSaving" t="Nyári időszámítás"/>
+<phrase i="L_NTPServer1" t="1. NTP-kiszolgáló"/>
+<phrase i="L_NTPServer2" t="2. NTP-kiszolgáló"/>
+<phrase i="L_SetCurrentTimeManually" t="Aktuális idő kézi beállítása"/>
+<phrase i="T_ST_TimeZone" t="Időzóna beállítása"/>
+<phrase i="L_TimeFormat" t="Időformátum"/>
+<phrase i="L_DateFormat" t="Dátumformátum"/>
+<phrase i="L_DHCP_Address_Released" t="DHCP-cím felszabadítva"/>
+<phrase i="L_Erase_Config" t="Konfiguráció törlése"/>
+<phrase i="L_WebServerWritable" t="Webkiszolgáló írható"/>
+<phrase i="M_ABEmpty" t="A címjegyzék üres."/>
+<phrase i="M_ABDuplicate" t="Minden bejegyzés egyforma."/>
+<phrase i="M_InvalidVLAN" t="A VLAN ID-nek 0 és 4095 között kell lennie."/>
+<phrase i="M_InvalidDataportVLAN" t="A PC port VLAN ID-jének 0 és 095 között kell lennie."/>
+<phrase i="M_InvalidDHCPVLANOption" t="A DHCP VLAN-opció [%s] érvénytelen."/>
+<phrase i="M_InvalidDataportPriority" t="A prioritásnak 0 és 7 között kell lennie."/>
+<phrase i="M_InvalidMAddr" t="A felismerési cím formátuma aaa.bbb.ccc.ddd:pppp kell legyen."/>
+<phrase i="M_InvalidNetStartupDelay" t="Az indítási késleltetésnek 1 és 300 között kell lennie."/>
+<phrase i="M_RebootInvalid" t="Hívások folyamatban. Nem lehet újraindítani."/>
+<phrase i="M_FactoryResetInvalid" t="Hívások folyamatban. Nem lehet visszaállítani a gyári alapértékeket."/>
+<phrase i="M_CustomResetInvalid" t="Hívások folyamatban. Az egyéni nullázás nem lehetséges."/>
+<phrase i="M_OperationInvalid" t="Telefonos hívások vannak folyamatban. A művelet nem végezhető el."/>
+<phrase i="M_OperationInvalidInUpgrade" t="A telefon frissítése folyamatban van. A művelet nem végezhető el."/>
+<phrase i="M_ProfileRuleInvalid" t="Hívások folyamatban. A profilszabállyal nem lehet újraszinkr."/>
+<phrase i="M_InvalidDHCPOptions" t="Az értéknek vesszővel elválasztott listának kell lennie [%s]."/>
+<phrase i="M_UpgradeStart" t="Frissítés indítása."/>
+<phrase i="M_UpgradeInProgress" t="Frissítés folyamatban. Ne kapcsolja ki."/>
+<phrase i="M_DownloadProgress" t="Címbejegyzések letöltése"/>
+<phrase i="M_UpgradeCompleted" t="A frissítés befejeződött."/>
+<phrase i="M_UpgradeAborted" t="A frissítést a felhasználó megszakította."/>
+<phrase i="M_UpgradeAbortedWithError" t="A frissítés hibával szakadt meg."/>
+<phrase i="M_UpgradeCompletedReboot" t="A frissítés befejeződött. Újratöltés..."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="A frissítés hibával szakadt meg. Újratöltés..."/>
+<phrase i="M_InvalidCFWDNoAnsDelay" t="Az átir. késl., ha nem vál. értéknek 1 és 300 között kell lennie."/>
+<phrase i="M_InvalidCFWDNoFKS" t="Kevesebb, mint %d karaktert írjon be!"/>
+<phrase i="M_EmptyCFWDNoFKS" t="A hívásátirányítási telefonszám mező kitöltése kötelező"/>
+<phrase i="M_InvalidCFWDNoAnsDelayXSI" t="Az XSI átir. késl, ha nem vál. Értéknek 2 és 20 között, vagy 0-nak kell lennie."/>
+<phrase i="T_Login_Form" t="Bejelentkezési űrlap"/>
+<phrase i="L_Pending" t="Függőben"/>
+<phrase i="L_Customized" t="Testre szabott"/>
+<phrase i="L_Open" t="Nyílt"/>
+<phrase i="L_Unavailable" t="Nem elérhető"/>
+<phrase i="L_CustomPending" t="Egyéni-függőben"/>
+<phrase i="L_Acquired" t="Megszerezve"/>
+<phrase i="L_Aborted" t="Megszakítva"/>
+<phrase i="L_GdsAcquired" t="GDS-Megszerezve"/>
+<phrase i="L_GdsPending" t="GDS-Függőben"/>
+<phrase i="L_GdsCustomPending" t="GDS-Egyéni-függőben"/>
+<phrase i="L_Hour" t="Óra"/>
+<phrase i="L_Minute" t="Perc"/>
+<phrase i="L_Second" t="Másodperc"/>
+<phrase i="L_HourShort" t="Óra"/>
+<phrase i="L_MinuteShort" t="Perc"/>
+<phrase i="L_SecondShort" t="Másodperc"/>
+<phrase i="M_InvalidRefreshTime" t="A frissítési intervallumnak 1 és 999999 másodperc között kell lennie."/>
+<phrase i="M_InvalidBackLightTime" t="Háttérvilágítás indítási idő legalább 30 kell legyen."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="Az indítási időköznek 30 és 65000 másodperc között kell lennie."/>
+<phrase i="M_InvalidContrastLevel" t="A fényerőnek 4 és 15 között kell lennie."/>
+<phrase i="M_InvalidContrastActualLevel" t="A kontrasztnak 1 és 15 között kell lennie."/>
+<phrase i="L_Att_Cons_Pref" t="Felügyelő konzol beállításai"/>
+<phrase i="L_Attendant_Console_Pref" t="Felügyelő konzol beállításai"/>
+<phrase i="L_LCD_Contrast" t="Fényerő"/>
+<phrase i="L_Font_Size" t="Betűméret"/>
+<phrase i="L_Display_Mode" t="Kijelző mód"/>
+<phrase i="L_Authenticating" t="Hitelesítés"/>
+<phrase i="L_Authenticated" t="Hitelesített"/>
+<phrase i="L_Exposure" t="Expozíció"/>
+<phrase i="L_Kem_Type" t="KEM típus"/>
+<phrase i="M_Directories_Disabled" t="A könyvtár le van tiltva. Forduljon a rendszergazdához."/>
+<phrase i="M_Directories_Unavailable" t="Nincs rendelkezésre álló könyvtár. Forduljon a rendszergazdához."/>
+<phrase i="M_DirAll_Unavailable" t="Nem áll rendelkezésre. Forduljon a rendszergazdához."/>
+<phrase i="L_SIGNIN_FAILED" t="Hiba a bejelentkezési adatokkal, lépjen kapcsolatba a rendszergazdával."/>
+
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="Belső címtárak"/>
+<phrase i="L_EXTERNAL_DIR" t="Külső címtárak"/>
+<phrase i="L_GROUPS_DIR" t="Csoport címtárake"/>
+<phrase i="L_STATIONS_DIR" t="Állomás címtárake"/>
+<phrase i="L_Auto_Attnd" t="Automatikus felügyelő"/>
+<phrase i="L_Int_Music" t="Belső zene"/>
+<phrase i="L_ExternalMusic" t="Külső zene"/>
+<phrase i="L_Station" t="Állomás"/>
+<phrase i="L_PageGroup1" t="1. személyhívási csoport"/>
+<phrase i="L_PageGroup2" t="2. személyhívási csoport"/>
+<phrase i="L_PageGroup3" t="3. személyhívási csoport"/>
+<phrase i="L_PageGroup4" t="4. személyhívási csoport"/>
+<phrase i="L_PageGroup5" t="5. személyhívási csoport"/>
+<phrase i="L_Page_Grp" t="Személyhívási csoport"/>
+<phrase i="L_ExternalPage" t="Külső személyhívás"/>
+<phrase i="L_CallPark" t="Hívásparkoltatás"/>
+<phrase i="L_PickUp" t="Felvétel"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="Szervezet"/>
+<phrase i="L_FirstName" t="Keresztnév"/>
+<phrase i="L_LastName" t="Vezetéknév"/>
+<phrase i="LDAP_DISPLAY_NAME" t="Név"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="Munkahelyi tel."/>
+<phrase i="LDAP_MOBILE_NUMBER" t="Mobiltelefon"/>
+<phrase i="LDAP_ACCESS_ERROR" t="LDAP-hiba: Nem lehet csatlakozni a kiszolgálóhoz."/>
+<phrase i="LDAP_STARTTLS_ERROR" t="LDAP hiba: StartTLS művelet sikertelen"/>
+<phrase i="LDAP_InvalidInput" t="LDAP-hiba: Érvénytelen beviteli érték"/>
+<phrase i="LDAP_NoFilter" t="Definiáljon szűrőt!"/>
+<phrase i="LDAP_TooManyResults" t="Túl sok a találat. Pontosítsa a keresést"/>
+<phrase i="LDAP_NoResult" t="Nem található egyezés"/>
+<phrase i="NoRingTone" t="Nincs csengőhang"/>
+<phrase i="S_Failed" t="A keresés sikertelen."/>
+<phrase i="S_Sys_Err" t="Rendszerhiba."/>
+<phrase i="T_LDAP_ResultList" t="Váll. címtárak  (LDAP) eredm.lista"/>
+<phrase i="T_LDAPQueryForm" t="LDAP lekérdezési űrlap"/>
+<phrase i="T_LDAPAddrEntry" t="Váll. címtárak (LDAP) címbejegyzés"/>
+<phrase i="T_LDAPQuery" t="LDAP-kiszolgáló lekérdezése"/>
+<phrase i="T_LDAP" t="LDAP"/>
+<phrase i="L_SimpleSearch" t="Egyszerű keresés"/>
+<phrase i="L_AdvSearch" t="Speciális keresés"/>
+<phrase i="T_LDAPSigninForm" t="LDAP bejelentkezés"/>
+<phrase i="L_ClientDN" t="Kliens DN"/>
+
+<!-- #############  #BroadSoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="Hozzáférés a címtárhoz sikertelen. Ellenőrizze a konfigurációt és a hálózati beállításokat."/>
+<phrase i="BSDIR_ACCESS_TIMEOUT" t="Címtár hozzáférés időtúllépés. Ellenőrizze a konfigurációt és a hálózati beállításokat."/>
+<phrase i="BSDIR_InvalidInput" t="Broadsoft-címtárak hibája: Érvénytelen beviteli érték."/>
+<phrase i="BSDIR_HTTP_AUTH_ERR" t="Hitelesítési hiba. Ellenőrizze a fiókját."/>
+<phrase i="BSDIR_TooManyResults" t="Túl sok a találat. Pontosítsa a keresést"/>
+<phrase i="BSDIR_NoSearchParameters" t="Adja meg a keresési feltételeket"/>
+<phrase i="BSDIR_Setting_MSG" t="Ez a módosítás más csoportbeállításokra is hatással van. Szeretné elmenteni?"/>
+<phrase i="T_BSDIR_CONFIG" t="BroadSoft címtárak konfig."/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="Személyes címtár keresése"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="Keresés a csoportcímtárakben"/>
+<phrase i="T_BSDIR_SEARCH_GROUP_COMMON" t="Keresés a csoport közös címtárban"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="Nagyvállalati címtárak keresése"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE_COMMON" t="Keresés a közös nagyvállalati címtárban"/>
+<phrase i="T_BSDIR_SEARCH_ALL" t="Keresés minden Broadsoft címtárban"/>
+<phrase i="T_BSDIR_Pers_Contact_Add" t="BroadSoft személyes névjegy hozzáadása"/>
+<phrase i="T_BSDIR_Pers_Contact_Edit" t="BroadSoft személyes névjegy szerkesztése"/>
+<phrase i="M_SavePersContactPrompt" t="Nem sikerült elmenteni a névjegyet %s."/>
+<phrase i="M_DeletePersContactPrompt" t="Nem sikerült törölni a névjegyet %s."/>
+
+<phrase i="L_HOST_SERVER" t="Állomáskiszolgáló"/>
+<phrase i="L_AUTH_TYPE" t="Hitelesítés típusa"/>
+<phrase i="L_SIPAUTH_ID" t="SIP hit. azon."/>
+<phrase i="L_SIPAUTH_PWD" t="SIP jelszó"/>
+<phrase i="L_DIR_NAME" t="Címtár neve"/>
+<phrase i="T_Configure" t="Konfigurálás %s"/>
+
+<phrase i="T_BSDIR_SEARCH" t="Broadsoft-címtárak keresése"/>
+<phrase i="T_SIMPLE_SEARCH" t="Egyszerű keresés"/>
+<phrase i="T_ADVANCED_SEARCH" t="Speciális keresés"/>
+<phrase i="L_BSDIR_LNAME" t="Vezetéknév"/>
+<phrase i="L_BSDIR_FNAME" t="Keresztnév"/>
+<phrase i="L_BSDIR_GROUPID" t="Csoportazonosító"/>
+<phrase i="L_BSDIR_DEPT" t="Részleg"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="Részl."/>
+<phrase i="L_BSDIR_EMAIL" t="E-mail"/>
+
+<phrase i="BSCLOG_ACCESS_ERROR" t="Hozzáférési hiba. Ellenőrizze a konfigurációt és a hálózatot"/>
+<phrase i="BsClog_InvalidInput" t="Üres vagy érvénytelen beviteli érték."/>
+<phrase i="BsClog_TooManyResults" t="Túl sok hívásnapló-bejegyzés."/>
+<phrase i="BsClog_NoResult" t="Nincsenek hívásnaplókra vonatkozó bejegyzések."/>
+<phrase i="BSCLOG_HTTP_AUTH_ERR" t="Hitelesítési hiba: Próbálja újra a hitelesítést."/>
+
+<phrase i="BsAnywhere_TooManyResults" t="Elérte az Anywhere helyszínek maximális számát."/>
+<phrase i="BsAnywhere_NoLine" t="Nincs Anywhere vonal engedélyezve."/>
+<phrase i="BsAnywhere_BadRequest" t="Érvénytelen bemenet vagy művelet."/>
+<phrase i="BsAnywhere_ServerBusy" t="A szerver foglalt."/>
+
+<phrase i="XSI_GET_ERROR" t="Nem sikerült az XSI beállításokat lekérni."/>
+<phrase i="XSI_GET_AUTH_ERROR" t="Hitelesítési hiba. Nem sikerült az XSI beállításokat lekérni."/>
+<phrase i="XSI_GET_DNS_ERROR" t="DNS hiba. Nem sikerült az XSI beállításokat lekérni."/>
+<phrase i="XSI_SET_ERROR" t="Nem sikerült beállítani az XSI beállításokat."/>
+<phrase i="XSI_SET_AUTH_ERROR" t="Hitelesítési hiba. Nem sikerült beállítani az XSI beállításokat."/>
+<phrase i="XSI_SET_DNS_ERROR" t="DNS hiba. Nem lehetett beállítani az XSI beállításokat."/>
+<phrase i="XSI_SET_INVALID" t="Érvénytelen paraméterek. Nem sikerült beállítani az XSI beállításokat."/>
+<phrase i="XSI_SET_ERR_400_PERMISSION" t="Nincs engedélye a beállítás módosítására."/>
+<phrase i="XSI_SET_ERR_400_INVALIDNUM" t="Érvénytelen telefonszám. A számnak csak -, 0–9 karaktert vagy E. 164 számot tartalmazhat. A számjegyek maximális száma 30."/>
+
+<phrase i="T_LVSDIR_REQ" t="LVS-címtárak lekérése a kiszolgálóról."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="LVS-címtárak lekérése sikertelen."/>
+
+<!-- #############  #All Directories #############-->
+<phrase i="T_ALLDIRECTORY_SEARCH" t="Keresés minden címtárban"/>
+<phrase i="T_ALLDIRECTORY_RESULTS" t="Keresési eredmények"/>
+<phrase i="T_ALLDIRECTORY_DETAILS" t="Részletes keresési eredmények"/>
+<phrase i="ALLDIRECTORY_TIMEOUT_ERROR" t="Keresés időkeret lejárt. Kérjük, ellenőrizze a konfigurációt és a hálózatot."/>
+
+<!-- #############  #Call Recording #############-->
+<phrase i="L_RECORDING" t="Felvétel"/>
+<phrase i="L_RECORDINGPAUSED" t="A felvétel szünetel"/>
+
+<!-- #############  #Customizable PLKs  #############-->
+<phrase i="L_DefSpeedDial" t="Gyorstárcsázás megadása"/>
+<phrase i="L_Define_BLF_Presence" t="BLF jelenlét meghatározása"/>
+<phrase i="L_PLK_ERROR" t="Hiba: Üres vagy érvénytelen bevitel."/>
+<phrase i="PLK_DeletePrompt" t="Valóban szeretné eltávolítani a funkciót a(z) %s %d-n?"/>
+<phrase i="L_SelectFeature" t="Funkció kiválasztása"/>
+<phrase i="L_BLF_Presence" t="BLF jelenlét"/>
+<phrase i="L_BLF_SD" t="BLF + Gyorstárcsázás"/>
+<phrase i="L_BLF_List" t="BLF lista"/>
+<phrase i="L_BLF_CP" t="BLF + Hívás felvétele"/>
+<phrase i="L_BLF_SD_CP" t="BLF + Gyorstárcsázás + Hívás felvétele"/>
+<phrase i="L_Define_BLF_Presence" t="BLF jelenlét meghatározása"/>
+<phrase i="L_Search_BLF_List" t="Keresés a BLF listában"/>
+<phrase i="L_Select_User" t="Felhasználó kiválasztása"/>
+<phrase i="L_UserId" t="Felhaszn. azon."/>
+<phrase i="L_Label" t="Címke"/>
+<phrase i="L_MWI" t="MWI"/>
+<phrase i="L_MWI_SD" t="MWI + Gyorstárcsázás"/>
+<phrase i="L_PLK_Shortcut" t="Menü parancsikonja"/>
+<phrase i="L_PLK_LCR" t="Nem fogadott hívás"/>
+<phrase i="L_PLK_ACD" t="ACD"/>
+<phrase i="L_PLK_CallRetrieve" t="Hívás lekérése"/>
+<phrase i="L_PLK_Forward" t="Hívásátadás"/>
+<phrase i="L_PLK_CLR_DND" t="DND törlése"/>
+<phrase i="L_PLK_CLR_Forward" t="Átirányítás törlése"/>
+<phrase i="L_PLK_CLR_Divert" t="Főnöki átir. törlés"/>
+<phrase i="L_CallInfo" t="Hívásadatok"/>
+<phrase i="L_CallList" t="Híváslista"/>
+<phrase i="L_ProxyCall" t="Proxy-hívás"/>
+<phrase i="L_Divert" t="Főnöki átirányítás"/>
+<phrase i="L_CallPush" t="Hívás push"/>
+<phrase i="L_BridgeIn" t="Bridge be"/>
+<phrase i="M_Key_Disabled" t="A gomb le van tiltva."/>
+<phrase i="M_Callpush_Not_Held" t="A hívás nincs csatlakoztatva és nincs tartva."/>
+<phrase i="M_Callpush_No_Held" t="A vonalon nincs hívás csatlakoztatva, illetve tartva."/>
+<phrase i="M_No_Idle_Call" t="Nincs folytatható üres hívás."/>
+<phrase i="M_Not_Remote_Connected" t="A hívás nem csatlakozik a távoli oldalhoz."/>
+<phrase i="M_No_CallInfo" t="Hívásinformáció nem elérhető."/>
+<!-- PLK labels -->
+<phrase i="L_AttConsole" t="Felügyelőkonzol"/>
+<phrase i="L_WpsPbc" t="WPS PBC"/>
+<phrase i="L_WpsPin" t="WPS PIN"/>
+<phrase i="L_IPV4_Address" t="IPv4-cím"/>
+<phrase i="L_IPV6_Address" t="IPv6-cím"/>
+<phrase i="L_UserSignIn" t="Felhasználó belépés"/>
+<phrase i="L_UserSignOut" t="Felhasználó kilépés"/>
+<phrase i="L_ProAcnt" t="Fiókprofil"/>
+<phrase i="L_Phone_Statistics" t="Telefon statisztika"/>
+<phrase i="L_XML_Application" t="XML alkalmazás"/>
+<phrase i="L_Personal_Directory" t="Személyes címtár"/>
+<phrase i="L_All_Directories" t="Minden címtár"/>
+<phrase i="L_XML_Directory" t="XML címtár"/>
+<phrase i="L_LDAP_Directory" t="LDAP-címtár"/>
+<phrase i="L_BluetoothContacts" t="Bluetooth-kapcsolat"/>
+<!-- PSK labels -->
+<phrase i="S_Accessibility" t="Kisegít."/>
+<phrase i="S_AllCalls" t="Össz hív"/>
+<phrase i="S_Received" t="Fogadott"/>
+<phrase i="S_Placed" t="Tárcsáz."/>
+<phrase i="S_Executive" t="Vezető"/>
+<phrase i="S_Assistant" t="Titkár"/>
+<phrase i="S_UserPref" t="Felh.beá"/>
+<phrase i="S_CallPref" t="Hívásbeá"/>
+<phrase i="S_CfwdSetting" t="Átirá.b."/>
+<phrase i="S_Anywhere" t="Anywhere"/>
+<phrase i="S_AudioPref" t="Hangbeá."/>
+<phrase i="S_ScreenPref" t="Képbeáll"/>
+<phrase i="S_ScreenSaver" t="Kép.védő"/>
+<phrase i="S_AttConsole" t="K. Konzol"/>
+<phrase i="S_RingTone" t="Cs.hang"/>
+<phrase i="S_BlueTooth" t="Bl.tooth"/>
+<phrase i="S_NetworkConf" t="Hálózat"/>
+<phrase i="S_EthernetConf" t="Ethernet"/>
+<phrase i="S_WiFiConf" t="WiFi beá"/>
+<phrase i="S_WlanProfile" t="WiFi pro"/>
+<phrase i="S_WpsPbc" t="WPS PBC"/>
+<phrase i="S_WpsPin" t="WPS PIN"/>
+<phrase i="S_WlanStatus" t="WiFi áll"/>
+<phrase i="S_IPV4_Addr" t="IPv4-cím"/>
+<phrase i="S_IPV6_Addr" t="IPv6-cím"/>
+<phrase i="S_DeviceAdmin" t="Fejl.adm"/>
+<phrase i="S_SetPassword" t="Jelszó"/>
+<phrase i="S_UserSignIn" t="Felh. be"/>
+<phrase i="S_UserSignOut" t="Felh. ki"/>
+<phrase i="S_DateTime" t="DátumIdő"/>
+<phrase i="S_Language" t="Nyelv"/>
+<phrase i="S_Reboot" t="Újraind."/>
+<phrase i="S_Deepsleep" t="Ener.tak"/>
+<phrase i="S_FactoryReset" t="Gyáribeá"/>
+<phrase i="S_ProfileRule" t="Pr.szab"/>
+<phrase i="S_ProfileAccount" t="Fiókprof"/>
+<phrase i="S_MICROPHONES" t="Mikrofon"/>
+<phrase i="S_WIRED_MIC" t="V.mikrof"/>
+<phrase i="S_WIRELESS_MIC" t="V.n.mikr"/>
+<phrase i="S_Status" t="Állapot"/>
+<phrase i="S_ProductInfo" t="T.info"/>
+<phrase i="S_NetworkStatus" t="Hálóáll"/>
+<phrase i="S_IPv4Status" t="IPv4 áll"/>
+<phrase i="S_IPv6Status" t="IPv6 áll"/>
+<phrase i="S_PHN_STATUS" t="Tel. áll"/>
+<phrase i="S_Phone_statistics" t="Tel.stat"/>
+<phrase i="S_LINE_STATUS" t="Vonaláll"/>
+<phrase i="S_PROV_STATUS" t="Kiosztás"/>
+<phrase i="S_Call_Statistics" t="Hívás st"/>
+<phrase i="S_ReportProblem" t="Hibajel."/>
+<phrase i="S_RebootHistory" t="Újrai.l."/>
+<phrase i="S_Accessories" t="Tartozék"/>
+<phrase i="S_Status_Msg" t="Áll.üze."/>
+<phrase i="S_Wi-Fi_Msg" t="WiFi üz"/>
+<phrase i="S_XML_App" t="XML alk"/>
+<phrase i="S_Directory" t="Címtárak"/>
+<phrase i="S_Personal_Dir" t="Szem.ct"/>
+<phrase i="S_All_Dirs" t="Össz.ct"/>
+<phrase i="S_XML_Dir" t="XML címt"/>
+<phrase i="S_LDAP_Dir" t="LDAP ct"/>
+<phrase i="S_BroadsoftDirectory" t="BrSft ct"/>
+<phrase i="S_BroadsoftPersonal" t="Személy."/>
+<phrase i="S_BroadsoftGroup" t="Csoport"/>
+<phrase i="S_BroadsoftEnterprise" t="Nagyváll"/>
+<phrase i="S_BroadsoftGroupCommon" t="Csop.kom"/>
+<phrase i="S_BroadsoftEnterpriseCommon" t="N.v.kom"/>
+<phrase i="S_BT_contacts" t="BT névj."/>
+<phrase i="S_IMPContacts" t="IMP névj"/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="ÖsszKonf"/>
+<phrase i="S_XferLx" t="Átad"/>
+<phrase i="S_Redial" t="Újrahív"/>
+<phrase i="S_Contacts" t="Névjegy"/>
+<phrase i="S_Recents" t="Híváslista"/>
+<phrase i="S_Forward" t="Átirány."/>
+<phrase i="S_ForwardAll" t="ÖsszTov"/>
+<phrase i="S_DND" t="NeZavar"/>
+<phrase i="S_NForward" t="HívTovKi"/>
+<phrase i="S_NForwardAll" t="ÖsÁtirKi"/>
+<phrase i="S_NDND" t="NeZavKi"/>
+<phrase i="S_LCR" t="NemFogH"/>
+<phrase i="S_Missed" t="Nem fog."/>
+<phrase i="S_Login" t="Bejelen."/>
+<phrase i="S_Logout" t="Kijelen."/>
+<phrase i="S_SignIn" t="Bejelen."/>
+<phrase i="S_SignOut" t="Kijelen."/>
+<phrase i="S_Avail" t="Elérhető"/>
+<phrase i="S_UnAvail" t="NemElérh"/>
+<phrase i="S_UnPark" t="ParkolKi"/>
+<phrase i="S_PickUp" t="Felvesz"/>
+<phrase i="S_Mobility" t="Mobilit."/>
+<phrase i="S_GrPickup" t="CsopFelv"/>
+<phrase i="S_NewCall" t="Új hívás"/>
+<phrase i="S_Barge" t="Belépés"/>
+<phrase i="S_BargeSilent" t="CsndBel"/>
+<phrase i="S_Resume" t="Folytat"/>
+<phrase i="S_Answer" t="Válasz"/>
+<phrase i="S_Hold" t="Tartás"/>
+<phrase i="S_EndCall" t="HívVége"/>
+<phrase i="S_End" t="Vége"/>
+<phrase i="S_Transfer" t="Átadás"/>
+<phrase i="S_CONF" t="Konfer."/>
+<phrase i="S_BXfer" t="VakÁtad"/>
+<phrase i="S_Park" t="Parkolás"/>
+<phrase i="S_Join" t="Egyesít"/>
+<phrase i="S_Update" t="Frissít"/>
+<phrase i="S_Dial" t="Hívás"/>
+<phrase i="S_delChar" t="Kar.Törl"/>
+<phrase i="S_AbbrDial" t="RövHív"/>
+<phrase i="S_Back" t="Vissza"/>
+<phrase i="S_Close" t="Bezárás"/>
+<phrase i="S_Save" t="Mentés"/>
+<phrase i="S_Delete" t="Törlés"/>
+<phrase i="S_Add" t="Hozzáad."/>
+<phrase i="S_Option" t="Opció"/>
+<phrase i="S_Other" t="Egyéb"/>
+<phrase i="S_EditDial" t="TárcsMód"/>
+<phrase i="S_EditDial1" t="TárcsMód"/>
+<phrase i="S_AddNew" t="Új hozzáadása"/>
+<phrase i="S_Copy" t="Másolás"/>
+<phrase i="S_Paste" t="Beill."/>
+<phrase i="S_Search" t="Keresés"/>
+<phrase i="S_SimpleSearch" t="Keresés"/>
+<phrase i="S_AdvancedSearch" t="Sp.keres"/>
+<phrase i="S_Select" t="Választ"/>
+<phrase i="S_Replace" t="Csere"/>
+<phrase i="S_Default" t="Alapért."/>
+<phrase i="S_Add2SpeedDial" t="Hozzáadás a gyorstárcsázáshoz"/>
+<phrase i="S_SendMessage" t="Üzenet küldése"/>
+<phrase i="S_InputAll" t="Minden bevitele"/>
+<phrase i="S_InputNum" t="Szám bevitele"/>
+<phrase i="S_InputIP" t="IP-cím bevitele"/>
+<phrase i="S_InputHebrew" t="Héber bevitel"/>
+<phrase i="S_InputStarCode" t="Csillagkód bevit."/>
+<phrase i="S_Clear" t="Kiürít"/>
+<phrase i="S_DeleteList" t="Lista törlése"/>
+<phrase i="S_DeleteAll" t="Összes törlése"/>
+<phrase i="S_DeleteEntry" t="Bejegyzés törlése"/>
+<phrase i="S_Add2AB" t="Új kapcs"/>
+<phrase i="S_SortByName" t="Rendezés név szerint"/>
+<phrase i="S_Next" t="Követk"/>
+<phrase i="S_Zoom" t="Nagyítás"/>
+<phrase i="S_EditSettings" t="Beállítások szerk."/>
+<phrase i="S_Previous" t="Előző"/>
+<phrase i="S_Previous1" t="Előző"/>
+<phrase i="S_Up" t="Fel"/>
+<phrase i="S_Down" t="Le"/>
+<phrase i="S_SelectFromAB" t="Felv. névjegyekből"/>
+<phrase i="S_Play" t="Lejátsz"/>
+<phrase i="S_Exit" t="Kilépés"/>
+<phrase i="S_Resync" t="ÚjrSzink"/>
+<phrase i="S_SetTime" t="Mentés"/>
+<phrase i="S_Set" t="Beállít."/>
+<phrase i="S_MoveUp" t="Mozgatás felfelé"/>
+<phrase i="S_MoveDown" t="Mozgatás lefelé"/>
+<phrase i="S_Edit" t="Módosít"/>
+<phrase i="S_View" t="Nézet"/>
+<phrase i="S_Enable_Disable" t="Engedélyezés/letiltás"/>
+<phrase i="S_Refresh" t="Frissít"/>
+<phrase i="S_List" t="Lista"/>
+<phrase i="S_Stop" t="Leállít."/>
+<phrase i="S_AddList" t="FelvList"/>
+<phrase i="S_Scan" t="Keresés"/>
+<phrase i="S_Connect" t="Kapcsol."/>
+<phrase i="S_Disconnect" t="Bontás"/>
+<phrase i="S_ConnectAll" t="ÖsszCstl"/>
+<phrase i="S_Detail" t="Részlet."/>
+<phrase i="S_Cancel" t="Mégse"/>
+<phrase i="S_OK" t="Ok"/>
+<phrase i="S_Unpair" t="Bontás"/>
+<phrase i="S_SelectAll" t="ÖsszKiv"/>
+<phrase i="S_ClearAll" t="ÖsszTörl"/>
+<phrase i="S_More" t="Tovább"/>
+<phrase i="S_Format" t="Formázás"/>
+<phrase i="S_Monitor" t="Kihang."/>
+<phrase i="S_VCARD" t="Import."/>
+<phrase i="S_Retry" t="Újra"/>
+<phrase i="S_FLASH" t="Tartás"/>
+<phrase i="S_STARCODE" t="*kód"/>
+<phrase i="S_IP" t="IP-cím"/>
+<phrase i="S_NUM" t="Számok"/>
+<phrase i="S_ALPHA" t="Betűk"/>
+<phrase i="S_Audio" t="Audió"/>
+<phrase i="S_Video" t="Videó"/>
+<phrase i="S_Call" t="Hívás"/>
+<phrase i="S_Submit" t="Indít"/>
+<phrase i="S_CallRecordStart" t="Felvétel"/>
+<phrase i="S_CallRecordStop" t="FelvStop"/>
+<phrase i="S_CallRecordPause" t="FelvSzün"/>
+<phrase i="S_CallRecordResume" t="FelvTov"/>
+<phrase i="S_Pause" t="Szünet"/> <!--Used on 6821,replace for PauseRec-->
+<phrase i="S_Ignore" t="Kihagy"/>
+<phrase i="S_Override" t="FelBirál"/>
+<phrase i="S_HotelingGuestIn" t="VendégBe"/>
+<phrase i="S_HotelingGuestOut" t="VendégKi"/>
+<phrase i="S_AUDIO_SWAP_IN" t="AudióÁth"/>
+<phrase i="S_AUDIO_SWAP_OUT" t="AudióÁth"/>
+<phrase i="S_Skip" t="Mellőz"/>
+<phrase i="S_Settings" t="Beállít."/>
+<phrase i="S_Favorites" t="Kedvenc."/>
+<phrase i="S_Messages" t="Üzenetek"/>
+<phrase i="S_Selfview" t="Önnézet"/>
+<phrase i="S_CallList" t="Hívlista"/>
+<phrase i="S_ShowVideo" t="VideóMut"/>
+<phrase i="S_Presence" t="Jelenlét"/>
+<phrase i="S_Swap" t="Csere"/>
+<phrase i="S_ProxyCall" t="Proxyhív"/>
+<phrase i="S_Divert" t="FőnÁtír"/>
+<phrase i="S_DivertAll" t="ÖsszÁtir"/>
+<phrase i="S_ClrDivert" t="FőnÁtirT"/>
+<phrase i="S_CallPush" t="Hív push"/>
+<phrase i="S_CallRetrieve" t="Fogadás"/>
+<phrase i="S_BridgeIn" t="Bridgebe"/>
+<phrase i="S_Micgain" t="Mikr erősítés"/>
+<phrase i="S_Setup" t="Beállít."/>
+<phrase i="S_SpeedDial" t="Gy.tárcs"/>
+<phrase i="S_Continue" t="Folytat"/>
+<phrase i="S_WiFiScan" t="Wi-Fi ker."/>
+<phrase i="S_Category" t="Kateg."/>
+<phrase i="S_Filter" t="Szűrő"/>
+
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="Fahrenheit"/>
+<phrase i="OL_Celsius" t="Celsius"/>
+<phrase i="OL_MONO" t="Mono"/>
+<phrase i="OL_STEREO" t="Sztereó"/>
+<phrase i="OL_InProgress" t="Folyamatban"/>
+<phrase i="OL_DnsResolution" t="DNS-feloldás"/>
+<phrase i="OL_NoServerName" t="Nincs kiszolgálónév"/>
+<phrase i="OL_InvalidServer" t="Érvénytelen vagy korlátozott kiszolgáló"/>
+<phrase i="OL_NoResources" t="Az erőforrások kimerültek"/>
+<phrase i="OL_FileNotFound" t="A fájl nem található"/>
+<phrase i="OL_CorruptFile" t="Sérült fájl"/>
+<phrase i="OL_EncrptionKey" t="Titkosítókulcs"/>
+<phrase i="OL_InvalidURL" t="Érvénytelen URL-cím"/>
+<phrase i="OL_Phone" t="Telefon"/>
+<phrase i="OL_Handsfree" t="Sz.kézi"/>
+<phrase i="OL_Both" t="Mindkettő"/>
+<phrase i="OL_DownloadFailed" t="A letöltés sikertelen"/>
+<phrase i="OL_DownloadConflict" t="%d bejegyzés új; %d bejegyzés ütközik."/>
+<phrase i="OL_DownloadTypeError" t="A Bluetooth nem szabadkézi üzemmódban van."/>
+<phrase i="OL_DownloadFull" t="A címjegyzék tele van, nem lehet több bejegyzést letölteni."/>
+<phrase i="OL_ParsingError" t="Elemzési hiba a szabályban"/>
+<phrase i="OL_Ended" t="Véget ért"/>
+<phrase i="OL_StaticIP" t="Statikus IP"/>
+<phrase i="OL_PictureRotation" t="Kép váltogatása"/>
+<phrase i="OL_CurrentWallpaper" t="Jelenlegi háttérkép"/>
+<phrase i="OL_DownloadPicture" t="Kép letölt."/>
+<phrase i="OL_Default" t="Alapért."/>
+<phrase i="OL_Clock" t="Óra"/>
+<phrase i="OL_Logo" t="Logó"/>
+<phrase i="OL_Lock" t="Lezárás"/>
+<phrase i="OL_Speaker" t="Hangszóró"/>
+<phrase i="OL_Headset" t="Fejhallgató"/>
+<phrase i="OL_Handset" t="Kézibeszélő"/>
+<phrase i="OL_Ringer" t="Csengő"/>
+<phrase i="OL_Volume" t="Hangerő"/>
+<phrase i="OL_Headset_Fail" t="A hangerőt állítsa be a fejhallgató vezérlőelemeivel."/>
+<phrase i="OL_LightBlue" t="Világoskék"/>
+<phrase i="OL_LightGray" t="Világosszürke"/>
+<phrase i="OL_LightGreen" t="Világoszöld"/>
+<phrase i="OL_None" t="Nincs"/>
+<phrase i="OL_Simple" t="Egyszerű"/>
+<phrase i="OL_PlainTLS" t="Egyszerű-TLS"/>
+<phrase i="OL_64HEX" t="10 hexadec. számj."/>
+<phrase i="OL_128HEX" t="26 hexadec. számj."/>
+<phrase i="OL_64ASCII" t="5 ASCII karakter"/>
+<phrase i="OL_128ASCII" t="13 ASCII karakter"/>
+<phrase i="OL_Enterprise" t="Nagyvállalat"/>
+<phrase i="OL_Group" t="Csoport"/>
+<phrase i="OL_Personal" t="Személyes"/>
+<phrase i="OL_EnterpriseCommon" t="Vállalat közös"/>
+<phrase i="OL_GroupCommon" t="Csop. köz."/>
+<phrase i="OL_Login_Credentials" t="Bejelentkezés"/>
+<phrase i="OL_SIP_Credentials" t="SIP hit. Adatok"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_6" t="6"/>
+<phrase i="OL_7" t="7"/>
+<phrase i="OL_8" t="8"/>
+<phrase i="OL_9" t="9"/>
+<phrase i="OL_10" t="10"/>
+<phrase i="OL_11" t="11"/>
+<phrase i="OL_12" t="12"/>
+<phrase i="OL_13" t="13"/>
+<phrase i="OL_14" t="14"/>
+<phrase i="OL_15" t="15"/>
+<phrase i="OL_16" t="16"/>
+<phrase i="OL_Disabled" t="Kikapcsolva"/>
+<phrase i="OL_Enabled" t="Engedély."/>
+<phrase i="OL_AUTO" t="Auto."/>
+<phrase i="OL_10_HALF" t="10 MB fél"/>
+<phrase i="OL_10_FULL" t="10 MB teljes"/>
+<phrase i="OL_100_HALF" t="100 MB fél"/>
+<phrase i="OL_100_FULL" t="100 MB teljes"/>
+<phrase i="OL_1000_FULL" t="1000 teljes"/>
+<phrase i="OL_10s" t="10 mp"/>
+<phrase i="OL_20s" t="20 mp"/>
+<phrase i="OL_30s" t="30 mp"/>
+<phrase i="OL_AlwaysOn" t="Mindig be"/>
+<phrase i="OL_1m" t="1 p"/>
+<phrase i="OL_5m" t="5 p"/>
+<phrase i="OL_30m" t="30 p"/>
+<phrase i="OL_monthday" t="hónap/nap"/>
+<phrase i="OL_daymonth" t="nap/hónap"/>
+<phrase i="OL_12hr" t="12 ó"/>
+<phrase i="OL_24hr" t="24 ó"/>
+<phrase i="OL_IPv4" t="Csak IPv4"/>
+<phrase i="OL_IPv6" t="Csak IPv6"/>
+<phrase i="OL_DUAL_MODE" t="Kettős mód"/>
+<phrase i="OL_Phone" t="Telefon"/>
+<phrase i="OL_Server" t="Szerver"/>
+<phrase i="OL_Show" t="Mutatás"/>
+<phrase i="OL_Hide" t="Elrejtés"/>
+<phrase i="OL_BEKEM" t="BEKEM"/>
+<phrase i="OL_AKEM" t="CP-8800-Audio"/>
+<phrase i="OL_VKEM" t="CP-8800-Video"/>
+
+<!-- Option label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="Auto."/>
+<phrase i="OL_Name" t="Név"/>
+<phrase i="OL_Ext" t="Mellék"/>
+<phrase i="OL_Both" t="Mindkettő"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############-->
+<phrase i="T_EditProfile" t="Profil szerkesztése"/>
+<phrase i="T_SetupWiFi" t="Wi-Fi beállítása"/>
+<phrase i="T_WlanProfileListprofile" t="Válasszon egy profilt"/>
+<phrase i="T_WlanScanList" t="Csatlakozás Wi-Fi-hez"/>
+<phrase i="T_WlanServerCaList" t="Válasszon egy fájlt a kiszolgáló tanúsítványaként"/>
+<phrase i="T_WlanClientCaList" t="Válasszon fájlt ügyféltanúsítványként"/>
+<phrase i="T_WlanProfileReplace" t="Válasszon egy lecserélendő profilt"/>
+<phrase i="T_WlanWpsSelect" t="Válassza ki a WPS üzemmódot"/>
+<phrase i="WirelessStatusDetail" t="Vezeték nélküli részletei"/>
+<phrase i="T_Profile" t="Profil"/>
+<phrase i="T_WlanPartitionLsit" t="Válasszon egy partíciót"/>
+<phrase i="L_InvalidProfile" t="Érvénytelen profil"/>
+<phrase i="L_Disable" t="Letiltás"/>
+<phrase i="L_None" t="Nincs"/>
+<phrase i="L_Auto" t="Auto."/>
+<phrase i="L_EapFast" t="EAP-FAST"/>
+<phrase i="L_PeapGtc" t="PEAP-GTC"/>
+<phrase i="L_PeapMschapv2" t="PEAP-MSCHAPV2"/>
+<phrase i="L_Psk" t="PSK"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_802Dot1x" t="802.1x"/>
+<phrase i="L_WpaEnt" t="Nagyvállalati WPA"/>
+<phrase i="L_Wpa2Ent" t="Nagyvállalati WPA2"/>
+<phrase i="L_Connection" t="Kapcsolat"/>
+<phrase i="L_SecurityMode" t="Biztonsági mód"/>
+<phrase i="L_ProfileName" t="Profilnév"/>
+<phrase i="L_SecuredWith" t="Biztosítja:"/>
+<phrase i="L_CipherType" t="Kódtípus"/>
+<phrase i="L_KeyId" t="Alapértelmezett átviteli kulcs"/>
+<phrase i="L_KeyLen" t="Kulcs hossza"/>
+<phrase i="L_Key1" t="1. kulcs"/>
+<phrase i="L_Key2" t="2. kulcs"/>
+<phrase i="L_Key3" t="3. kulcs"/>
+<phrase i="L_Key4" t="4. kulcs"/>
+<phrase i="L_PskKey" t="WPA előmegosztott kulcs"/>
+<phrase i="L_WEPKey" t="WEP-kulcs"/>
+<phrase i="L_Pphrase" t="Jelszó"/>
+<phrase i="L_EapType" t="EAP-típus"/>
+<phrase i="L_UserId" t="Felhaszn. azon."/>
+<phrase i="L_Password" t="Jelszó"/>
+<phrase i="L_CheckSvrCa" t="Kiszolg.tanúsít.ellenőr."/>
+<phrase i="L_On" t="Be"/>
+<phrase i="L_Off" t="Ki"/>
+<phrase i="L_LinkSignal" t="Jel erőssége"/>
+<phrase i="L_NoiseLevel" t="Zajszint"/>
+<phrase i="L_Bssid" t="AP MAC-cím"/>
+<phrase i="L_Frequency" t="Gyakoriság"/>
+<phrase i="L_DataEncryption" t="Adattitkosítás"/>
+<phrase i="L_EncryptionType" t="Titkosítás típusa"/>
+<phrase i="L_TransmitRate" t="Átviteli sebesség"/>
+<phrase i="L_Channel" t="Csatorna"/>
+<phrase i="L_RootCa" t="Főtanúsítvány"/>
+<phrase i="L_UserCa" t="Felhasználói tanúsítvány"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="Titkos kulcs jelszava"/>
+<phrase i="L_AnonyId" t="Névtelen azonosító"/>
+<phrase i="L_TtlsInnerProto" t="TTLS belső protokoll"/>
+<phrase i="L_PeapInnerProto" t="PEAP belső protokoll"/>
+<phrase i="L_WlanConfiguration" t="Vezeték nélküli konfigurálása"/>
+<phrase i="L_WlanWpsPbc" t="Nyomógomb konfigurálása"/>
+<phrase i="L_WlanWpsPbcText1" t="Wi-Fi védett beáll. gombos készülékek esetén"/>
+<phrase i="L_WlanWpsPbcText2" t="nyomja meg a gombot a készüléken, majd válassza"/>
+<phrase i="L_WlanWpsPbcText3" t="ezt az üzemmódot."/>
+<phrase i="L_WlanWpsPin" t="PIN konfigurálása"/>
+<phrase i="L_WlanWpsPinText1" t="PIN-kódot igénylő készülékeken"/>
+<phrase i="L_WlanWpsPinText2" t="a következő számot: %s, majd válassza ezt az üzemmódot"/>
+<phrase i="L_WlanWpsPinText3" t="majd válassza ezt az üzemmódot."/>
+<phrase i="L_WlanProfile" t="Wi-Fi profil"/>
+<phrase i="L_Networksetup" t="Hálózati beállítás"/>
+<phrase i="L_WlanAddCurrent" t="Kapcsolat hozzáadása profilként"/>
+<phrase i="L_WlanStatus" t="Wi-Fi állapota"/>
+<phrase i="L_WlanWps" t="Wi-Fi védett beállítás"/>
+<phrase i="WlanMsgPfLock" t="Vezeték nélküli profil zárolva"/>
+<phrase i="WlanMsgPfNameLenNull" t="Érvénytelen profilnév"/>
+<phrase i="WlanMsgPfNameLenOver" t="A profilnév túl hosszú"/>
+<phrase i="WlanMsgSssidLenNull" t="A hálózat neve nem lehet üres."/>
+<phrase i="WlanMsgSssidLenOver" t="Az SSID túl hosszú"/>
+<phrase i="WlanMsgWepNoValue" t="Állítsa be a kulcs azonosítóját erre: %d , amely nem rendelkezik kulcsértékkel."/>
+<phrase i="WlanMsgWepWrongLen" t="A kulcs hossza (%d) érvénytelen."/>
+<phrase i="WlanMsgWepWrongHex" t="A kulcs (%d) nem hexadecimális számjegyeket tartalmaz."/>
+<phrase i="WlanMsgPsKeyLenLess" t="A WPA megosztott kulcs túl rövid."/>
+<phrase i="WlanMsgPsKeyLenOver" t="A WPA megosztott kulcs túl hosszú."/>
+<phrase i="WlanMsgPsKeyInvalide" t="A hozzáférési kódnak 64 hexadecimális számjegyből vagy 8 - 63 ASCII karakterből kell állnia."/>
+<phrase i="WlanMsgWepKeyInvalid" t="A WEP-kulcsnak 10 vagy 26 hexadecimális jegyből, vagy 5 vagy 13 ASCII-karakterből kell állnia."/>
+<phrase i="WlanMsgIdentityLenNull" t="A felhasználói azonosító nem lehet üres."/>
+<phrase i="WlanMsgIdentityLenOver" t="Az identitás túl hosszú"/>
+<phrase i="WlanMsgServerCaWrong" t="Érvénytelen kiszolgáló-tanúsítvány"/>
+<phrase i="WlanMsgClientCaWrong" t="Érvénytelen ügyféltanúsítvány"/>
+<phrase i="WlanMsgPasswordLenNull" t="A jelszó nem lehet üres."/>
+<phrase i="WlanMsgPasswordLenOver" t="A jelszó túl hosszú"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="Nincs névtelen identitás"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="Névtelen identitás túl hosszú"/>
+<phrase i="WlanMsgOverMaxPFNum" t="A lista tele van. Szeretne egy másik profilt lecserélni?"/>
+<phrase i="WlanMsgUseWpsPbc" t="A csatlakozáshoz használja ezt: WPS PBC"/>
+<phrase i="WlanMsgUseWpsPin" t="A csatlakozáshoz használja ezt: WPS PIN"/>
+<phrase i="WlanNoProfileConnect" t="Nincs elérhető profil a csatlakozáshoz"/>
+<phrase i="WlanNoScanProfileAdd" t="Nincs keresési profil a hozzáadáshoz"/>
+<phrase i="WlanProfileExistReplace" t="SSID profil: %s már létezik. Lecseréli ezt a profilt?"/>
+<phrase i="WlanNotEnable" t="Engedélyezni kell a Wi-Fi-t."/>
+<phrase i="WlanNotConnect" t="A Wi-Fi nem csatlakozott, nem adható hozzá a profillistához."/>
+<phrase i="WPSNotSet" t="A WPS használatához nyomja meg a Beállít. gombot."/>
+<phrase i="WLANNotSet" t="Nyomja meg a Beállít. gombot a WLAN használatához."/>
+<phrase i="WlanProfileExist" t="SSID-vel rendelkező profil: %s már létezik."/>
+<phrase i="WlanNotInterface" t="A Wi-Fi használatához meg kell szüntetni az Ethernet-csatlakozást."/>
+<phrase i="WlanMsgAssociating" t="Társítás SSID-vel: %s"/>
+<phrase i="WlanMsgFailAssociation" t="Sikertelen társítás ezzel: %s."/>
+<phrase i="WlanMsgFailAssociationContinue" t="Sikertelen társítás ezzel: %s, a próbálkozás a háttérben folytatódik."/>
+<phrase i="WlanMsgOobSkip" t="Ha ezt a lépést kihagyja, kézzel kell beállítania a hálózatot."/>
+
+<phrase i="WlanMsgSuccessAssociation" t="Sikeresen csatlakozott."/>
+<phrase i="WlanMsgSuccessAssociationSSID" t="Sikeresen csatlakozott ide: %s"/>
+
+<phrase i="WlanProfileAlreadyConnected" t="A profil már csatlakoztatva van."/>
+<phrase i="WlanWpsFailConnect" t="Nem sikerült csatlakozni a WPS-re."/>
+<phrase i="WlanAddIntoProfile" t="Hozzá kívánja adni ezt a beállítást profilként?"/>
+<phrase i="WlanScanning" t="Vezeték nélküli keresés folyamatban"/>
+<phrase i="WlanWpsConnect" t="A WPS-konfigurálás kész. A beállítást a profillistára teheti a Vezeték nélküli állapota oldalon."/>
+<phrase i="WlanConnectAll1" t="A csatlakozáshoz a profillistát  kívánja használni?"/>
+<phrase i="WlanConnectAll2" t="Bontja a jelenlegi kapcsolatot, és a profillistát kívánja használni?"/>
+<phrase i="WlanMsgConnectAll" t="A csatlakozáshoz használja a profillistát"/>
+<phrase i="WlanMsgFailConnectAll" t="A csatlakozás nem sikerült, folytassa a próbálkozást a háttérben."/>
+<phrase i="WlanAddCurrent" t="Hozzá kívánja adni a jelenlegi kapcsolatot profilként?"/>
+<phrase i="FileLengthOver" t="A fájlnév meghaladja a hosszt (%d)."/>
+<phrase i="WlanProfileConnectDisable" t="Wi-Fi profil letiltva"/>
+<phrase i="WlanProfileEnable" t="Engedélyezni szeretné ezt a profilt?"/>
+<phrase i="WlanProfileDisable" t="Le szeretné tiltani ezt a profilt?"/>
+<phrase i="WlanEmptyScanningResult" t="A keresés eredménytelen. Próbálja meg ismét"/>
+<phrase i="devRestart" t="Az eszközt újra kell regisztrálni."/>
+<phrase i="M_NetworkBusy" t="A hálózat foglalt."/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="Cím választása"/>
+<phrase i="T_MP3SourceList" t="Cím hozzáadása a lejátszási listához"/>
+<phrase i="T_MP3PartitionList" t="Válassza ki a zenék beolvasási helyének partícióját"/>
+<phrase i="MP3MsgOverMaxSongNum" t="A lista %d bejegyzésre van korlátozva."/>
+<phrase i="MP3MsgEntryNotExist" t="A bejegyzés nem létezik."/>
+<phrase i="MP3MsgAPendingCall" t="Hívás alatt nem lehet zenét lejátszani."/>
+<phrase i="MP3MsgFileNameOverLen" t="%d a fájlnév meghaladja a hosszt (%d)."/>
+<phrase i="MP3MsgGetList" t="Lista beolvasása USB-meghajtóról"/>
+<phrase i="MP3MsgSaveRing" t="Csengetés mentése az USB-meghajtóra"/>
+<phrase i="MP3MsgFileIllegle" t="Érvénytelen fájlformátum."/>
+<phrase i="MP3DeletePrompt" t="Törölni kívánja a lejátszási listáról a következőt: %s?"/>
+<phrase i="MP3MsgSelectNull" t="Nincs kiválasztott szám a lejátszási listához adáshoz."/>
+<phrase i="MP3MsgSelectOverMax" t="Több, mint %d dalt választott ki!"/>
+<phrase i="MP3UsbFolderNotPresent" t="A következő mappa nem létezik: „%s”. Ellenőrizze, hogy vannak-e MP3-fájlok az USB-eszköz „mp3” mappájában."/>
+<phrase i="MP3UsbFileNotPresent" t="A következő mappában nincsenek MP3-fájlok: „%s” Ellenőrizze, hogy vannak-e MP3-fájlok az USB-eszköz „mp3” mappájában."/>
+<phrase i="MP3DeleteAllPrompt" t="Törölni kívánja az összes dalt a lejátszási listáról?"/>
+<phrase i="MP3MsgCalcTime" t="A lejátszási idő számítása"/>
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="Ethernet használatban"/>
+<phrase i="NC_TITLE_WIRELESS" t="Vezeték nélküli hálózat használatban"/>
+<phrase i="NC_NOT_AVAILABLE" t="Nem érhető el"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="Kapcsolódás AP-hoz"/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="Ethernet-kapcsolat ellenőrzése"/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="A vezeték nélküli kapcsolat sikertelen."/>
+<phrase i="NC_L2_FAIL_WIRED" t="Az Ethernet-kapcsolat sikertelen."/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="A vezeték nélküli kapcsolat rendben van."/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="Az Ethernet-kapcsolat rendben van."/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="Statikus IP-cím használata"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="IP-cím lekérése DHCP-vel..."/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="IP-cím lekérése PPPOE-vel..."/>
+<phrase i="NC_L3_FAIL_STATIC" t="Nem sikerült az IP-cím beállítása."/>
+<phrase i="NC_L3_FAIL_DHCP" t="Nem sikerült az IP-cím beolvasása DHCP-vel."/>
+<phrase i="NC_L3_FAIL_PPPOE" t="Nem sikerült az IP-cím lekérése PPPoE-vel."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="IP-cím beállítása"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="IP-cím lekérése"/>
+<phrase i="NC_WAIT_VLAN_ID" t="VLAN ID lekérése"/>
+<phrase i="NC_NO_PROFILE_LIST" t="Nincs profillista"/>
+<phrase i="NC_VPN_CONNECTING" t="VPN-kapcsolat létrehozása"/>
+<phrase i="NC_VPN_CONNECTED" t="A VPN-kapcsolat rendben van."/>
+<phrase i="NC_VPN_FAILED" t="Nem sikerült létrehozni a VPN-kapcsolatot."/>
+<phrase i="NC_WPS_SUCCESS" t="WPS tárgyalás sikeres."/>
+<phrase i="NC_WPS_FAIL" t="WPS tárgyalás sikertelen."/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="Az USB-eszköz nem található. Helyezzen egy USB-eszközt a telefon USB-portjába."/>
+<phrase i="UsbFolderNotPresent" t="A(z) „%s” mappa nem létezik."/>
+<phrase i="UsbFileNotPresent" t="Nincs fájl a „%s” mappában."/>
+<phrase i="UsbFileNotPresent2" t="%s fájl nem létezik."/>
+<phrase i="UsbUnknownError" t="USB ismeretlen hiba."/>
+<phrase i="UsbPartitionName" t="Partíció"/>
+<phrase i="UsbDevicePluged" t="Az USB-eszköz csatlakoztatva van. Várjon egy kicsit az eszköz csatlakoztatására."/>
+
+<!-- #############  #USB Headset msgs #############-->
+<phrase i="UsbDeviceConnected" t="A tartozék csatlakoztatva."/>
+<phrase i="UsbDeviceDisconnected" t="A tartozék leválasztva."/>
+<phrase i="UsbDeviceNotSupported" t="Ez nem támogatott."/>
+<phrase i="UsbDeviceErrorStatus" t="Tartozékhiba."/>
+
+<phrase i="UsbDeviceMaxHeadsets" t="Fejhallgatók maximális száma túllépve."/>
+<phrase i="UsbDeviceNoPower" t="A telefon nem képes a tartozék tápellátására."/>
+<phrase i="UsbDeviceDisabled" t="A tartozék nem támogatott."/>
+<phrase i="UsbDeviceError" t="Próbálja meg ismét csatlakoztatni az eszközt."/>
+<phrase i="UsbDeviceMaxKEMs" t="Kezelőkonzolok maximális száma."/>
+<phrase i="UsbDeviceSysError" t="Tartozékok nem észlelhetők."/>
+
+<!-- #############  #Microphone/Speaker msgs #############-->
+<phrase i="ExternalMicrophone" t="Külső mikrofon."/>
+<phrase i="ExternalSpeaker" t="Külső hangszóró."/>
+
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="Az USB tele van. A hívás rögzítése leállt. Csatlakoztasson egy újat, és kezdje újra a rögzítést."/>
+<phrase i="UsbDeviceIsFull" t="Az USB tele van. Csatlakoztasson egy újat, és kezdje újra a rögzítést."/>
+<phrase i="CallRecordMaxSingleFileReached" t="Elérte a maximális egyenkénti felvételhosszt. Indítson egy új felvételt."/>
+<phrase i="CallRecordMaxFileNumberReached" t="Elérte a maximális felvételszámot, töröljön néhány felvételt,majd indítsa újra a felvételt."/>
+<phrase i="CallRecordListDeletePrompt" t="Biztosan törli ezt a bejegyzést:"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="Valóban törölni kívánja az összes felvételt?"/>
+<phrase i="CallRecordNameInvalid" t="A hívás felvételének fájlneve érvénytelen."/>
+<phrase i="CallRecordLenInvalid" t="Nem lehet kiszámítani a hívás felvételének hosszát."/>
+<phrase i="CallRecordFoldInvalid" t="A hívás felvételének könyvtára érvénytelen."/>
+<phrase i="CallRecordUnknownError" t="Hívás felvétele ismeretlen hiba"/>
+<phrase i="CallRecordMsgAPendingCall" t="Hívás alatt nem lehet felvételt lejátszani."/>
+<phrase i="CallRecordStarted" t="A felvétel elindult."/>
+<phrase i="CallRecordStopped" t="A felvétel leállítva."/>
+<phrase i="CallRecordPaused" t="A felvétel szünetelve van."/>
+<phrase i="CallRecordResumed" t="A felvétel folytatva."/>
+<phrase i="CallRecordPending" t="Várakozás a felv. indítására."/>
+<phrase i="CallRecordServerError" t="Kiszolgálóhiba"/>
+<phrase i="CallRecordStartError" t="A felvétel nem indult el."/>
+<phrase i="CallRecordStopError" t="A felvétel nem állt meg."/>
+<phrase i="CallRecordPauseError" t="A felvétel nem volt szün. "/>
+<phrase i="CallRecordResumeError" t="A felvétel nem folytatódott."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="A Bluetoothnak engedélyezve kell  lennie %s előtt."/>
+<phrase i="BT_Discovering" t="Felderítve %s."/>
+<phrase i="BT_Discovered" t="Felderítve %s."/>
+<phrase i="BT_DiscoveredFaild" t="Felderítés %s sikertelen."/>
+<phrase i="BT_DeviceNotFound" t="Nem található Bluetooth-eszköz."/>
+<phrase i="BT_Pairing" t="%s párosítása."/>
+<phrase i="BT_Paired" t="%s sikeresen párosítva."/>
+<phrase i="BT_PairingFailed" t="Sikertelen kapcsolódás."/>
+<phrase i="BT_Abort" t="A(z) %s kapcsolódása megszakadt."/>
+<phrase i="BT_UnPairPrompt" t="Le szeretné csatlakoztatni: %s?"/>
+<phrase i="BT_PinCodePrompt" t="Adja meg a PIN-kódot."/>
+<phrase i="BT_ScanningPrompt" t="Keresés folyamatban. Várjon 10 másodpercet, majd futtassa ismét."/>
+<phrase i="BT_ConnectingPrompt" t="Kapcsolódási folyamatban. Várjon 10 másodpercet, majd futtassa ismét."/>
+<phrase i="BT_DownloadingPrompt" t="Letöltés folyamatban. Várjon egy percet, majd futtassa ismét."/>
+<phrase i="BT_CallActivePrompt" t="Hívás folyamatban; az újbóli próbálkozás előtt be kell fejezni a hívást. "/>
+<phrase i="BT_OP_FAIL" t="A művelet sikertelen."/>
+<phrase i="BT_OP_WAIT_ENABLE" t="Bluetooth engedélyezve. Próbálja újra."/>
+<phrase i="BT_Dev_Connected" t="Az eszköz már csatlakoztatva van."/>
+<phrase i="BT_Search" t="Bluetooth eszközök keresése"/>
+<phrase i="BT_Connecting_Dev" t="Bluetooth-eszköz csatlakoztatása folyamatban."/>
+<phrase i="BT_HeadsetNamePrompt" t="A fülhallgató neve nem lehet üres."/>
+<phrase i="BT_PhoneModeError" t="A telefon üzemmód nem tud mobiltelefonhoz csatlakozni."/>
+<phrase i="BT_HandsfreeModeError" t="A szabadkézi üzemmód nem tud fülhallgatóhoz csatlakozni."/>
+<phrase i="BT_DownloadUpdate" t="Személyes címjegyzék frissítése folyamatban."/>
+<phrase i="BT_DownloadAddFull" t="A címjegyzék tele van, nem lehet hozzáadni bejegyzéseket: %d új bejegyzés hozzáadva; %d bejegyzés figyelmen kívül hagyva"/>
+<phrase i="BT_DownloadConflictFull" t="A címjegyzék tele van, nem lehet hozzáadni bejegyzéseket. %d ütköző bejegyzés frissítése, %d  új bejegyzés hozzáadása, %d új bejegyzés figyelmen kívül hagyása"/>
+<phrase i="BT_OverMaxProfileNum" t="A lista tele van. Szeretne egy másik profilt lecserélni?"/>
+<phrase i="BT_ConToast" t="Bluetooth csatlakoztatva"/>
+<phrase i="BT_DisconToast" t="Bluetooth leválasztva"/>
+<phrase i="BT_HandsfreePin" t="Győződjön meg arról, hogy a párosítandó eszköz megjeleníti a PIN-kódot"/>
+<phrase i="BT_St_Cntct_Prompt" t="Szeretné az összes mobil névjegyet az asztali telefonon tárolni? Ezeket később törölheti a névjegyek közül."/>
+<phrase i="T_Sv_Mob_Cntct" t="Mobil névjegyek mentése"/>
+<phrase i="T_BluetoothProfileList" t="Válasszon egy Bluetooth-profilt"/>
+<phrase i="T_BluetoothProfilePlace" t="Válasszon egy lecserélendő Bluetooth-profilt"/>
+<phrase i="T_BTMode" t="Bluetooth-üzemmód"/>
+<phrase i="T_BTProfile" t="Bluetooth-profilok"/>
+<phrase i="T_AddDevice" t="Eszközök"/>
+<phrase i="T_BTHeadsetName" t="Fülhallgató neve"/>
+<phrase i="T_BTLoadPhoneBook" t="Címtárak letöltése"/>
+<phrase i="T_BTShowPhoneBook" t="Címtárak megjelenítése"/>
+<phrase i="T_BTChoosePair" t="Válasszon egy Bluetooth-eszközt"/>
+<phrase i="T_BTEditProfile" t="Bluetooth-profil szerkesztése"/>
+<phrase i="L_BTDeviceName" t="Eszköz neve"/>
+<phrase i="L_BTPINCODE" t="PIN-kód"/>
+<phrase i="L_BTConnectAuto" t="Automatikus csatlakozás"/>
+<phrase i="T_BTDownLoad" t="Letöltés"/>
+<phrase i="T_BTReplace" t="Csere"/>
+<phrase i="T_BTDeleteAccessory" t="Tartozék törlése"/>
+<phrase i="CALL_SERVNOTAVAIL" t="Nincs szolgáltatás"/>
+<phrase i="CALL_NETERR" t="Hálózati hiba"/>
+<phrase i="CALL_NORES" t="Nincs válasz"/>
+<phrase i="CALL_PROTOERR" t="Protokollhiba"/>
+<phrase i="CALL_NOLINE" t="Nincs vonal"/>
+<phrase i="CALL_TIMEOUT" t="Időtúllépés"/>
+<phrase i="S_PHOLD" t="MagánTrt"/>
+<phrase i="CALL_PHELD" t="Magán tartás"/>
+<phrase i="S_IGNORE" t="Kihagy"/>
+<phrase i="S_DECLINE" t="Elutas."/>
+<phrase i="LINE_INUSE" t="Használatban"/>
+<phrase i="CALL_PARKED" t="Hívás parkoltatva"/>
+<phrase i="CALL_SERVUNAVAIL" t="A szolgáltatás nem érhető el"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a á b c 2 A Á B C "/>
+<phrase i="3852" t=" d e é f 3 D E É F "/>
+<phrase i="3853" t=" g h i í 4 G H I Í "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o ó ö ő 6 M N O Ó Ö Ő "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u ú ü ű v 8 T U Ú Ü Ű V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" + * ~ ` &lt; &gt; "/>
+<phrase i="3860" t=" 0   , ! ^ ' &quot; | "/>
+<phrase i="3861" t=" # $ £ ¤ \ ( ) { } [ ] "/>
+
+<!-- #############  #language #############-->
+<phrase i="L_English" t="English"/>
+<phrase i="L_English-US" t="English-US"/>
+<phrase i="L_English-Canada" t="English-Canada"/>
+<phrase i="L_English-Australia" t="English-Australia"/>
+<phrase i="L_English-Britain" t="English-Britain"/>
+<phrase i="L_English-NewZealand" t="English-New Zealand"/>
+<phrase i="L_French" t="French"/>
+<phrase i="L_French-Canada" t="French-Canada"/>
+<phrase i="L_Spanish" t="Spanish"/>
+<phrase i="L_Spanish-Mexico" t="Spanish-Mexico"/>
+<phrase i="L_Italian" t="Italian"/>
+<phrase i="L_German" t="German"/>
+<phrase i="L_Norwegian" t="Norwegian"/>
+<phrase i="L_Portuguese" t="Portuguese"/>
+<phrase i="L_Polish" t="Polish"/>
+<phrase i="L_Dutch" t="Dutch"/>
+<phrase i="L_Swedish" t="Swedish"/>
+<phrase i="L_Russian" t="Russian"/>
+<phrase i="L_Turkish" t="Turkish"/>
+<phrase i="L_Slovak" t="Slovak"/>
+<phrase i="L_Hungarian" t="Hungarian"/>
+<phrase i="L_Croatian" t="Croatian"/>
+<phrase i="L_Bulgarian" t="Bulgarian"/>
+<phrase i="L_Czech_Republic" t="Czech Republic"/>
+<phrase i="L_Slovenian" t="Slovenian"/>
+<phrase i="L_Danish" t="Danish"/>
+<phrase i="L_Hebrew" t="Héber"/>
+
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="Kamera száma"/>
+<phrase i="L_Camera_Name" t="Kamera neve"/>
+<phrase i="L_Camera_Ip" t="IP-cím"/>
+<phrase i="L_Camara_UserName" t="Felhasználónév"/>
+<phrase i="L_Camera_Password" t="Jelszó"/>
+<phrase i="L_Camera_Port" t="Port száma"/>
+<phrase i="L_Camera_Resolution" t="Felbontás"/>
+<phrase i="L_Camera_Quality" t="Videó minősége"/>
+<phrase i="L_Camera_FrameRate" t="Képkockasebesség"/>
+<phrase i="L_Camera_Status" t="Állapot"/>
+<phrase i="T_Camera_Entry" t="Kamera adatai"/>
+<phrase i="T_Camera_List" t="Válasszon egy figyelni kívánt kamerát"/>
+<phrase i="CamInvalidParam" t="A kamera %s paramétere(i) nem érvényes(ek)."/>
+<phrase i="CamMissingURL" t="A kamera %s elérési URL-címe hiányzik."/>
+<phrase i="CamMissingUserName" t="A kamera %s felhasználóneve hiányzik."/>
+<phrase i="CamMissingPassword" t="A kamera %s jelszava hiányzik."/>
+<phrase i="CamInvalidURL" t="A kamera %s elérési URL-címe érvénytelen."/>
+<phrase i="CamInvalidProtocol" t="A kamera %s protokollja nem RTSP."/>
+<phrase i="CamNoVideo" t="Nincs videó."/>
+<phrase i="CamConnecting" t="Csatlakozás"/>
+<phrase i="CamConnectError" t="Nincs videó – nem sikerült csatlakozni."/>
+<phrase i="CamAccessError" t="Nincs videó – hozzáférés megtagadva."/>
+<phrase i="CamResolveError" t="Nincs videó – nem sikerült feloldani a címet."/>
+<phrase i="CamResolutionError" t="Nincs videó – a felbontás túl nagy."/>
+<phrase i="CamBusy" t="A kamera foglalt. Várjon, majd próbálja újra."/>
+<phrase i="CamActivateDoorOK" t="Nyitott ajtó OK ehhez: %s."/>
+<phrase i="CamActivateDoorFailed" t="Nyitott ajtó sikertelen ehhez: %s."/>
+<phrase i="CamFeatureNotAvailable" t="A funkció nem érhető el amikor a Bluetooth be van kapcsolva"/>
+<phrase i="P_CamAccess" t="Videó elérése"/>
+<phrase i="Shutter_Closed" t="A redőny be van zárva."/>
+<phrase i="Bandwidth_Allowance" t="Megengedett sávszélesség"/>
+<phrase i="Exposure" t="Expozíció"/>
+<phrase i="Auto" t="Auto."/>
+<phrase i="250_kbps" t="250 Kbps"/>
+<phrase i="500_kbps" t="500 Kbps"/>
+<phrase i="750_kbps" t="750 Kbps"/>
+<phrase i="1_mbps" t="1 Mbps"/>
+<phrase i="2_mbps" t="2 Mbps"/>
+<phrase i="L_Video_Stats" t="Videóhívás állapota"/>
+<phrase i="L_VideoEncoder" t="Kódoló"/>
+<phrase i="L_VideoDecoder" t="Dekódoló"/>
+<phrase i="L_VideoPktSent" t="Elküldött csomagok"/>
+<phrase i="L_VideoPktRecv" t="Fogadott csomagok"/>
+<phrase i="L_VideoAvgJitter" t="Átlagos jitter"/>
+<phrase i="L_VideoMaxJitter" t="Max. jitter"/>
+<phrase i="L_VideoRxPktDiscarded" t="Rx-csomag eldobva"/>
+<phrase i="L_VideoRxPktLost" t="Rx-csomag elveszett"/>
+<phrase i="L_VideoTxResolution" t="Tx-felbontás"/>
+<phrase i="L_VideoRxResolution" t="Rx-felbontás"/>
+<phrase i="L_VideoRxFrames" t="Rx-keretek"/>
+<phrase i="L_VideoTxFrames" t="Tx-keretek"/>
+<phrase i="L_VideoTxIDRFrames" t="IDR-keretek"/>
+<phrase i="L_VideoTxFastUpdateReq" t="Tx iframe-ek szükségesek"/>
+<phrase i="L_VideoRxIDRFrames" t="IDR-keretek"/>
+<phrase i="L_VideoRxFastUpdateReq" t="Rx iframe-ek szükségesek"/>
+<phrase i="L_VideoTxFrameRate" t="Tx keretsebesség"/>
+<phrase i="L_VideoRxFrameRate" t="Rx keretsebesség"/>
+<phrase i="L_VideoLatency" t="Videókésés"/>
+<phrase i="L_VideoTxBandwidth" t="Tx-sávszélesség"/>
+<phrase i="L_VideoRxBandwidth" t="Rx-sávszélesség"/>
+
+
+<phrase i="OL_Very_Low" t="Nagyon alacsony"/>
+<phrase i="OL_Lowest" t="Legalacsonyabb"/>
+<phrase i="OL_Low" t="Alacsony"/>
+<phrase i="OL_Medium" t="Közepes"/>
+<phrase i="OL_Normal" t="Normál"/>
+<phrase i="OL_High" t="Magas"/>
+<phrase i="OL_Highest" t="Legmagasabb"/>
+<phrase i="OL_Very_High" t="Nagyon magas"/>
+
+<!-- #############  Profile Account #############-->
+<phrase i="L_ProAcnt_Setup" t="Profilfiók-beállítás"/>
+<phrase i="L_ProAcnt_Setup_Basic" t="Profilfiók-beállítás (HTTP)"/>
+<phrase i="L_ProAcnt_Setup_XsiLogin" t="Profilfiók-beállítás (XSI)"/>
+<phrase i="L_ProAcnt_Setup_XsiSip" t="Profilfiók-beállítás (XSI SIP)"/>
+<phrase i="L_PA_HOST_WARNING" t="Bejelentkezés sikertelen, lépjen kapcsolatba a rendszergazdával."/>
+<phrase i="L_PA_Username" t="Felhasználónév"/>
+<phrase i="L_PA_RESYNC_TRY" t="Bejelentkezés a fiókba..."/>
+<phrase i="L_PA_RESYNC_OK" t="Bejelentkezés sikeres!"/>
+<phrase i="L_PA_RESYNC_DISABLED" t="Az újraszinkronizálási funkció letiltva – forduljon a rendszergazdához."/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="Extension Mobility"/>
+<phrase i="L_ExtMob_LoginForm" t="Bejel. az Extension Mobility funkcióba"/>
+<phrase i="L_EM_LOGIN_TRY" t="Bejelentkezés folyamatban."/>
+<phrase i="L_EM_LOGIN_OK" t="Bejelentkezés sikeres."/>
+<phrase i="L_EM_LOGIN_FAILED" t="Hibás bejelentkezési adatok."/>
+<phrase i="L_EM_LOGOUT_TRY" t="Kijelentkezés folyamatban."/>
+<phrase i="L_EM_LOGOUT_OK" t="Kijelentkezés sikeres."/>
+<phrase i="L_EM_LOGOUT_FAILED" t="Kijelentkezés sikertelen. A telefon újraindul."/>
+<phrase i="L_EM_LOGIN_WARNING" t="Adja meg felhasználói azonosítóját és jelszavát."/>
+<phrase i="L_EM_LOGOUT_CONFIRMATION" t="Biztos benne, hogy kilép  az Extension Mobility funkcióból?"/>
+<phrase i="L_EM_INACTIVE_WARNING" t="Inaktivitás miatt ez a telefon ki fog jelentkezni az Extension Mobility funkcióból. Szeretne bejelentkezve maradni?"/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="Végre kíván hajtani egy helyreállítást?"/>
+<phrase i="L_RecoveryReset" t="Helyreállítás"/>
+<phrase i="L_FirmwareUpgrade" t="Firmware-frissítés"/>
+<phrase i="T_ST_Diag" t="Diagnosztikai helyreállítás"/>
+<phrase i="UsbImageFileNotPresent" t="/image/spa525g.bin nem található. Másolja a firmware képfájlt ide: /image/spa525g.bin."/>
+<phrase i="L_Picture" t="Kép"/>
+<phrase i="L_IncomingPage" t="Bejövő oldal"/>
+<phrase i="L_OutgoingPage" t="Kimenő oldal"/>
+
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="A következő mappa nem létezik: „%s”. Ellenőrizze, hogy vannak-e JPG-fájlok az USB-eszköz „%s” mappájában."/>
+<phrase i="ImageUsbFileNotPresent" t="A(z) „%s” mappában nincsenek JPG-fájlok. Ellenőrizze, hogy vannak-e JPG-fájlok az USB-eszköz „%s” mappájában."/>
+<phrase i="T_ImageSelect" t="Kép választása"/>
+<phrase i="ImageMsgOverMaxImageNum" t="Több, mint %d képet választott ki!"/>
+
+<phrase i="WS_Jan" t="Jan"/>
+<phrase i="WS_Feb" t="Feb"/>
+<phrase i="WS_Mar" t="Márc"/>
+<phrase i="WS_Apr" t="Ápr"/>
+<phrase i="WS_May" t="Máj"/>
+<phrase i="WS_Jun" t="Jún"/>
+<phrase i="WS_Jul" t="Júl"/>
+<phrase i="WS_Aug" t="Aug"/>
+<phrase i="WS_Sep" t="Szept"/>
+<phrase i="WS_Oct" t="Okt"/>
+<phrase i="WS_Nov" t="Nov"/>
+<phrase i="WS_Dec" t="Dec"/>
+<phrase i="WS_Sun" t="Nap"/>
+<phrase i="WS_Mon" t="H"/>
+<phrase i="WS_Tue" t="K"/>
+<phrase i="WS_Wed" t="Sze"/>
+<phrase i="WS_Thu" t="Csü"/>
+<phrase i="WS_Fri" t="P"/>
+<phrase i="WS_Sat" t="Szo"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="Kérés"/>
+<phrase i="T_EmptyHTTPBody" t="Üres http-törzs."/>
+<phrase i="T_404NotFound" t="404 nem található."/>
+<phrase i="T_AudioDataError" t="Hangadathiba."/>
+<phrase i="T_DNSError" t="DNS-hiba."/>
+<phrase i="T_NoServer" t="Nem lehet csatlakozni a kiszolgálóhoz."/>
+<phrase i="T_NoResponse" t="A kiszolgáló nem válaszolt. Próbálja meg ismét."/>
+<phrase i="T_DataError" t="Adathiba."/>
+<phrase i="T_UnknownError" t="Ismeretlen hiba."/>
+<phrase i="T_RTPFail" t="A telefon egy másik híváson van. Próbálja újra később."/>
+<phrase i="T_XMLFormatError" t="XML formáum hiba: érvénytelen alkalmazás."/>
+<phrase i="T_NotValidApp" t="Ez a telefonmodell nem támogatja az alkalmazást."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="Eredmény"/>
+<phrase i="PRV_Msg_Resync" t="Újraszinkronizálás erre:"/>
+<phrase i="PRV_Msg_ReqFailed" t="Az újraszinkronizálási kérés nem sikerült! A telefon éppen újraszinkronizál. Próbálja újra később."/>
+<phrase i="PRV_Msg_ReqFailedByUpg" t="A kérés sikertelen egy firmware-frissítés miatt. Próbálja újra később."/>
+<phrase i="PRV_Invalid_URL" t="Érvénytelen újraszinkronizálási profilszabály!"/>
+<phrase i="StringLengthOver" t="A string hosszabb a megengedettnél."/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="Újraszinkronizálás folyamatban..."/>
+<phrase i="PRV_Msg_Resync_OK" t="Az újraszinkronizálás sikeres."/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="A telefon újraindul. Kérem várjon"/>
+<phrase i="L_Active_Call_Progress" t="Hívás folyamatban. Fejezze be a hívást, majd próbálkozzon újra."/>
+<phrase i="L_Unable_To_Add_Participant" t="Nem lehet hozzáadni résztvevőt."/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="Nincs"/>
+<phrase i="L_RReason1" t="DHCP sikertelen"/>
+<phrase i="L_RReason2" t="Frissítés"/>
+<phrase i="L_RReason3" t="Kiosztás"/>
+<phrase i="L_RReason4" t="Frissítés"/>
+<phrase i="L_RReason5" t="Felhasználó által indított"/>
+<phrase i="L_RReason6" t="Frissítés"/>
+<phrase i="L_RReason7" t="SIP által indított"/>
+<phrase i="L_RReason8" t="Frissítés"/>
+<phrase i="L_RReason9" t="Rendszerhiba"/>
+<phrase i="L_RReason10" t="Nem működő hivatkozás"/>
+<phrase i="L_RReason11" t="1. rendszer"/>
+<phrase i="L_RReason12" t="2. rendszer"/>
+<phrase i="L_RReason13" t="Duplikált IP-cím"/>
+<phrase i="L_RReason14" t="Biztonsági IP-cím"/>
+<phrase i="L_RReason15" t="3. rendszer"/>
+<phrase i="L_RReason16" t="4. rendszer"/>
+<phrase i="L_RReason17" t="5. rendszer"/>
+<phrase i="L_RReason18" t="6. rendszer"/>
+<phrase i="L_RReason19" t="7. rendszer"/>
+<phrase i="L_RReason20" t="SIP által indított"/>
+<phrase i="L_RReason21" t="Dict-letöltés"/>
+<phrase i="L_RReason22" t="VLAN módosult"/>
+<phrase i="L_RReason23" t="Visszatérési kód"/>
+<phrase i="L_RReason24" t="Gyári alapértékek"/>
+<phrase i="L_RReason25" t="Szoftver kér."/>
+<phrase i="L_RReason26" t="IP-cím módosult"/>
+
+<phrase i="L_Calls" t="Hívás"/>
+
+<!-- ############# Full Screen Progress Spinner ########### -->
+<phrase i="L_ProgressSpinnerText" t="Firmware-frissítés"/>
+
+<!-- ############# Accessories ############ -->
+<phrase i="L_Accessories" t="Tartozékok"/>
+<phrase i="L_AccessoryDetails" t="Tartozék részletei"/>
+<phrase i="L_DeviceType" t="Eszköztípus"/>
+<phrase i="L_DeviceClass" t="Eszközosztály"/>
+<phrase i="L_Configured" t="Konfigurálva"/>
+<phrase i="L_unitEnable" t="Egység engedélyezve"/>
+<phrase i="L_unitState" t="Egység online állapotban"/>
+
+<!-- #############  Cisco Headset#############-->
+<phrase i="L_Setup" t="Beállít."/>
+<phrase i="L_Microphone" t="Mikrofon"/>
+<phrase i="L_Tuning" t="Hangolás"/>
+<phrase i="L_Sidetone" t="Önhang"/>
+<phrase i="L_MicrophoneTest" t="Mikrofonteszt"/>
+<phrase i="L_InputLevel" t="Bemeneti szint"/>
+<phrase i="L_SpeakNow" t="Beszéd most"/>
+<phrase i="L_SpeakLevel" t="Beszéljen a bevit. szint megjelenítéséhez"/>
+<phrase i="L_PlayRecord" t="Felvétel lejátszása"/>
+<phrase i="L_AdjustMicroGain" t="Mikrofonerősítés beállítása"/>
+<phrase i="L_Softer" t="Halkabb"/>
+<phrase i="L_Louder" t="Hangos"/>
+<phrase i="L_AdjustAudioTune" t="Hangszín állítása"/>
+<phrase i="L_Warmer" t="Meleg"/>
+<phrase i="L_Brighter" t="Fényes"/>
+<phrase i="L_AdjustMicrophone" t="Mikrofon beállítása"/>
+
+<phrase i="L_headsetSettings" t="Cisco fejhallgató beállításai"/>
+<phrase i="L_headsetSpeaker" t="Cisco fejhallgató hangszórója"/>
+<phrase i="L_headsetMicrophone" t="Cisco fejhallgató mikrofonja"/>
+<phrase i="L_Test" t="Teszt"/>
+<phrase i="L_Gain" t="Erősítés"/>
+<phrase i="L_CiscoWiredHeadset" t="Cisco vezetékes fejhallgató"/>
+<phrase i="L_CiscoWirelessHeadset" t="Cisco vezeték nélküli fejhallgató"/>
+<phrase i="L_CiscoHeadset" t="Cisco fejhallgató"/>
+<phrase i="L_NewAccDetected" t="Új kiegészítő észlelve"/>
+<phrase i="L_HeadsetSetupProgress" t="A fejhallgató konfigurálásához nyomja meg a Beállítás gombot, ellenkező esetben ez az oldal %d másodpercen belül bezár."/>
+<phrase i="L_HeadsetSetupProgressOneSecond" t="A fejhallgató konfigurálásához nyomja meg a Beállítás gombot, ellenkező esetben ez az oldal 1 másodpercen belül bezár."/>
+<phrase i="L_HeadsetUpgrade" t="Szoftverfrissítés folyamatban. Ne húzza ki a fejhallgatót!"/>
+<phrase i="L_HeadsetMDUpgradeNotify" t="A fejhallgató förmver frissítése kész. A művelet több percig is tarthat, és a frissítés alatt nem használhatja a fejhallgatót. Szeretne frissíteni most?"/>
+<phrase i="L_CannotRecord" t="Nem lehet ellenőrizni a mikrofon erősítést vagy hangerőt hívás közben."/>
+<phrase i="L_Version" t="Verzió"/>
+<phrase i="L_UpgradeFaild" t="Sikertelen frissítés."/>
+<phrase i="S_PlayBack" t="Visszajátszás"/>
+<phrase i="L_Upgrade" t="Frissít"/>
+<phrase i="L_Postpone" t="Halasztás"/>
+
+<!-- #############  PRT Screen#############-->
+<phrase i="L_ReportProblem" t="Hibajelentés"/>
+<phrase i="L_ProblemDate" t="Probléma dátuma"/>
+<phrase i="L_ProblemTime" t="Probléma időp."/>
+<phrase i="L_ProblemDescription" t="Probléma leírása"/>
+<phrase i="L_SelectProblem" t="Válasszon"/>
+<phrase i="L_PRTProblem1" t="Telefon szétkapcsolt v. újraindult"/>
+<phrase i="L_PRTProblem2" t="A hálózati kapcsolat meghiúsult"/>
+<phrase i="L_PRTProblem3" t="A telefon regisztr. meghiúsult"/>
+<phrase i="L_PRTProblem4" t="Nem sikerült hívást kezdeményezni"/>
+<phrase i="L_PRTProblem5" t="Nem fogadható a hívás"/>
+<phrase i="L_PRTProblem6" t="Nem működnek a hívási funkciók"/>
+<phrase i="L_PRTProblem7" t="Rossz hang-/videominőség"/>
+<phrase i="L_PRTProblem8" t="Egyirányú hang/videó"/>
+<phrase i="L_PRTProblem9" t="Nincs hang/videó"/>
+<phrase i="L_PRTProblem10" t="Felh. felület lassú válasza"/>
+<phrase i="L_PRTProblem11" t="Felh. felület megjelenítési hibája"/>
+<phrase i="L_PRTProblem12" t="Egyéb"/>
+<phrase i="L_PrtSpinnerText" t="PRT-fájl generálása"/>
+<phrase i="L_PrtStatusOKText" t="A feltöltés sikerült. Fájl: %s"/>
+<phrase i="L_PrtStatusFailedText" t="PRT-feltöltés sikertelen. Megtalálható ezen a weboldalon: %s"/>
+<phrase i="L_PrtStatusFailedText1" t="PRT-feltöltés sikertelen. Megtalálható ezen a weboldalon:"/>
+<phrase i="L_PrtStatusNoURLText" t="A PRT fájl ezen a weboldalon érhető el (%s)"/>
+<phrase i="L_PrtStatusNoURLText1" t="A PRT fájl ezen a weboldalon érhető el:"/>
+<phrase i="L_PrtWarningText" t="Válassza ki a probléma leírását."/>
+<phrase i="T_PRT_Submitted" t="Probléma elküldve"/>
+<phrase i="T_PRT_Error" t="Hiba: %d"/>
+
+<!-- #############  802.1X Authentication #############-->
+<phrase i="L_802Authentication" t="802.1X hitelesítés"/>
+<phrase i="L_DeviceAuthentication" t="Készülékhitelesítés"/>
+<phrase i="L_TransactionStatus" t="Tranzakció állapota"/>
+<phrase i="L_Protocol" t="Protokoll"/>
+
+<!-- #############  Agent Login #############-->
+<phrase i="S_AState" t="ÜgynÁll"/>
+<phrase i="L_ACD_AGENT_STATE" t="Ügynök állapotának beállítása"/>
+<phrase i="S_ASignIn" t="ÜgynökBe"/>
+<phrase i="S_ASignOut" t="ÜgynökKi"/>
+<phrase i="S_AgtIn" t="ÜgynökBe"/>
+<phrase i="S_AgtOut" t="ÜgynökKi"/>
+<phrase i="T_ACD_CallInformation" t="Hívásadatok"/>
+<phrase i="L_ACD_WaitTime" t="Várakozási idő"/>
+<phrase i="L_ACD_CCUID" t="CC UID"/>
+<phrase i="L_ACD_CCName" t="CC név"/>
+<phrase i="L_ACD_Queue" t="Várólista"/>
+<phrase i="L_ACD_LongestWaitTime" t="Leghosszabb várakozási idő"/>
+<phrase i="S_ACallInfo" t="Hívásadatok"/>
+<phrase i="S_ADispCode" t="Tul. kód"/>
+<phrase i="S_ATrace" t="Követés"/>
+<phrase i="S_AEmergcy" t="Vészhely"/>
+<phrase i="L_ACD_DispCode" t="Diszpozíció kód"/>
+<phrase i="L_ACD_Emergency" t="Vészhelyzet-eszkal."/>
+<phrase i="L_Avail" t="Elérhető"/>
+<phrase i="L_Unavail" t="Nem elérhető"/>
+<phrase i="L_Wrap" t="Befejezés"/>
+<phrase i="L_SignOut" t="Kijelentkezés"/>
+<phrase i="L_AgtState" t="Ügynök"/>
+<phrase i="L_AQS_EMPTY" t="üres"/>
+<phrase i="L_AQS_NORMAL" t="vlistán"/>
+<phrase i="L_AQS_FULL" t="tele"/>
+<phrase i="L_SECOND" t="%d mp"/>
+<phrase i="L_SECONDS" t="%d mp"/>
+<phrase i="L_Queue_Call" t="%d hívás"/>
+<phrase i="L_Queue_Calls" t="%d hívás"/>
+<phrase i="L_AgtIn" t="Ügynök bejelentkezve"/>
+<phrase i="L_AgtOut" t="Ügynök kijelentkezve"/>
+
+
+<!-- #############  Exec/Admin Feature #############-->
+<phrase i="L_Executive" t="Vezető"/>
+<phrase i="L_Executive_List" t="Vezetői lista"/>
+<phrase i="L_Assistant" t="Asszisztens"/>
+<phrase i="L_AllowOptInOut" t="Segéd fel-/leiratkozás"/>
+<phrase i="L_CallFilter" t="Hívásszűrő"/>
+<phrase i="L_CallFilterMode" t="Hívásszűrő mód"/>
+<phrase i="L_CallFilterType" t="Hívásszűrő típusa"/>
+<phrase i="L_AssistsList" t="Asszisztenslista"/>
+<phrase i="M_No_Executive" t="Nincs elérhető vezető."/>
+<phrase i="L_DivertNum" t="Szám átirányítása"/>
+<phrase i="OL_AllCalls" t="Minden hívás"/>
+<phrase i="OL_InternalCalls" t="Belső hívások"/>
+<phrase i="OL_ExternalCalls" t="Külső hívások"/>
+<phrase i="OL_Simple" t="Egyszerű"/>
+<phrase i="OL_Advanced" t="Részletek"/>
+<phrase i="L_Opt0" t="Leiratkozás"/>
+<phrase i="L_Opt1" t="Feliratkozás"/>
+<phrase i="M_CallFilterPrompt" t="A hívási szűrő beállításainak minden módosítása hatással van az összes többi asszisztensre. Folytatja?"/>
+<phrase i="M_DivertNumberPrompt" t="Az átirányítási szám kötelező mező."/>
+
+<!-- #############  GDS Activation Feature #############-->
+<phrase i="L_Welcome" t="Üdvözöljük"/>
+<phrase i="S_Continue" t="Folytat"/>
+<phrase i="L_Enter_Activation_Code" t="Adja meg az aktivációs kódot"/>
+<phrase i="L_Activation_Connecting" t="Csatlakozás folyamatban."/>
+<phrase i="L_Activation_Download_Configuration" t="Letöltés folyamatban..."/>
+<phrase i="L_Activation_Check_Info" t="Érvénytelen aktivációs kód."/>
+<phrase i="L_Activation_Invalid_Config" t="Érvénytelen konfiguráció. Lépjen kapcsolatba a rendszergazdával."/>
+<phrase i="L_Activation_Service_Unavailable" t="A szolgáltatás nem elérhető. Próbálkozzon újra később."/>
+<phrase i="L_Activation_Internal_Error" t="Indítsa újra a telefont, vagy lépjen kapcsolatba a rendszergazdával."/>
+<phrase i="L_Activation_Network_Error" t="Ellenőrizze az internetkapcsolatot, vagy lépjen kapcsolatba a rendszergazdával."/>
+<phrase i="L_Activation_Cert_Error" t="Érvénytelen szerver tanúsítvány. Lépjen kapcsolatba a rendszergazdával."/>
+<phrase i="L_Activation_Download_Retrying" t="letöltés sikertelen. Újrapróbálkozás folyamatban..."/>
+<phrase i="L_Activation_Download_Failed" t="Letöltés sikertelen. Lépjen kapcsolatba a rendszergazdával."/>
+<phrase i="M_Config_In_Progress" t="A konfiguráció ellenőrzése folyamatban van, és néhány percet vesz igénybe."/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/> <!--aks:can be removed after all required screens are fixed-->
+<phrase i="L_NetworkName" t="Hálózat neve"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_802.11" t="Frekvenciasáv"/>
+<phrase i="L_5ghz" t="5 GHz"/>
+<phrase i="L_2.4ghz" t="2,4 GHz"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_WiFi_Type" t="Wi-Fi típusa"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="ÉÉÉÉ"/>
+<phrase i="Label_MM" t="HH"/>
+<phrase i="Label_DD" t="NN"/>
+<phrase i="Label_hh" t="ÓÓ"/>
+<phrase i="Label_mm" t="PP"/>
+<phrase i="Label_ss" t="mp"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Fogadott"/>
+<phrase i="L_Tx" t="Küldött"/>
+<phrase i="L_SWITCH_PORT_CFG" t="Portbeállítás átváltása"/>
+<phrase i="L_PC_PORT_CFG" t="Számítógépes portbeállítás"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_PC_PORT_MIRRORING" t="PC porttükör"/>
+<phrase i="L_STARTUP_DELAY" t="Indítási késleltetés"/>
+<phrase i="L_DHCP_VLAN_OPTION" t="DHCP VLAN opció"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="VLAN ID"/>
+<phrase i="L_VLAN_PRIPORITY" t="VLAN priority"/>
+<phrase i="L_DATAPORT_VLAN" t="PC port VLAN"/>
+<phrase i="L_DATAPORT_VLANID" t="PC port VLAN ID"/>
+<phrase i="L_DATAPORT_PRIORITY" t="PC port priority"/>
+<phrase i="OL_NO_LIMIT" t="Nincs határ"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_WLAN" t="WLAN"/>
+<phrase i="OL_WPS" t="WPS"/>
+<phrase i="OL_RELEASE_DHCP" t="DHCP IP felszabadítása"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_DIGEST-MD5" t="DIGEST-MD5"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  #Status messages #############-->
+<phrase i="M_SM_status_no_connection" t="Nincs kapcsolat"/>
+<phrase i="M_SM_status_Eth_connected" t="Ethernet csatlakoztatva"/>
+<phrase i="M_SM_status_Wifi_connected" t="Wifi csatlakoztatva"/>
+<phrase i="M_SM_Eth_Dis" t="Ethernet szétkapcsolva"/>
+<phrase i="M_SM_Wifi_Dis" t="Wifi szétkapcsolva"/>
+<phrase i="M_SM_V6_IP_Dup" t="Kettős IPv6-cím"/>
+<phrase i="M_SM_V4_IP_Dup" t="Kettős IPv4-cím"/>
+<phrase i="M_SM_V6_Dns_Err" t="DNSv6-feloldási hiba"/>
+<phrase i="M_SM_Usr_Cncld_Pwr_off" t="Telefonkikapcsolás megszakítva: a kapcsolóból érkező kikapcsolási utasítást a felhasználó miatt visszavonták."/>
+<phrase i="M_SM_POE_Rqd" t="Telefonkikapcsolási hiba: a kikapcsolás sikertelen; a telefon kikapcsolásához Etherneten keresztüli tápellátás (Power over Ethernet) szükséges."/>
+<phrase i="M_SM_NO_FILE_CHG" t="A fájlok nem módosultak"/>
+<phrase i="M_SM_PORT_CFG_ERR" t="Portkonfigurációs hiba"/>
+<phrase i="M_SM_V4_ADDR_REL" t="IPv4-cím felszabadítva"/>
+<phrase i="M_SM_V4_ADDR_RENEW" t="IPv4-cím megújítva"/>
+<phrase i="M_SM_NTP_TEMP_TIME" t="A kézileg beállított idő felül lesz írva, ha az NTP elérhető."/>
+<phrase i="M_SM_CertError" t="SSL hitelesítési hiba %s"/>
+<phrase i="M_SM_DNSError" t="Hiba a cím feloldása közben: %s"/>
+<phrase i="M_SM_DNSSuccess" t="Sikeresen feloldva: %s"/>
+<phrase i="M_SM_NoGeolocation" t="Vészhelyzeti hívóhelye nem azonosítható ezen a vonalon: %s"/>
+<phrase i="M_SM_FailedGeolocation" t="A rendszer nem képes azonosítani vészhelyzeti hívóhelyét."/>
+
+<phrase i="ReadOnly_Prompt" t="Ehhez a módosításhoz nincs jogosultsága."/>
+<phrase i="Copyright_Year" t="2000-2020"/>
+<phrase i="Copyright_Text" t="Copyright 2000-2020 Cisco Systems, Inc."/>
+
+<!-- #############  #Upgrade error message #############-->
+<phrase i="M_UG_FAIL" t="Sikertelen frissítés"/>
+<phrase i="M_UG_CRC_FAIL" t="Sikertelen CRC-ellenőrzés"/>
+<phrase i="M_UG_MAGIC_FAIL" t="Ismeretlen töltés"/>
+<phrase i="M_UG_MEMORY_NOT_ENOUGH" t="Nincs elég elérhető rendszermemória"/>
+<phrase i="M_UG_FILE_NOT_FOUND" t="A fájl nem található"/>
+<phrase i="M_UG_READ_FAIL" t="Adatok lekérése sikertelen"/>
+<phrase i="M_UG_WRITE_FAIL" t="Nem sikerült az adatok írása"/>
+<phrase i="M_UG_HASH_CHECK_FAIL" t="Sikertelen hash-ellenőrzés"/>
+<phrase i="M_UG_HEADER_FAIL" t="Sikertelen főfejléc-ellenőrzés"/>
+<phrase i="M_UG_UPGRADE_ABORT" t="Megszakított frissítési folyamat"/>
+<phrase i="M_UG_FORBID" t="Nem kompatibilis hardver vagy szoftver"/>
+<phrase i="M_UG_CONN_FAIL" t="Nem sikerült kapcsolódni a kiszolgálóhoz"/>
+<phrase i="M_UG_INTERNAL_ERR" t="Belső hiba a frissítési folyamatban"/>
+<phrase i="M_UG_BAD_LOAD_EBR" t="Rossz betöltés vagy rendszerindít. rekord"/>
+<phrase i="M_UG_BAD_SCHEME" t="Rossz letöltési protokollséma"/>
+<phrase i="M_UG_IN_PROGRESS" t="Frissítés folyamatban"/>
+<phrase i="M_UG_BAD_URL" t="Rossz a megadott URL"/>
+<phrase i="M_UG_AUTHORIZED" t="Átmeneti frissítés engedélyezve."/>
+<phrase i="M_UG_UNAUTHORIZED" t="Az átmeneti frissítés nem engedélyezett."/>
+<phrase i="M_UG_AUTH_FAIL" t="Hiba az átmeneti terhelés engedélyezési folyamatban"/>
+<phrase i="M_UG_AUTH_FNF" t="Az átmeneti terhelés engedélyezési fájl nem található."/>
+<phrase i="M_UG_SERV_CERT_ERR" t="Tanúsítványhiba."/>
+<phrase i="M_UG_UNKNOWN_ERR" t="Ismeretlen hiba"/>
+
+<phrase i="Tr_Configure" t="Configuration check in progress."/>
+<phrase i="Tr_Authorize" t="Authorization in progress."/>
+<phrase i="Tr_Auth_Download" t="Átmeneti és reverziós frissítések engedélyezve. Frissítés folyamatban."/>
+<phrase i="Tr_Unauth_Download" t="Csak a reverziós frissítés van engedélyezve. Frissítés folyamtban."/>
+<phrase i="Tr_AuthFail" t="Hitelesítés sikertelen. Ellenőrizze a beállításokat és próbálja meg újra."/>
+<phrase i="Tr_ConfigureFail" t="Failed to download the configuration. Contact your administrator."/>
+<phrase i="Tr_ContactAdmin" t="Contact your administrator."/>
+
+<!-- TODO: Delete the following 3 strings when all code references are gone-->
+<phrase i="Tr_Revert" t="Load reversion in progress..."/>
+<phrase i="Tr_RevertPrompt" t="Do you want to revert to the previous load?"/>
+<phrase i="Tr_RevertFail" t="Failed to revert to the previous load"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s&amp;mobilePhone=%s"/>
+<phrase i="URL_AddToBSPAB" t="Application_BsDirPersAddToFrom?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2016"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All rights reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi protected setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade file select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi profile name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push button configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching available sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to personal address book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to personal address book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with personal address book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the conflict list"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the personal address book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth device name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices"/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait"/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting wireless profile"/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call history type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add new Wi-Fi profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit all changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware upgrade window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space not allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password not valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available speed dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current personal directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension name of certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter PIN."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of call history entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of received calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of placed calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of missed calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected call history entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected received calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected placed calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected missed calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to personal address book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal address book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Recents"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default transmit key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA shared key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of private key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS inner protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP inner protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="PIN"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone no"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work no"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile no"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home no"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add personal address entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check server certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed calls"/>
+<phrase i="S_Pg_C_All" t="All calls"/>
+<phrase i="S_Pg_C_XsiAll" t="Server All calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import address book from mobile phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- status messages for future use. When using, move them in translatable section-->
+<phrase i="M_SM_cant_pwr_off" t="Phone off error: Could not power off; the required EnergyWise domain is not configured."/>
+<phrase i="M_SM_app_conf" t="apply_config"/>
+<phrase i="M_SM_cust_pend" t="Custom-pending"/>
+<phrase i="M_SM_psp_dev_unreg_pwr_off" t="Device unregistered when it entered powered off due to the Power Save Plus feature"/>
+<phrase i="M_SM_trst_lst_updtd" t="Trust list updated"/>
+<phrase i="M_SM_vpn_proc_not_rng" t="VPN process not running"/>
+<phrase i="M_SM_vpn_clnt_not_rng" t="VPN client not running"/>
+<phrase i="M_SM_vpn_not_cnfgd" t="VPN not configured"/>
+<phrase i="M_SM_trst_lst_updt_faild" t="Trust list update failed"/>
+<phrase i="M_SM_itl_upd_failed" t="ITL update failed"/>
+<phrase i="M_SM_no_trst_lst" t="No trust list installed"/>
+<phrase i="M_SM_itl_instld" t="ITL installed"/>
+<phrase i="M_SM_tz_dnld_failed" t="Time zone data download failed"/>
+<phrase i="M_SM_V6_dns_to" t="IPv6 DNS timeout"/>
+<phrase i="M_SM_V4_no_tftp_svr" t="No IPv4 TFTP server"/>
+<phrase i="M_SM_V6_no_tftp_svr" t="No IPv6 TFTP server"/>
+<phrase i="M_SM_V6_dhcp_to" t="DHCPv6 Timeout"/>
+<phrase i="M_SM_V6_dns_h_un" t="DNS unknown IPv6 host"/>
+<phrase i="M_SM_V6_no_dns_svr" t="No IPv6 DNS server"/>
+<phrase i="M_SM_V6_ADDR_REL" t="IPv6 address released"/>
+<phrase i="M_SM_load_svr_invld" t="Load server is invalid"/>
+<phrase i="M_SM_tftp_svr" t="TFTP server"/>
+<phrase i="M_SM_tftp_not_auth755" t="TFTP not authorized"/>
+<phrase i="M_SM_pend" t="Pending"/>
+<phrase i="M_SM_ctl_instd" t="CTL installed"/>
+<phrase i="M_SM_ctl_updtd_failed" t="CTL update failed"/>
+<phrase i="M_SM_file_auth_fail" t="File auth fail"/>
+<phrase i="M_SM_load_auth_fail" t="Load authenication failed"/>
+<phrase i="M_SM_err_updt_lcl" t="Error updating locale"/>
+<phrase i="M_SM_load_rej_hc" t="Load rejected HC"/>
+<phrase i="M_SM_failback" t="Failback"/>
+<phrase i="M_SM_err_vrfy_cfg" t="Error verifying config info"/>
+<phrase i="M_SM_tftp_err" t="TFTP error"/>
+<phrase i="M_SM_tftp_acc_err" t="TFTP access error"/>
+<phrase i="M_SM_tcp_to" t="TCP-timeout"/>
+<phrase i="M_SM_ver_err" t="Version Error"/>
+<phrase i="M_SM_prog_err" t="Programming Error"/>
+<phrase i="M_SM_no_def_rtr" t="No default router"/>
+<phrase i="M_SM_V4_no_dns_svr" t="No IPv4 DNS server"/>
+<phrase i="M_SM_V4_dns_to" t="IPv4 DNS timeout"/>
+<phrase i="M_SM_V4_dns_h_un" t="DNS unknown IPv4 host"/>
+<phrase i="M_SM_tftp_to" t="TFTP timeout"/>
+<phrase i="M_SM_V4_dhcp_to" t="IPv4 DHCP timeout"/>
+<phrase i="M_SM_V6_Vid_Cap" t="VideoCap with IPv6 Only"/>
+
+<!-- Voice Feedback Strings (hints). DO NOT LOCALIZE this section-->
+<phrase i="VF_FEEDBACK_ON" t="voice feedback on press three times to turn off"/>
+<phrase i="VF_FEEDBACK_OFF" t="voice feedback off"/>
+<phrase i="VF_HOME_SCREEN" t="Home Screen"/>
+<phrase i="VF_STARTUP_SCREEN" t="Startup Screen"/>
+<phrase i="VF_OPTION" t="Option"/>
+<phrase i="VF_XFER_LINE" t="Transfer line"/>
+<phrase i="VF_CONF_LINE" t="Conference line"/>
+<phrase i="VF_INPUT_FIELD" t="Input field"/>
+<phrase i="VF_SWITCH_FIELD" t="Switch field"/>
+<phrase i="VF_OPTION_FIELD" t="Option field"/>
+<phrase i="VF_EXPAND_FIELD" t="Expand field"/>
+<phrase i="VF_NEXT_PAGE" t="Next page"/>
+<phrase i="VF_SLIDER_FIELD" t="Slider field"/>
+<phrase i="VF_MENU" t="Menu"/>
+<phrase i="VF_INCOMING_CALL" t="Incoming call from"/>
+<phrase i="VF_OUTGOING_CALL" t="Outgoing call to"/>
+<phrase i="VF_MISSED_CALL" t="Missed call from"/>
+<phrase i="VF_HELD_CALL" t="Held call with"/>
+<phrase i="VF_CONNECTED_CALL" t="Connected call with"/>
+<phrase i="VF_CANCEL_FORWARD" t="Cancel call forward"/>
+<phrase i="VF_MUTE" t="Mute"/>
+<phrase i="VF_SELECTED" t="Selected"/>
+<phrase i="VF_CURSOR" t="Cursor"/>
+<phrase i="VF_AT_START" t="Cursor at start"/>
+<phrase i="VF_AT_END" t="Cursor at end"/>
+<phrase i="VF_JANUARY" t="January"/>
+<phrase i="VF_FEBRUARY" t="February"/>
+<phrase i="VF_MARCH" t="March"/>
+<phrase i="VF_APRIL" t="April"/>
+<phrase i="VF_MAY" t="May"/>
+<phrase i="VF_JUNE" t="June"/>
+<phrase i="VF_JULY" t="July"/>
+<phrase i="VF_AUGUST" t="August"/>
+<phrase i="VF_SEPTEMBER" t="September"/>
+<phrase i="VF_OCTOBER" t="October"/>
+<phrase i="VF_NOVEMBER" t="November"/>
+<phrase i="VF_DECEMBER" t="December"/>
+<phrase i="VF_MENU_CLOSED" t="Menu Closed"/>
+<phrase i="VF_DND_SET" t="Do Not Disturb Set"/>
+<phrase i="VF_DND_CANCEL" t="Do Not Disturb Cancelled"/>
+<!-- Voice Feedback Strings. END OF THIS SECTION-->
+
+</phrases>

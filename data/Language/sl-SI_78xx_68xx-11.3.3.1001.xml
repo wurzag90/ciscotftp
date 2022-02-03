@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Max number of parsable phrases is capped at 4096 in csstringrepo.c --><phrases>
+<trkLocaleName>Slovenian</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  Conference Microphones ###########-->
+
+<phrase i="L_WirelessPairing_info" t="Za 3 sekunde pritisnite tipko za izklop zvoka na mikrofonu %d. Mikrofon bo med seznanjanjem utripal belo."/>
+<phrase i="L_UNPLUG_WIRED" t="Preden pritisnete Seznani, odklopite žične mikrofone."/>
+
+<phrase i="L_WIRED_MIC_CONNECTED" t="Povezava z žičnim mikrofonom %d vzpostavljena."/>
+<phrase i="L_WIRED_MIC_DISCONNECTED" t="Povezava z žičnim mikrofonom %d prekinjena."/>
+<phrase i="L_WIRELESS_MIC_DISCONNECTED" t="Povezava z brezžičnim mikrofonom %d prekinjena."/>
+<phrase i="L_WIRELESS_MIC_CONNECTED" t="Povezava z brezžičnim mikrofonom %d vzpostavljena."/>
+
+<phrase i="L_LOW_BATTERY" t="Baterija mikrofona je manj kot %d%25%25 napolnjena."/>
+<phrase i="L_RANGE" t="Domet"/>
+<phrase i="L_BATTERY_LEVEL" t="Napolnjenost baterije: %d %%"/>
+<phrase i="L_BATTERY_POOR_CONNECTION" t="Slaba povezava z baterijo"/>
+<phrase i="L_BATTERY_BAD" t="Slaba baterija"/>
+<phrase i="L_PAIRED" t="Seznanjen"/>
+<phrase i="L_UNPAIRED" t="Razdruženo"/>
+<phrase i="L_LOST_LINK" t="Povezava izgubljena"/>
+<phrase i="L_UPGRADE_IN_PROGRES" t="Poteka nadgradnja"/>
+<phrase i="L_WIRELESS_MICROPHONE" t="Brezžični mikrofon %d"/>
+<phrase i="L_MICROPHONE" t="Mikrofon %d"/>
+<phrase i="L_MICROPHONES" t="Mikrofoni"/>
+<phrase i="L_WIRED_MIC" t="Žični mikrofoni"/>
+<phrase i="L_WIRELESS_MIC" t="Brezžični mikrofoni"/>
+<phrase i="L_PAIR" t="Seznani"/>
+<phrase i="L_UNPAIR" t="Razdruži"/>
+<phrase i="L_LOSTLINK" t="Izgubljena povezava"/>
+<phrase i="L_WIRELESS_MICROPHONE_ID" t="Seznanjanje mikrofona %d"/>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="Zagon sistema"/>
+<phrase i="L_S_NET" t="Inicializacija omrežja"/>
+<phrase i="L_S_DOWNLOAD" t="Poteka prenos"/>
+<phrase i="L_S_UPGRADE" t="Nadgradnja na"/>
+<phrase i="L_S_UPGRADEFAILED" t="Nadgradnja ni uspela."/>
+<phrase i="L_S_RESYNC" t="Vnovično sinhroniziranje z"/>
+<phrase i="L_S_RESYNCFAILED" t="Vnovično sinhroniziranje ni uspelo."/>
+<phrase i="L_S_SRVC_PROVISIONING_FAILED" t="Preverite nastavitve nadziranja ali pa se obrnite na ponudnika storitev."/>
+<phrase i="L_S_CONNECT" t="Povezovanje"/>
+<phrase i="L_S_NOCME" t="UCxxx ni mogoče najti. Obrnite se na skrbnika."/>
+<phrase i="L_S_REGTOKENREJECT" t="Žeton registra SPCP zavrnjen. Vnovični poskus..."/>
+<phrase i="L_S_REGISTERING" t="Registriranje"/>
+<phrase i="L_S_REGISTERED" t="Registracija končana."/>
+<phrase i="L_S_REGREJECT" t="Registracija zavrnjena."/>
+<phrase i="L_S_REGFAILED" t="Registracija ni uspela."/>
+<phrase i="L_S_NO_REG" t="Vaš telefon se ni registriral. Obrnite se na skrbnika."/>
+<phrase i="L_S_NO_NETWORK" t="Vaš telefon se ne more povezati z omrežjem. Preverite telefonske kable. Če težave s tem ne odpravite, se obrnite na skrbnika."/>
+<phrase i="L_S_NO_WIFI_NETWORK" t="Konfigurirajte omrežje, če želite omogočiti funkcije klicanja."/>
+<phrase i="L_S_SRVC_NO_NETWORK" t="Preverite internetno povezavo ali pa se obrnite na ponudnika storitev."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_NEWCALL" t="Nov klic"/>
+<phrase i="L_DS_ENTERNUMBER" t="Vnesite številko"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="Preusmeri vse klice"/>
+<phrase i="L_DS_ENTER_CFWD" t="Posredovanje klica"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="Preusmeri klice, če je zasedeno"/>
+<phrase i="L_DS_ENTER_NOANS" t="Preusmeri klice, če ni odgovora"/>
+<phrase i="L_DS_ENTER_BXFER" t="Vnesite cilj za slepi prenos"/>
+<phrase i="L_DS_ENTER_PARK" t="Vnesite številko za parkiranje"/>
+<phrase i="L_DS_ENTER_UNPARK" t="Vnesite številko za odparkiranje"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="Vnesite cilj za napotitveno storitev"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="Vnesite cilj za posebno storitev"/>
+<phrase i="L_DS_ENTER_MORE" t="Vnesite več števk"/>
+<phrase i="L_DS_ENTER_PICKUP" t="Vnesite številko za prevzem klica"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="Vnesite skupino za prevzem klica"/>
+<phrase i="L_DS_ENTER_PAGE" t="Vnesite cilj strani"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="Vnesite zunanjo številko"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="Vnesite šifro računa"/>
+<phrase i="L_DS_ENTER_PROXYCALL" t="Klic proxyja"/>
+<phrase i="L_DS_ENTER_DIVERTALL" t="Preus. vse"/>
+<phrase i="L_DS_LINE" t="Linija: %s"/>
+<phrase i="L_DS_FOR" t="za %s"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="Linija"/>
+<phrase i="L_READY" t="Pripravljen"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="Neregistrir."/>
+<phrase i="L_CAPPN_DISABLED" t="Onemogočeno"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="Hitri klic"/>
+<phrase i="L_CAPPN_APP" t="Aplikacija"/>
+<phrase i="L_CAPPN_URL" t="URL za storitev"/>
+<phrase i="L_CAPPN_FEAT" t="Funkcija"/>
+<phrase i="L_CAPPN_EXTFUNC" t="Razširjena funkcija"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="Gost pripravljen"/>
+<phrase i="CALL_RINGING" t="Dohodni klic"/>
+<phrase i="L_CONNECTED" t="Povezano"/>
+<phrase i="L_NOT_CONNECTED" t="Ni povezano"/>
+<phrase i="L_OK" t="V redu"/>
+<phrase i="L_DUPLICATED" t="Podvojeno"/>
+<phrase i="L_INITIALIZING" t="Inicializacija"/>
+<phrase i="L_CONNECTING" t="Povezovanje"/>
+<phrase i="L_DHCP_ERROR" t="Napaka DHCP"/>
+<phrase i="CALL_HOLDING" t="Klic na čakanju"/>
+<phrase i="CALL_END" t="Klic je končan"/>
+<phrase i="CALL_CALLING" t="Klic poteka"/>
+<phrase i="CALL_SEIZED" t="Prevzeto"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="Zadržan"/>
+<phrase i="CALL_DIALING" t="Klicanje"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="Nadaljevanje"/>
+<phrase i="CALL_SHARE" t="Deli klic"/>
+<phrase i="CALL_PAGE" t="Klic pozivnika"/>
+<phrase i="CALL_PICKUP" t="Prevzem klica"/>
+<phrase i="CALL_PICKUPCALL" t="Prevzem klica"/>
+<phrase i="CALL_PICKUPFAILED" t="Prevzem klica ni uspel."/>
+<phrase i="CALL_PICKUP_NULL" t="Ni klicev, ki zvonijo."/>
+<phrase i="CALL_GPICKUP" t="Prevzem klica v skupini"/>
+<phrase i="CALL_GPICKUPSTATION" t="Prevzem postaje"/>
+<phrase i="CALL_ANSWERING" t="Odgovarjanje"/>
+<phrase i="CALL_UNKNOWN" t="Neznano"/>
+<phrase i="CALL_ANONYMOUS" t="Anonimen"/>
+<phrase i="CALL_USER" t="Uporabnik"/>
+<phrase i="CALL_IDLE" t="Mirovanje"/>
+<phrase i="CALL_PROGRESSING" t="Poteka"/>
+<phrase i="CALL_ALERT" t="V pripravljeno."/>
+<phrase i="CALL_ACTIVE" t="Aktiven"/>
+<phrase i="CALL_HELD" t="Zadržan"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="Most aktiven"/>
+<phrase i="CALL_BRIDGE_HELD" t="Most zadržan"/>
+<phrase i="CALL_FROM" t="Od"/>
+<phrase i="CALL_TO" t="Za"/>
+<phrase i="CALL_CALLBACK" t="Pokliči nazaj"/>
+<phrase i="CALL_FORWARD" t="Posreduj"/>
+<phrase i="CALL_XFERTO" t="Preusmeri na"/>
+<phrase i="CALL_PAGEFROM" t="Klic pozivnika iz"/>
+<phrase i="CALL_PAGETO" t="Klic pozivnika na"/>
+<phrase i="CALL_BY" t="Od"/>
+<phrase i="CALL_CALLER" t="Klicatelj"/>
+<phrase i="CALL_BUSY" t="Zasedeno"/>
+<phrase i="CALL_REORDER" t="Znova razvrsti"/>
+<phrase i="CALL_CONGESTION" t="Zgostitev"/>
+<phrase i="CALL_PROCEED" t="Nadaljuj"/>
+<phrase i="CALL_RML" t="Oddaljena večlinijska v uporabi"/>
+<phrase i="CALL_INVALIDNUM" t="Neveljavna številka"/>
+<phrase i="CALL_INVALID" t="Neveljavno"/>
+<phrase i="L_GATHERINFO" t="Zbiranje podatkov"/>
+<phrase i="L_FAILED" t="Ni uspelo"/>
+<phrase i="L_Empty" t="Prazno"/>
+<phrase i="L_DND" t="Ne moti"/>
+<phrase i="L_CFWD" t="Posredovani klici"/>
+<phrase i="L_CFWDTO" t="na %s"/>
+<phrase i="L_MissedCall" t="Nov neodgovorjen klic"/>
+<phrase i="L_MissedCalls" t="Novi neodgovorjeni klici"/>
+<phrase i="L_RingCallList" t="Seznam klicev, ki zvonijo"/>
+<phrase i="L_RingStationList" t="Seznam postaj, ki zvonijo"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="Neveljavna parkirana številka"/>
+<phrase i="L_SECS_LOGIN_OK" t="Prijava je uspešna."/>
+<phrase i="L_SECS_LOGIN_FAILED" t="Prijava ni uspela. Preverite uporabniški ID in geslo."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="Posodobitev razpoložljivosti ACD ni uspela."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="Posodobitev razpoložljivosti ACD uspešna."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="Povezovanje s strežnikom ACD"/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="Neveljavna uporabniški ID in geslo."/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="Vzpostavljanje povezave s strežnikom"/>
+<phrase i="L_SECS_HOTELING_OK" t="Prijava je uspešna."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="Prijava ni uspela."/>
+<phrase i="L_SECS_HOTELING_LOGOUT_CONFIRMATION" t="Ali ste prepričani, da se želite odjaviti?"/>
+<phrase i="L_ACD_LoginForm" t="Obrazec za prijavo v ACD"/>
+<phrase i="L_TRANSFERRING" t="Preusmerjanje"/>
+<phrase i="L_XFERFAILED" t="Prenos ni uspel"/>
+<phrase i="L_LineSeizing" t="Poskus prevzema linije"/>
+<phrase i="L_GatheringCallInfo" t="Zbiranje klicnih podatkov"/>
+<phrase i="L_SelectingCall" t="Izbiranje klica"/>
+<phrase i="L_SelectingStation" t="Izbiranje postaje"/>
+<phrase i="L_ContactingStunServer" t="Povezovanje s strežnikom STUN"/>
+<phrase i="L_CalledPartyRinging" t="Zvonjenje pri klicani osebi"/>
+<phrase i="L_TryingHold" t="Poteka zadržanje"/>
+<phrase i="L_TringResume" t="Poteka nadaljevanje"/>
+<phrase i="L_StunIn" t="STUN – vhodno"/>
+<phrase i="L_Shared" t="Skupno"/>
+<phrase i="L_Conference" t="Konferenca"/>
+<phrase i="L_SecureCallIndication" t="Oznaka varnega klica"/>
+<phrase i="L_SystemBeep" t="Sistemski pisk"/>
+<phrase i="L_2ndDial" t="Drugo izbiranje"/>
+<phrase i="L_OutsideDial" t="Zunanje izbiranje"/>
+<phrase i="L_BluetoothDial" t="Klicanje prek Bluetootha"/>
+<phrase i="L_MessageWaiting" t="Sporočilo čaka"/>
+<phrase i="L_RingBack" t="Povratno zvonjenje"/>
+<phrase i="L_OffhookWarning" t="Opozorilo o dvignjeni slušalki"/>
+<phrase i="L_Ring" t="Zvonjenje"/>
+<phrase i="L_Alert" t="Opozorilo"/>
+<phrase i="L_Ring_hold" t="Zvonjenje – zadržanje"/>
+<phrase i="L_Ring_Callback" t="Zvonjenje – povratni klic"/>
+<phrase i="L_Inbound" t="Dohodno"/>
+<phrase i="L_Outbound" t="Odhodno"/>
+<phrase i="L_Forwarded" t="Posredovano"/>
+<phrase i="L_Transfered" t="Preusmerjeno"/>
+<phrase i="L_Transfer" t="Preusmeri"/>
+<phrase i="L_Secure" t="Varno"/>
+<phrase i="L_CallsList" t="Seznam klicev"/>
+<phrase i="L_InvalidAcntCode" t="Neveljavna šifra računa"/>
+<phrase i="L_ServiceUnavailable" t="Storitev ni na voljo"/>
+<phrase i="L_Via" t="(Prek: %s)"/>
+<phrase i="L_CALL_DTMF_WAIT" t="Vnesite več števk in pritisnite V redu za nadaljevanje."/>
+<phrase i="L_CALL_PARKED" t="Poteka parkiranje klica"/>
+<phrase i="L_TO" t="za"/>
+<phrase i="L_Incoming" t="Dohodno"/>
+<phrase i="L_Private" t="Zasebno"/>
+<phrase i="L_Seized" t="Prevzeto"/>
+<phrase i="L_CurrentSelectionTitle" t="%d od %d"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="V uporabi"/>
+<phrase i="CALL_OTHERRESERVED" t="Rezervirano"/>
+<phrase i="CALL_OTHERIDLE" t="Drugo nedejavno"/>
+<phrase i="CALL_OTHERNOSERV" t="Ni storitve"/>
+<phrase i="CALL_OTHERHOLD" t="Drugo zadržano"/>
+<phrase i="CALL_OTHERRING" t="Drugo zvonjenje"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="Statistika klicev"/>
+<phrase i="T_AB_STSCH_LIST" t="Statistika klicev"/>
+<phrase i="L_Name" t="Ime"/>
+<phrase i="L_WorkPhone" t="Telefon – služba"/>
+<phrase i="L_Extension" t="Interna številka"/>
+<phrase i="L_HomePhone" t="Telefon – doma"/>
+<phrase i="L_ConferenceNumber" t="Konferenčna številka"/>
+<phrase i="L_MobilePhone" t="Mobilni telefon"/>
+<phrase i="L_RingTone" t="Ton zvonjenja"/>
+<phrase i="L_AT" t="ob"/>
+<phrase i="L_PeerName" t="Ime enakovrednega"/>
+<phrase i="L_PeerNumber" t="Enakov. tel."/>
+<phrase i="L_CallType" t="Vrsta klica"/>
+<phrase i="L_CallDuration" t="Trajanje klica"/>
+<phrase i="L_CallDuration1" t="Trajanje:"/>
+<phrase i="L_EncCodec" t="Kodirni kodek"/>
+<phrase i="L_DecCodec" t="Dekodirni kodek"/>
+<phrase i="L_CallTime" t="Čas klicanja"/>
+<phrase i="L_CallID" t="ID klica"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="Stanje parkiranja klica"/>
+<phrase i="T_AB_CALLPARK_LIST" t="Seznam parkiranih klicev"/>
+<phrase i="L_ParkingAt" t="Parkiranje ob"/>
+<phrase i="L_ParkingBy" t="Parkiral"/>
+<phrase i="CPARK_PROGRESSING" t="Poteka pridobivanje stanje pakiranja klica ..."/>
+<phrase i="CPARK_FAILED" t="Zahteva za stanje pakiranja ni uspela"/>
+<phrase i="CPARK_EMPTY" t="Parkiranje klicev prazno"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="Izbira šifre z zvezdico"/>
+<phrase i="callReturnCode" t="Vračilo klica"/>
+<phrase i="blindXferCode" t="Slepi prenos"/>
+<phrase i="callBackActCode" t="Pokliči nazaj"/>
+<phrase i="callBackDeactCode" t="Preklic povratnega klica"/>
+<phrase i="forwardAllActCode" t="Preusmeri vse klice"/>
+<phrase i="forwardAllDeactCode" t="Prek. posr. vseh klicev"/>
+<phrase i="forwardBusyActCode" t="Posr. klice, če je zas."/>
+<phrase i="forwardBusyDeactCode" t="Prek. posr. klic. – zas."/>
+<phrase i="forwardNoAnsActCode" t="Posr. klice, če ni odg."/>
+<phrase i="forwardNoAnsDeactCode" t="Prek. posr. kl. ni odg."/>
+<phrase i="forwardNoAnsActCode_s" t="Posr. klice, če ni odg."/>
+<phrase i="forwardNoAnsDeactCode_s" t="Prek. posr. kl. ni odg."/>
+<phrase i="blockCIDActCode" t="Blok. ID-ja klicatelja"/>
+<phrase i="blockCIDDeactCode" t="Preklic blok. ID klic."/>
+<phrase i="blockCIDPerCallActCode" t="Blok. nas. ID klicatelja"/>
+<phrase i="blockCIDPerCallDeactCode" t="Preklic blok. nas. CID"/>
+<phrase i="blockANCode" t="Blok. anonimnega klica"/>
+<phrase i="blockANCDeactCode" t="Prek. blok. anon. klic."/>
+<phrase i="blockANCode_s" t="Blokiranje ANC"/>
+<phrase i="blockANCDeactCode_s" t="Preklic blokiranja ANC"/>
+<phrase i="DNDActCode" t="Ne moti"/>
+<phrase i="DNDDeactCode" t="Preklic »Ne moti«"/>
+<phrase i="CIDActCode" t="ID klicatelja"/>
+<phrase i="CIDDeactCode" t="Preklic ID-ja klicatelja"/>
+<phrase i="secureAllActCode" t="Zaščita vseh klicev"/>
+<phrase i="secureAllDeactCode" t="Preklic zaš. vseh klicev"/>
+<phrase i="secureOneCallActCode" t="Zaščiti naslednje"/>
+<phrase i="secureOneCallDeactCode" t="Preklic zaščite nasled."/>
+<phrase i="pagingCode" t="Poziv"/>
+<phrase i="callParkCode" t="Parkiranje klica"/>
+<phrase i="callUnparkCode" t="Odparkiranje klica"/>
+<phrase i="callPickupCode" t="Prevzem klica"/>
+<phrase i="groupCallPickupCode" t="Prevzem klica v skupini"/>
+<phrase i="mediaLoopBackCode" t="Povratna zanka medija"/>
+<phrase i="preferG711uCode" t="Prednostno  G711U"/>
+<phrase i="forceG711uCode" t="Vsili G711U"/>
+<phrase i="preferG711aCode" t="Prednostno G711A"/>
+<phrase i="forceG711aCode" t="Vsili G711A"/>
+<phrase i="preferG723Code" t="Prednostno G723"/>
+<phrase i="forceG723Code" t="Vsili G723"/>
+<phrase i="preferG726r16Code" t="Prednostno G726r16"/>
+<phrase i="forceG726r16Code" t="Vsili G726r16"/>
+<phrase i="preferG726r24Code" t="Prednostno G726r24"/>
+<phrase i="forceG726r24Code" t="Vsili G726r24"/>
+<phrase i="preferG726r32Code" t="Prednostno G726r32"/>
+<phrase i="forceG726r32Code" t="Vsili G726r32"/>
+<phrase i="preferG726r40Code" t="Prednostno G726r40"/>
+<phrase i="forceG726r40Code" t="Vsili G726r40"/>
+<phrase i="preferG729aCode" t="Prednostno G729A"/>
+<phrase i="forceG729aCode" t="Vsili G729A"/>
+<phrase i="preferG722Code" t="Prednostno G722"/>
+<phrase i="forceG722Code" t="Vsili G722"/>
+<phrase i="preferL16Code" t="Prednostno L16"/>
+<phrase i="forceL16Code" t="Vsili L16"/>
+<phrase i="preferILBCCode" t="Prednostno iLBC"/>
+<phrase i="forceILBCCode" t="Vsili iLBC"/>
+<phrase i="preferISACCode" t="Prednostno iSAC"/>
+<phrase i="forceISACCode" t="Vsili iSAC"/>
+<phrase i="preferG722_2Code" t="Prednostno G722_2"/>
+<phrase i="forceG722_2Code" t="Vsili G722_2"/>
+<phrase i="preferOPUSCode" t="Prednostno OPUS"/>
+<phrase i="forceOPUSCode" t="Vsili OPUS"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_AM" t="AM"/>
+<phrase i="L_PM" t="PM"/>
+<phrase i="L_UpTime" t="Pretečeni čas"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="dan in"/>
+<phrase i="L_DAYS_AND" t="dni in"/>
+<phrase i="L_Packets" t="(paketi)"/>
+<phrase i="L_Registered" t="Registrirano"/>
+<phrase i="L_notRegistered" t="Ni registr."/>
+<phrase i="L_notReachable" t="Ni dosegljiv"/>
+<phrase i="L_Authenticate" t="Prev. prist."/>
+<phrase i="L_Succeeded" t="Uspešno"/>
+<phrase i="L_Error" t="Napaka"/>
+<phrase i="L_LastRegAt" t="Zadnja registracija:"/>
+<phrase i="L_NextRegIn" t="Naslednja registracija:"/>
+<phrase i="L_Proxy" t="Proxy:"/>
+<phrase i="L_Reason" t="Razlog"/>
+<phrase i="L_Status" t="Stanje"/>
+<phrase i="L_CallStatusInfo" t="Stanje"/>
+<phrase i="L_XMLServices" t="Storitve XML"/>
+<phrase i="L_Tone" t="Ton"/>
+<phrase i="L_Type" t="Vrsta"/>
+<phrase i="L_CallName" t="Ime"/>
+<phrase i="L_Number" t="Številka"/>
+<phrase i="L_Enc" t="Kodiraj"/>
+<phrase i="L_Dec" t="Dekodiraj"/>
+<phrase i="L_Dur" t="Trajanje"/>
+<phrase i="L_CALL" t="Klic"/>
+<phrase i="L_CALLSTATUS" t="Stanje klica %d"/>
+<phrase i="L_CALL1" t="Klic 1"/>
+<phrase i="L_CALL2" t="Klic 2"/>
+<phrase i="L_CALL3" t="Klic 3"/>
+<phrase i="L_CALL4" t="Klic 4"/>
+<phrase i="L_CALL5" t="Klic 5"/>
+<phrase i="L_CALL6" t="Klic 6"/>
+<phrase i="L_CALL7" t="Klic 7"/>
+<phrase i="L_CALL8" t="Klic 8"/>
+<phrase i="L_CALL9" t="Klic 9"/>
+<phrase i="L_CALL10" t="Klic 10"/>
+<phrase i="L_CALL11" t="Klic 11"/>
+<phrase i="L_INFO" t="Informacije"/>
+<phrase i="L_Extension" t="Interna številka"/>
+<phrase i="L_Extension1" t="Int:"/>
+<phrase i="T_PHN_STATUS" t="Stanje telefona"/>
+<phrase i="T_LINE_STATUS" t="Stanje linije"/>
+<phrase i="T_PROV_STATUS" t="Nadziranje"/>
+<phrase i="T_PROV_STATUS1" t="Stanje priprave za uporabo 1"/>
+<phrase i="T_PROV_STATUS2" t="Stanje priprave za uporabo 2"/>
+<phrase i="T_PROV_STATUS3" t="Stanje priprave za uporabo 3"/>
+<phrase i="T_PHN_SYS_STATUS" t="Stanje telefona"/>
+<phrase i="L_ExtLabel" t="Stanje int. %d"/>
+<phrase i="L_Line1Status" t="Stanje linije 1"/>
+<phrase i="L_Line2Status" t="Stanje linije 2"/>
+<phrase i="L_Line3Status" t="Stanje linije 3"/>
+<phrase i="L_Line4Status" t="Stanje linije 4"/>
+<phrase i="L_Line5Status" t="Stanje linije 5"/>
+<phrase i="L_Line6Status" t="Stanje linije 6"/>
+<phrase i="L_Line7Status" t="Stanje linije 7"/>
+<phrase i="L_Line8Status" t="Stanje linije 8"/>
+<phrase i="L_Line9Status" t="Stanje linije 9"/>
+<phrase i="L_Line10Status" t="Stanje linije 10"/>
+<phrase i="L_Line11Status" t="Stanje linije 11"/>
+<phrase i="L_Line12Status" t="Stanje linije 12"/>
+<phrase i="L_Line13Status" t="Stanje linije 13"/>
+<phrase i="L_Line14Status" t="Stanje linije 14"/>
+<phrase i="L_Line15Status" t="Stanje linije 15"/>
+<phrase i="L_Line16Status" t="Stanje linije 16"/>
+<phrase i="DeletePrompt" t="Ste prepričani, da želite izbrisati %s?"/>
+<phrase i="DeleteListPrompt" t="Ali želite izbrisati zapise o klicih: %s?"/>
+<phrase i="DeleteAllPrompt" t="Ali želite izbrisati vse zapise?"/>
+<phrase i="DeleteAllCallsPrompt" t="Ali želite izbrisati vse zapise za vse linije?"/>
+<phrase i="AddPrompt" t="Nepopolni vhodni podatki. Ali želite shraniti?"/>
+<phrase i="AddNullPrompt" t="Vhodni podatki so nepopolni. "/>
+<phrase i="AddFullPrompt" t="Imenik je poln, vnosa ni mogoče nalepiti."/>
+<phrase i="UpdatePrompt" t="Nepopolni vhodni podatki. Ali želite posodobiti?"/>
+<phrase i="ClearPrompt" t="Ali želite izbrisati zapise %s?"/>
+<phrase i="ClearStatusPrompt" t="Ali želite izbrisati sporočila o stanju?"/>
+<phrase i="ClearString" t="Ali želite izbrisati %s?"/>
+<phrase i="Prompt_Logout" t="Ali se želite odjaviti?"/>
+<phrase i="Message_Rebooting" t="Ponovni zagon"/>
+<phrase i="Message_UpdateConfig" t="Uveljavljanje konfiguracije"/>
+<phrase i="Message_FactoryReset" t="Tovarniška ponastavitev – vnovični zagon"/>
+<phrase i="Message_RebootingVoIP" t="Osveževanje glasovne komponente"/>
+<phrase i="Message_CustomReset" t="Ponastavitev po meri – vnovični zagon"/>
+<phrase i="All" t="Vsi klici"/>
+<phrase i="Answered" t="Prejeti klici"/>
+<phrase i="Outgoing" t="Odhodni klici"/>
+<phrase i="Missed" t="Neodgovorjeni klici"/>
+<phrase i="AnsweredCallType" t="Prejeti klic"/>
+<phrase i="OutgoingCallType" t="Odhodni klic"/>
+<phrase i="MissedCallType" t="Neodgovorjeni klic"/>
+<phrase i="RebootPrompt" t="Ali želite znova zagnati sistem?"/>
+<phrase i="DeepsleepPrompt" t="Telefon v načinu varčevanja z energijo ne more sprejemati klicev."/>
+<phrase i="PowerSavePromptUpgrading" t="Poteka nadgradnja. Poskusite znova pozneje."/>
+<phrase i="PowerSavePromptEmlogin" t="Odjavite se iz funkcije Extension Mobility in poskusite znova."/>
+<phrase i="PowerSavePromptHoteling" t="Odjavite se in poskusite znova."/>
+<phrase i="PowerSavePromptCallInProgress" t="Poteka klic. Končajte klic in poskusite znova."/>
+<phrase i="FactoryResetPrompt" t="Ali želite izvesti tovarniško ponastavitev sistema?"/>
+<phrase i="ResetPrompt" t="Ali želite ponastaviti sistem?"/>
+<phrase i="ClearWlanMessagesPrompt" t="Ali res želite izbrisati vsa sporočila?"/>
+<phrase i="CustomResetPrompt" t="Ali želite poiskati posodobitve profila za prilagajanje? (deluje v ozadju)"/>
+<phrase i="WPSPbcPrompt" t="Pritisnite gumb WPS na drugi napravi, nato pa pritisnite »Nadaljuj«."/>
+<phrase i="WPSPinPrompt" t="Vnesite kodo PIN [ %s ] v drugi napravi"/>
+<phrase i="MSG_InvalidPasswordData" t="Neveljavne poverilnice."/>
+<phrase i="Label_Day" t="Dan"/>
+<phrase i="CertInstall" t="Nameščeno"/>
+<phrase i="CertNotInstall" t="Ni nameščeno"/>
+<phrase i="L_Network_Type" t="Vrsta omrežja"/>
+<phrase i="L_Network_Statistics" t="Omrežna statistika"/>
+<phrase i="L_Address_Type" t="Vrsta naslavljanja"/>
+<phrase i="L_Gateway" t="Privzeti usmerjev."/>
+<phrase i="L_MAC_Address" t="Naslov MAC"/>
+<phrase i="T_DEVICE_INFO" t="Podatki o izdelku"/>
+<phrase i="L_Product_Name" t="Ime izdelka"/>
+<phrase i="L_Serial_Number" t="Serijska številka"/>
+<phrase i="L_Software_Version" t="Različica programske opreme"/>
+<phrase i="L_Wi-Fi_Messages" t="Sporočila Wi-Fi"/>
+<phrase i="L_VID" t="VID"/>
+<phrase i="L_Desp" t="Opis"/>
+<phrase i="L_Hardware_Version" t="Različica strojne opreme"/>
+<phrase i="L_Certificate" t="Potrdilo"/>
+<phrase i="L_Config_Version" t="Različica konfiguracije"/>
+<phrase i="L_CustomizationInfo" t="Prilagajanje"/>
+<phrase i="L_Asset_ID" t="ID sredstva"/>
+<phrase i="L_DHCP_Server" t="Strežnik DHCP"/>
+<phrase i="L_TFTP_Server_1" t="Strežnik TFTP 1"/>
+<phrase i="L_Last_TFTP_Server" t="Zadnji strežnik TFTP"/>
+<phrase i="L_Host_Name" t="Ime gostitelja"/>
+<phrase i="L_Domain_Name" t="Domena"/>
+<phrase i="L_CallManager_1" t="CallManager 1"/>
+<phrase i="L_Directories_URL" t="URL za imenike"/>
+<phrase i="L_Services_URL" t="URL za storitve"/>
+<phrase i="L_Messages_URL" t="URL za sporočila"/>
+<phrase i="L_Authentication_URL" t="URL za preverjanje pristnosti"/>
+<phrase i="L_User_Locale" t="Uporabniške območne nastavitve"/>
+<phrase i="L_Network_Locale" t="Omrežne območne nastavitve"/>
+<phrase i="L_Switch_Port_Link" t="Povezava do vrat stikala"/>
+<phrase i="L_Switch_Port_Config" t="Konfig. vrat stikala"/>
+<phrase i="L_PC_Port_Config" t="Konfiguracija vrat rač."/>
+<phrase i="L_PC_Port_Link" t="Povezava do vrat rač."/>
+<phrase i="L_Status_Messages" t="Sporočila o stanju"/>
+<phrase i="T_PERIPHERAL_STATUS" t="Stanje zunanje opreme"/>
+<phrase i="L_Peripheral" t="Dodatna oprema"/>
+<phrase i="L_Analog_Headset" t="Analogna slušalka"/>
+<phrase i="L_USB_Status" t="Pogon USB"/>
+<phrase i="L_xmit" t="oddaja"/>
+<phrase i="L_recv" t="prejem"/>
+<phrase i="L_Multicast" t="mcst"/>
+<phrase i="L_EthPackets" t="Ethernet: paketi (bajti)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: paketi (bajti)"/>
+<phrase i="L_Wireless" t="Brezžično"/>
+<phrase i="L_No_Network" t="Ni omrežja"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="Tipka"/>
+<phrase i="L_IPv4Status" t="Stanje IPv4"/>
+<phrase i="L_IPv6Status" t="Stanje IPv6"/>
+<phrase i="L_Prefixlen" t="Dolžina predpone"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="Konzola posrednika 1"/>
+<phrase i="L_Sidecar2_Status" t="Konzola posrednika 2"/>
+<phrase i="L_DISCONNECTED" t="Prekinjeno"/>
+<phrase i="L_Attendant_Console_Unit" t="Enota konzole posrednika %d"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="Da"/>
+<phrase i="L_No" t="Ne"/>
+<phrase i="L_Switch0" t="Izklopljeno"/>
+<phrase i="L_Switch1" t="Vklopljeno"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="Urejanje osebnega naslovnega vnosa"/>
+<phrase i="T_AB_Add_Entry" t="Dodajanje vnosa osebnega naslova"/>
+<phrase i="T_AB_Search" t="Iskanje vnesenega naslova"/>
+<phrase i="T_AB_Select" t="Izbiranje vnesenega naslova"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="Čas klica"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="Neodgovorjen klic"/>
+<phrase i="L_PhoneNo" t="Številka"/>
+<phrase i="L_CallAt" t="Klic ob"/>
+<phrase i="L_Duration" t="Trajanje"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="Urejanje hitrega klica"/>
+<phrase i="T_SD_List" t="Hitri klici"/>
+<phrase i="L_SpeedDialNo" t="Številka hitrega klica"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="Izberite ton zvonjenja"/>
+<phrase i="T_RT_Select_USB" t="Izberite ton zvonjenja iz USB"/>
+<phrase i="T_RT_Select_Slot" t="Izberite režo za shranjevanje tona zvonjenja"/>
+<phrase i="T_RT_Not_Installed" t="Ni nameščeno"/>
+<phrase i="T_RT_USER_1" t="Uporabnik 1"/>
+<phrase i="T_RT_USER_2" t="Uporabnik 2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="Informacije in nastavitve"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Slušalke Bluetooth"/>
+<phrase i="L_UserPref" t="Uporabniške nastavitve"/>
+<phrase i="L_CallRecord" t="Konfiguracija zapisov o klicih"/>
+<phrase i="L_CallRecordMode" t="Način za snemanje zvoka"/>
+<phrase i="L_CallRecordAudioPath" t="Pot za snemanje zvoka"/>
+<phrase i="L_CallRecordBeep" t="Opomnik za snemanje s piskom"/>
+<phrase i="L_CallRecords" t="Zapisi"/>
+<phrase i="L_CallRecordsPlayer" t="Posnetki klicev"/>
+<phrase i="L_Directory" t="Imeniki"/>
+<phrase i="OL_Fastest" t="Najhitrejše"/>
+<phrase i="OL_Faster" t="Hitrejše"/>
+<phrase i="OL_Normal" t="Navadno"/>
+<phrase i="OL_Slower" t="Počasnejše"/>
+<phrase i="OL_Slowest" t="Najpočasnejše"/>
+<phrase i="L_VoiceSpeed" t="Hitrost glasu"/>
+<phrase i="L_SelectVFSpeed" t="Izberite glasovno hitrost"/>
+<phrase i="L_VoiceVolume" t="Glasnost glasu"/>
+<phrase i="L_VoiceFeedback" t="Glasovne povratne informacije"/>
+<phrase i="L_Accessibility" t="Dostopnost"/>
+<phrase i="L_CallHistory" t="Nedavno"/>
+<phrase i="L_DisplayFrom" t="Prikaži nedavne od"/>
+<phrase i="L_SpeedDial" t="Hitri klici"/>
+<phrase i="L_VideoMonitoring" t="Spremljanje videa"/>
+<phrase i="L_WebApplication" t="Aplikacije"/>
+<phrase i="L_CallPreferences" t="Nastavitve klica"/>
+<phrase i="L_Anywhere" t="Anywhere"/>
+<phrase i="L_SelectLine" t="Izberite linijo"/>
+<phrase i="L_Locations" t="Lokacije"/>
+<phrase i="L_EditLocation" t="Uredite lokacijo"/>
+<phrase i="L_AddLocation" t="Dodajte lokacijo"/>
+<phrase i="L_LocationName" t="Ime"/>
+<phrase i="L_LocationNumber" t="Številka"/>
+<phrase i="L_EnableLocation" t="Omogočite lokacijo"/>
+<phrase i="L_DeletePrompt" t="Želite izbrisati %s?"/>
+<phrase i="L_ConnectionSetting" t="Nastavitve povezave"/>
+<phrase i="L_NetworkConfig" t="Konfiguracija omrežja"/>
+<phrase i="L_AudioPreferences" t="Zvočne nastavitve"/>
+<phrase i="L_RingSetting" t="Nastavitve zvonjenja"/>
+<phrase i="L_ScreenPreferences" t="Nastavitve zaslona"/>
+<phrase i="L_Administration" t="Skrbništvo naprav"/>
+<phrase i="T_ST_IP_Address" t="Nastavitve statičnega naslova IP"/>
+<phrase i="T_ST_IPV4_Address" t="Nastavitve naslova IPv4"/>
+<phrase i="T_ST_IPV6_Address" t="Nastavitve naslova IPv6"/>
+<phrase i="L_IPAddress" t="Naslov IP"/>
+<phrase i="L_StaticIPAddress" t="Stat. naslov IP"/>
+<phrase i="L_SubnetMask" t="Maska podomr."/>
+<phrase i="L_GatewayAddress" t="Naslov prehoda"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="L_PrefixLength" t="Dolžina predpone"/>
+<phrase i="L_BroadcastEcho" t="Odmev pri oddajanju"/>
+<phrase i="L_AutoConfig" t="Samod. konfig."/>
+<phrase i="T_ST_Admin" t="Skrbništvo"/>
+<phrase i="L_About" t="Vizitka"/>
+<phrase i="L_SetPassword" t="Nastavi geslo"/>
+<phrase i="L_DateTime" t="Datum/ura"/>
+<phrase i="L_Language" t="Jezik"/>
+<phrase i="L_Reboot" t="Ponoven zagon"/>
+<phrase i="L_Reset" t="Ponastavitev"/>
+<phrase i="L_UserDataReset" t="Ponastavitev uporabniških podatkov"/>
+<phrase i="L_ConfigReset" t="Ponastavitev konfiguracijskih podatkov"/>
+<phrase i="L_NetworkReset" t="Omrežni podatki"/>
+<phrase i="L_ServiceProviderReset" t="Ponastavitev ponudnika storitev"/>
+<phrase i="L_Deepsleep" t="Varčevanje z energijo"/>
+<phrase i="L_FactoryReset" t="Tovarniška ponastavitev"/>
+<phrase i="L_CustomReset" t="Ponastavitev po meri"/>
+<phrase i="L_ProfileRule" t="Pravilo za profil"/>
+<phrase i="L_CallControlSettings" t="Nastavitve za nadzor klicev"/>
+<phrase i="L_SignalingProtocol" t="Protokol za signaliziranje"/>
+<phrase i="L_AutoDetectSPCP" t="Samodejno zaznavanje SCCP"/>
+<phrase i="T_ST_Audio" t="Nastavitve zvoka"/>
+<phrase i="L_PrefAudioDevice" t="Pred. zvočna naprava"/>
+<phrase i="L_EnableStereo" t="Vrsta slušalk"/>
+<phrase i="L_PhRingTone" t="Privzeto zvonjenje"/>
+<phrase i="L_Ext1RingTone" t="Int 1 – ton zvonjenja"/>
+<phrase i="L_Ext2RingTone" t="Int 2 – ton zvonjenja"/>
+<phrase i="L_Ext3RingTone" t="Int 3 – ton zvonjenja"/>
+<phrase i="L_Ext4RingTone" t="Int 4 – ton zvonjenja"/>
+<phrase i="L_Ext5RingTone" t="Int 5 – ton zvonjenja"/>
+<phrase i="L_Ext6RingTone" t="Int 6 – ton zvonjenja"/>
+<phrase i="L_Ext7RingTone" t="Int 7 – ton zvonjenja"/>
+<phrase i="L_Ext8RingTone" t="Int 8 – ton zvonjenja"/>
+<phrase i="L_Ext9RingTone" t="Int 9 – ton zvonjenja"/>
+<phrase i="L_Ext10RingTone" t="Int 10 – ton zvonjenja"/>
+<phrase i="L_Ext11RingTone" t="Int 10 – ton zvonjenja"/>
+<phrase i="L_Ext12RingTone" t="Int 12 – ton zvonjenja"/>
+<phrase i="L_Ext13RingTone" t="Int 13 – ton zvonjenja"/>
+<phrase i="L_Ext14RingTone" t="Int 14 – ton zvonjenja"/>
+<phrase i="L_Ext15RingTone" t="Int 15 – ton zvonjenja"/>
+<phrase i="L_Ext16RingTone" t="Int 16 – ton zvonjenja"/>
+<phrase i="L_SpeakerTuning" t="Uglasite zvočnik"/>
+<phrase i="L_MicrophoneGain" t="Ojačanje mikrofona"/>
+<phrase i="L_Micgain" t="Ojačenje mikrofona"/>
+
+<phrase i="T_ST_CallForward" t="Nastavitve za posredovanje klicev"/>
+<phrase i="L_ForwardAll" t="Posreduj vse"/>
+<phrase i="L_ForwardBusy" t="Posreduj – zas"/>
+<phrase i="L_ForwardNoAns" t="Posreduj, če ni odgovora"/>
+<phrase i="L_ForwardAllNumbers" t="Št. za posr. - vse"/>
+<phrase i="L_ForwardBusyNumber" t="Št. za posr. - zased."/>
+<phrase i="L_ForwardNoAnsNumber" t="Št. za posr. - ni odg."/>
+<phrase i="L_ForwardNoAnsDelay" t="Zak. pos. brez odg."/>
+<phrase i="L_NumberofRingsBeforeForwarding" t="Število zvonjenj"/>
+<phrase i="L_RingReminder" t="Opomnik za zvonjenje"/>
+<phrase i="L_IPMODE" t="Način IP"/>
+<phrase i="L_WiFiConfiguration" t="Konfiguracija za Wi-Fi"/>
+<phrase i="L_EthernetConfiguration" t="Konfiguracija za ethernet"/>
+<phrase i="L_ConnectionType" t="Vrsta povezave"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="Samodejna povezava"/>
+<phrase i="L_Headset" t="Slušalke"/>
+<phrase i="L_WebServer" t="Spletni strežnik"/>
+<phrase i="L_DiscoveryAddress" t="Naslov za odkrivanje"/>
+<phrase i="L_LVSAutoDiscovery" t="Samodejno odkrivanje ključnega sistema"/>
+<phrase i="L_LVSProxyAddress" t="Naslov IP ključnega sistema"/>
+<phrase i="L_DHCPOption" t="Možnost DHCP"/>
+<phrase i="L_DHCPv6Option" t="Možnost DHCPv6"/>
+<phrase i="L_TranProtocol" t="Transportni protokol"/>
+<phrase i="L_NetworkStatus" t="Stanje omrežja"/>
+<phrase i="L_RebootHistory" t="Zgodovina vnovičnih zagonov"/>
+<phrase i="L_IPStatus" t="Stanje IP"/>
+<phrase i="T_ST_SetTime" t="Nastavitev trenutne ure"/>
+<phrase i="L_Presence_Available" t="Dosegljiv"/>
+<phrase i="L_Presence_Away" t="Odsoten"/>
+<phrase i="L_Presence_DND" t="Ne moti"/>
+<phrase i="L_Presence_Offline" t="Brez povezave"/>
+<phrase i="L_Presence_Title" t="Moja prisotnost"/>
+<phrase i="L_IMPContacts" t="Stiki IM&amp;P"/>
+<phrase i="L_ContactDetails" t="Podatki za stik"/>
+<phrase i="L_AllContacts" t="Vsi stiki"/>
+<phrase i="L_Favorites" t="Priljubljene"/>
+<phrase i="L_XMPPDisconnected" t="Prekinjena povezava s strežnikom"/>
+<phrase i="L_XMPPAuthFailed" t="Neuspešna preverjanja pristnosti"/>
+<phrase i="L_AB" t="Osebni imenik"/>
+<phrase i="L_AllDirectorySearch" t="Vse"/>
+<phrase i="L_XMLDirectory" t="Imenik organizacije (XML)"/>
+<phrase i="L_LDAPDirectory" t="Imenik organizacije (LDAP)"/>
+<phrase i="L_LVSDirectory" t="Imenik organizacije"/>
+<phrase i="L_BroadsoftDirectory" t="Imenik BroadSoft"/>
+<phrase i="L_BroadsoftPersonal" t="Osebno"/>
+<phrase i="L_BroadsoftGroup" t="Skupina"/>
+<phrase i="L_BroadsoftEnterprise" t="Podjetje"/>
+<phrase i="L_BroadsoftGroupCommon" t="Skup. za skupino"/>
+<phrase i="L_BroadsoftEnterpriseCommon" t="Skup. za podj."/>
+<phrase i="L_XMLService" t="Ciscove storitve XML"/>
+<phrase i="T_ST_CallHistories" t="Zgodovine klicev"/>
+<phrase i="T_ST_Language" t="Izbira jezika"/>
+<phrase i="T_ST_Password" t="Nastavi geslo"/>
+<phrase i="L_OldPassword" t="Staro geslo"/>
+<phrase i="L_NewPassword" t="Novo geslo"/>
+<phrase i="L_ReEnterNewPassword" t="Znova vnesite geslo"/>
+<phrase i="L_IncorrectOldPassword" t="Staro geslo se ne ujema z izvirnim geslom."/>
+<phrase i="L_NewPasswordNotSame" t="Novo geslo in znova vneseno geslo se ne ujemata."/>
+<phrase i="L_NewPasswordNotLong" t="Geslo uporabnika mora imeti vsaj 4 znake."/>
+<phrase i="L_CallForwarding" t="Posredovanje klicev"/>
+<phrase i="L_CallWaiting" t="Čakajoči klic"/>
+<phrase i="L_VoiceMail" t="Odzivnik"/>
+<phrase i="L_BlockCallerID" t="Blokiranje ID-ja klicatelja"/>
+<phrase i="L_BlockAnonymCall" t="Blokiranje anonimnega klica"/>
+<phrase i="L_SecureCall" t="Varen klic"/>
+<phrase i="L_DialAssist" t="Pomoč pri klicanju"/>
+<phrase i="L_AutoAnswerPage" t="Samod. odg. na pozivnik"/>
+<phrase i="L_MissCallShortCut" t="Bliž. do neodg. klica"/>
+<phrase i="L_EnabledScreenSaver" t="Ohranjevalnik zaslona"/>
+<phrase i="L_DisplayBrightness" t="Svetlost zaslona"/>
+<phrase i="L_ContrastLevel" t="Kontrastno razmerje"/>
+<phrase i="L_WallPaper" t="Ozadje"/>
+<phrase i="T_ST_ScreenSaver" t="Nastavitve ohranjevalnika zaslona"/>
+<phrase i="L_ScreenSaverType" t="Vrsta ohranjevalnika zaslona"/>
+<phrase i="L_TriggerInterval" t="Interval sprožilnika (s)"/>
+<phrase i="L_RefreshInterval" t="Interval osveževanja (s)"/>
+<phrase i="L_BackLight" t="Osvetlitev"/>
+<phrase i="L_BackLightTimer" t="Časovnik za osvetlitev"/>
+<phrase i="L_Contrast" t="Kontrast"/>
+<phrase i="L_Brightness" t="Svetlost"/>
+<phrase i="T_StarCodeList" t="Izberite šifro zvezdice"/>
+<phrase i="T_Select_Image" t="Izberite sliko"/>
+<phrase i="T_ST_Time" t="Nastavitve časa"/>
+<phrase i="L_TimeZone" t="Časovni pas"/>
+<phrase i="L_DayLightSaving" t="Poletni čas"/>
+<phrase i="L_NTPServer1" t="Strežnik NTP 1"/>
+<phrase i="L_NTPServer2" t="Strežnik NTP 2"/>
+<phrase i="L_SetCurrentTimeManually" t="Ročna nastavitev trenutne ure"/>
+<phrase i="T_ST_TimeZone" t="Izberite časovni pas"/>
+<phrase i="L_TimeFormat" t="Oblika zapisa ure"/>
+<phrase i="L_DateFormat" t="Oblika zapisa datuma"/>
+<phrase i="L_DHCP_Address_Released" t="Naslov DHCP sproščen"/>
+<phrase i="L_Erase_Config" t="Izbris konfiguracije"/>
+<phrase i="L_WebServerWritable" t="Spletni strežnik omogoča pisanje"/>
+<phrase i="M_ABEmpty" t="Imenik je prazen."/>
+<phrase i="M_ABDuplicate" t="Vsi zapisi so enaki."/>
+<phrase i="M_InvalidVLAN" t="ID za VLAN mora biti med 0 in 4095."/>
+<phrase i="M_InvalidDataportVLAN" t="ID za VLAN na vratih računalnika mora biti med 0 in 4095."/>
+<phrase i="M_InvalidDHCPVLANOption" t="Možnost VLAN za DHCP  [%s] ni veljavna."/>
+<phrase i="M_InvalidDataportPriority" t="Prednost mora biti 0–7."/>
+<phrase i="M_InvalidMAddr" t="Naslov za odkrivanje mora biti v obliki aaa.bbb.ccc.ddd:pppp."/>
+<phrase i="M_InvalidNetStartupDelay" t="Zakasnitev ob zagonu mora biti med 1 in 300."/>
+<phrase i="M_RebootInvalid" t="Poteka telefonski klic. Vnovični zagon ni mogoč."/>
+<phrase i="M_FactoryResetInvalid" t="Potekajo telefonski klici. Tovarniška ponastavitev ni mogoča."/>
+<phrase i="M_CustomResetInvalid" t="Potekajo telefonski klici. Ponastavitev po meri ni mogoča."/>
+<phrase i="M_OperationInvalid" t="Potekajo telefonski klici. Postopka ni mogoče izvesti."/>
+<phrase i="M_OperationInvalidInUpgrade" t="Poteka nadgradnja telefona. Postopka ni mogoče izvesti."/>
+<phrase i="M_ProfileRuleInvalid" t="Potekajo telefonski klici. Vnovična sinhronizacija s pravilom za profil ni mogoča."/>
+<phrase i="M_InvalidDHCPOptions" t="Vrednost mora biti seznam, ločen z vejico [%s]."/>
+<phrase i="M_UpgradeStart" t="Začetek nadgradnje."/>
+<phrase i="M_UpgradeInProgress" t="Nadgradnja poteka. Ne izklapljajte."/>
+<phrase i="M_DownloadProgress" t="Prenos naslovnih vnosov"/>
+<phrase i="M_UpgradeCompleted" t="Nadgradnja končana."/>
+<phrase i="M_UpgradeAborted" t="Uporabnik je opustil nadgradnjo."/>
+<phrase i="M_UpgradeAbortedWithError" t="Opuščena nadgradnja zaradi napake."/>
+<phrase i="M_UpgradeCompletedReboot" t="Nadgradnja končana – vnovični zagon."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="Nadgradnja je bila opuščena zaradi napake – vnovični zagon."/>
+<phrase i="M_InvalidCFWDNoAnsDelay" t="Zakasnitev za posredovanje brez odgovora mora biti med 1 in 300."/>
+<phrase i="M_InvalidCFWDNoFKS" t="Vnesite manj kot toliko znakov: %d."/>
+<phrase i="M_EmptyCFWDNoFKS" t="Telefonska številka za posredovanje klica je obvezno polje"/>
+<phrase i="M_InvalidCFWDNoAnsDelayXSI" t="Zakasnitev za posredovanje brez odgovora XSI mora biti od 2 do 20 ali enaka 0."/>
+<phrase i="T_Login_Form" t="Obrazec za prijavo"/>
+<phrase i="L_Pending" t="Čakajoče"/>
+<phrase i="L_Customized" t="Po meri"/>
+<phrase i="L_Open" t="Odprto"/>
+<phrase i="L_Unavailable" t="Ni na voljo"/>
+<phrase i="L_CustomPending" t="Po meri – čakanje"/>
+<phrase i="L_Acquired" t="Pridobljeno"/>
+<phrase i="L_Aborted" t="Opuščeno"/>
+<phrase i="L_GdsAcquired" t="GDS-pridobljen"/>
+<phrase i="L_GdsPending" t="GDS-čaka"/>
+<phrase i="L_GdsCustomPending" t="GDS po meri – čakanje"/>
+<phrase i="L_Hour" t="h"/>
+<phrase i="L_Minute" t="Minuta"/>
+<phrase i="L_Second" t="s"/>
+<phrase i="L_HourShort" t="h"/>
+<phrase i="L_MinuteShort" t="min"/>
+<phrase i="L_SecondShort" t="s"/>
+<phrase i="M_InvalidRefreshTime" t="Interval osveževanja mora biti 1–999999 sekund."/>
+<phrase i="M_InvalidBackLightTime" t="Čas sprožilnika za osvetlitev mora biti 30 ali več."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="Interval sproženja mora biti 30–65000 sekund."/>
+<phrase i="M_InvalidContrastLevel" t="Svetlost mora biti 4–15."/>
+<phrase i="M_InvalidContrastActualLevel" t="Kontrast mora biti 1–15."/>
+<phrase i="L_Att_Cons_Pref" t="Nastavitve konzole posrednika"/>
+<phrase i="L_Attendant_Console_Pref" t="Nastavitve konzole posrednika"/>
+<phrase i="L_LCD_Contrast" t="Svetlost"/>
+<phrase i="L_Font_Size" t="Velikost pisave"/>
+<phrase i="L_Display_Mode" t="Način prikaza"/>
+<phrase i="L_Authenticating" t="Preverjanje pristnosti"/>
+<phrase i="L_Authenticated" t="Preverjena pristnost"/>
+<phrase i="L_Exposure" t="Osvetlitev"/>
+<phrase i="L_Kem_Type" t="Vrsta KEM"/>
+<phrase i="M_Directories_Disabled" t="Imenik je onemogočen. Obrnite se na skrbnika."/>
+<phrase i="M_Directories_Unavailable" t="Noben imenik ni na voljo. Obrnite se na skrbnika."/>
+<phrase i="M_DirAll_Unavailable" t="Trenutno ni na voljo. Obrnite se na skrbnika."/>
+<phrase i="L_SIGNIN_FAILED" t="Napaka poverilnic za vpis. Obrnite se na skrbnika."/>
+
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="Notranji imenik"/>
+<phrase i="L_EXTERNAL_DIR" t="Zunanji imenik"/>
+<phrase i="L_GROUPS_DIR" t="Skupinski imenik"/>
+<phrase i="L_STATIONS_DIR" t="Imenik postaje"/>
+<phrase i="L_Auto_Attnd" t="Samodejni posrednik"/>
+<phrase i="L_Int_Music" t="Notranja glasba"/>
+<phrase i="L_ExternalMusic" t="Zunanja glasba"/>
+<phrase i="L_Station" t="Postaja"/>
+<phrase i="L_PageGroup1" t="Skupina za pozivnik 1"/>
+<phrase i="L_PageGroup2" t="Skupina za pozivnik 2"/>
+<phrase i="L_PageGroup3" t="Skupina za pozivnik 3"/>
+<phrase i="L_PageGroup4" t="Skupina za pozivnik 4"/>
+<phrase i="L_PageGroup5" t="Skupina za pozivnik 5"/>
+<phrase i="L_Page_Grp" t="Skupina za pozivnik"/>
+<phrase i="L_ExternalPage" t="Zunanje pozivanje"/>
+<phrase i="L_CallPark" t="Parkiranje klica"/>
+<phrase i="L_PickUp" t="Dvigni"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="Organizacija"/>
+<phrase i="L_FirstName" t="Ime"/>
+<phrase i="L_LastName" t="Priimek"/>
+<phrase i="LDAP_DISPLAY_NAME" t="Ime"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="Telefon – služba"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="Mobilni telefon"/>
+<phrase i="LDAP_ACCESS_ERROR" t="Napaka LDAP: povezave s strežnikom ni mogoče vzpostaviti"/>
+<phrase i="LDAP_STARTTLS_ERROR" t="Napaka LDAP: postopek StartTLS ni uspel"/>
+<phrase i="LDAP_InvalidInput" t="Napaka LDAP: neveljavna vrednost vnosa"/>
+<phrase i="LDAP_NoFilter" t="Določite filter."/>
+<phrase i="LDAP_TooManyResults" t="Najdenih je preveč ujemanj. Natančneje določite iskalne pogoje"/>
+<phrase i="LDAP_NoResult" t="Ni ujemanj"/>
+<phrase i="NoRingTone" t="Brez tona zvonjenja"/>
+<phrase i="S_Failed" t="Iskanje ni uspelo."/>
+<phrase i="S_Sys_Err" t="Napaka sistema."/>
+<phrase i="T_LDAP_ResultList" t="Seznam rez. imenika pod. (LDAP)"/>
+<phrase i="T_LDAPQueryForm" t="Obrazec za poizvedbo LDAP"/>
+<phrase i="T_LDAPAddrEntry" t="Vnos naslova v imen. pod. (LDAP)"/>
+<phrase i="T_LDAPQuery" t="Poizvedba za strežnik LDAP"/>
+<phrase i="T_LDAP" t="LDAP"/>
+<phrase i="L_SimpleSearch" t="Preprosto iskanje"/>
+<phrase i="L_AdvSearch" t="Napredno iskanje"/>
+<phrase i="T_LDAPSigninForm" t="Prijava v LDAP"/>
+<phrase i="L_ClientDN" t="DN odjemalca"/>
+
+<!-- #############  #BroadSoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="Dostop do imenka ni uspel. Preverite konfiguracijo in nastavitve omrežja."/>
+<phrase i="BSDIR_ACCESS_TIMEOUT" t="Čas. omejitev dostopa do imenika je ppotekla. Preverite konfiguracijo in nast. omrežja."/>
+<phrase i="BSDIR_InvalidInput" t="Napaka imenika BroadSoft: neveljavna vrednost vnosa."/>
+<phrase i="BSDIR_HTTP_AUTH_ERR" t="Napaka pri preverjanju pristnosti. Preverite račun."/>
+<phrase i="BSDIR_TooManyResults" t="Najdenih je preveč ujemanj. Natančneje določite iskalne pogoje."/>
+<phrase i="BSDIR_NoSearchParameters" t="Vnesite merila iskanja"/>
+<phrase i="BSDIR_Setting_MSG" t="Ta sprememba vpliva na druge nastavitve skupine. Ali jo želite shraniti?"/>
+<phrase i="T_BSDIR_CONFIG" t="Konfiguracija imenika BroadSoft"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="Iskanje v osebnem imeniku"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="Iskanje v imeniku skupine"/>
+<phrase i="T_BSDIR_SEARCH_GROUP_COMMON" t="Iskanje v skupnem imeniku skupine"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="Iskanje v imeniku podjetja"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE_COMMON" t="Iskanje v skupnem imeniku podjetja"/>
+<phrase i="T_BSDIR_SEARCH_ALL" t="Iskanje v vseh imenikih BroadSoft"/>
+<phrase i="T_BSDIR_Pers_Contact_Add" t="Dodajanje osebnega stika BroadSoft"/>
+<phrase i="T_BSDIR_Pers_Contact_Edit" t="Urejanje osebnega stika BroadSoft"/>
+<phrase i="M_SavePersContactPrompt" t="Stika %s ni bilo mogoče shraniti."/>
+<phrase i="M_DeletePersContactPrompt" t="Stika %s ni bilo mogoče izbrisati."/>
+
+<phrase i="L_HOST_SERVER" t="Gostiteljski strežnik"/>
+<phrase i="L_AUTH_TYPE" t="Vrsta prev. prist."/>
+<phrase i="L_SIPAUTH_ID" t="ID za prev. za SIP"/>
+<phrase i="L_SIPAUTH_PWD" t="Geslo za SIP"/>
+<phrase i="L_DIR_NAME" t="Ime imenika"/>
+<phrase i="T_Configure" t="Konfiguriraj %s"/>
+
+<phrase i="T_BSDIR_SEARCH" t="Iskanje v imeniku BroadSoft"/>
+<phrase i="T_SIMPLE_SEARCH" t="Preprosto iskanje"/>
+<phrase i="T_ADVANCED_SEARCH" t="Napredno iskanje"/>
+<phrase i="L_BSDIR_LNAME" t="Priimek"/>
+<phrase i="L_BSDIR_FNAME" t="Ime"/>
+<phrase i="L_BSDIR_GROUPID" t="ID skupine"/>
+<phrase i="L_BSDIR_DEPT" t="Oddelek"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="Oddelek"/>
+<phrase i="L_BSDIR_EMAIL" t="E-pošta"/>
+
+<phrase i="BSCLOG_ACCESS_ERROR" t="Dostop ni mogoč. Preverite konfiguracijo in omrežje"/>
+<phrase i="BsClog_InvalidInput" t="Prazna ali neveljavna vhodna vrednost."/>
+<phrase i="BsClog_TooManyResults" t="Preveč zapisov z dnevniki klicev."/>
+<phrase i="BsClog_NoResult" t="Ni zapisov z dnevniki klicev."/>
+<phrase i="BSCLOG_HTTP_AUTH_ERR" t="Napaka pri preverjanju pristnosti: poskusite znova."/>
+
+<phrase i="BsAnywhere_TooManyResults" t="Doseženo je največje število lokacij za Anywhere."/>
+<phrase i="BsAnywhere_NoLine" t="Nobena linija ni omogočena za Anywhere."/>
+<phrase i="BsAnywhere_BadRequest" t="Neveljaven vnos ali dejanje"/>
+<phrase i="BsAnywhere_ServerBusy" t="Strežnik je zaseden."/>
+
+<phrase i="XSI_GET_ERROR" t="Nastavitev za XSI ni bilo mogoče dobiti."/>
+<phrase i="XSI_GET_AUTH_ERROR" t="Napaka pri preverjanju pristnosti. Nastavitev za XSI ni bilo mogoče dobiti."/>
+<phrase i="XSI_GET_DNS_ERROR" t="Napaka sistema DNS. Nastavitev za XSI ni bilo mogoče dobiti."/>
+<phrase i="XSI_SET_ERROR" t="Nastavitev za XSI ni bilo mogoče nastaviti."/>
+<phrase i="XSI_SET_AUTH_ERROR" t="Napaka pri preverjanju pristnosti. Nastavitev za XSI ni bilo mogoče nastaviti."/>
+<phrase i="XSI_SET_DNS_ERROR" t="Napaka sistema DNS. Nastavitev za XSI ni bilo mogoče nastaviti."/>
+<phrase i="XSI_SET_INVALID" t="Neveljavni parametri. Nastavitev za XSI ni bilo mogoče nastaviti."/>
+<phrase i="XSI_SET_ERR_400_PERMISSION" t="Nimate dovoljenja za spreminjanje nastavitve."/>
+<phrase i="XSI_SET_ERR_400_INVALIDNUM" t="Neveljavna telefonska številka. Številka lahko vsebuje samo -, 0–9 ali številko E.164. Dovoljenih je največ 30 števk."/>
+
+<phrase i="T_LVSDIR_REQ" t="Zahtevanje imenika LVS iz strežnika."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="Zahteva za imenik LVS ni uspela."/>
+
+<!-- #############  #All Directories #############-->
+<phrase i="T_ALLDIRECTORY_SEARCH" t="Iskanje v vseh imenikih"/>
+<phrase i="T_ALLDIRECTORY_RESULTS" t="Rezultati iskanja"/>
+<phrase i="T_ALLDIRECTORY_DETAILS" t="Podrobnosti rezultatov iskanja"/>
+<phrase i="ALLDIRECTORY_TIMEOUT_ERROR" t="Potekla je časovna omejitev iskanja. Preverite konfiguracijo in omrežje."/>
+
+<!-- #############  #Call Recording #############-->
+<phrase i="L_RECORDING" t="Snemanje"/>
+<phrase i="L_RECORDINGPAUSED" t="Snemanje zač. ustavljeno"/>
+
+<!-- #############  #Customizable PLKs  #############-->
+<phrase i="L_DefSpeedDial" t="Določanje hitrega klica"/>
+<phrase i="L_Define_BLF_Presence" t="Definiranje prisotnosti BLF"/>
+<phrase i="L_PLK_ERROR" t="Napaka: prazen ali neveljaven vnos."/>
+<phrase i="PLK_DeletePrompt" t="Ali ste prepričani, da želite odstraniti funkcijo v: %s %d?"/>
+<phrase i="L_SelectFeature" t="Izberite funkcijo"/>
+<phrase i="L_BLF_Presence" t="Prisotnost BLF"/>
+<phrase i="L_BLF_SD" t="BLF + hitri klic"/>
+<phrase i="L_BLF_List" t="Seznam BLF"/>
+<phrase i="L_BLF_CP" t="BLF + prevzem klica"/>
+<phrase i="L_BLF_SD_CP" t="BLF + hitri klic + prevzem klica"/>
+<phrase i="L_Define_BLF_Presence" t="Definiranje prisotnosti BLF"/>
+<phrase i="L_Search_BLF_List" t="Iskanje po seznamu BLF"/>
+<phrase i="L_Select_User" t="Izberite uporabnika"/>
+<phrase i="L_UserId" t="ID uporabnika"/>
+<phrase i="L_Label" t="Oznaka"/>
+<phrase i="L_MWI" t="MWI"/>
+<phrase i="L_MWI_SD" t="MWI + hitri klic"/>
+<phrase i="L_PLK_Shortcut" t="Bližnjica menija"/>
+<phrase i="L_PLK_LCR" t="Vračilo klica"/>
+<phrase i="L_PLK_ACD" t="ACD"/>
+<phrase i="L_PLK_CallRetrieve" t="Priklic klica"/>
+<phrase i="L_PLK_Forward" t="Posreduj"/>
+<phrase i="L_PLK_CLR_DND" t="Počisti DND"/>
+<phrase i="L_PLK_CLR_Forward" t="Počisti posredovanje"/>
+<phrase i="L_PLK_CLR_Divert" t="Počisti preusmeritev"/>
+<phrase i="L_CallInfo" t="Podatki o klicu"/>
+<phrase i="L_CallList" t="Seznam klicev"/>
+<phrase i="L_ProxyCall" t="Klic proxyja"/>
+<phrase i="L_Divert" t="Preusmeri"/>
+<phrase i="L_CallPush" t="Potiskanje klica"/>
+<phrase i="L_BridgeIn" t="Notranja premostitev"/>
+<phrase i="M_Key_Disabled" t="Ključ je onemogočen."/>
+<phrase i="M_Callpush_Not_Held" t="Klic ni povezan ali zadržan."/>
+<phrase i="M_Callpush_No_Held" t="Na tej liniji ni nobenega povezanega ali zadržanega klica."/>
+<phrase i="M_No_Idle_Call" t="Ni nedejavnih klicev za obdelavo."/>
+<phrase i="M_Not_Remote_Connected" t="Klic ni povezan na oddaljenem mestu."/>
+<phrase i="M_No_CallInfo" t="Podatki o klicu niso na voljo."/>
+<!-- PLK labels -->
+<phrase i="L_AttConsole" t="Konzola posrednika"/>
+<phrase i="L_WpsPbc" t="PBC za WPS"/>
+<phrase i="L_WpsPin" t="PIN za WPS"/>
+<phrase i="L_IPV4_Address" t="Naslov IPv4"/>
+<phrase i="L_IPV6_Address" t="Naslov IPv6"/>
+<phrase i="L_UserSignIn" t="Prijava uporabnika"/>
+<phrase i="L_UserSignOut" t="Odjava uporabnika"/>
+<phrase i="L_ProAcnt" t="Račun profila"/>
+<phrase i="L_Phone_Statistics" t="Stat. telefona"/>
+<phrase i="L_XML_Application" t="Aplikacija XML"/>
+<phrase i="L_Personal_Directory" t="Osebni imenik"/>
+<phrase i="L_All_Directories" t="Vsi imeniki"/>
+<phrase i="L_XML_Directory" t="Imenik XML"/>
+<phrase i="L_LDAP_Directory" t="Imenik LDAP"/>
+<phrase i="L_BluetoothContacts" t="Stiki Bluetooth"/>
+<!-- PSK labels -->
+<phrase i="S_Accessibility" t="Dostop."/>
+<phrase i="S_AllCalls" t="Vsi kl."/>
+<phrase i="S_Received" t="Prejeti"/>
+<phrase i="S_Placed" t="Oprav."/>
+<phrase i="S_Executive" t="Vodja"/>
+<phrase i="S_Assistant" t="Pomočnik"/>
+<phrase i="S_UserPref" t="Up. nas."/>
+<phrase i="S_CallPref" t="Nas. kl."/>
+<phrase i="S_CfwdSetting" t="NastPreu"/>
+<phrase i="S_Anywhere" t="Kjerkoli"/>
+<phrase i="S_AudioPref" t="Nas. zv."/>
+<phrase i="S_ScreenPref" t="NastZas"/>
+<phrase i="S_ScreenSaver" t="Oh. zas."/>
+<phrase i="S_AttConsole" t="KonzPos"/>
+<phrase i="S_RingTone" t="TonZvon"/>
+<phrase i="S_BlueTooth" t="Bluetoo."/>
+<phrase i="S_NetworkConf" t="Omrežje"/>
+<phrase i="S_EthernetConf" t="Ethernet"/>
+<phrase i="S_WiFiConf" t="NasWi-Fi"/>
+<phrase i="S_WlanProfile" t="PrWi-Fi"/>
+<phrase i="S_WpsPbc" t="PBC WPS"/>
+<phrase i="S_WpsPin" t="PIN WPS"/>
+<phrase i="S_WlanStatus" t="StaWi-Fi"/>
+<phrase i="S_IPV4_Addr" t="NaslIPv4"/>
+<phrase i="S_IPV6_Addr" t="NaslIPv6"/>
+<phrase i="S_DeviceAdmin" t="SkrbNapr"/>
+<phrase i="S_SetPassword" t="NastGesl"/>
+<phrase i="S_UserSignIn" t="VpisUpor"/>
+<phrase i="S_UserSignOut" t="IzpUpor"/>
+<phrase i="S_DateTime" t="DatUra"/>
+<phrase i="S_Language" t="Jezik"/>
+<phrase i="S_Reboot" t="PonZagon"/>
+<phrase i="S_Deepsleep" t="VarčEner"/>
+<phrase i="S_FactoryReset" t="TovPonas"/>
+<phrase i="S_ProfileRule" t="PravProf"/>
+<phrase i="S_ProfileAccount" t="RačProf"/>
+<phrase i="S_MICROPHONES" t="Mikrof."/>
+<phrase i="S_WIRED_MIC" t="ŽičMikr"/>
+<phrase i="S_WIRELESS_MIC" t="BrezžMik"/>
+<phrase i="S_Status" t="Stanje"/>
+<phrase i="S_ProductInfo" t="InfoProd"/>
+<phrase i="S_NetworkStatus" t="StanOmr"/>
+<phrase i="S_IPv4Status" t="StanIPv4"/>
+<phrase i="S_IPv6Status" t="StanIPv6"/>
+<phrase i="S_PHN_STATUS" t="StanTel"/>
+<phrase i="S_Phone_statistics" t="StatTel"/>
+<phrase i="S_LINE_STATUS" t="StanLin"/>
+<phrase i="S_PROV_STATUS" t="OmogUpor"/>
+<phrase i="S_Call_Statistics" t="StatKlic"/>
+<phrase i="S_ReportProblem" t="PrijTež"/>
+<phrase i="S_RebootHistory" t="ZgoZagon"/>
+<phrase i="S_Accessories" t="Dodatki"/>
+<phrase i="S_Status_Msg" t="SporStan"/>
+<phrase i="S_Wi-Fi_Msg" t="SpoWi-Fi"/>
+<phrase i="S_XML_App" t="AplikXML"/>
+<phrase i="S_Directory" t="Imeniki"/>
+<phrase i="S_Personal_Dir" t="OsImenik"/>
+<phrase i="S_All_Dirs" t="VsiImen"/>
+<phrase i="S_XML_Dir" t="ImenXML"/>
+<phrase i="S_LDAP_Dir" t="ImenLDAP"/>
+<phrase i="S_BroadsoftDirectory" t="ImBrdSft"/>
+<phrase i="S_BroadsoftPersonal" t="Osebno"/>
+<phrase i="S_BroadsoftGroup" t="Skupina"/>
+<phrase i="S_BroadsoftEnterprise" t="Podjetje"/>
+<phrase i="S_BroadsoftGroupCommon" t="ImSkupin"/>
+<phrase i="S_BroadsoftEnterpriseCommon" t="SkZaPod"/>
+<phrase i="S_BT_contacts" t="Stiki BT"/>
+<phrase i="S_IMPContacts" t="StikiIMP"/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="KonfLin"/>
+<phrase i="S_XferLx" t="Pr. lin."/>
+<phrase i="S_Redial" t="Ponovi"/>
+<phrase i="S_Contacts" t="Stiki"/>
+<phrase i="S_Recents" t="Nedavni"/>
+<phrase i="S_Forward" t="Posreduj"/>
+<phrase i="S_ForwardAll" t="Pos. vse"/>
+<phrase i="S_DND" t="Ne moti"/>
+<phrase i="S_NForward" t="PočPosr"/>
+<phrase i="S_NForwardAll" t="IzPosVs"/>
+<phrase i="S_NDND" t="OdNeMoti"/>
+<phrase i="S_LCR" t="VrniKlic"/>
+<phrase i="S_Missed" t="Zgrešeni"/>
+<phrase i="S_Login" t="Prijava"/>
+<phrase i="S_Logout" t="Odjava"/>
+<phrase i="S_SignIn" t="Prijava"/>
+<phrase i="S_SignOut" t="Odjava"/>
+<phrase i="S_Avail" t="Doseg."/>
+<phrase i="S_UnAvail" t="Nedoseg."/>
+<phrase i="S_UnPark" t="Odpark."/>
+<phrase i="S_PickUp" t="Dvigni"/>
+<phrase i="S_Mobility" t="Mobilen"/>
+<phrase i="S_GrPickup" t="SkupPrev"/>
+<phrase i="S_NewCall" t="Nov klic"/>
+<phrase i="S_Barge" t="VklKonf"/>
+<phrase i="S_BargeSilent" t="VkKonInt"/>
+<phrase i="S_Resume" t="Nadaljuj"/>
+<phrase i="S_Answer" t="Odgovori"/>
+<phrase i="S_Hold" t="Zadrži"/>
+<phrase i="S_EndCall" t="KončKlic"/>
+<phrase i="S_End" t="Konec"/>
+<phrase i="S_Transfer" t="Prenos"/>
+<phrase i="S_CONF" t="Konfer."/>
+<phrase i="S_BXfer" t="TakojPre"/>
+<phrase i="S_Park" t="Parkiraj"/>
+<phrase i="S_Join" t="Pridruži"/>
+<phrase i="S_Update" t="Posodobi"/>
+<phrase i="S_Dial" t="Klic"/>
+<phrase i="S_delChar" t="izbrznak"/>
+<phrase i="S_AbbrDial" t="SkrKlic"/>
+<phrase i="S_Back" t="Nazaj"/>
+<phrase i="S_Close" t="Zapri"/>
+<phrase i="S_Save" t="Shrani"/>
+<phrase i="S_Delete" t="Izbriši"/>
+<phrase i="S_Add" t="Dodaj"/>
+<phrase i="S_Option" t="Možnost"/>
+<phrase i="S_Other" t="Drugo"/>
+<phrase i="S_EditDial" t="Ur. klic"/>
+<phrase i="S_EditDial1" t="UrediŠt"/>
+<phrase i="S_AddNew" t="Dod. nov"/>
+<phrase i="S_Copy" t="Kopiraj"/>
+<phrase i="S_Paste" t="Prilepi"/>
+<phrase i="S_Search" t="Išči"/>
+<phrase i="S_SimpleSearch" t="PrepIsk"/>
+<phrase i="S_AdvancedSearch" t="NapIskan"/>
+<phrase i="S_Select" t="Izberi"/>
+<phrase i="S_Replace" t="Zamenjava"/>
+<phrase i="S_Default" t="Privzeto"/>
+<phrase i="S_Add2SpeedDial" t="Dodaj hitremu klicu"/>
+<phrase i="S_SendMessage" t="Pošlji sporočilo"/>
+<phrase i="S_InputAll" t="Vnos vseh"/>
+<phrase i="S_InputNum" t="Vnos št."/>
+<phrase i="S_InputIP" t="Vnos IP"/>
+<phrase i="S_InputHebrew" t="Vnos hebr."/>
+<phrase i="S_InputStarCode" t="Vnos šifre z zv."/>
+<phrase i="S_Clear" t="Počisti"/>
+<phrase i="S_DeleteList" t="Izbriši sez."/>
+<phrase i="S_DeleteAll" t="Izbriši vse"/>
+<phrase i="S_DeleteEntry" t="Izbriši vnos"/>
+<phrase i="S_Add2AB" t="Dodaj stik"/>
+<phrase i="S_SortByName" t="Razvrsti po imenu"/>
+<phrase i="S_Next" t="Nasled."/>
+<phrase i="S_Zoom" t="Povečava"/>
+<phrase i="S_EditSettings" t="Uredi nastavitve"/>
+<phrase i="S_Previous" t="Nazaj"/>
+<phrase i="S_Previous1" t="Prejšnji"/>
+<phrase i="S_Up" t="Navzgor"/>
+<phrase i="S_Down" t="Navzdol"/>
+<phrase i="S_SelectFromAB" t="Dodaj iz stikov"/>
+<phrase i="S_Play" t="Predvaj."/>
+<phrase i="S_Exit" t="Izhod"/>
+<phrase i="S_Resync" t="PonSinh"/>
+<phrase i="S_SetTime" t="Shrani"/>
+<phrase i="S_Set" t="Nastavi"/>
+<phrase i="S_MoveUp" t="Pr. gor"/>
+<phrase i="S_MoveDown" t="Pr. dol"/>
+<phrase i="S_Edit" t="Uredi"/>
+<phrase i="S_View" t="Pogled"/>
+<phrase i="S_Enable_Disable" t="Omogoči/onemogoči"/>
+<phrase i="S_Refresh" t="Osveži"/>
+<phrase i="S_List" t="Seznam"/>
+<phrase i="S_Stop" t="Ustavi"/>
+<phrase i="S_AddList" t="DodSez"/>
+<phrase i="S_Scan" t="Poišči"/>
+<phrase i="S_Connect" t="Poveži"/>
+<phrase i="S_Disconnect" t="PrekPov"/>
+<phrase i="S_ConnectAll" t="PovVse"/>
+<phrase i="S_Detail" t="Podrob."/>
+<phrase i="S_Cancel" t="Prekliči"/>
+<phrase i="S_OK" t="V redu"/>
+<phrase i="S_Unpair" t="Prekini"/>
+<phrase i="S_SelectAll" t="Izb. vse"/>
+<phrase i="S_ClearAll" t="PočisVse"/>
+<phrase i="S_More" t="Več"/>
+<phrase i="S_Format" t="Ob. zap."/>
+<phrase i="S_Monitor" t="Spremlj"/>
+<phrase i="S_VCARD" t="Uvozi"/>
+<phrase i="S_Retry" t="Ponovi"/>
+<phrase i="S_FLASH" t="Blisk"/>
+<phrase i="S_STARCODE" t="šifra *"/>
+<phrase i="S_IP" t="IP"/>
+<phrase i="S_NUM" t="Št."/>
+<phrase i="S_ALPHA" t="Alfa"/>
+<phrase i="S_Audio" t="Zvok"/>
+<phrase i="S_Video" t="Video"/>
+<phrase i="S_Call" t="Klic"/>
+<phrase i="S_Submit" t="Potrdi"/>
+<phrase i="S_CallRecordStart" t="Posnemi"/>
+<phrase i="S_CallRecordStop" t="UstSnem"/>
+<phrase i="S_CallRecordPause" t="ZačSnem"/>
+<phrase i="S_CallRecordResume" t="Nad.Snem"/>
+<phrase i="S_Pause" t="ZačSnem"/> <!--Used on 6821,replace for PauseRec-->
+<phrase i="S_Ignore" t="Prezri"/>
+<phrase i="S_Override" t="Preglasi"/>
+<phrase i="S_HotelingGuestIn" t="DohGost"/>
+<phrase i="S_HotelingGuestOut" t="OdhGost"/>
+<phrase i="S_AUDIO_SWAP_IN" t="PremZvok"/>
+<phrase i="S_AUDIO_SWAP_OUT" t="Prem. zvok"/>
+<phrase i="S_Skip" t="Preskoči"/>
+<phrase i="S_Settings" t="Nastav."/>
+<phrase i="S_Favorites" t="Priljub."/>
+<phrase i="S_Messages" t="Sporoč."/>
+<phrase i="S_Selfview" t="Samoogl."/>
+<phrase i="S_CallList" t="Seznam"/>
+<phrase i="S_ShowVideo" t="PokVideo"/>
+<phrase i="S_Presence" t="Prisotno"/>
+<phrase i="S_Swap" t="Zamenjaj"/>
+<phrase i="S_ProxyCall" t="Klic pr."/>
+<phrase i="S_Divert" t="Preusm."/>
+<phrase i="S_DivertAll" t="PreusVse"/>
+<phrase i="S_ClrDivert" t="PočPreus"/>
+<phrase i="S_CallPush" t="Po. klic"/>
+<phrase i="S_CallRetrieve" t="Pridobi"/>
+<phrase i="S_BridgeIn" t="Most n."/>
+<phrase i="S_Micgain" t="Oj. mik."/>
+<phrase i="S_Setup" t="Vzpost."/>
+<phrase i="S_SpeedDial" t="HitKlic"/>
+<phrase i="S_Continue" t="Nadaljuj"/>
+<phrase i="S_WiFiScan" t="Isk. Wi-Fi"/>
+<phrase i="S_Category" t="Kategor."/>
+<phrase i="S_Filter" t="Filter"/>
+
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="Fahrenheit"/>
+<phrase i="OL_Celsius" t="Celzija"/>
+<phrase i="OL_MONO" t="Mono"/>
+<phrase i="OL_STEREO" t="Stereo"/>
+<phrase i="OL_InProgress" t="Poteka"/>
+<phrase i="OL_DnsResolution" t="Razreševanje DNS"/>
+<phrase i="OL_NoServerName" t="Ni imena strež."/>
+<phrase i="OL_InvalidServer" t="Neveljaven ali omejen strežnik"/>
+<phrase i="OL_NoResources" t="Viri porabljeni"/>
+<phrase i="OL_FileNotFound" t="Datoteka ni najdena"/>
+<phrase i="OL_CorruptFile" t="Poškodovana datoteka"/>
+<phrase i="OL_EncrptionKey" t="Šifrirni ključ"/>
+<phrase i="OL_InvalidURL" t="Neveljaven URL"/>
+<phrase i="OL_Phone" t="Telefon"/>
+<phrase i="OL_Handsfree" t="Prostoročno"/>
+<phrase i="OL_Both" t="Oboje"/>
+<phrase i="OL_DownloadFailed" t="Prenos ni uspel"/>
+<phrase i="OL_DownloadConflict" t="Št. novih vnosov: %d. Št. vnosov s spori: %d."/>
+<phrase i="OL_DownloadTypeError" t="Bluetooth ni v prostoročnem načinu."/>
+<phrase i="OL_DownloadFull" t="Imenik je poln. Več vnosov ni mogoče prenesti."/>
+<phrase i="OL_ParsingError" t="Napaka razčlenjevanja v pravilu"/>
+<phrase i="OL_Ended" t="Končano"/>
+<phrase i="OL_StaticIP" t="Statični IP"/>
+<phrase i="OL_PictureRotation" t="Zasuk slike"/>
+<phrase i="OL_CurrentWallpaper" t="Trenutno ozadje"/>
+<phrase i="OL_DownloadPicture" t="Prenos sl."/>
+<phrase i="OL_Default" t="Privzeto"/>
+<phrase i="OL_Clock" t="Ura"/>
+<phrase i="OL_Logo" t="Logotip"/>
+<phrase i="OL_Lock" t="Zakleni"/>
+<phrase i="OL_Speaker" t="Zvočnik"/>
+<phrase i="OL_Headset" t="Slušalka"/>
+<phrase i="OL_Handset" t="Slušalka"/>
+<phrase i="OL_Ringer" t="Zvonec"/>
+<phrase i="OL_Volume" t="Glasnost"/>
+<phrase i="OL_Headset_Fail" t="Glasnost nastavite s kontrolniki na slušalkah."/>
+<phrase i="OL_LightBlue" t="Svetlo modra"/>
+<phrase i="OL_LightGray" t="Svetlo siva"/>
+<phrase i="OL_LightGreen" t="Svetlo zelena"/>
+<phrase i="OL_None" t="Brez"/>
+<phrase i="OL_Simple" t="Preprosto"/>
+<phrase i="OL_PlainTLS" t="Navadno-TLS"/>
+<phrase i="OL_64HEX" t="10 šestnajstiških števk"/>
+<phrase i="OL_128HEX" t="26 šestnajstiških števk"/>
+<phrase i="OL_64ASCII" t="5 znakov ASCII"/>
+<phrase i="OL_128ASCII" t="13 znakov ASCII"/>
+<phrase i="OL_Enterprise" t="Podjetje"/>
+<phrase i="OL_Group" t="Skupina"/>
+<phrase i="OL_Personal" t="Osebno"/>
+<phrase i="OL_EnterpriseCommon" t="Skup. za podj."/>
+<phrase i="OL_GroupCommon" t="Skup. za skupino"/>
+<phrase i="OL_Login_Credentials" t="Poverilnice za prijavo"/>
+<phrase i="OL_SIP_Credentials" t="SIP credentials"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_6" t="6"/>
+<phrase i="OL_7" t="7"/>
+<phrase i="OL_8" t="8"/>
+<phrase i="OL_9" t="9"/>
+<phrase i="OL_10" t="10"/>
+<phrase i="OL_11" t="11"/>
+<phrase i="OL_12" t="12"/>
+<phrase i="OL_13" t="13"/>
+<phrase i="OL_14" t="14"/>
+<phrase i="OL_15" t="15"/>
+<phrase i="OL_16" t="16"/>
+<phrase i="OL_Disabled" t="Onemogočeno"/>
+<phrase i="OL_Enabled" t="Omogočeno"/>
+<phrase i="OL_AUTO" t="Samodejno"/>
+<phrase i="OL_10_HALF" t="10 MB pol"/>
+<phrase i="OL_10_FULL" t="10 MB polno"/>
+<phrase i="OL_100_HALF" t="100 MB pol"/>
+<phrase i="OL_100_FULL" t="100 MB polno"/>
+<phrase i="OL_1000_FULL" t="1000 polno"/>
+<phrase i="OL_10s" t="10 s"/>
+<phrase i="OL_20s" t="20 s"/>
+<phrase i="OL_30s" t="30 s"/>
+<phrase i="OL_AlwaysOn" t="Vedno vkl."/>
+<phrase i="OL_1m" t="1 m"/>
+<phrase i="OL_5m" t="5 m"/>
+<phrase i="OL_30m" t="30 m"/>
+<phrase i="OL_monthday" t="mesec/dan"/>
+<phrase i="OL_daymonth" t="dan/mesec"/>
+<phrase i="OL_12hr" t="12 h"/>
+<phrase i="OL_24hr" t="24 h"/>
+<phrase i="OL_IPv4" t="Samo IPv4"/>
+<phrase i="OL_IPv6" t="Samo IPv6"/>
+<phrase i="OL_DUAL_MODE" t="Dvojni način"/>
+<phrase i="OL_Phone" t="Telefon"/>
+<phrase i="OL_Server" t="Strežnik"/>
+<phrase i="OL_Show" t="Pokaži"/>
+<phrase i="OL_Hide" t="Skrij"/>
+<phrase i="OL_BEKEM" t="BEKEM"/>
+<phrase i="OL_AKEM" t="CP-8800-Audio"/>
+<phrase i="OL_VKEM" t="CP-8800-Video"/>
+
+<!-- Option label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="Samodejno"/>
+<phrase i="OL_Name" t="Ime"/>
+<phrase i="OL_Ext" t="Int."/>
+<phrase i="OL_Both" t="Oboje"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############-->
+<phrase i="T_EditProfile" t="Uredi profil"/>
+<phrase i="T_SetupWiFi" t="Nastavitev Wi-Fi-ja"/>
+<phrase i="T_WlanProfileListprofile" t="Izberite profil"/>
+<phrase i="T_WlanScanList" t="Vzpostavitev povezave z Wi-Fi-jem"/>
+<phrase i="T_WlanServerCaList" t="Izberite datoteko za strežniško potrdilo"/>
+<phrase i="T_WlanClientCaList" t="Izberite datoteko za odjemalsko potrdilo"/>
+<phrase i="T_WlanProfileReplace" t="Izberite profil, ki ga želite zamenjati"/>
+<phrase i="T_WlanWpsSelect" t="Izberite način WPS"/>
+<phrase i="WirelessStatusDetail" t="Podrobnost za brezžično"/>
+<phrase i="T_Profile" t="Profil"/>
+<phrase i="T_WlanPartitionLsit" t="Izberite particijo"/>
+<phrase i="L_InvalidProfile" t="Neveljaven profil"/>
+<phrase i="L_Disable" t="Onemogoči"/>
+<phrase i="L_None" t="Brez"/>
+<phrase i="L_Auto" t="Samodejno"/>
+<phrase i="L_EapFast" t="EAP-FAST"/>
+<phrase i="L_PeapGtc" t="PEAP-GTC"/>
+<phrase i="L_PeapMschapv2" t="PEAP-MSCHAPV2"/>
+<phrase i="L_Psk" t="PSK"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_802Dot1x" t="802.1x"/>
+<phrase i="L_WpaEnt" t="WPA Enterprise"/>
+<phrase i="L_Wpa2Ent" t="WPA2 Enterprise"/>
+<phrase i="L_Connection" t="Povezava"/>
+<phrase i="L_SecurityMode" t="Varnostni način"/>
+<phrase i="L_ProfileName" t="Ime profila"/>
+<phrase i="L_SecuredWith" t="Zaščiteno z"/>
+<phrase i="L_CipherType" t="Vrsta šifriranja"/>
+<phrase i="L_KeyId" t="Privzeti ključ za oddajanje"/>
+<phrase i="L_KeyLen" t="Dolžina ključa"/>
+<phrase i="L_Key1" t="Ključ 1"/>
+<phrase i="L_Key2" t="Ključ 2"/>
+<phrase i="L_Key3" t="Ključ 3"/>
+<phrase i="L_Key4" t="Ključ 4"/>
+<phrase i="L_PskKey" t="Ključ v skupni rabi WPA"/>
+<phrase i="L_WEPKey" t="Ključ WEP"/>
+<phrase i="L_Pphrase" t="Geslo"/>
+<phrase i="L_EapType" t="Vrsta EAP"/>
+<phrase i="L_UserId" t="ID uporabnika"/>
+<phrase i="L_Password" t="Geslo"/>
+<phrase i="L_CheckSvrCa" t="Preveri potrdilo strežnika"/>
+<phrase i="L_On" t="Vklopljeno"/>
+<phrase i="L_Off" t="Izklopljeno"/>
+<phrase i="L_LinkSignal" t="Moč signala"/>
+<phrase i="L_NoiseLevel" t="Raven šuma"/>
+<phrase i="L_Bssid" t="Naslov MAC dostopne točke"/>
+<phrase i="L_Frequency" t="Frekvenca"/>
+<phrase i="L_DataEncryption" t="Šifriranje podatkov"/>
+<phrase i="L_EncryptionType" t="Vrsta šifriranja"/>
+<phrase i="L_TransmitRate" t="Hitrost oddajanja"/>
+<phrase i="L_Channel" t="Kanal"/>
+<phrase i="L_RootCa" t="Korensko potrdilo"/>
+<phrase i="L_UserCa" t="Uporabniško potrdilo"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="Geslo za zasebni ključ"/>
+<phrase i="L_AnonyId" t="Anonimni ID"/>
+<phrase i="L_TtlsInnerProto" t="Notranji protokol TTLS"/>
+<phrase i="L_PeapInnerProto" t="Notranji protokol PEAP"/>
+<phrase i="L_WlanConfiguration" t="Brezžična konfiguracija"/>
+<phrase i="L_WlanWpsPbc" t="Konfiguracija s pritiskom gumba"/>
+<phrase i="L_WlanWpsPbcText1" t="Za naprave z gumbom za WPS"/>
+<phrase i="L_WlanWpsPbcText2" t="pritisnite gumb na napravi in izberite"/>
+<phrase i="L_WlanWpsPbcText3" t="ta način."/>
+<phrase i="L_WlanWpsPin" t="Konfiguracija kode PIN"/>
+<phrase i="L_WlanWpsPinText1" t="Za naprave, ki zahtevajo PIN, vnesite"/>
+<phrase i="L_WlanWpsPinText2" t="številko %s in izberite ta način"/>
+<phrase i="L_WlanWpsPinText3" t="izberite ta način."/>
+<phrase i="L_WlanProfile" t="Profil za Wi-Fi"/>
+<phrase i="L_Networksetup" t="Omrežna nastavitev"/>
+<phrase i="L_WlanAddCurrent" t="Dodajte povezavo kot profil"/>
+<phrase i="L_WlanStatus" t="Stanje Wi-Fi-ja"/>
+<phrase i="L_WlanWps" t="Wi-Fi protected setup"/>
+<phrase i="WlanMsgPfLock" t="Brezžični profil je zaklenjen"/>
+<phrase i="WlanMsgPfNameLenNull" t="Neveljavno ime profila"/>
+<phrase i="WlanMsgPfNameLenOver" t="Ime profila je predolgo"/>
+<phrase i="WlanMsgSssidLenNull" t="Ime omrežja ne sme biti prazno."/>
+<phrase i="WlanMsgSssidLenOver" t="SSID predolg"/>
+<phrase i="WlanMsgWepNoValue" t="Nastavite ključ ID-ja na %d, ki nima vrednosti ključa."/>
+<phrase i="WlanMsgWepWrongLen" t="Dolžina ključa %d je neveljavna."/>
+<phrase i="WlanMsgWepWrongHex" t="Ključ %d ima števke, ki niso šestnajstiške."/>
+<phrase i="WlanMsgPsKeyLenLess" t="Ključ WPA v skupni rabi je prekratek."/>
+<phrase i="WlanMsgPsKeyLenOver" t="Ključ WPA v skupni rabi je predolg"/>
+<phrase i="WlanMsgPsKeyInvalide" t="Geslo mora vsebovati 64 šestnajstiških števk ali od 8 do 63 znakov ASCII."/>
+<phrase i="WlanMsgWepKeyInvalid" t="Ključ WEP mora imeti 10 ali 26 šestnajstiških števk oziroma 5 ali 13 znakov ASCII."/>
+<phrase i="WlanMsgIdentityLenNull" t="ID uporabnika ne sme biti prazen."/>
+<phrase i="WlanMsgIdentityLenOver" t="Identiteta predolga"/>
+<phrase i="WlanMsgServerCaWrong" t="Neveljavno potrdilo strežnika"/>
+<phrase i="WlanMsgClientCaWrong" t="Neveljavno potrdilo odjemalca"/>
+<phrase i="WlanMsgPasswordLenNull" t="Geslo ne sme biti prazno."/>
+<phrase i="WlanMsgPasswordLenOver" t="Geslo je predolgo"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="Ni anonimne identitete"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="Anonimna identiteta predolga"/>
+<phrase i="WlanMsgOverMaxPFNum" t="Seznam je poln. Ali želite zamenjati drug profil?"/>
+<phrase i="WlanMsgUseWpsPbc" t="Uporabi gumb WPS za povezovanje"/>
+<phrase i="WlanMsgUseWpsPin" t="Uporabi PIN za WPS za povezovanje"/>
+<phrase i="WlanNoProfileConnect" t="Ni razpoložljivega profila za povezovanje"/>
+<phrase i="WlanNoScanProfileAdd" t="Ni profila iskanja za povezovanje"/>
+<phrase i="WlanProfileExistReplace" t="Profil s SSID-jem %s že obstaja. Ali želite zamenjati ta profil?"/>
+<phrase i="WlanNotEnable" t="Wi-Fi mora biti omogočen."/>
+<phrase i="WlanNotConnect" t="Wi-Fi se ni povezal in ga ni mogoče dodati na seznam profilov"/>
+<phrase i="WPSNotSet" t="Pritisnite »Nastavi«, da uporabite WPS."/>
+<phrase i="WLANNotSet" t="Pritisnite »Nastavi«, da uporabite WLAN."/>
+<phrase i="WlanProfileExist" t="Profil s SSID-jem %s že obstaja."/>
+<phrase i="WlanNotInterface" t="Če želite uporabljati Wi-Fi, morate prekiniti ethernetno povezavo."/>
+<phrase i="WlanMsgAssociating" t="Povezovanje s SSID-jem %s"/>
+<phrase i="WlanMsgFailAssociation" t="Z %s se ni bilo mogoče povezati."/>
+<phrase i="WlanMsgFailAssociationContinue" t="Z %s se ni bilo mogoče povezati. V ozadju poteka vnovično poskušanje."/>
+<phrase i="WlanMsgOobSkip" t="Če preskočite ta korak, morate omrežje konfigurirati ročno."/>
+
+<phrase i="WlanMsgSuccessAssociation" t="Povezava uspešno vzpostavljena."/>
+<phrase i="WlanMsgSuccessAssociationSSID" t="Uspešno vzpostavljena povezava z %s."/>
+
+<phrase i="WlanProfileAlreadyConnected" t="Ta profil je že povezan."/>
+<phrase i="WlanWpsFailConnect" t="Povezave z WPS-jem ni bilo mogoče vzpostaviti"/>
+<phrase i="WlanAddIntoProfile" t="Ali želite to nastavitev dodati profilu?"/>
+<phrase i="WlanScanning" t="Poteka iskanje brezžičnih omrežij"/>
+<phrase i="WlanWpsConnect" t="Konfiguracija WPS je končana. Nastavitev lahko profilu dodate na strani s stanjem za brezžično omrežje."/>
+<phrase i="WlanConnectAll1" t="Ali želite za povezovanje uporabiti ta profil?"/>
+<phrase i="WlanConnectAll2" t="Ali želite prekiniti trenutno povezavo in za povezovanje uporabiti seznam profilov?"/>
+<phrase i="WlanMsgConnectAll" t="Za povezovanje uporabi seznam profilov"/>
+<phrase i="WlanMsgFailConnectAll" t="Povezave ni bilo mogoče vzpostaviti. Poskušanje v ozadju"/>
+<phrase i="WlanAddCurrent" t="Ali želite trenutno povezavo dodati kot profil?"/>
+<phrase i="FileLengthOver" t="Ime datoteke presega dolžino %d."/>
+<phrase i="WlanProfileConnectDisable" t="Profil za Wi-Fi je onemogočen"/>
+<phrase i="WlanProfileEnable" t="Ali želite omogočiti ta profil?"/>
+<phrase i="WlanProfileDisable" t="Ali želite onemogočiti ta profil?"/>
+<phrase i="WlanEmptyScanningResult" t="Ni rezultat piskanja. Poskusite znova."/>
+<phrase i="devRestart" t="Morda se bo naprava morala znova registrirati."/>
+<phrase i="M_NetworkBusy" t="Strežnik je zaseden."/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="Izberite naslov"/>
+<phrase i="T_MP3SourceList" t="Dodaj naslov seznamu predvajanja"/>
+<phrase i="T_MP3PartitionList" t="Izberite particijo, na kateri so skladbe"/>
+<phrase i="MP3MsgOverMaxSongNum" t="Seznam je omejen na toliko vnosov: %d."/>
+<phrase i="MP3MsgEntryNotExist" t="Vnos ne obstaja."/>
+<phrase i="MP3MsgAPendingCall" t="Med klicem ni mogoče predvajati glasbe."/>
+<phrase i="MP3MsgFileNameOverLen" t="Imena datotek (%d) presegajo dolžino %d."/>
+<phrase i="MP3MsgGetList" t="Pridobivanje seznama s pogona USB"/>
+<phrase i="MP3MsgSaveRing" t="Shranjevanje zvonjenja s pogona USB"/>
+<phrase i="MP3MsgFileIllegle" t="Oblika zapisa datoteke je neveljavna."/>
+<phrase i="MP3DeletePrompt" t="Ali želite %s izbrisati s seznama predvajanja?"/>
+<phrase i="MP3MsgSelectNull" t="Za dodajanje na seznam predvajanja ni izbrana nobena skladba."/>
+<phrase i="MP3MsgSelectOverMax" t="Izbrali ste več kot toliko skladb: %d!"/>
+<phrase i="MP3UsbFolderNotPresent" t="Mapa »%s« ne obstaja. Preverite, ali imate datoteke mp3 v mapi »mp3« na pogonu USB."/>
+<phrase i="MP3UsbFileNotPresent" t="V mapi »%s« ni datotek MP3. Preverite, ali imate datoteke mp3 v mapi »mp3« na pogonu USB."/>
+<phrase i="MP3DeleteAllPrompt" t="Ali želite s seznama predvajanja izbrisati vse skladbe?"/>
+<phrase i="MP3MsgCalcTime" t="Izračunavanje trajanja predvajanja"/>
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="ethernet v uporabi"/>
+<phrase i="NC_TITLE_WIRELESS" t="brezžično omrežje v uporabi"/>
+<phrase i="NC_NOT_AVAILABLE" t="Ni na voljo"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="Povezovanje z dostopno točko"/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="Preverjanje ethernetne povezave"/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="Brezžična povezava ni uspela."/>
+<phrase i="NC_L2_FAIL_WIRED" t="Ethernetna povezava ni uspela."/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="Brezžična povezava je v redu."/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="Ethernetna povezava je v redu."/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="Uporabi statični IP"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="Pridobivanje naslova IP z DHCP-jem"/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="Pridobivanje naslova IP s PPPoE-jem"/>
+<phrase i="NC_L3_FAIL_STATIC" t="Nasova IP ni bilo mogoče nastaviti."/>
+<phrase i="NC_L3_FAIL_DHCP" t="Naslova IP ni bilo mogoče dobiti z DHCP-jem."/>
+<phrase i="NC_L3_FAIL_PPPOE" t="Naslova IP ni bilo mogoče dobiti s PPPoE-jem."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="Nastavi naslov IP"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="Pridobi naslov IP"/>
+<phrase i="NC_WAIT_VLAN_ID" t="Pridobivanje ID-ja za VLAN"/>
+<phrase i="NC_NO_PROFILE_LIST" t="Ni seznama profilov"/>
+<phrase i="NC_VPN_CONNECTING" t="Ustvarjanje povezave VPN."/>
+<phrase i="NC_VPN_CONNECTED" t="Povezava VPN je v redu."/>
+<phrase i="NC_VPN_FAILED" t="Povezave VPN ni bilo mogoče ustvariti."/>
+<phrase i="NC_WPS_SUCCESS" t="Pogajanje z WPS-jem je uspelo."/>
+<phrase i="NC_WPS_FAIL" t="Pogajanje z WPS-jem ni uspelo."/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="Naprave USB ni bilo mogoče najti. Napravo USB vstavite v režo USB na telefonu."/>
+<phrase i="UsbFolderNotPresent" t="Mapa »%s« ne obstaja."/>
+<phrase i="UsbFileNotPresent" t="V mapi »%s« ni datoteke."/>
+<phrase i="UsbFileNotPresent2" t="Datoteka »%s« ne obstaja."/>
+<phrase i="UsbUnknownError" t="Neznana napaka USB-ja"/>
+<phrase i="UsbPartitionName" t="Particija"/>
+<phrase i="UsbDevicePluged" t="Naprava USB je priključena. Počakajte, da bo vpeta."/>
+
+<!-- #############  #USB Headset msgs #############-->
+<phrase i="UsbDeviceConnected" t="Dod. oprema povez."/>
+<phrase i="UsbDeviceDisconnected" t="Dod. oprema ni povez."/>
+<phrase i="UsbDeviceNotSupported" t="Dod. oprema ni podprta."/>
+<phrase i="UsbDeviceErrorStatus" t="Napaka dodatne opreme."/>
+
+<phrase i="UsbDeviceMaxHeadsets" t="Največje število slušalk je preseženo."/>
+<phrase i="UsbDeviceNoPower" t="Telefon ne more napajati te dodatne opreme."/>
+<phrase i="UsbDeviceDisabled" t="Dodatna oprema ni podprta."/>
+<phrase i="UsbDeviceError" t="Poskušajte znova priključiti napravo."/>
+<phrase i="UsbDeviceMaxKEMs" t="Največje število konzol posrednika."/>
+<phrase i="UsbDeviceSysError" t="Dodatne opreme ni mogoče zaznati."/>
+
+<!-- #############  #Microphone/Speaker msgs #############-->
+<phrase i="ExternalMicrophone" t="Zunanji mikrofon."/>
+<phrase i="ExternalSpeaker" t="Zunanji zvočnik."/>
+
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="USB je zdaj poln. Snemanje klicev je ustavljeno. Priključite novega in znova začnite snemanje."/>
+<phrase i="UsbDeviceIsFull" t="USB je zdaj poln. Priključite novega in znova začnite snemanje."/>
+<phrase i="CallRecordMaxSingleFileReached" t="Dosežena je največja dolžina posameznega posnetka. Začnite nov posnetek."/>
+<phrase i="CallRecordMaxFileNumberReached" t="Doseženo je največje število posnetkov. Nekaj jih izbrišite in znova začnite snemati."/>
+<phrase i="CallRecordListDeletePrompt" t="Ali zares želite izbrisati ta posnetek:"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="Ali zares želite izbrisati vse posnetke?"/>
+<phrase i="CallRecordNameInvalid" t="Ime datoteke s posnetkom klica je neveljavno."/>
+<phrase i="CallRecordLenInvalid" t="Dolžine posnetka klica ni mogoče izračunati."/>
+<phrase i="CallRecordFoldInvalid" t="Imenik posnetka klica je neveljaven."/>
+<phrase i="CallRecordUnknownError" t="Neznana napaka posnetka klica"/>
+<phrase i="CallRecordMsgAPendingCall" t="Posnetka ni mogoče predvajati med klicem."/>
+<phrase i="CallRecordStarted" t="Snemanje se je začelo."/>
+<phrase i="CallRecordStopped" t="Snemanje je ustavljeno."/>
+<phrase i="CallRecordPaused" t="Snemanje je zač. ustavljeno."/>
+<phrase i="CallRecordResumed" t="Snemanja se nadaljuje."/>
+<phrase i="CallRecordPending" t="Počakajte na zač. snemanja."/>
+<phrase i="CallRecordServerError" t="Napaka strežnika"/>
+<phrase i="CallRecordStartError" t="Snemanje se ni začelo."/>
+<phrase i="CallRecordStopError" t="Snemanja se ni ustavilo."/>
+<phrase i="CallRecordPauseError" t="Snem. ni bilo zač. ustav. "/>
+<phrase i="CallRecordResumeError" t="Snemanje se ni nadaljevalo."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="Bluetooth mora biti omogočen pred %s."/>
+<phrase i="BT_Discovering" t="Odkrivanje: %s."/>
+<phrase i="BT_Discovered" t="Odkrito: %s."/>
+<phrase i="BT_DiscoveredFaild" t="Odkrivanje %s ni uspelo."/>
+<phrase i="BT_DeviceNotFound" t="Najdena ni bila nobena naprava Bluetooth."/>
+<phrase i="BT_Pairing" t="Seznanjanje: %s."/>
+<phrase i="BT_Paired" t="Uspešno seznanjeno: %s."/>
+<phrase i="BT_PairingFailed" t="Povezava ni uspela."/>
+<phrase i="BT_Abort" t="Povezava z »%s« preklicana."/>
+<phrase i="BT_UnPairPrompt" t="Ali želite prekiniti povezavo z »%s«?"/>
+<phrase i="BT_PinCodePrompt" t="Vnesite PIN."/>
+<phrase i="BT_ScanningPrompt" t="Poteka iskanje. Počakajte 10 sekund in zaženite znova."/>
+<phrase i="BT_ConnectingPrompt" t="Poteka povezovanje. Počakajte 10 sekund in zaženite znova."/>
+<phrase i="BT_DownloadingPrompt" t="Poteka prenos. Počakajte minuto in zaženite znova."/>
+<phrase i="BT_CallActivePrompt" t="Poteka klic. Klic se mora končati, preden znova poskusite. "/>
+<phrase i="BT_OP_FAIL" t="Postopek ni uspel."/>
+<phrase i="BT_OP_WAIT_ENABLE" t="Poteka omogočanje Bluetootha. Poskusite znova."/>
+<phrase i="BT_Dev_Connected" t="Naprava je že povezana."/>
+<phrase i="BT_Search" t="Poišči naprave Bluetooth"/>
+<phrase i="BT_Connecting_Dev" t="Poteka povezovanje naprave Bluetooth."/>
+<phrase i="BT_HeadsetNamePrompt" t="Ime slušalk ne more biti prazno."/>
+<phrase i="BT_PhoneModeError" t="Telefonski način se ne more povezati z mobilnim telefonom."/>
+<phrase i="BT_HandsfreeModeError" t="Prostoročni način se ne more povezati s slušalkami."/>
+<phrase i="BT_DownloadUpdate" t="Poteka posodabljanje osebnega imenika."/>
+<phrase i="BT_DownloadAddFull" t="Imenik je poln. Vseh vnosov ni mogoče dodati. Št. dodanih vnosov: %d. Št. prezrtih vnosov: %d."/>
+<phrase i="BT_DownloadConflictFull" t="Imenik je poln. Nobenih vnosov ni mogoče znova dodati. Vnosi s sporom pri posodobitvi: %d. Št. dodanih novih vnosov: %d. Št. prezrtih novih vnosov: %d"/>
+<phrase i="BT_OverMaxProfileNum" t="Seznam je poln. Ali želite zamenjati drug profil?"/>
+<phrase i="BT_ConToast" t="Bluetooth povezan"/>
+<phrase i="BT_DisconToast" t="Povezava Bluetooth prekinjena"/>
+<phrase i="BT_HandsfreePin" t="Poskrbite, da je pri seznanjanju naprave prikazan PIN"/>
+<phrase i="BT_St_Cntct_Prompt" t="Ali želite shraniti vse mobilne stike na namizni telefon? Izbrišete jih lahko pozneje v stikih."/>
+<phrase i="T_Sv_Mob_Cntct" t="Shrani mobilne stike"/>
+<phrase i="T_BluetoothProfileList" t="Izberite profil za Bluetooth"/>
+<phrase i="T_BluetoothProfilePlace" t="Izberite profil za Bluetooth, ki ga želite zamenjati"/>
+<phrase i="T_BTMode" t="Način Bluetooth"/>
+<phrase i="T_BTProfile" t="Profili za Bluetooth"/>
+<phrase i="T_AddDevice" t="Naprave"/>
+<phrase i="T_BTHeadsetName" t="Ime slušalk"/>
+<phrase i="T_BTLoadPhoneBook" t="Prenos telefonskega imenika"/>
+<phrase i="T_BTShowPhoneBook" t="Prikaz telefonskega imenika"/>
+<phrase i="T_BTChoosePair" t="Izberite napravo Bluetooth"/>
+<phrase i="T_BTEditProfile" t="Urejanje profila Bluetooth"/>
+<phrase i="L_BTDeviceName" t="Ime naprave"/>
+<phrase i="L_BTPINCODE" t="PIN"/>
+<phrase i="L_BTConnectAuto" t="Samodejna povezava"/>
+<phrase i="T_BTDownLoad" t="Prenos"/>
+<phrase i="T_BTReplace" t="Zamenjava"/>
+<phrase i="T_BTDeleteAccessory" t="Izbriši dodatek"/>
+<phrase i="CALL_SERVNOTAVAIL" t="Ni storitve"/>
+<phrase i="CALL_NETERR" t="Omrežna napaka"/>
+<phrase i="CALL_NORES" t="Ni odgovora"/>
+<phrase i="CALL_PROTOERR" t="Napaka protokola"/>
+<phrase i="CALL_NOLINE" t="Ni linije"/>
+<phrase i="CALL_TIMEOUT" t="Časovna omejitev"/>
+<phrase i="S_PHOLD" t="ZasZadrž"/>
+<phrase i="CALL_PHELD" t="Zasebno zadržano"/>
+<phrase i="S_IGNORE" t="Prezri"/>
+<phrase i="S_DECLINE" t="Zavrni"/>
+<phrase i="LINE_INUSE" t="V uporabi"/>
+<phrase i="CALL_PARKED" t="Klic parkiran"/>
+<phrase i="CALL_SERVUNAVAIL" t="Storitev ni na voljo"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" / . @ 1 : ; = ? - _ &amp; % "/>
+<phrase i="3851" t=" a b c 2 A B C "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" + * ~ ` &lt; &gt; "/>
+<phrase i="3860" t=" 0   , ! ^ ' &quot; | "/>
+<phrase i="3861" t=" # $ £ ¤ \ ( ) { } [ ] "/>
+
+<!-- #############  #language #############-->
+<phrase i="L_English" t="angleščina"/>
+<phrase i="L_English-US" t="angleščina – ZDA"/>
+<phrase i="L_English-Canada" t="angleščina – Kanada"/>
+<phrase i="L_English-Australia" t="angleščina – Avstralija"/>
+<phrase i="L_English-Britain" t="angleščina – Velika Britanija"/>
+<phrase i="L_English-NewZealand" t="angleščina – Nova Zelandija"/>
+<phrase i="L_French" t="francoščina"/>
+<phrase i="L_French-Canada" t="francoščina – Kanada"/>
+<phrase i="L_Spanish" t="španščina"/>
+<phrase i="L_Spanish-Mexico" t="španščina – Mehika"/>
+<phrase i="L_Italian" t="italijanščina"/>
+<phrase i="L_German" t="nemščina"/>
+<phrase i="L_Norwegian" t="norveščina"/>
+<phrase i="L_Portuguese" t="portugalščina"/>
+<phrase i="L_Polish" t="poljščina"/>
+<phrase i="L_Dutch" t="nizozemščina"/>
+<phrase i="L_Swedish" t="švedščina"/>
+<phrase i="L_Russian" t="ruščina"/>
+<phrase i="L_Turkish" t="turščina"/>
+<phrase i="L_Slovak" t="slovaščina"/>
+<phrase i="L_Hungarian" t="madžarščina"/>
+<phrase i="L_Croatian" t="hrvaščina"/>
+<phrase i="L_Bulgarian" t="bolgarščina"/>
+<phrase i="L_Czech_Republic" t="češčina"/>
+<phrase i="L_Slovenian" t="slovenščina"/>
+<phrase i="L_Danish" t="danščina"/>
+<phrase i="L_Hebrew" t="hebrejščina"/>
+
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="Kamera št."/>
+<phrase i="L_Camera_Name" t="Ime kamere"/>
+<phrase i="L_Camera_Ip" t="Naslov IP"/>
+<phrase i="L_Camara_UserName" t="Upor. ime"/>
+<phrase i="L_Camera_Password" t="Geslo"/>
+<phrase i="L_Camera_Port" t="Št. vrat"/>
+<phrase i="L_Camera_Resolution" t="Ločljivost"/>
+<phrase i="L_Camera_Quality" t="Kakovost videa"/>
+<phrase i="L_Camera_FrameRate" t="Hitrost sličic"/>
+<phrase i="L_Camera_Status" t="Stanje"/>
+<phrase i="T_Camera_Entry" t="Podatki o kameri"/>
+<phrase i="T_Camera_List" t="Izberite kamero za nadzor"/>
+<phrase i="CamInvalidParam" t="Parametri kamere %s niso veljavni."/>
+<phrase i="CamMissingURL" t="URL za dostop do kamere %s manjka."/>
+<phrase i="CamMissingUserName" t="Uporabniško ime za kamero %s manjka."/>
+<phrase i="CamMissingPassword" t="Geslo za kamero %s manjka."/>
+<phrase i="CamInvalidURL" t="URL za dostop za kamero %s je neveljaven."/>
+<phrase i="CamInvalidProtocol" t="Protokol za kamero %s ni RTSP."/>
+<phrase i="CamNoVideo" t="Ni videa."/>
+<phrase i="CamConnecting" t="Povezovanje"/>
+<phrase i="CamConnectError" t="Ni videa – povezave ni bilo mogoče vzpostaviti."/>
+<phrase i="CamAccessError" t="Ni videa – dostop zavrnjen."/>
+<phrase i="CamResolveError" t="Ni videa – naslova ni bilo mogoče razrešiti."/>
+<phrase i="CamResolutionError" t="Ni videa – prevelika ločljivost."/>
+<phrase i="CamBusy" t="Kamera zasedena – počakajte in poskusite znova."/>
+<phrase i="CamActivateDoorOK" t="Odpiranje vrat v redu za %s."/>
+<phrase i="CamActivateDoorFailed" t="Odpiranje vrat ni uspelo za %s."/>
+<phrase i="CamFeatureNotAvailable" t="Funkcija ni na voljo, če je omogočen Bluetooth"/>
+<phrase i="P_CamAccess" t="Dostopanje do videa"/>
+<phrase i="Shutter_Closed" t="Zaslonka je zaprta."/>
+<phrase i="Bandwidth_Allowance" t="Dovoljena pasovna širina"/>
+<phrase i="Exposure" t="Osvetlitev"/>
+<phrase i="Auto" t="Samodejno"/>
+<phrase i="250_kbps" t="250 Kb/s"/>
+<phrase i="500_kbps" t="500 Kb/s"/>
+<phrase i="750_kbps" t="750 Kb/s"/>
+<phrase i="1_mbps" t="1 Mb/s"/>
+<phrase i="2_mbps" t="2 Mb/s"/>
+<phrase i="L_Video_Stats" t="Stanje videoklica"/>
+<phrase i="L_VideoEncoder" t="Kodirnik"/>
+<phrase i="L_VideoDecoder" t="Dekodirnik"/>
+<phrase i="L_VideoPktSent" t="Poslani paketi"/>
+<phrase i="L_VideoPktRecv" t="Prejeti paketi"/>
+<phrase i="L_VideoAvgJitter" t="Povprečno trepetanje"/>
+<phrase i="L_VideoMaxJitter" t="Najv. trepetanje"/>
+<phrase i="L_VideoRxPktDiscarded" t="Zavržen paket Rx"/>
+<phrase i="L_VideoRxPktLost" t="Izgubljen paket Rx"/>
+<phrase i="L_VideoTxResolution" t="Razreševanje Tx"/>
+<phrase i="L_VideoRxResolution" t="Razreševanje Rx"/>
+<phrase i="L_VideoRxFrames" t="Okviri Rx"/>
+<phrase i="L_VideoTxFrames" t="Okviri Tx"/>
+<phrase i="L_VideoTxIDRFrames" t="Okviri IDR"/>
+<phrase i="L_VideoTxFastUpdateReq" t="Potrebni i-okviri Tx"/>
+<phrase i="L_VideoRxIDRFrames" t="Okviri IDR"/>
+<phrase i="L_VideoRxFastUpdateReq" t="Potrebni i-okviri Rx"/>
+<phrase i="L_VideoTxFrameRate" t="Hitrost okvirov Tx"/>
+<phrase i="L_VideoRxFrameRate" t="Hitrost okvirov Rx"/>
+<phrase i="L_VideoLatency" t="Zakasnitev videa"/>
+<phrase i="L_VideoTxBandwidth" t="Pasovna širina Tx"/>
+<phrase i="L_VideoRxBandwidth" t="Pasovna širina Rx"/>
+
+
+<phrase i="OL_Very_Low" t="Zelo nizko"/>
+<phrase i="OL_Lowest" t="Najmanj"/>
+<phrase i="OL_Low" t="Nizko"/>
+<phrase i="OL_Medium" t="Srednje"/>
+<phrase i="OL_Normal" t="Navadno"/>
+<phrase i="OL_High" t="Visoko"/>
+<phrase i="OL_Highest" t="Najvišje"/>
+<phrase i="OL_Very_High" t="Zelo visoko"/>
+
+<!-- #############  Profile Account #############-->
+<phrase i="L_ProAcnt_Setup" t="Nastavitev računa profila"/>
+<phrase i="L_ProAcnt_Setup_Basic" t="Nastavitev računa profila (HTTP)"/>
+<phrase i="L_ProAcnt_Setup_XsiLogin" t="Nastavitev računa profila (XSI)"/>
+<phrase i="L_ProAcnt_Setup_XsiSip" t="Nastavitev računa profila (XSI SIP)"/>
+<phrase i="L_PA_HOST_WARNING" t="Vpis ni uspel. Obrnite se na skrbnika."/>
+<phrase i="L_PA_Username" t="Upor. ime"/>
+<phrase i="L_PA_RESYNC_TRY" t="Poteka vpis v račun … ..."/>
+<phrase i="L_PA_RESYNC_OK" t="Vpis je uspešen!"/>
+<phrase i="L_PA_RESYNC_DISABLED" t="Funkcija ponovne sinhronizacije je onemogočena. Obrnite se na skrbnika."/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="Extension Mobility"/>
+<phrase i="L_ExtMob_LoginForm" t="Prijava v Extension Mobility"/>
+<phrase i="L_EM_LOGIN_TRY" t="Poteka prijava."/>
+<phrase i="L_EM_LOGIN_OK" t="Prijava je uspešna."/>
+<phrase i="L_EM_LOGIN_FAILED" t="Podatki za prijavo niso pravilni."/>
+<phrase i="L_EM_LOGOUT_TRY" t="Poteka odjava."/>
+<phrase i="L_EM_LOGOUT_OK" t="Odjava je uspešna."/>
+<phrase i="L_EM_LOGOUT_FAILED" t="Odjava ni uspela. Telefon se bo znova zagnal."/>
+<phrase i="L_EM_LOGIN_WARNING" t="Vnesite ID uporabnika in geslo."/>
+<phrase i="L_EM_LOGOUT_CONFIRMATION" t="Ali ste prepričani, da se želite odjaviti iz funkcije Extension Mobility?"/>
+<phrase i="L_EM_INACTIVE_WARNING" t="Telefon se bo zaradi nedejavnosti odjavil iz funkcije Extension Mobility. Ali želite ostati prijavljeni?"/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="Ali želite izvesti obnovitveno ponastavitev?"/>
+<phrase i="L_RecoveryReset" t="Obnovitvena ponastavitev"/>
+<phrase i="L_FirmwareUpgrade" t="Nadgradnja vdelane programske opreme"/>
+<phrase i="T_ST_Diag" t="Diagnostična obnovitev"/>
+<phrase i="UsbImageFileNotPresent" t="/image/spa525g.bin ni mogoče najti. Kopirajte posnetek vdelane programske opreme v /image/spa525g.bin."/>
+<phrase i="L_Picture" t="Slika"/>
+<phrase i="L_IncomingPage" t="Dohodni poziv"/>
+<phrase i="L_OutgoingPage" t="Odhodni poziv"/>
+
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="Mapa »%s« ne obstaja. Preverite, ali so datoteke JPG v mapi »%s« v napravi USB."/>
+<phrase i="ImageUsbFileNotPresent" t="V mapi »%s« ni datotek JPG. « Preverite, ali so datoteke JPG v mapi »%s« v napravi USB."/>
+<phrase i="T_ImageSelect" t="Izberite sliko"/>
+<phrase i="ImageMsgOverMaxImageNum" t="Izbrali ste več kot toliko slik: %d!"/>
+
+<phrase i="WS_Jan" t="jan"/>
+<phrase i="WS_Feb" t="feb"/>
+<phrase i="WS_Mar" t="mar"/>
+<phrase i="WS_Apr" t="apr"/>
+<phrase i="WS_May" t="maj"/>
+<phrase i="WS_Jun" t="jun"/>
+<phrase i="WS_Jul" t="jul"/>
+<phrase i="WS_Aug" t="avg"/>
+<phrase i="WS_Sep" t="sep"/>
+<phrase i="WS_Oct" t="okt"/>
+<phrase i="WS_Nov" t="nov"/>
+<phrase i="WS_Dec" t="dec"/>
+<phrase i="WS_Sun" t="ned"/>
+<phrase i="WS_Mon" t="pon"/>
+<phrase i="WS_Tue" t="tor"/>
+<phrase i="WS_Wed" t="sre"/>
+<phrase i="WS_Thu" t="čet"/>
+<phrase i="WS_Fri" t="pet"/>
+<phrase i="WS_Sat" t="sob"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="Zahtevanje"/>
+<phrase i="T_EmptyHTTPBody" t="Prazno telo HTTP."/>
+<phrase i="T_404NotFound" t="404 – ni najdeno."/>
+<phrase i="T_AudioDataError" t="Napaka zvočnih podatkov."/>
+<phrase i="T_DNSError" t="Napaka DNS."/>
+<phrase i="T_NoServer" t="Povezave s strežnikom ni mogoče vzpostaviti."/>
+<phrase i="T_NoResponse" t="Strežnik se ni odzval. Poskusite znova."/>
+<phrase i="T_DataError" t="Podatkovna napaka."/>
+<phrase i="T_UnknownError" t="Neznana napaka."/>
+<phrase i="T_RTPFail" t="Telefon je na drugem klicu. Poskusite znova pozneje."/>
+<phrase i="T_XMLFormatError" t="Napaka oblike XML: neveljavna aplikacija."/>
+<phrase i="T_NotValidApp" t="Ta model telefona ne podpira aplikacije."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="Rezultat"/>
+<phrase i="PRV_Msg_Resync" t="Vnovična sinhronizacija z"/>
+<phrase i="PRV_Msg_ReqFailed" t="Zahteva za vnovično sinhronizacijo ni uspela. Telefon trenutno vnovično sinhronizira. Poskusite znova pozneje."/>
+<phrase i="PRV_Msg_ReqFailedByUpg" t="Zahteva ni uspela zaradi nadgradnje vdelane programske opreme. Poskusite znova pozneje."/>
+<phrase i="PRV_Invalid_URL" t="Neveljavno pravilo profila za vnovično sinhronizacijo!"/>
+<phrase i="StringLengthOver" t="Niz presega največjo dolžino."/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="Vnovično sinhroniziranje poteka"/>
+<phrase i="PRV_Msg_Resync_OK" t="Vnovično sinhroniziranje je uspelo."/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="Telefon se bo znova zagnal, počakajte"/>
+<phrase i="L_Active_Call_Progress" t="Poteka klic. Končajte klic in poskusite znova."/>
+<phrase i="L_Unable_To_Add_Participant" t="Udeleženca ni mogoče dodati."/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="Brez"/>
+<phrase i="L_RReason1" t="Napaka DHCP"/>
+<phrase i="L_RReason2" t="Nadgradnja"/>
+<phrase i="L_RReason3" t="Nadziranje"/>
+<phrase i="L_RReason4" t="Nadgradnja"/>
+<phrase i="L_RReason5" t="Sprožil uporabnik"/>
+<phrase i="L_RReason6" t="Nadgradnja"/>
+<phrase i="L_RReason7" t="Sprožil SIP"/>
+<phrase i="L_RReason8" t="Nadgradnja"/>
+<phrase i="L_RReason9" t="Napaka sistema"/>
+<phrase i="L_RReason10" t="Povezav dol"/>
+<phrase i="L_RReason11" t="Sistem 1"/>
+<phrase i="L_RReason12" t="Sistem 2"/>
+<phrase i="L_RReason13" t="Podvojen IP"/>
+<phrase i="L_RReason14" t="Rezervni IP"/>
+<phrase i="L_RReason15" t="Sistem 3"/>
+<phrase i="L_RReason16" t="Sistem 4"/>
+<phrase i="L_RReason17" t="Sistem 5"/>
+<phrase i="L_RReason18" t="Sistem 6"/>
+<phrase i="L_RReason19" t="Sistem 7"/>
+<phrase i="L_RReason20" t="Sprožil SIP"/>
+<phrase i="L_RReason21" t="Prenos slovarja"/>
+<phrase i="L_RReason22" t="VLAN spremenjen"/>
+<phrase i="L_RReason23" t="ŠR"/>
+<phrase i="L_RReason24" t="Tovarniška ponastavitev"/>
+<phrase i="L_RReason25" t="Zaht. za programsko opremo"/>
+<phrase i="L_RReason26" t="IP spremenjen"/>
+
+<phrase i="L_Calls" t="Klici"/>
+
+<!-- ############# Full Screen Progress Spinner ########### -->
+<phrase i="L_ProgressSpinnerText" t="Poteka nadgradnja vdelane programske opreme"/>
+
+<!-- ############# Accessories ############ -->
+<phrase i="L_Accessories" t="Dodatki"/>
+<phrase i="L_AccessoryDetails" t="Podrobnosti dodatka"/>
+<phrase i="L_DeviceType" t="Vrsta naprave"/>
+<phrase i="L_DeviceClass" t="Razred naprave"/>
+<phrase i="L_Configured" t="Konfigurirano"/>
+<phrase i="L_unitEnable" t="Enota omogočena"/>
+<phrase i="L_unitState" t="Enota dosegljiva"/>
+
+<!-- #############  Cisco Headset#############-->
+<phrase i="L_Setup" t="Vzpost."/>
+<phrase i="L_Microphone" t="Mikrofon"/>
+<phrase i="L_Tuning" t="Uglasitev"/>
+<phrase i="L_Sidetone" t="Presluh"/>
+<phrase i="L_MicrophoneTest" t="Preskus mikrofona"/>
+<phrase i="L_InputLevel" t="Raven vhoda"/>
+<phrase i="L_SpeakNow" t="Začnite govoriti"/>
+<phrase i="L_SpeakLevel" t="Izgovorite, da boste videli raven vhoda"/>
+<phrase i="L_PlayRecord" t="Predvajaj posnetek"/>
+<phrase i="L_AdjustMicroGain" t="Prilagoditev ojačenja mikrofona"/>
+<phrase i="L_Softer" t="Tišje"/>
+<phrase i="L_Louder" t="Glasno"/>
+<phrase i="L_AdjustAudioTune" t="Prilagoditev zvočnega tona"/>
+<phrase i="L_Warmer" t="Toplo"/>
+<phrase i="L_Brighter" t="Svetlejše"/>
+<phrase i="L_AdjustMicrophone" t="Prilagoditev mikrofona"/>
+
+<phrase i="L_headsetSettings" t="Nastavitve naglavne slušalke Cisco"/>
+<phrase i="L_headsetSpeaker" t="Zvočnik naglavne slušalke Cisco"/>
+<phrase i="L_headsetMicrophone" t="Mikrofon naglavne slušalke Cisco"/>
+<phrase i="L_Test" t="Preskus"/>
+<phrase i="L_Gain" t="Ojačitev"/>
+<phrase i="L_CiscoWiredHeadset" t="Žična naglavna slušalka Cisco"/>
+<phrase i="L_CiscoWirelessHeadset" t="Brezžična naglavna slušalka Cisco"/>
+<phrase i="L_CiscoHeadset" t="Naglavna slušalka Cisco"/>
+<phrase i="L_NewAccDetected" t="Zaznan je nov dodatek"/>
+<phrase i="L_HeadsetSetupProgress" t="Če želite konfigurirati naglavno slušalko, pritisnite Vzpostavitev, sicer se bo ta stran zaprla čez %d s."/>
+<phrase i="L_HeadsetSetupProgressOneSecond" t="Če želite konfigurirati naglavno slušalko, pritisnite Vzpostavitev, sicer se bo ta stran zaprla čez 1 sekundo."/>
+<phrase i="L_HeadsetUpgrade" t="Poteka posodobitev programske opreme. Ne odklapljajte naglavne slušalke."/>
+<phrase i="L_HeadsetMDUpgradeNotify" t="Nadgradnja vdelane programske opreme naglavne slušalke je pripravljena. Traja lahko nekaj minut in slušalke v tem času ne boste mogli uporabljati. Ali želite zdaj nadgraditi?"/>
+<phrase i="L_CannotRecord" t="Ojačanja ali glasnosti mikrofona ne morete preveriti med klicem."/>
+<phrase i="L_Version" t="Različica"/>
+<phrase i="L_UpgradeFaild" t="Nadgradnja ni uspela."/>
+<phrase i="S_PlayBack" t="Predvajanje"/>
+<phrase i="L_Upgrade" t="Nadgrad."/>
+<phrase i="L_Postpone" t="Odloži"/>
+
+<!-- #############  PRT Screen#############-->
+<phrase i="L_ReportProblem" t="Prijava težave"/>
+<phrase i="L_ProblemDate" t="Datum težave"/>
+<phrase i="L_ProblemTime" t="Ura težave"/>
+<phrase i="L_ProblemDescription" t="Opis težave"/>
+<phrase i="L_SelectProblem" t="Izberite"/>
+<phrase i="L_PRTProblem1" t="Prek. pov. telefona ali pon. zagon"/>
+<phrase i="L_PRTProblem2" t="Napaka omrežne povezave"/>
+<phrase i="L_PRTProblem3" t="Napaka registracije telefona"/>
+<phrase i="L_PRTProblem4" t="Vzpostavitev klica ni uspela"/>
+<phrase i="L_PRTProblem5" t="Ni mogoče odgovoriti na klic"/>
+<phrase i="L_PRTProblem6" t="Klicne funkcije ne delujejo"/>
+<phrase i="L_PRTProblem7" t="Slaba kakovost zvoka/videa"/>
+<phrase i="L_PRTProblem8" t="Enosmerni zvok/video"/>
+<phrase i="L_PRTProblem9" t="Brez zvoka/videa"/>
+<phrase i="L_PRTProblem10" t="Počasen odziv vmesnika"/>
+<phrase i="L_PRTProblem11" t="Napaka prikaza vmesnika"/>
+<phrase i="L_PRTProblem12" t="Drugo"/>
+<phrase i="L_PrtSpinnerText" t="Ustvarjanje datoteke PRT"/>
+<phrase i="L_PrtStatusOKText" t="Prenos je bil uspešen. Datoteka: %s"/>
+<phrase i="L_PrtStatusFailedText" t="PRT ni bilo mogoče prenesti, vendar je na spletni strani: %s"/>
+<phrase i="L_PrtStatusFailedText1" t="PRT ni bilo mogoče naložiti, vendar je na spletni strani:"/>
+<phrase i="L_PrtStatusNoURLText" t="Datoteka PRT je na voljo na spletni strani (%s)"/>
+<phrase i="L_PrtStatusNoURLText1" t="Datoteka PRT je na voljo na spletni strani"/>
+<phrase i="L_PrtWarningText" t="Izberite opis težave."/>
+<phrase i="T_PRT_Submitted" t="Težava poslana"/>
+<phrase i="T_PRT_Error" t="Napaka: %d"/>
+
+<!-- #############  802.1X Authentication #############-->
+<phrase i="L_802Authentication" t="Preverjanje pristnosti 802.1X"/>
+<phrase i="L_DeviceAuthentication" t="Prev. pristnosti naprave"/>
+<phrase i="L_TransactionStatus" t="Stanje transakcije"/>
+<phrase i="L_Protocol" t="Protokol"/>
+
+<!-- #############  Agent Login #############-->
+<phrase i="S_AState" t="StanZast"/>
+<phrase i="L_ACD_AGENT_STATE" t="Nastavi stanje zastopnika"/>
+<phrase i="S_ASignIn" t="PrijZast"/>
+<phrase i="S_ASignOut" t="OdjZast"/>
+<phrase i="S_AgtIn" t="PrijZast"/>
+<phrase i="S_AgtOut" t="OdjZast"/>
+<phrase i="T_ACD_CallInformation" t="Podatki o klicu"/>
+<phrase i="L_ACD_WaitTime" t="Čas čakanja"/>
+<phrase i="L_ACD_CCUID" t="UID za CC"/>
+<phrase i="L_ACD_CCName" t="Ime za CC"/>
+<phrase i="L_ACD_Queue" t="Čakalna vrsta"/>
+<phrase i="L_ACD_LongestWaitTime" t="Najdaljši čas čakanja"/>
+<phrase i="S_ACallInfo" t="PodOKlic"/>
+<phrase i="S_ADispCode" t="Kodadisp"/>
+<phrase i="S_ATrace" t="Sledenje"/>
+<phrase i="S_AEmergcy" t="V sili"/>
+<phrase i="L_ACD_DispCode" t="Koda dispozicije"/>
+<phrase i="L_ACD_Emergency" t="Stopnjevanje v sili"/>
+<phrase i="L_Avail" t="Dosegljiv"/>
+<phrase i="L_Unavail" t="Ni na voljo"/>
+<phrase i="L_Wrap" t="Zaključevanje"/>
+<phrase i="L_SignOut" t="Odjava"/>
+<phrase i="L_AgtState" t="Telefonist"/>
+<phrase i="L_AQS_EMPTY" t="prazno"/>
+<phrase i="L_AQS_NORMAL" t="uvr. v čak. vrs."/>
+<phrase i="L_AQS_FULL" t="polno"/>
+<phrase i="L_SECOND" t="%d s"/>
+<phrase i="L_SECONDS" t="%d s"/>
+<phrase i="L_Queue_Call" t="%d klic"/>
+<phrase i="L_Queue_Calls" t="Št. klicev: %d"/>
+<phrase i="L_AgtIn" t="Telefonist je vpisan"/>
+<phrase i="L_AgtOut" t="Telefonist je izpisan"/>
+
+
+<!-- #############  Exec/Admin Feature #############-->
+<phrase i="L_Executive" t="Vodja"/>
+<phrase i="L_Executive_List" t="Seznam vodij"/>
+<phrase i="L_Assistant" t="Pomočnik"/>
+<phrase i="L_AllowOptInOut" t="Omogočanje/onemogočanje pomočnika"/>
+<phrase i="L_CallFilter" t="Filter klicev"/>
+<phrase i="L_CallFilterMode" t="Način filtra klicev"/>
+<phrase i="L_CallFilterType" t="Vrsta filtra klicev"/>
+<phrase i="L_AssistsList" t="Seznam pomočnikov"/>
+<phrase i="M_No_Executive" t="Na voljo ni noben vodja."/>
+<phrase i="L_DivertNum" t="Preusmeritvena številka"/>
+<phrase i="OL_AllCalls" t="Vsi klici"/>
+<phrase i="OL_InternalCalls" t="Notranji klici"/>
+<phrase i="OL_ExternalCalls" t="Zunanji klici"/>
+<phrase i="OL_Simple" t="Preprosto"/>
+<phrase i="OL_Advanced" t="Napredno"/>
+<phrase i="L_Opt0" t="Onemogočanje"/>
+<phrase i="L_Opt1" t="Omogočanje"/>
+<phrase i="M_CallFilterPrompt" t="Vse spremembe nastavitev filtra klicev vplivajo na vse druge pomočnike. Ali želite nadaljevati?"/>
+<phrase i="M_DivertNumberPrompt" t="Preusmeritvena številka je obvezno polje."/>
+
+<!-- #############  GDS Activation Feature #############-->
+<phrase i="L_Welcome" t="Pozdravljeni"/>
+<phrase i="S_Continue" t="Nadaljuj"/>
+<phrase i="L_Enter_Activation_Code" t="Vnesite kodo za aktiviranje"/>
+<phrase i="L_Activation_Connecting" t="Poteka povezovanje."/>
+<phrase i="L_Activation_Download_Configuration" t="Poteka prenos ..."/>
+<phrase i="L_Activation_Check_Info" t="Neveljavna koda za aktiviranje."/>
+<phrase i="L_Activation_Invalid_Config" t="Neveljavna konfiguracija. Obrnite se na skrbnika."/>
+<phrase i="L_Activation_Service_Unavailable" t="Storitev ni na voljo. Poskusite znova pozneje."/>
+<phrase i="L_Activation_Internal_Error" t="Znova zaženite telefon ali se obrnite na skrbnika."/>
+<phrase i="L_Activation_Network_Error" t="Preverite internetno povezavo ali se obrnite na skrbnika."/>
+<phrase i="L_Activation_Cert_Error" t="Neveljavno potrdilo strežnika. Obrnite se na skrbnika."/>
+<phrase i="L_Activation_Download_Retrying" t="Prenos ni uspel. Poteka vnovični poskus ..."/>
+<phrase i="L_Activation_Download_Failed" t="Prenos ni uspel. Obrnite se na skrbnika."/>
+<phrase i="M_Config_In_Progress" t="Poteka preverjanje konfiguracije. To traja nekaj minut."/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/> <!--aks:can be removed after all required screens are fixed-->
+<phrase i="L_NetworkName" t="Ime omrežja"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_802.11" t="Frekvenčni pas"/>
+<phrase i="L_5ghz" t="5 GHz"/>
+<phrase i="L_2.4ghz" t="2,4 GHz"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_WiFi_Type" t="Vrsta Wi-Fi-ja"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="LLLL"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="HH"/>
+<phrase i="Label_mm" t="MM"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_SWITCH_PORT_CFG" t="Konfig. vrat stikala"/>
+<phrase i="L_PC_PORT_CFG" t="Konfiguracija vrat rač."/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_PC_PORT_MIRRORING" t="Zrcaljenje vrat rač."/>
+<phrase i="L_STARTUP_DELAY" t="Zakasnitev ob zagonu"/>
+<phrase i="L_DHCP_VLAN_OPTION" t="Možnost VLAN za DHCP"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="ID za VLAN"/>
+<phrase i="L_VLAN_PRIPORITY" t="Prednost za VLAN"/>
+<phrase i="L_DATAPORT_VLAN" t="VLAN na vratih rač."/>
+<phrase i="L_DATAPORT_VLANID" t="ID za VLAN na vratih rač."/>
+<phrase i="L_DATAPORT_PRIORITY" t="Prednost vrat rač."/>
+<phrase i="OL_NO_LIMIT" t="Brez omejitve"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_WLAN" t="Brezžično omrežje"/>
+<phrase i="OL_WPS" t="WPS"/>
+<phrase i="OL_RELEASE_DHCP" t="Sprosti DHCP IP"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_DIGEST-MD5" t="DIGEST-MD5"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  #Status messages #############-->
+<phrase i="M_SM_status_no_connection" t="Ni povezave"/>
+<phrase i="M_SM_status_Eth_connected" t="Ethernetna povezava vzpostavljena"/>
+<phrase i="M_SM_status_Wifi_connected" t="Povezava WiFi vzpostavljena"/>
+<phrase i="M_SM_Eth_Dis" t="Ethernetna povezava je prekinjena"/>
+<phrase i="M_SM_Wifi_Dis" t="Povezava WiFi prekinjena"/>
+<phrase i="M_SM_V6_IP_Dup" t="Podvojen naslov IPv6"/>
+<phrase i="M_SM_V4_IP_Dup" t="Podvojeni naslov IPv4"/>
+<phrase i="M_SM_V6_Dns_Err" t="Napaka ločljivosti DNSv6"/>
+<phrase i="M_SM_Usr_Cncld_Pwr_off" t="Izklop telefona je preklican: uporabnik je preklical ukaz za izklop s stikala."/>
+<phrase i="M_SM_POE_Rqd" t="Napaka pri izklopu telefona: izklop ni bil mogoč; za izklop telefona je potrebno napajanje prek etherneta."/>
+<phrase i="M_SM_NO_FILE_CHG" t="Ni spremenjenih datotek"/>
+<phrase i="M_SM_PORT_CFG_ERR" t="Napaka konfiguracije vrat"/>
+<phrase i="M_SM_V4_ADDR_REL" t="Naslov IPv4 sproščen"/>
+<phrase i="M_SM_V4_ADDR_RENEW" t="Naslov IPv4 obnovljen"/>
+<phrase i="M_SM_NTP_TEMP_TIME" t="Ročno nastavljena ura bo prepisana, ko bo na voljo NTP."/>
+<phrase i="M_SM_CertError" t="Napaka potrdila SSL %s"/>
+<phrase i="M_SM_DNSError" t="Napaka pri razreševanju naslova %s"/>
+<phrase i="M_SM_DNSSuccess" t="Uspešno razrešeno %s"/>
+<phrase i="M_SM_NoGeolocation" t="Vaše lokacije v sili ni mogoče ugotoviti za linijo %s"/>
+<phrase i="M_SM_FailedGeolocation" t="Sistem ne more ugotoviti vaše lokacije v sili."/>
+
+<phrase i="ReadOnly_Prompt" t="Nimate dovoljenja za izvedbo te spremembe."/>
+<phrase i="Copyright_Year" t="2000–2020"/>
+<phrase i="Copyright_Text" t="Copyright 2000-2020 Cisco Systems, Inc."/>
+
+<!-- #############  #Upgrade error message #############-->
+<phrase i="M_UG_FAIL" t="Nadgradnja ni uspela."/>
+<phrase i="M_UG_CRC_FAIL" t="CRC-ja ni bilo mogoče preveriti"/>
+<phrase i="M_UG_MAGIC_FAIL" t="Nalaganja ni mogoče prepoznati"/>
+<phrase i="M_UG_MEMORY_NOT_ENOUGH" t="Ni dovolj sistemskega pomnilnika"/>
+<phrase i="M_UG_FILE_NOT_FOUND" t="Datoteka ni najdena"/>
+<phrase i="M_UG_READ_FAIL" t="Podatkov ni mogoče pridobiti"/>
+<phrase i="M_UG_WRITE_FAIL" t="Podatkov ni mogoče zapisati."/>
+<phrase i="M_UG_HASH_CHECK_FAIL" t="Kontrolne vsote ni mogoče preveriti"/>
+<phrase i="M_UG_HEADER_FAIL" t="Glavne glave ni mogoče preveriti"/>
+<phrase i="M_UG_UPGRADE_ABORT" t="Nadgradnja je bila prekinjena"/>
+<phrase i="M_UG_FORBID" t="Strojna ali prog. oprema ni združljiva."/>
+<phrase i="M_UG_CONN_FAIL" t="S strežnikom se ni mogoče povezati"/>
+<phrase i="M_UG_INTERNAL_ERR" t="Notranja napaka pri nadgradnji"/>
+<phrase i="M_UG_BAD_LOAD_EBR" t="Napaka pri nalag. ali raz. zag. zapisu"/>
+<phrase i="M_UG_BAD_SCHEME" t="Napačna shema protokola za prenos"/>
+<phrase i="M_UG_IN_PROGRESS" t="Nadgradnja poteka"/>
+<phrase i="M_UG_BAD_URL" t="Naveden je bil napačen URL"/>
+<phrase i="M_UG_AUTHORIZED" t="Prehodna nadgradnja dovoljena."/>
+<phrase i="M_UG_UNAUTHORIZED" t="Prehodna nadgradnja ni dovoljena."/>
+<phrase i="M_UG_AUTH_FAIL" t="Postopek avtorizacije nalaganja prehoda ni uspel"/>
+<phrase i="M_UG_AUTH_FNF" t="Datoteka za avtorizacijo nalaganja prehoda ni najdena."/>
+<phrase i="M_UG_SERV_CERT_ERR" t="Napaka potrdila."/>
+<phrase i="M_UG_UNKNOWN_ERR" t="Neznana napaka"/>
+
+<phrase i="Tr_Configure" t="Configuration check in progress."/>
+<phrase i="Tr_Authorize" t="Authorization in progress."/>
+<phrase i="Tr_Auth_Download" t="Prehodne in razveljavitvene nadgradnje so dovoljene. Poteka nadgradnja."/>
+<phrase i="Tr_Unauth_Download" t="Dovoljene so samo razveljavitvene nadgradnje. Poteka nadgradnja."/>
+<phrase i="Tr_AuthFail" t="Odobritev ni uspela. Preverite konfiguracijo in poskusite znova."/>
+<phrase i="Tr_ConfigureFail" t="Failed to download the configuration. Contact your administrator."/>
+<phrase i="Tr_ContactAdmin" t="Contact your administrator."/>
+
+<!-- TODO: Delete the following 3 strings when all code references are gone-->
+<phrase i="Tr_Revert" t="Load reversion in progress..."/>
+<phrase i="Tr_RevertPrompt" t="Do you want to revert to the previous load?"/>
+<phrase i="Tr_RevertFail" t="Failed to revert to the previous load"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s&amp;mobilePhone=%s"/>
+<phrase i="URL_AddToBSPAB" t="Application_BsDirPersAddToFrom?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2016"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All rights reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi protected setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade file select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi profile name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push button configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching available sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to personal address book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to personal address book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with personal address book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the conflict list"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the personal address book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth device name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices"/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait"/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting wireless profile"/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call history type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add new Wi-Fi profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit all changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware upgrade window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space not allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password not valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available speed dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current personal directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension name of certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter PIN."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of call history entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of received calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of placed calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of missed calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected call history entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected received calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected placed calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected missed calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to personal address book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal address book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Recents"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default transmit key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA shared key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of private key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS inner protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP inner protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="PIN"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone no"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work no"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile no"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home no"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add personal address entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check server certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed calls"/>
+<phrase i="S_Pg_C_All" t="All calls"/>
+<phrase i="S_Pg_C_XsiAll" t="Server All calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import address book from mobile phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- status messages for future use. When using, move them in translatable section-->
+<phrase i="M_SM_cant_pwr_off" t="Phone off error: Could not power off; the required EnergyWise domain is not configured."/>
+<phrase i="M_SM_app_conf" t="apply_config"/>
+<phrase i="M_SM_cust_pend" t="Custom-pending"/>
+<phrase i="M_SM_psp_dev_unreg_pwr_off" t="Device unregistered when it entered powered off due to the Power Save Plus feature"/>
+<phrase i="M_SM_trst_lst_updtd" t="Trust list updated"/>
+<phrase i="M_SM_vpn_proc_not_rng" t="VPN process not running"/>
+<phrase i="M_SM_vpn_clnt_not_rng" t="VPN client not running"/>
+<phrase i="M_SM_vpn_not_cnfgd" t="VPN not configured"/>
+<phrase i="M_SM_trst_lst_updt_faild" t="Trust list update failed"/>
+<phrase i="M_SM_itl_upd_failed" t="ITL update failed"/>
+<phrase i="M_SM_no_trst_lst" t="No trust list installed"/>
+<phrase i="M_SM_itl_instld" t="ITL installed"/>
+<phrase i="M_SM_tz_dnld_failed" t="Time zone data download failed"/>
+<phrase i="M_SM_V6_dns_to" t="IPv6 DNS timeout"/>
+<phrase i="M_SM_V4_no_tftp_svr" t="No IPv4 TFTP server"/>
+<phrase i="M_SM_V6_no_tftp_svr" t="No IPv6 TFTP server"/>
+<phrase i="M_SM_V6_dhcp_to" t="DHCPv6 Timeout"/>
+<phrase i="M_SM_V6_dns_h_un" t="DNS unknown IPv6 host"/>
+<phrase i="M_SM_V6_no_dns_svr" t="No IPv6 DNS server"/>
+<phrase i="M_SM_V6_ADDR_REL" t="IPv6 address released"/>
+<phrase i="M_SM_load_svr_invld" t="Load server is invalid"/>
+<phrase i="M_SM_tftp_svr" t="TFTP server"/>
+<phrase i="M_SM_tftp_not_auth755" t="TFTP not authorized"/>
+<phrase i="M_SM_pend" t="Pending"/>
+<phrase i="M_SM_ctl_instd" t="CTL installed"/>
+<phrase i="M_SM_ctl_updtd_failed" t="CTL update failed"/>
+<phrase i="M_SM_file_auth_fail" t="File auth fail"/>
+<phrase i="M_SM_load_auth_fail" t="Load authenication failed"/>
+<phrase i="M_SM_err_updt_lcl" t="Error updating locale"/>
+<phrase i="M_SM_load_rej_hc" t="Load rejected HC"/>
+<phrase i="M_SM_failback" t="Failback"/>
+<phrase i="M_SM_err_vrfy_cfg" t="Error verifying config info"/>
+<phrase i="M_SM_tftp_err" t="TFTP error"/>
+<phrase i="M_SM_tftp_acc_err" t="TFTP access error"/>
+<phrase i="M_SM_tcp_to" t="TCP-timeout"/>
+<phrase i="M_SM_ver_err" t="Version Error"/>
+<phrase i="M_SM_prog_err" t="Programming Error"/>
+<phrase i="M_SM_no_def_rtr" t="No default router"/>
+<phrase i="M_SM_V4_no_dns_svr" t="No IPv4 DNS server"/>
+<phrase i="M_SM_V4_dns_to" t="IPv4 DNS timeout"/>
+<phrase i="M_SM_V4_dns_h_un" t="DNS unknown IPv4 host"/>
+<phrase i="M_SM_tftp_to" t="TFTP timeout"/>
+<phrase i="M_SM_V4_dhcp_to" t="IPv4 DHCP timeout"/>
+<phrase i="M_SM_V6_Vid_Cap" t="VideoCap with IPv6 Only"/>
+
+<!-- Voice Feedback Strings (hints). DO NOT LOCALIZE this section-->
+<phrase i="VF_FEEDBACK_ON" t="voice feedback on press three times to turn off"/>
+<phrase i="VF_FEEDBACK_OFF" t="voice feedback off"/>
+<phrase i="VF_HOME_SCREEN" t="Home Screen"/>
+<phrase i="VF_STARTUP_SCREEN" t="Startup Screen"/>
+<phrase i="VF_OPTION" t="Option"/>
+<phrase i="VF_XFER_LINE" t="Transfer line"/>
+<phrase i="VF_CONF_LINE" t="Conference line"/>
+<phrase i="VF_INPUT_FIELD" t="Input field"/>
+<phrase i="VF_SWITCH_FIELD" t="Switch field"/>
+<phrase i="VF_OPTION_FIELD" t="Option field"/>
+<phrase i="VF_EXPAND_FIELD" t="Expand field"/>
+<phrase i="VF_NEXT_PAGE" t="Next page"/>
+<phrase i="VF_SLIDER_FIELD" t="Slider field"/>
+<phrase i="VF_MENU" t="Menu"/>
+<phrase i="VF_INCOMING_CALL" t="Incoming call from"/>
+<phrase i="VF_OUTGOING_CALL" t="Outgoing call to"/>
+<phrase i="VF_MISSED_CALL" t="Missed call from"/>
+<phrase i="VF_HELD_CALL" t="Held call with"/>
+<phrase i="VF_CONNECTED_CALL" t="Connected call with"/>
+<phrase i="VF_CANCEL_FORWARD" t="Cancel call forward"/>
+<phrase i="VF_MUTE" t="Mute"/>
+<phrase i="VF_SELECTED" t="Selected"/>
+<phrase i="VF_CURSOR" t="Cursor"/>
+<phrase i="VF_AT_START" t="Cursor at start"/>
+<phrase i="VF_AT_END" t="Cursor at end"/>
+<phrase i="VF_JANUARY" t="January"/>
+<phrase i="VF_FEBRUARY" t="February"/>
+<phrase i="VF_MARCH" t="March"/>
+<phrase i="VF_APRIL" t="April"/>
+<phrase i="VF_MAY" t="May"/>
+<phrase i="VF_JUNE" t="June"/>
+<phrase i="VF_JULY" t="July"/>
+<phrase i="VF_AUGUST" t="August"/>
+<phrase i="VF_SEPTEMBER" t="September"/>
+<phrase i="VF_OCTOBER" t="October"/>
+<phrase i="VF_NOVEMBER" t="November"/>
+<phrase i="VF_DECEMBER" t="December"/>
+<phrase i="VF_MENU_CLOSED" t="Menu Closed"/>
+<phrase i="VF_DND_SET" t="Do Not Disturb Set"/>
+<phrase i="VF_DND_CANCEL" t="Do Not Disturb Cancelled"/>
+<!-- Voice Feedback Strings. END OF THIS SECTION-->
+
+</phrases>

@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Max number of parsable phrases is capped at 4096 in csstringrepo.c --><phrases>
+<trkLocaleName>Slovak</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  Conference Microphones ###########-->
+
+<phrase i="L_WirelessPairing_info" t="Tlačidlo stlmenia na mikrofóne %d podržte stlačené 3 sekundy. Počas párovania mikrofónu bliká biela kontrolka."/>
+<phrase i="L_UNPLUG_WIRED" t="Než stlačíte tlačidlo Párovať, odpojte káblové mikrofóny."/>
+
+<phrase i="L_WIRED_MIC_CONNECTED" t="Káblový mikrofón %d pripojený."/>
+<phrase i="L_WIRED_MIC_DISCONNECTED" t="Káblový mikrofón %d odpojený."/>
+<phrase i="L_WIRELESS_MIC_DISCONNECTED" t="Bezdrôtový mikrofón %d odpojený."/>
+<phrase i="L_WIRELESS_MIC_CONNECTED" t="Bezdrôtový mikrofón %d pripojený."/>
+
+<phrase i="L_LOW_BATTERY" t="Stav nabitia batérie mikrofónu menej než %d %25%25."/>
+<phrase i="L_RANGE" t="Rozsah"/>
+<phrase i="L_BATTERY_LEVEL" t="Stav batérie %d %%"/>
+<phrase i="L_BATTERY_POOR_CONNECTION" t="Slabé pripojenie batérie"/>
+<phrase i="L_BATTERY_BAD" t="Slabá batéria"/>
+<phrase i="L_PAIRED" t="Spárované"/>
+<phrase i="L_UNPAIRED" t="Spárovanie zrušené"/>
+<phrase i="L_LOST_LINK" t="Stratené prepojenie"/>
+<phrase i="L_UPGRADE_IN_PROGRES" t="Prebieha inovácia"/>
+<phrase i="L_WIRELESS_MICROPHONE" t="Bezdrôtový mikrofón %d"/>
+<phrase i="L_MICROPHONE" t="Mikrofón %d"/>
+<phrase i="L_MICROPHONES" t="Mikrofóny"/>
+<phrase i="L_WIRED_MIC" t="Káblové mikrofóny"/>
+<phrase i="L_WIRELESS_MIC" t="Bezdrôtové mikrofóny"/>
+<phrase i="L_PAIR" t="Spárovať"/>
+<phrase i="L_UNPAIR" t="ZrušiťSp"/>
+<phrase i="L_LOSTLINK" t="Spojenie sa stratilo"/>
+<phrase i="L_WIRELESS_MICROPHONE_ID" t="Páruje sa mikrofón %d"/>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="Spúšťanie systému"/>
+<phrase i="L_S_NET" t="Inicializácia siete...."/>
+<phrase i="L_S_DOWNLOAD" t="Sťahujem"/>
+<phrase i="L_S_UPGRADE" t="Zvyšujem verziu na"/>
+<phrase i="L_S_UPGRADEFAILED" t="Zvyšovanie verzie zlyhalo."/>
+<phrase i="L_S_RESYNC" t="Opätovne synchronizujem na"/>
+<phrase i="L_S_RESYNCFAILED" t="Opätovná synchronizácia zlyhala"/>
+<phrase i="L_S_SRVC_PROVISIONING_FAILED" t="Skontrolujte nastavenia poskytovateľa alebo sa obráťte na svojho poskytovateľa služieb."/>
+<phrase i="L_S_CONNECT" t="Pripája sa"/>
+<phrase i="L_S_NOCME" t="Chyba: Nie je možné nájsť UCxxx. Kontaktujte vášho administrátora."/>
+<phrase i="L_S_REGTOKENREJECT" t="Token registra SPCP zamietnutý. Opakujem pokus...."/>
+<phrase i="L_S_REGISTERING" t="Registrujem...."/>
+<phrase i="L_S_REGISTERED" t="Registrácia dokončená."/>
+<phrase i="L_S_REGREJECT" t="Registrácia zamietnutá."/>
+<phrase i="L_S_REGFAILED" t="Registrácia zlyhala."/>
+<phrase i="L_S_NO_REG" t="Váš telefón sa nezaregistroval. Obráťte sa na správcu."/>
+<phrase i="L_S_NO_NETWORK" t="Váš telefón sa nedokáže pripojiť k sieti. Skontrolujte si telefónne káble. Ak problém pretrváva, obráťte sa na správcu."/>
+<phrase i="L_S_NO_WIFI_NETWORK" t="Na povolenie funkcií hovoru musíte nakonfigurovať sieť."/>
+<phrase i="L_S_SRVC_NO_NETWORK" t="Skontrolujte svoje internetové pripojenie alebo sa obráťte na poskytovateľa služieb."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_NEWCALL" t="Volať"/>
+<phrase i="L_DS_ENTERNUMBER" t="Zadajte číslo"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="Presmer. všetky hov."/>
+<phrase i="L_DS_ENTER_CFWD" t="Presmerovanie hovoru"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="Presm. hov. pri zanepr."/>
+<phrase i="L_DS_ENTER_NOANS" t="Presmerovanie hovorov pri neodpovedaní"/>
+<phrase i="L_DS_ENTER_BXFER" t="Zadajte cieľ prenosu naslepo"/>
+<phrase i="L_DS_ENTER_PARK" t="Zadať číslo na vytočenie"/>
+<phrase i="L_DS_ENTER_UNPARK" t="Zadať číslo na vytočenie"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="Zadajte cieľ odporúčanej služby"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="Zadajte cieľ špeciálnej služby"/>
+<phrase i="L_DS_ENTER_MORE" t="Zadajte viac číslic"/>
+<phrase i="L_DS_ENTER_PICKUP" t="Zadajte vybrané číslo"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="Zadajte vybranú skupinu"/>
+<phrase i="L_DS_ENTER_PAGE" t="Zadajte cieľ stránkovania"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="Zadajte vonkajšie číslo"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="Zadajte kód účtu"/>
+<phrase i="L_DS_ENTER_PROXYCALL" t="Proxy hovor"/>
+<phrase i="L_DS_ENTER_DIVERTALL" t="Rozdeliť všetky"/>
+<phrase i="L_DS_LINE" t="Linka: %s"/>
+<phrase i="L_DS_FOR" t="pre %s"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="Linka"/>
+<phrase i="L_READY" t="Pripravená"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="Neregist."/>
+<phrase i="L_CAPPN_DISABLED" t="Deaktivovaná"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="Rýchla voľba"/>
+<phrase i="L_CAPPN_APP" t="Aplikácia"/>
+<phrase i="L_CAPPN_URL" t="URL služby"/>
+<phrase i="L_CAPPN_FEAT" t="Funkcia"/>
+<phrase i="L_CAPPN_EXTFUNC" t="Pokročilá funkcia"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="Hosť pripravený"/>
+<phrase i="CALL_RINGING" t="Prichádzajúci hovor"/>
+<phrase i="L_CONNECTED" t="Spojený"/>
+<phrase i="L_NOT_CONNECTED" t="Nespojené"/>
+<phrase i="L_OK" t="OK"/>
+<phrase i="L_DUPLICATED" t="Duplikované"/>
+<phrase i="L_INITIALIZING" t="Spúšťanie"/>
+<phrase i="L_CONNECTING" t="Pripája sa"/>
+<phrase i="L_DHCP_ERROR" t="Chyba DHCP"/>
+<phrase i="CALL_HOLDING" t="Podržanie"/>
+<phrase i="CALL_END" t="Hovor ukončený"/>
+<phrase i="CALL_CALLING" t="Volanie"/>
+<phrase i="CALL_SEIZED" t="prijatý"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="podržaný"/>
+<phrase i="CALL_DIALING" t="Vytáčanie"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="Pokúša sa obnoviť"/>
+<phrase i="CALL_SHARE" t="Zdieľaný hovor"/>
+<phrase i="CALL_PAGE" t="Strana"/>
+<phrase i="CALL_PICKUP" t="Prijatie hovoru"/>
+<phrase i="CALL_PICKUPCALL" t="Prijať hovor"/>
+<phrase i="CALL_PICKUPFAILED" t="Prijatie hovoru zlyhalo."/>
+<phrase i="CALL_PICKUP_NULL" t="Žiadne prichádzajúce hovory."/>
+<phrase i="CALL_GPICKUP" t="Skup. prijatie hovoru"/>
+<phrase i="CALL_GPICKUPSTATION" t="Prijatie stanice"/>
+<phrase i="CALL_ANSWERING" t="Zdvihnutie"/>
+<phrase i="CALL_UNKNOWN" t="Neznáma"/>
+<phrase i="CALL_ANONYMOUS" t="Anonymná"/>
+<phrase i="CALL_USER" t="Používateľ"/>
+<phrase i="CALL_IDLE" t="Neaktívne"/>
+<phrase i="CALL_PROGRESSING" t="Prebieha"/>
+<phrase i="CALL_ALERT" t="Upozorňuje"/>
+<phrase i="CALL_ACTIVE" t="Aktívny"/>
+<phrase i="CALL_HELD" t="Podržaný"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="Prem. aktívne"/>
+<phrase i="CALL_BRIDGE_HELD" t="Prem. podržané"/>
+<phrase i="CALL_FROM" t="Od"/>
+<phrase i="CALL_TO" t="Komu"/>
+<phrase i="CALL_CALLBACK" t="Spätné volanie"/>
+<phrase i="CALL_FORWARD" t="Presmer."/>
+<phrase i="CALL_XFERTO" t="Presun na"/>
+<phrase i="CALL_PAGEFROM" t="Strana od"/>
+<phrase i="CALL_PAGETO" t="Strana do"/>
+<phrase i="CALL_BY" t="Od"/>
+<phrase i="CALL_CALLER" t="Volajúci"/>
+<phrase i="CALL_BUSY" t="Obsadené"/>
+<phrase i="CALL_REORDER" t="Znova objednať"/>
+<phrase i="CALL_CONGESTION" t="Preťaženie"/>
+<phrase i="CALL_PROCEED" t="Pokračovať"/>
+<phrase i="CALL_RML" t="Vzdialená viacnásobná linka v prevádzke"/>
+<phrase i="CALL_INVALIDNUM" t="Neplatné číslo"/>
+<phrase i="CALL_INVALID" t="Neplatné"/>
+<phrase i="L_GATHERINFO" t="Zhromažďujem informácie..."/>
+<phrase i="L_FAILED" t="Zlyhalo"/>
+<phrase i="L_Empty" t="Prázdne"/>
+<phrase i="L_DND" t="Nerušiť"/>
+<phrase i="L_CFWD" t="Presmerované hovory"/>
+<phrase i="L_CFWDTO" t="Pre %s"/>
+<phrase i="L_MissedCall" t="Nový zmeškaný hovor"/>
+<phrase i="L_MissedCalls" t="Nové zmeškané hovory"/>
+<phrase i="L_RingCallList" t="Zoznam prichádzajúcich hovorov"/>
+<phrase i="L_RingStationList" t="Zoznam zvoniacich staníc"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="Neplatné parkovacie číslo"/>
+<phrase i="L_SECS_LOGIN_OK" t="Prihlásenie úspešné."/>
+<phrase i="L_SECS_LOGIN_FAILED" t="Prihlásenie zlyhalo. Overte vaše používateľské ID a heslo."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="Aktualizácia dostupnosti ACD zlyhala."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="Aktualizácia dostupnosti ACD úspešná."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="Prebieha pripájanie k serveru"/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="Zadajte ID používateľa a heslo."/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="Prebieha pripájanie k serveru"/>
+<phrase i="L_SECS_HOTELING_OK" t="Prihlásenie úspešné."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="Prihlásenie zlyhalo."/>
+<phrase i="L_SECS_HOTELING_LOGOUT_CONFIRMATION" t="Ste si istý, že sa chcete odhlásiť?"/>
+<phrase i="L_ACD_LoginForm" t="Prihlasovací formulár ACD"/>
+<phrase i="L_TRANSFERRING" t="Prenášanie"/>
+<phrase i="L_XFERFAILED" t="Prenos zlyhal"/>
+<phrase i="L_LineSeizing" t="Pokus obsadiť linku"/>
+<phrase i="L_GatheringCallInfo" t="Zhromaždenie informácií o hovore"/>
+<phrase i="L_SelectingCall" t="Výber hovoru"/>
+<phrase i="L_SelectingStation" t="Výber stanice"/>
+<phrase i="L_ContactingStunServer" t="Prebieha pripájanie k serveru"/>
+<phrase i="L_CalledPartyRinging" t="Zvonenie volanej strany"/>
+<phrase i="L_TryingHold" t="Pokúša sa podržať"/>
+<phrase i="L_TringResume" t="Práve prebieha opätovná synchronizácia..."/>
+<phrase i="L_StunIn" t="Vstup STUN"/>
+<phrase i="L_Shared" t="Zdieľané"/>
+<phrase i="L_Conference" t="Konferencia"/>
+<phrase i="L_SecureCallIndication" t="Indikátor zabezpečeného hovoru"/>
+<phrase i="L_SystemBeep" t="Systémové pípnutie"/>
+<phrase i="L_2ndDial" t="2. vytáčanie"/>
+<phrase i="L_OutsideDial" t="Vonkajšie vytáčanie"/>
+<phrase i="L_BluetoothDial" t="Zariadenie Bluetooth"/>
+<phrase i="L_MessageWaiting" t="Čakanie na správu"/>
+<phrase i="L_RingBack" t="Volať späť"/>
+<phrase i="L_OffhookWarning" t="Upozornenie na vyvesený telefón"/>
+<phrase i="L_Ring" t="Zvonenie"/>
+<phrase i="L_Alert" t="Upozornenie"/>
+<phrase i="L_Ring_hold" t="Prichádzajúci hovor - podržať"/>
+<phrase i="L_Ring_Callback" t="Prichádzajúci hovor - volať späť"/>
+<phrase i="L_Inbound" t="Prichádzajúci"/>
+<phrase i="L_Outbound" t="Odchádzajúci"/>
+<phrase i="L_Forwarded" t="Presmerované"/>
+<phrase i="L_Transfered" t="Prenesené"/>
+<phrase i="L_Transfer" t="Prepojiť"/>
+<phrase i="L_Secure" t="Zabezpečené"/>
+<phrase i="L_CallsList" t="Zoznam hovorov"/>
+<phrase i="L_InvalidAcntCode" t="Neplatný kód účtu"/>
+<phrase i="L_ServiceUnavailable" t="Služba je nedostupná"/>
+<phrase i="L_Via" t="(Cez: %s)"/>
+<phrase i="L_CALL_DTMF_WAIT" t="Zadajte ďalšie číslice a stlačením OK a pokračujte."/>
+<phrase i="L_CALL_PARKED" t="Hovor sa parkuje"/>
+<phrase i="L_TO" t="komu"/>
+<phrase i="L_Incoming" t="Prichádzajúci"/>
+<phrase i="L_Private" t="Súkromné"/>
+<phrase i="L_Seized" t="prijatý"/>
+<phrase i="L_CurrentSelectionTitle" t="%d z %d"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="Používa sa"/>
+<phrase i="CALL_OTHERRESERVED" t="Obsadené"/>
+<phrase i="CALL_OTHERIDLE" t="Inak neaktívne"/>
+<phrase i="CALL_OTHERNOSERV" t="Žiadna služba"/>
+<phrase i="CALL_OTHERHOLD" t="Inak podržané"/>
+<phrase i="CALL_OTHERRING" t="Inak zvoniace"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="Štatistika hovorov"/>
+<phrase i="T_AB_STSCH_LIST" t="Štatistika hovorov"/>
+<phrase i="L_Name" t="Názov"/>
+<phrase i="L_WorkPhone" t="Telefón do práce"/>
+<phrase i="L_Extension" t="Klapka"/>
+<phrase i="L_HomePhone" t="Telefón domov"/>
+<phrase i="L_ConferenceNumber" t="Konferenčné číslo"/>
+<phrase i="L_MobilePhone" t="Mobilný telefón"/>
+<phrase i="L_RingTone" t="Tón zvonenia"/>
+<phrase i="L_AT" t="o"/>
+<phrase i="L_PeerName" t="Meno kamaráta"/>
+<phrase i="L_PeerNumber" t="Telefón kamaráta"/>
+<phrase i="L_CallType" t="Typ hovoru"/>
+<phrase i="L_CallDuration" t="Trvanie hovoru"/>
+<phrase i="L_CallDuration1" t="Trvanie:"/>
+<phrase i="L_EncCodec" t="Kodek kódovania"/>
+<phrase i="L_DecCodec" t="Kodek dekódovania"/>
+<phrase i="L_CallTime" t="Čas hovoru"/>
+<phrase i="L_CallID" t="ID volajúceho"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="Stav parkovania hovorov"/>
+<phrase i="T_AB_CALLPARK_LIST" t="Zoznam parkovania hovorov"/>
+<phrase i="L_ParkingAt" t="Parkované o"/>
+<phrase i="L_ParkingBy" t="Parkovanie"/>
+<phrase i="CPARK_PROGRESSING" t="Získať stav parkovania hovoru v štádiu spracovania...."/>
+<phrase i="CPARK_FAILED" t="Vyžiadanie stavu parkovania hovorov zlyhalo"/>
+<phrase i="CPARK_EMPTY" t="Žiadne zaparkované hovory"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="Výber kódu s hviezdičkou"/>
+<phrase i="callReturnCode" t="Vrátenie hovoru"/>
+<phrase i="blindXferCode" t="Prenos naslepo"/>
+<phrase i="callBackActCode" t="Spätné volanie"/>
+<phrase i="callBackDeactCode" t="Zrušiť volania späť"/>
+<phrase i="forwardAllActCode" t="Presmer. všetky hov."/>
+<phrase i="forwardAllDeactCode" t="Zruš. presmer. hov."/>
+<phrase i="forwardBusyActCode" t="Presm. hov. pri zanepr."/>
+<phrase i="forwardBusyDeactCode" t="Zruš. presm. hov./zanep."/>
+<phrase i="forwardNoAnsActCode" t="Presmer. hov. pri neodp."/>
+<phrase i="forwardNoAnsDeactCode" t="Zruš. presm. hov/neodp."/>
+<phrase i="forwardNoAnsActCode_s" t="Presmer. hov. pri neodp."/>
+<phrase i="forwardNoAnsDeactCode_s" t="Zruš. presm. hov/neodp."/>
+<phrase i="blockCIDActCode" t="Blokovať ID volajúceho"/>
+<phrase i="blockCIDDeactCode" t="Zrušiť blok. ID hov."/>
+<phrase i="blockCIDPerCallActCode" t="Blokovať ID nasled. hov."/>
+<phrase i="blockCIDPerCallDeactCode" t="Zruš. blok. nasl. hov."/>
+<phrase i="blockANCode" t="Blokovať anonymné hovory"/>
+<phrase i="blockANCDeactCode" t="Zruš. blok. anon. hov."/>
+<phrase i="blockANCode_s" t="Blokovať ANC"/>
+<phrase i="blockANCDeactCode_s" t="Zrušiť blokovanie ANC"/>
+<phrase i="DNDActCode" t="Nerušiť"/>
+<phrase i="DNDDeactCode" t="Zruš. nastav. Nerušiť"/>
+<phrase i="CIDActCode" t="ID volajúceho"/>
+<phrase i="CIDDeactCode" t="Zrušiť blok. ID vol."/>
+<phrase i="secureAllActCode" t="Zabezpečiť všetky hovory"/>
+<phrase i="secureAllDeactCode" t="Zruš. zabezp. všet. hov."/>
+<phrase i="secureOneCallActCode" t="Zabezpečiť ďalší"/>
+<phrase i="secureOneCallDeactCode" t="Zruš. zabezp. ďalšieho"/>
+<phrase i="pagingCode" t="Odosielanie stránok"/>
+<phrase i="callParkCode" t="Spätné volanie"/>
+<phrase i="callUnparkCode" t="Parkovanie hovoru"/>
+<phrase i="callPickupCode" t="Prijatie hovoru"/>
+<phrase i="groupCallPickupCode" t="Skup. prijatie hovoru"/>
+<phrase i="mediaLoopBackCode" t="Mediálna slučka"/>
+<phrase i="preferG711uCode" t="Uprednostniť G711U"/>
+<phrase i="forceG711uCode" t="Vynútiť G711U"/>
+<phrase i="preferG711aCode" t="Uprednostniť G711A"/>
+<phrase i="forceG711aCode" t="Vynútiť G711A"/>
+<phrase i="preferG723Code" t="Uprednostniť G723"/>
+<phrase i="forceG723Code" t="Vynútiť G723"/>
+<phrase i="preferG726r16Code" t="Uprednostniť G726r16"/>
+<phrase i="forceG726r16Code" t="Vynútiť G726r16"/>
+<phrase i="preferG726r24Code" t="Uprednostniť G726r24"/>
+<phrase i="forceG726r24Code" t="Vynútiť G726r24"/>
+<phrase i="preferG726r32Code" t="Uprednostniť G726r32"/>
+<phrase i="forceG726r32Code" t="Vynútiť G726r32"/>
+<phrase i="preferG726r40Code" t="Uprednostniť G726r40"/>
+<phrase i="forceG726r40Code" t="Vynútiť G726r40"/>
+<phrase i="preferG729aCode" t="Uprednostniť G729A"/>
+<phrase i="forceG729aCode" t="Vynútiť G729A"/>
+<phrase i="preferG722Code" t="Uprednostniť G722"/>
+<phrase i="forceG722Code" t="Vynútiť G722"/>
+<phrase i="preferL16Code" t="Uprednostniť L16"/>
+<phrase i="forceL16Code" t="Vynútiť L16"/>
+<phrase i="preferILBCCode" t="Uprednostniť iLBC"/>
+<phrase i="forceILBCCode" t="Vynútiť iLBC"/>
+<phrase i="preferISACCode" t="Uprednostniť iSAC"/>
+<phrase i="forceISACCode" t="Vynútiť iSAC"/>
+<phrase i="preferG722_2Code" t="Uprednostniť G722_2"/>
+<phrase i="forceG722_2Code" t="Vynútiť G722_2"/>
+<phrase i="preferOPUSCode" t="Uprednostniť OPUS"/>
+<phrase i="forceOPUSCode" t="Vynútiť OPUS"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_AM" t="AM"/>
+<phrase i="L_PM" t="PM"/>
+<phrase i="L_UpTime" t="Uplynutý čas"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="deň a"/>
+<phrase i="L_DAYS_AND" t="dni a"/>
+<phrase i="L_Packets" t="(Pakety)"/>
+<phrase i="L_Registered" t="Registrovaný"/>
+<phrase i="L_notRegistered" t="Neregistrov."/>
+<phrase i="L_notReachable" t="Nezastihnut."/>
+<phrase i="L_Authenticate" t="Overiť"/>
+<phrase i="L_Succeeded" t="Úspešné"/>
+<phrase i="L_Error" t="Chyba"/>
+<phrase i="L_LastRegAt" t="Posledná registrácia:"/>
+<phrase i="L_NextRegIn" t="Ďalšia registrácia:"/>
+<phrase i="L_Proxy" t="Proxy:"/>
+<phrase i="L_Reason" t="Dôvod"/>
+<phrase i="L_Status" t="Stav"/>
+<phrase i="L_CallStatusInfo" t="Stav"/>
+<phrase i="L_XMLServices" t="Služby XML"/>
+<phrase i="L_Tone" t="Tón"/>
+<phrase i="L_Type" t="Druh"/>
+<phrase i="L_CallName" t="Názov"/>
+<phrase i="L_Number" t="Číslo"/>
+<phrase i="L_Enc" t="Zakódovať"/>
+<phrase i="L_Dec" t="Odkódovať"/>
+<phrase i="L_Dur" t="Trvanie"/>
+<phrase i="L_CALL" t="Hovor"/>
+<phrase i="L_CALLSTATUS" t="Stav hovoru %d"/>
+<phrase i="L_CALL1" t="Hovor 1"/>
+<phrase i="L_CALL2" t="Hovor 2"/>
+<phrase i="L_CALL3" t="Hovor 3"/>
+<phrase i="L_CALL4" t="Hovor 4"/>
+<phrase i="L_CALL5" t="Hovor 5"/>
+<phrase i="L_CALL6" t="Hovor 6"/>
+<phrase i="L_CALL7" t="Hovor 7"/>
+<phrase i="L_CALL8" t="Hovor 8"/>
+<phrase i="L_CALL9" t="Hovor 9"/>
+<phrase i="L_CALL10" t="Hovor 10"/>
+<phrase i="L_CALL11" t="Hovor 11"/>
+<phrase i="L_INFO" t="Informácie"/>
+<phrase i="L_Extension" t="Klapka"/>
+<phrase i="L_Extension1" t="Kl."/>
+<phrase i="T_PHN_STATUS" t="Stav telefónu"/>
+<phrase i="T_LINE_STATUS" t="Stav linky"/>
+<phrase i="T_PROV_STATUS" t="Poskytovanie"/>
+<phrase i="T_PROV_STATUS1" t="Stav poskytovania 1"/>
+<phrase i="T_PROV_STATUS2" t="Stav poskytovania 2"/>
+<phrase i="T_PROV_STATUS3" t="Stav poskytovania 3"/>
+<phrase i="T_PHN_SYS_STATUS" t="Stav telefónu"/>
+<phrase i="L_ExtLabel" t="Stav kl. %d"/>
+<phrase i="L_Line1Status" t="Stav linky 1"/>
+<phrase i="L_Line2Status" t="Stav linky 2"/>
+<phrase i="L_Line3Status" t="Stav linky 3"/>
+<phrase i="L_Line4Status" t="Stav linky 4"/>
+<phrase i="L_Line5Status" t="Stav linky 5"/>
+<phrase i="L_Line6Status" t="Stav linky 6"/>
+<phrase i="L_Line7Status" t="Stav linky 7"/>
+<phrase i="L_Line8Status" t="Stav linky 8"/>
+<phrase i="L_Line9Status" t="Stav linky 9"/>
+<phrase i="L_Line10Status" t="Stav linky 10"/>
+<phrase i="L_Line11Status" t="Stav linky 11"/>
+<phrase i="L_Line12Status" t="Stav linky 12"/>
+<phrase i="L_Line13Status" t="Stav linky 13"/>
+<phrase i="L_Line14Status" t="Stav linky 14"/>
+<phrase i="L_Line15Status" t="Stav linky 15"/>
+<phrase i="L_Line16Status" t="Stav linky 16"/>
+<phrase i="DeletePrompt" t="Naozaj chcete odstrániť %s?"/>
+<phrase i="DeleteListPrompt" t="Chcete vymazať %s záznamov hovorov?"/>
+<phrase i="DeleteAllPrompt" t="Chcete odstrániť všetky záznamy?"/>
+<phrase i="DeleteAllCallsPrompt" t="Chcete odstrániť všetky záznamy pre všetky linky?"/>
+<phrase i="AddPrompt" t="Vstupné dáta nie sú úplné. Chcete ich uložiť?"/>
+<phrase i="AddNullPrompt" t="Vstupné dáta nie sú úplné. "/>
+<phrase i="AddFullPrompt" t="Adresár je plný, nemôžem vložiť zadanie."/>
+<phrase i="UpdatePrompt" t="Vstupné dáta nie sú úplné. Chcete aktualizovať?"/>
+<phrase i="ClearPrompt" t="Chcete odstrániť záznam [%s]?"/>
+<phrase i="ClearStatusPrompt" t="Želáte si vymazať stavové hlásenia?"/>
+<phrase i="ClearString" t="Chcete odstrániť [%s]?"/>
+<phrase i="Prompt_Logout" t="Chcete sa odhlásiť?"/>
+<phrase i="Message_Rebooting" t="Reštartujem...."/>
+<phrase i="Message_UpdateConfig" t="Používa sa konfigurácia"/>
+<phrase i="Message_FactoryReset" t="Obnovenie výrobných nast. Reštartujem..."/>
+<phrase i="Message_RebootingVoIP" t="Obnovujem hlasový komponent...."/>
+<phrase i="Message_CustomReset" t="Obnovenie voliteľných nastavení Reštartujem...."/>
+<phrase i="All" t="Všetky hov."/>
+<phrase i="Answered" t="Prijaté hovory"/>
+<phrase i="Outgoing" t="Odchádz. hovory"/>
+<phrase i="Missed" t="Zmešk. hov."/>
+<phrase i="AnsweredCallType" t="Prijatý hovor"/>
+<phrase i="OutgoingCallType" t="Uskutočnený hovor"/>
+<phrase i="MissedCallType" t="Zmeškaný hovor"/>
+<phrase i="RebootPrompt" t="Chcete reštartovať systém?"/>
+<phrase i="DeepsleepPrompt" t="Počas výpadku energie telefón nedokáže prijímať hovory."/>
+<phrase i="PowerSavePromptUpgrading" t="Prebieha inovácia; skúste to neskôr."/>
+<phrase i="PowerSavePromptEmlogin" t="Odhláste sa z rozšírenej mobility a skúste to znova."/>
+<phrase i="PowerSavePromptHoteling" t="Odhláste sa a skúste to znova."/>
+<phrase i="PowerSavePromptCallInProgress" t="Prebieha hovor. Ukončite ho a skúste to znova."/>
+<phrase i="FactoryResetPrompt" t="Chcete vykonať obnovenie výrobných nastavení systému?"/>
+<phrase i="ResetPrompt" t="Chcete resetnúť systém?"/>
+<phrase i="ClearWlanMessagesPrompt" t="Naozaj chcete vymazať všetky správy?"/>
+<phrase i="CustomResetPrompt" t="Skontrolovať aktualizácie pre upravovací profil? (pracuje na pozadí)"/>
+<phrase i="WPSPbcPrompt" t="Stlačte tlačidlo WPS na druhom zariadení a potom stlačte možnosť Pokrač."/>
+<phrase i="WPSPinPrompt" t="Na druhom zariadení zadajte PIN [ %s ]"/>
+<phrase i="MSG_InvalidPasswordData" t="Neplatné prihlasovacie poverenia."/>
+<phrase i="Label_Day" t="Deň"/>
+<phrase i="CertInstall" t="Nainštalovaný"/>
+<phrase i="CertNotInstall" t="Nenainštalovaný"/>
+<phrase i="L_Network_Type" t="Typ siete"/>
+<phrase i="L_Network_Statistics" t="Štatistika siete"/>
+<phrase i="L_Address_Type" t="Typ priradenia"/>
+<phrase i="L_Gateway" t="Predvol. smerovač"/>
+<phrase i="L_MAC_Address" t="MAC adresa"/>
+<phrase i="T_DEVICE_INFO" t="Informácie o produkte"/>
+<phrase i="L_Product_Name" t="Názov produktu"/>
+<phrase i="L_Serial_Number" t="Sériové číslo"/>
+<phrase i="L_Software_Version" t="Verzia softvéru"/>
+<phrase i="L_Wi-Fi_Messages" t="Správy o Wi-Fi"/>
+<phrase i="L_VID" t="VID"/>
+<phrase i="L_Desp" t="Popis"/>
+<phrase i="L_Hardware_Version" t="Verzia hardvéru"/>
+<phrase i="L_Certificate" t="Certifikát"/>
+<phrase i="L_Config_Version" t="Verzia konfigurácie"/>
+<phrase i="L_CustomizationInfo" t="Prispôsobenie"/>
+<phrase i="L_Asset_ID" t="ID schválenia"/>
+<phrase i="L_DHCP_Server" t="Server DHCP"/>
+<phrase i="L_TFTP_Server_1" t="Server TFTP 1"/>
+<phrase i="L_Last_TFTP_Server" t="Posledný TFTP Server"/>
+<phrase i="L_Host_Name" t="Náz. hostiteľa"/>
+<phrase i="L_Domain_Name" t="Doména"/>
+<phrase i="L_CallManager_1" t="CallManager 1"/>
+<phrase i="L_Directories_URL" t="Adresy URL adresárov"/>
+<phrase i="L_Services_URL" t="Adresy URL služieb"/>
+<phrase i="L_Messages_URL" t="Adresy URL správ"/>
+<phrase i="L_Authentication_URL" t="Autentifikačná adresa URL"/>
+<phrase i="L_User_Locale" t="Miestne nastavenie používateľa"/>
+<phrase i="L_Network_Locale" t="Miestne nastavenie siete"/>
+<phrase i="L_Switch_Port_Link" t="Zmeniť linku portu"/>
+<phrase i="L_Switch_Port_Config" t="Zmeniť konfig. portu"/>
+<phrase i="L_PC_Port_Config" t="Konfigurácia PC portu"/>
+<phrase i="L_PC_Port_Link" t="Pripojenie PC portu"/>
+<phrase i="L_Status_Messages" t="Správy o stave"/>
+<phrase i="T_PERIPHERAL_STATUS" t="Periférny stav"/>
+<phrase i="L_Peripheral" t="Periférne"/>
+<phrase i="L_Analog_Headset" t="Analógová náhlavná súprava"/>
+<phrase i="L_USB_Status" t="USB jednotka"/>
+<phrase i="L_xmit" t="xmit"/>
+<phrase i="L_recv" t="recv"/>
+<phrase i="L_Multicast" t="mcst"/>
+<phrase i="L_EthPackets" t="Ethernet: Pakety (bajty)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: Pakety (bajty)"/>
+<phrase i="L_Wireless" t="Bezdrôtový"/>
+<phrase i="L_No_Network" t="Bez siete"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="Tlačidlo"/>
+<phrase i="L_IPv4Status" t="Stav IPv4"/>
+<phrase i="L_IPv6Status" t="Stav IPv6"/>
+<phrase i="L_Prefixlen" t="Dĺžka predpony"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="Spoj. konz. 1"/>
+<phrase i="L_Sidecar2_Status" t="Spoj. konz. 2"/>
+<phrase i="L_DISCONNECTED" t="Odpojené"/>
+<phrase i="L_Attendant_Console_Unit" t="Konzola operátora %d"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="Áno"/>
+<phrase i="L_No" t="Nie"/>
+<phrase i="L_Switch0" t="Vyp."/>
+<phrase i="L_Switch1" t="Zap."/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="Upraviť záznam osobného adresára"/>
+<phrase i="T_AB_Add_Entry" t="Pridať súkromnú adresu"/>
+<phrase i="T_AB_Search" t="Vyhľadať adresu"/>
+<phrase i="T_AB_Select" t="Vybrať adresu"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="Čas hovoru"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="Zmeškaný hovor"/>
+<phrase i="L_PhoneNo" t="Číslo"/>
+<phrase i="L_CallAt" t="Volať o"/>
+<phrase i="L_Duration" t="Trvanie"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="Upravte rýchlu voľbu"/>
+<phrase i="T_SD_List" t="Rýchle voľby"/>
+<phrase i="L_SpeedDialNo" t="Číslo rých. voľby"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="Vybrať zvonenie"/>
+<phrase i="T_RT_Select_USB" t="Vyberte tón zvonenia z USB"/>
+<phrase i="T_RT_Select_Slot" t="Vyberte slot pre ulož. tónu zvonenia"/>
+<phrase i="T_RT_Not_Installed" t="Nenainštalovaný"/>
+<phrase i="T_RT_USER_1" t="Používateľ 1"/>
+<phrase i="T_RT_USER_2" t="Používateľ 2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="Informácie a nastavenia"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Náhlavná súprava Bluetooth"/>
+<phrase i="L_UserPref" t="Preferencie používateľa"/>
+<phrase i="L_CallRecord" t="Konfigurácia zázn. hovorov"/>
+<phrase i="L_CallRecordMode" t="Režim záznamu zvuku"/>
+<phrase i="L_CallRecordAudioPath" t="Cesta k záznamu zvuku"/>
+<phrase i="L_CallRecordBeep" t="Píp. ako pripom. záz."/>
+<phrase i="L_CallRecords" t="Záznamy"/>
+<phrase i="L_CallRecordsPlayer" t="Záznamy hovorov"/>
+<phrase i="L_Directory" t="Adresáre"/>
+<phrase i="OL_Fastest" t="Najrýchlejšie"/>
+<phrase i="OL_Faster" t="Rýchlejšie"/>
+<phrase i="OL_Normal" t="Normálne"/>
+<phrase i="OL_Slower" t="Pomalšie"/>
+<phrase i="OL_Slowest" t="Najpomalšie"/>
+<phrase i="L_VoiceSpeed" t="Rýchlosť hlasu"/>
+<phrase i="L_SelectVFSpeed" t="Zvoľte rýchlosť hlasu"/>
+<phrase i="L_VoiceVolume" t="Hlasitosť hlasu"/>
+<phrase i="L_VoiceFeedback" t="Spätná väzba hlasu"/>
+<phrase i="L_Accessibility" t="Dostupnosť"/>
+<phrase i="L_CallHistory" t="Posledné"/>
+<phrase i="L_DisplayFrom" t="Zobraziť nedávne od"/>
+<phrase i="L_SpeedDial" t="Rýchle voľby"/>
+<phrase i="L_VideoMonitoring" t="Video monitorovanie"/>
+<phrase i="L_WebApplication" t="Aplikácie"/>
+<phrase i="L_CallPreferences" t="Predvoľby hovoru"/>
+<phrase i="L_Anywhere" t="Anywhere"/>
+<phrase i="L_SelectLine" t="Vyberte linku"/>
+<phrase i="L_Locations" t="Polohy"/>
+<phrase i="L_EditLocation" t="Upraviť polohu"/>
+<phrase i="L_AddLocation" t="Pridať polohu"/>
+<phrase i="L_LocationName" t="Názov"/>
+<phrase i="L_LocationNumber" t="Číslo"/>
+<phrase i="L_EnableLocation" t="Aktiv. túto polohu"/>
+<phrase i="L_DeletePrompt" t="Vymazať %s?"/>
+<phrase i="L_ConnectionSetting" t="Nastavenia pripojenia"/>
+<phrase i="L_NetworkConfig" t="Konfigurácia siete"/>
+<phrase i="L_AudioPreferences" t="Preferencie zvuku"/>
+<phrase i="L_RingSetting" t="Nastavenia zvonenia"/>
+<phrase i="L_ScreenPreferences" t="Preferencie obraz."/>
+<phrase i="L_Administration" t="Správa zariadenia"/>
+<phrase i="T_ST_IP_Address" t="Nastavenia statickej IP adresy"/>
+<phrase i="T_ST_IPV4_Address" t="Nastavenia IPv4 adresy"/>
+<phrase i="T_ST_IPV6_Address" t="Nastavenia IPv6 adresy"/>
+<phrase i="L_IPAddress" t="Adresa IP"/>
+<phrase i="L_StaticIPAddress" t="Static. IP adresa"/>
+<phrase i="L_SubnetMask" t="Maska podsiete"/>
+<phrase i="L_GatewayAddress" t="Adresa brány"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="L_PrefixLength" t="Dĺžka predpony"/>
+<phrase i="L_BroadcastEcho" t="Vysielacia ozvena"/>
+<phrase i="L_AutoConfig" t="Aut. konfigurácia"/>
+<phrase i="T_ST_Admin" t="Správa"/>
+<phrase i="L_About" t="Základné informácie"/>
+<phrase i="L_SetPassword" t="Nastaviť heslo"/>
+<phrase i="L_DateTime" t="Dátum/čas"/>
+<phrase i="L_Language" t="Jazyk"/>
+<phrase i="L_Reboot" t="Opätovné spustenie"/>
+<phrase i="L_Reset" t="Reset"/>
+<phrase i="L_UserDataReset" t="Reset údajov používateľa"/>
+<phrase i="L_ConfigReset" t="Reset údajov konfigurácie"/>
+<phrase i="L_NetworkReset" t="Údaje siete"/>
+<phrase i="L_ServiceProviderReset" t="Reset poskytovateľa služieb"/>
+<phrase i="L_Deepsleep" t="Šetrenie energie"/>
+<phrase i="L_FactoryReset" t="Obnoviť nast. výrobcu"/>
+<phrase i="L_CustomReset" t="Obnovenie vlast. nastav."/>
+<phrase i="L_ProfileRule" t="Pravidlo profilu"/>
+<phrase i="L_CallControlSettings" t="Nastavenia kontroly hovorov"/>
+<phrase i="L_SignalingProtocol" t="Protokol signalizácie"/>
+<phrase i="L_AutoDetectSPCP" t="Autom. detekcia SCCP"/>
+<phrase i="T_ST_Audio" t="Nastavenia zvuku"/>
+<phrase i="L_PrefAudioDevice" t="Predv. zvuk. zariad."/>
+<phrase i="L_EnableStereo" t="Typ slúchadla"/>
+<phrase i="L_PhRingTone" t="Prednastavené zvonenie"/>
+<phrase i="L_Ext1RingTone" t="Kl. 1 – tón zvon."/>
+<phrase i="L_Ext2RingTone" t="Kl. 2 – tón zvon."/>
+<phrase i="L_Ext3RingTone" t="Kl. 3 – tón zvon."/>
+<phrase i="L_Ext4RingTone" t="Kl. 4 – tón zvon."/>
+<phrase i="L_Ext5RingTone" t="Kl. 5 – tón zvon."/>
+<phrase i="L_Ext6RingTone" t="Kl. 6 – tón zvon."/>
+<phrase i="L_Ext7RingTone" t="Kl. 7 – tón zvon."/>
+<phrase i="L_Ext8RingTone" t="Kl. 8 – tón zvon."/>
+<phrase i="L_Ext9RingTone" t="Kl. 9 – tón zvon."/>
+<phrase i="L_Ext10RingTone" t="Kl. 10 – tón zvon."/>
+<phrase i="L_Ext11RingTone" t="Kl. 11 – tón zvon."/>
+<phrase i="L_Ext12RingTone" t="Kl. 12 – tón zvon."/>
+<phrase i="L_Ext13RingTone" t="Kl. 13 – tón zvon."/>
+<phrase i="L_Ext14RingTone" t="Kl. 14 – tón zvon."/>
+<phrase i="L_Ext15RingTone" t="Kl. 15 – tón zvon."/>
+<phrase i="L_Ext16RingTone" t="Kl. 16 – tón zvon."/>
+<phrase i="L_SpeakerTuning" t="Ladenie reproduktora"/>
+<phrase i="L_MicrophoneGain" t="Zosilnenie mikrofónu"/>
+<phrase i="L_Micgain" t="Príjem mikrofónu"/>
+
+<phrase i="T_ST_CallForward" t="Nastavenia presmerovania hovorov"/>
+<phrase i="L_ForwardAll" t="Presmer. vš."/>
+<phrase i="L_ForwardBusy" t="Presmer. obs."/>
+<phrase i="L_ForwardNoAns" t="Presmer. bez odpov."/>
+<phrase i="L_ForwardAllNumbers" t="Presmer. všetky čísla"/>
+<phrase i="L_ForwardBusyNumber" t="Presm. č., ak je obs."/>
+<phrase i="L_ForwardNoAnsNumber" t="Zad. č. presm. neodp."/>
+<phrase i="L_ForwardNoAnsDelay" t="Onesk. presm. neodp."/>
+<phrase i="L_NumberofRingsBeforeForwarding" t="Počet vyzváňaní"/>
+<phrase i="L_RingReminder" t="Pripomienka zvonenia"/>
+<phrase i="L_IPMODE" t="Režim IP"/>
+<phrase i="L_WiFiConfiguration" t="Konfigurácia Wi-Fi"/>
+<phrase i="L_EthernetConfiguration" t="Konfigurácia siete Ethernet"/>
+<phrase i="L_ConnectionType" t="Typ pripojenia"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="Automatické pripojenie"/>
+<phrase i="L_Headset" t="Slúchadlá"/>
+<phrase i="L_WebServer" t="Webový server"/>
+<phrase i="L_DiscoveryAddress" t="Adresa zistenia"/>
+<phrase i="L_LVSAutoDiscovery" t="Aumatické zistenie kláves. sys."/>
+<phrase i="L_LVSProxyAddress" t="Adresa IP kláves. sys."/>
+<phrase i="L_DHCPOption" t="Voľba použitia DHCP"/>
+<phrase i="L_DHCPv6Option" t="Voľba použ. DHCPv6"/>
+<phrase i="L_TranProtocol" t="Protokol prenosu"/>
+<phrase i="L_NetworkStatus" t="Stav siete"/>
+<phrase i="L_RebootHistory" t="História reštartovania"/>
+<phrase i="L_IPStatus" t="Stav IP"/>
+<phrase i="T_ST_SetTime" t="Nastaviť aktuálny čas"/>
+<phrase i="L_Presence_Available" t="Dostupná"/>
+<phrase i="L_Presence_Away" t="Preč"/>
+<phrase i="L_Presence_DND" t="Nerušiť"/>
+<phrase i="L_Presence_Offline" t="Offline"/>
+<phrase i="L_Presence_Title" t="Moja prítomnosť"/>
+<phrase i="L_IMPContacts" t="Kontakty OS a P"/>
+<phrase i="L_ContactDetails" t="Detaily kontaktu"/>
+<phrase i="L_AllContacts" t="Všetky kontakty"/>
+<phrase i="L_Favorites" t="Obľúbené"/>
+<phrase i="L_XMPPDisconnected" t="Odpojené od servera"/>
+<phrase i="L_XMPPAuthFailed" t="Overenie zlyhalo."/>
+<phrase i="L_AB" t="Osobný adresár"/>
+<phrase i="L_AllDirectorySearch" t="Všetky"/>
+<phrase i="L_XMLDirectory" t="Korporátny adresár (XML)"/>
+<phrase i="L_LDAPDirectory" t="Korporátny adresár (LDAP)"/>
+<phrase i="L_LVSDirectory" t="Korporátny adresár"/>
+<phrase i="L_BroadsoftDirectory" t="Adresár Broadsoft"/>
+<phrase i="L_BroadsoftPersonal" t="Osobné"/>
+<phrase i="L_BroadsoftGroup" t="Skupina"/>
+<phrase i="L_BroadsoftEnterprise" t="Podnik"/>
+<phrase i="L_BroadsoftGroupCommon" t="Skupina – spoločné"/>
+<phrase i="L_BroadsoftEnterpriseCommon" t="Podnik – spoločné"/>
+<phrase i="L_XMLService" t="Služby Cisco XML"/>
+<phrase i="T_ST_CallHistories" t="Histórie hovorov"/>
+<phrase i="T_ST_Language" t="Výber jazyka"/>
+<phrase i="T_ST_Password" t="Nastaviť heslo"/>
+<phrase i="L_OldPassword" t="Staré heslo"/>
+<phrase i="L_NewPassword" t="Nové heslo"/>
+<phrase i="L_ReEnterNewPassword" t="Opäť zadajte heslo"/>
+<phrase i="L_IncorrectOldPassword" t="Staré heslo sa nezhoduje s pôvodným heslom."/>
+<phrase i="L_NewPasswordNotSame" t="Nové heslo a znovu zadané nové heslo sa nezhodujú."/>
+<phrase i="L_NewPasswordNotLong" t="Používateľské heslo musí obsahovať aspoň 4 znaky."/>
+<phrase i="L_CallForwarding" t="Presmerovať hovor"/>
+<phrase i="L_CallWaiting" t="Čakajúci hovor"/>
+<phrase i="L_VoiceMail" t="Hlasová pošta"/>
+<phrase i="L_BlockCallerID" t="Blokovať ID volajúceho"/>
+<phrase i="L_BlockAnonymCall" t="Blokovať anon. vol."/>
+<phrase i="L_SecureCall" t="Zabezpečený hovor"/>
+<phrase i="L_DialAssist" t="Pomoc pri vytáčaní"/>
+<phrase i="L_AutoAnswerPage" t="Str. s aut. odpoveďou"/>
+<phrase i="L_MissCallShortCut" t="Kl. na pr. na zm. hov."/>
+<phrase i="L_EnabledScreenSaver" t="Šetrič obrazovky"/>
+<phrase i="L_DisplayBrightness" t="Jas displeja"/>
+<phrase i="L_ContrastLevel" t="Úroveň kontrastu"/>
+<phrase i="L_WallPaper" t="Pozadie"/>
+<phrase i="T_ST_ScreenSaver" t="Nastavenia šetriča obrazovky"/>
+<phrase i="L_ScreenSaverType" t="Typ šetriča obrazovky"/>
+<phrase i="L_TriggerInterval" t="Interval spust. (s.)"/>
+<phrase i="L_RefreshInterval" t="Interval obnov. (s.)"/>
+<phrase i="L_BackLight" t="Podsvietenie"/>
+<phrase i="L_BackLightTimer" t="Časovač podsvietenia"/>
+<phrase i="L_Contrast" t="Kontrast"/>
+<phrase i="L_Brightness" t="Jas"/>
+<phrase i="T_StarCodeList" t="Vyberte hviezdicový kód"/>
+<phrase i="T_Select_Image" t="Vyberte obrázok"/>
+<phrase i="T_ST_Time" t="Nastavenia času"/>
+<phrase i="L_TimeZone" t="Časové pásmo"/>
+<phrase i="L_DayLightSaving" t="Zmena času letný/zimný"/>
+<phrase i="L_NTPServer1" t="Server NTP 1"/>
+<phrase i="L_NTPServer2" t="Server NTP 2"/>
+<phrase i="L_SetCurrentTimeManually" t="Nastaviť aktuálny čas manuálne"/>
+<phrase i="T_ST_TimeZone" t="Nastaviť časové pásmo"/>
+<phrase i="L_TimeFormat" t="Formát času"/>
+<phrase i="L_DateFormat" t="Formát dátumu"/>
+<phrase i="L_DHCP_Address_Released" t="Uvoľnená adresa DHCP"/>
+<phrase i="L_Erase_Config" t="Vymazať konfiguráciu"/>
+<phrase i="L_WebServerWritable" t="Webový server je zapísateľný"/>
+<phrase i="M_ABEmpty" t="Adresár je prázdny."/>
+<phrase i="M_ABDuplicate" t="Všetky záznamy sú identické."/>
+<phrase i="M_InvalidVLAN" t="VLAN ID musí byť medzi 0 a 4095."/>
+<phrase i="M_InvalidDataportVLAN" t="VLAN ID portu PC musí byť medzi 0 a 4095."/>
+<phrase i="M_InvalidDHCPVLANOption" t="Možnosť DHCP VLAN (%s) nie je platná."/>
+<phrase i="M_InvalidDataportPriority" t="Priorita musí byť medzi 0 – 7."/>
+<phrase i="M_InvalidMAddr" t="Adresa na zistenie musí mať tvar: aaa.bbb.ccc.ddd:pppp"/>
+<phrase i="M_InvalidNetStartupDelay" t="Oneskorenie pri spustení musí byť medzi 1 a 300."/>
+<phrase i="M_RebootInvalid" t="Práve prebieha telefónny hovor. Reštartovanie nie je povolené."/>
+<phrase i="M_FactoryResetInvalid" t="Práve prebieha tel. hovor. Obnovenie na výrobné nast. nie je povolené."/>
+<phrase i="M_CustomResetInvalid" t="Práve prebieha tel. hovor. Obnov. na voliteľné nast. nie je povolené."/>
+<phrase i="M_OperationInvalid" t="Práve prebieha telefónny hovor Prevádzka nie je povolená."/>
+<phrase i="M_OperationInvalidInUpgrade" t="Prebieha inovácia telefónu. Operáciu nemožno vykonať."/>
+<phrase i="M_ProfileRuleInvalid" t="Prebieha tel. hovor. Opät. synch. pomocou pravidla profilu nie je pov."/>
+<phrase i="M_InvalidDHCPOptions" t="Hodnota musí byť zoznam oddelený čiarkou [%s]."/>
+<phrase i="M_UpgradeStart" t="Spustiť zvýšenie verzie."/>
+<phrase i="M_UpgradeInProgress" t="Zvyšujem verziu. Nevypínajte."/>
+<phrase i="M_DownloadProgress" t="Sťahujem zadania adries..."/>
+<phrase i="M_UpgradeCompleted" t="Zvýšenie verzie dokončené."/>
+<phrase i="M_UpgradeAborted" t="Zvýšenie verzie prerušené používateľom."/>
+<phrase i="M_UpgradeAbortedWithError" t="Zvýšenie verzie prerušené."/>
+<phrase i="M_UpgradeCompletedReboot" t="Zvýšenie verzie dokončené. Reštartujem."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="Zvýšenie verzie je prerušené následkom chyby. Reštartujem."/>
+<phrase i="M_InvalidCFWDNoAnsDelay" t="Oneskorenie presmerovania pri neodpovedaní musí byť v rozsahu 1 - 300."/>
+<phrase i="M_InvalidCFWDNoFKS" t="Zadajte maximálny počet znakov %d."/>
+<phrase i="M_EmptyCFWDNoFKS" t="Telefónne číslo na presmerovanie hovoru je požadované pole"/>
+<phrase i="M_InvalidCFWDNoAnsDelayXSI" t="Onesk. presm. pri neprijatom hovore XSI musí byť medzi 2 a 20 alebo rovné 0."/>
+<phrase i="T_Login_Form" t="Formulár prihlásenia"/>
+<phrase i="L_Pending" t="Prebieha"/>
+<phrase i="L_Customized" t="Prispôsobené"/>
+<phrase i="L_Open" t="Otvoriť"/>
+<phrase i="L_Unavailable" t="Nedostupný"/>
+<phrase i="L_CustomPending" t="Vlastné-Čaká"/>
+<phrase i="L_Acquired" t="Získané"/>
+<phrase i="L_Aborted" t="Prerušené"/>
+<phrase i="L_GdsAcquired" t="GDS získané"/>
+<phrase i="L_GdsPending" t="Čakajúce GDS"/>
+<phrase i="L_GdsCustomPending" t="Vlastné čakajúce GDS"/>
+<phrase i="L_Hour" t="Hodina"/>
+<phrase i="L_Minute" t="Minúta"/>
+<phrase i="L_Second" t="Sekunda"/>
+<phrase i="L_HourShort" t="Hodina"/>
+<phrase i="L_MinuteShort" t="Min."/>
+<phrase i="L_SecondShort" t="Sek."/>
+<phrase i="M_InvalidRefreshTime" t="Hodnota intervalu obnovenia musí byť medzi 1 a 999 999 sekúnd."/>
+<phrase i="M_InvalidBackLightTime" t="Čas vypnutia podsvietenia musí byť 30 alebo vyšší."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="Hodnota intervalu spustenia musí byť medzi 30 a 65 000 sekúnd."/>
+<phrase i="M_InvalidContrastLevel" t="Hodnota jasu musí byť medzi 4 a 15."/>
+<phrase i="M_InvalidContrastActualLevel" t="Hodnota kontrastu musí byť medzi 1 - 15.s."/>
+<phrase i="L_Att_Cons_Pref" t="Preferencie konzoly operátora"/>
+<phrase i="L_Attendant_Console_Pref" t="Preferencie konzoly operátora"/>
+<phrase i="L_LCD_Contrast" t="Jas"/>
+<phrase i="L_Font_Size" t="Veľkosť písma"/>
+<phrase i="L_Display_Mode" t="Režim zobrazenia"/>
+<phrase i="L_Authenticating" t="Prebieha overovanie"/>
+<phrase i="L_Authenticated" t="Overené"/>
+<phrase i="L_Exposure" t="Expozícia"/>
+<phrase i="L_Kem_Type" t="Typ KEM"/>
+<phrase i="M_Directories_Disabled" t="Adresár je deaktivovaný. Kontaktujte svojho správcu."/>
+<phrase i="M_Directories_Unavailable" t="K dispozícii nie je žiadny adresár. Kontaktujte svojho správcu."/>
+<phrase i="M_DirAll_Unavailable" t="Práve nedostupné. Obráťte sa na správcu."/>
+<phrase i="L_SIGNIN_FAILED" t="Nastala chyba v súvislosti s oprávneniami, obráťte sa na správcu."/>
+
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="Interný adresár"/>
+<phrase i="L_EXTERNAL_DIR" t="Externý adresár"/>
+<phrase i="L_GROUPS_DIR" t="Adresár skupín"/>
+<phrase i="L_STATIONS_DIR" t="Adresár staníc"/>
+<phrase i="L_Auto_Attnd" t="Automatické spojovanie"/>
+<phrase i="L_Int_Music" t="Interná hudba"/>
+<phrase i="L_ExternalMusic" t="Externá hudba"/>
+<phrase i="L_Station" t="Stanica"/>
+<phrase i="L_PageGroup1" t="Skupina str. 1"/>
+<phrase i="L_PageGroup2" t="Skupina str. 2"/>
+<phrase i="L_PageGroup3" t="Skupina str. 3"/>
+<phrase i="L_PageGroup4" t="Skupina str. 4"/>
+<phrase i="L_PageGroup5" t="Skupina str. 5"/>
+<phrase i="L_Page_Grp" t="Skupina str."/>
+<phrase i="L_ExternalPage" t="Externá strana"/>
+<phrase i="L_CallPark" t="Spätné volanie"/>
+<phrase i="L_PickUp" t="Vezmi"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="Organizácia"/>
+<phrase i="L_FirstName" t="Krstné meno"/>
+<phrase i="L_LastName" t="Priezvisko"/>
+<phrase i="LDAP_DISPLAY_NAME" t="Názov"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="Telefón do práce"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="Mobilný telefón"/>
+<phrase i="LDAP_ACCESS_ERROR" t="Chyba LDAP: Nie je možné sa pripojiť k serveru"/>
+<phrase i="LDAP_STARTTLS_ERROR" t="Chyba LDAP: operácia StartTLS zlyhala"/>
+<phrase i="LDAP_InvalidInput" t="Chyba LDAP: Neplatná zadaná hodnota"/>
+<phrase i="LDAP_NoFilter" t="Určiť filter."/>
+<phrase i="LDAP_TooManyResults" t="Priveľa zhôd pre dotaz. Spresnite vyhľadávanie."/>
+<phrase i="LDAP_NoResult" t="Nenašla sa žiadna zhoda"/>
+<phrase i="NoRingTone" t="Žiadny tón zvonenia"/>
+<phrase i="S_Failed" t="Vyhľadávanie zlyhalo."/>
+<phrase i="S_Sys_Err" t="Systémová chyba"/>
+<phrase i="T_LDAP_ResultList" t="Adres. spol. (LDAP) zoz. výsled."/>
+<phrase i="T_LDAPQueryForm" t="Formulár požiadavky LDAP"/>
+<phrase i="T_LDAPAddrEntry" t="Adres. spol. (LDAP) zad. adresy"/>
+<phrase i="T_LDAPQuery" t="Požiadavka na LDAP server"/>
+<phrase i="T_LDAP" t="LDAP"/>
+<phrase i="L_SimpleSearch" t="Jednoduché vyhľadávanie"/>
+<phrase i="L_AdvSearch" t="Rozšírené vyhľadávanie"/>
+<phrase i="T_LDAPSigninForm" t="Prihlásenie cez LDAP"/>
+<phrase i="L_ClientDN" t="Klient DN"/>
+
+<!-- #############  #BroadSoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="Prístup k adresáru zlyhal. Skontrolujte konfiguráciu a nastavenia siete."/>
+<phrase i="BSDIR_ACCESS_TIMEOUT" t="Časový limit prístupu k adresáru vypršal. Skontrolujte konfiguráciu a sieťové nastavenia."/>
+<phrase i="BSDIR_InvalidInput" t="Chyba priečinka Broadsoft: Neplatná zadaná hodnota."/>
+<phrase i="BSDIR_HTTP_AUTH_ERR" t="Chyba overenia. Skontrolujte účet."/>
+<phrase i="BSDIR_TooManyResults" t="Priveľa zhôd pre dotaz. Spresnite vyhľadávanie."/>
+<phrase i="BSDIR_NoSearchParameters" t="Zadajte kritériá vyhľadávania"/>
+<phrase i="BSDIR_Setting_MSG" t="Táto zmena ovplyvní iné nastavenia skupiny. Chcete ju uložiť?"/>
+<phrase i="T_BSDIR_CONFIG" t="Konfigurácia priečinka Broadsoft"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="Vyhľadať osobný adresár"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="Vyhľadať adresár skupiny"/>
+<phrase i="T_BSDIR_SEARCH_GROUP_COMMON" t="Vyhľadať spoločný adresár skupiny"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="Vyhľadať adresár podniku"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE_COMMON" t="Vyhľadať spoločný adresár podniku"/>
+<phrase i="T_BSDIR_SEARCH_ALL" t="Vyhľadať všetky adresáre Broadsoft"/>
+<phrase i="T_BSDIR_Pers_Contact_Add" t="Pridať osobný kontakt BroadSoft"/>
+<phrase i="T_BSDIR_Pers_Contact_Edit" t="Upraviť osobný kontakt BroadSoft"/>
+<phrase i="M_SavePersContactPrompt" t="Nepodarilo sa uložiť kontakt %s."/>
+<phrase i="M_DeletePersContactPrompt" t="Nepodarilo sa vymazať kontakt %s."/>
+
+<phrase i="L_HOST_SERVER" t="Hostiteľský server"/>
+<phrase i="L_AUTH_TYPE" t="Typ overenia"/>
+<phrase i="L_SIPAUTH_ID" t="ID overenia SIP"/>
+<phrase i="L_SIPAUTH_PWD" t="Heslo SIP"/>
+<phrase i="L_DIR_NAME" t="Názov adresára"/>
+<phrase i="T_Configure" t="Konfig. %s"/>
+
+<phrase i="T_BSDIR_SEARCH" t="Vyhľadať adresár Broadsoft"/>
+<phrase i="T_SIMPLE_SEARCH" t="Jednoduché vyhľadávanie"/>
+<phrase i="T_ADVANCED_SEARCH" t="Rozšírené vyhľadávanie"/>
+<phrase i="L_BSDIR_LNAME" t="Priezvisko"/>
+<phrase i="L_BSDIR_FNAME" t="Krstné meno"/>
+<phrase i="L_BSDIR_GROUPID" t="ID skupiny"/>
+<phrase i="L_BSDIR_DEPT" t="Oddelenie"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="Odd."/>
+<phrase i="L_BSDIR_EMAIL" t="E-mail"/>
+
+<phrase i="BSCLOG_ACCESS_ERROR" t="Prístup zlyhal. Skontrolujte nastavenie a sieť"/>
+<phrase i="BsClog_InvalidInput" t="Zadaná hodnota je neplatná."/>
+<phrase i="BsClog_TooManyResults" t="Priveľa záznamov denníkov hovorov."/>
+<phrase i="BsClog_NoResult" t="Bez záznamov denníkov hovorov."/>
+<phrase i="BSCLOG_HTTP_AUTH_ERR" t="Chyba autentifikácie: Skúste znovu."/>
+
+<phrase i="BsAnywhere_TooManyResults" t="Dosiahnutý maximálny počet Anywhere polôh."/>
+<phrase i="BsAnywhere_NoLine" t="Nie je aktivovaná žiadna linka Anywhere."/>
+<phrase i="BsAnywhere_BadRequest" t="Neplatný vstup alebo úkon."/>
+<phrase i="BsAnywhere_ServerBusy" t="Server je zaneprázdnený."/>
+
+<phrase i="XSI_GET_ERROR" t="Nepodarilo sa získať nastavenia XSI."/>
+<phrase i="XSI_GET_AUTH_ERROR" t="Chyba overenia. Nepodarilo sa získať nastavenia XSI."/>
+<phrase i="XSI_GET_DNS_ERROR" t="Chyba DNS. Nepodarilo sa získať nastavenia XSI."/>
+<phrase i="XSI_SET_ERROR" t="Nepodarilo sa nastaviť nastavenia XSI."/>
+<phrase i="XSI_SET_AUTH_ERROR" t="Chyba overenia. Nepodarilo sa nastaviť nastavenia XSI."/>
+<phrase i="XSI_SET_DNS_ERROR" t="Chyba DNS. Nepodarilo sa nastaviť nastavenia XSI."/>
+<phrase i="XSI_SET_INVALID" t="Neplatné parametre. Nepodarilo sa nastaviť nastavenia XSI."/>
+<phrase i="XSI_SET_ERR_400_PERMISSION" t="Nemáte povolenie na zmenu nastavenia."/>
+<phrase i="XSI_SET_ERR_400_INVALIDNUM" t="Neplatné telefónne číslo. Číslo môže obsahovať iba -, 0-9 alebo číslo E.164. Maximálny počet číslic je 30."/>
+
+<phrase i="T_LVSDIR_REQ" t="Vyžiadanie adresára LVS zo servera."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="Vyžiadanie adresára LVS zlyhalo."/>
+
+<!-- #############  #All Directories #############-->
+<phrase i="T_ALLDIRECTORY_SEARCH" t="Prehľadávať všetky adresáre"/>
+<phrase i="T_ALLDIRECTORY_RESULTS" t="Výsledky vyhľadávania"/>
+<phrase i="T_ALLDIRECTORY_DETAILS" t="Podrobnosti o výsledkoch vyhľadávania"/>
+<phrase i="ALLDIRECTORY_TIMEOUT_ERROR" t="Čas vyhľadávania vypršal. Skontrolujte konfiguráciu a sieť."/>
+
+<!-- #############  #Call Recording #############-->
+<phrase i="L_RECORDING" t="Prebieha nahrávanie"/>
+<phrase i="L_RECORDINGPAUSED" t="Nahrávanie pozastavené"/>
+
+<!-- #############  #Customizable PLKs  #############-->
+<phrase i="L_DefSpeedDial" t="Definujte Rýchlu voľbu"/>
+<phrase i="L_Define_BLF_Presence" t="Definovať prítomnosť BLF"/>
+<phrase i="L_PLK_ERROR" t="Chyba: Prázdna alebo neplatná vstupná hodnota."/>
+<phrase i="PLK_DeletePrompt" t="Naozaj chcete odstrániť túto funkciu z %s %d?"/>
+<phrase i="L_SelectFeature" t="Vybrať funkciu"/>
+<phrase i="L_BLF_Presence" t="Prítomnosť BLF"/>
+<phrase i="L_BLF_SD" t="BLF + rýchla voľba"/>
+<phrase i="L_BLF_List" t="Zoznam BLF"/>
+<phrase i="L_BLF_CP" t="BLF + zdvihnutie hovoru"/>
+<phrase i="L_BLF_SD_CP" t="BLF + rýchla voľba + zdvihn. hovoru"/>
+<phrase i="L_Define_BLF_Presence" t="Definovať prítomnosť BLF"/>
+<phrase i="L_Search_BLF_List" t="Vyhľadať zoznam BLF"/>
+<phrase i="L_Select_User" t="Označiť používateľa"/>
+<phrase i="L_UserId" t="ID použív."/>
+<phrase i="L_Label" t="Označenie"/>
+<phrase i="L_MWI" t="MWI"/>
+<phrase i="L_MWI_SD" t="MWI + rýchla voľba"/>
+<phrase i="L_PLK_Shortcut" t="Skratka ponuky"/>
+<phrase i="L_PLK_LCR" t="Vrátenie hovoru"/>
+<phrase i="L_PLK_ACD" t="ACD"/>
+<phrase i="L_PLK_CallRetrieve" t="Obnoviť hovor"/>
+<phrase i="L_PLK_Forward" t="Presmerovať"/>
+<phrase i="L_PLK_CLR_DND" t="Vymazať Nerušiť"/>
+<phrase i="L_PLK_CLR_Forward" t="Vym. presmerovanie"/>
+<phrase i="L_PLK_CLR_Divert" t="Vymazať odklonenie"/>
+<phrase i="L_CallInfo" t="Informácie o hovore"/>
+<phrase i="L_CallList" t="Zoznam hovorov"/>
+<phrase i="L_ProxyCall" t="Proxy hovor"/>
+<phrase i="L_Divert" t="Odkloniť"/>
+<phrase i="L_CallPush" t="HovStlač"/>
+<phrase i="L_BridgeIn" t="Premostiť"/>
+<phrase i="M_Key_Disabled" t="Kľúč bol deaktivovaný."/>
+<phrase i="M_Callpush_Not_Held" t="Hovor nie je spojený alebo podržaný."/>
+<phrase i="M_Callpush_No_Held" t="Na tejto linke nie je pripojený ani podržaný žiadny hovor."/>
+<phrase i="M_No_Idle_Call" t="Na pokračovanie nečaká žiadny neaktívny hovor."/>
+<phrase i="M_Not_Remote_Connected" t="Hovor nie je pripojený k vzdialenej lokalite."/>
+<phrase i="M_No_CallInfo" t="Informácie o hovore nie sú k dispozícii."/>
+<!-- PLK labels -->
+<phrase i="L_AttConsole" t="Konzola operátora"/>
+<phrase i="L_WpsPbc" t="WPS PBC"/>
+<phrase i="L_WpsPin" t="WPS PIN"/>
+<phrase i="L_IPV4_Address" t="Adresa IPv4"/>
+<phrase i="L_IPV6_Address" t="Adresa IPv6"/>
+<phrase i="L_UserSignIn" t="Prihlásenie použ."/>
+<phrase i="L_UserSignOut" t="Odhlásenie použ."/>
+<phrase i="L_ProAcnt" t="Účet profilu"/>
+<phrase i="L_Phone_Statistics" t="Štatistika telefónu"/>
+<phrase i="L_XML_Application" t="Aplikácia XML"/>
+<phrase i="L_Personal_Directory" t="Osobný adresár"/>
+<phrase i="L_All_Directories" t="Všetky adresáre"/>
+<phrase i="L_XML_Directory" t="XML adresár"/>
+<phrase i="L_LDAP_Directory" t="Adresár LDAP"/>
+<phrase i="L_BluetoothContacts" t="Bluetooth kontakty"/>
+<!-- PSK labels -->
+<phrase i="S_Accessibility" t="Dostup."/>
+<phrase i="S_AllCalls" t="Vše. hov"/>
+<phrase i="S_Received" t="Prijaté"/>
+<phrase i="S_Placed" t="Uskutoč."/>
+<phrase i="S_Executive" t="Vedúci"/>
+<phrase i="S_Assistant" t="Asistent"/>
+<phrase i="S_UserPref" t="Pre použ"/>
+<phrase i="S_CallPref" t="Pr. hov"/>
+<phrase i="S_CfwdSetting" t="Pr. p.ho"/>
+<phrase i="S_Anywhere" t="Anywhere"/>
+<phrase i="S_AudioPref" t="Pr. zvu"/>
+<phrase i="S_ScreenPref" t="Pr. obr"/>
+<phrase i="S_ScreenSaver" t="Šet. obr"/>
+<phrase i="S_AttConsole" t="Konz. op"/>
+<phrase i="S_RingTone" t="Tón zvo."/>
+<phrase i="S_BlueTooth" t="Bluetoo."/>
+<phrase i="S_NetworkConf" t="Sieť"/>
+<phrase i="S_EthernetConf" t="Ethernet"/>
+<phrase i="S_WiFiConf" t="Pre WiFi"/>
+<phrase i="S_WlanProfile" t="Pro WiFi"/>
+<phrase i="S_WpsPbc" t="WPS PBC"/>
+<phrase i="S_WpsPin" t="WPS PIN"/>
+<phrase i="S_WlanStatus" t="Sta WiFi"/>
+<phrase i="S_IPV4_Addr" t="Adr IPv4"/>
+<phrase i="S_IPV6_Addr" t="Adr IPv6"/>
+<phrase i="S_DeviceAdmin" t="Sprá zar"/>
+<phrase i="S_SetPassword" t="Nast hes"/>
+<phrase i="S_UserSignIn" t="Pri použ"/>
+<phrase i="S_UserSignOut" t="Od. použ"/>
+<phrase i="S_DateTime" t="Dát./čas"/>
+<phrase i="S_Language" t="Jazyk"/>
+<phrase i="S_Reboot" t="Reštart"/>
+<phrase i="S_Deepsleep" t="Šet ener"/>
+<phrase i="S_FactoryReset" t="Ob v nst"/>
+<phrase i="S_ProfileRule" t="Pra. pro"/>
+<phrase i="S_ProfileAccount" t="Účet pro"/>
+<phrase i="S_MICROPHONES" t="Mikrofó."/>
+<phrase i="S_WIRED_MIC" t="Kbl mik"/>
+<phrase i="S_WIRELESS_MIC" t="Bzdr mik"/>
+<phrase i="S_Status" t="Stav"/>
+<phrase i="S_ProductInfo" t="Inf prod"/>
+<phrase i="S_NetworkStatus" t="St. sie."/>
+<phrase i="S_IPv4Status" t="St. IPv4"/>
+<phrase i="S_IPv6Status" t="St. IPv6"/>
+<phrase i="S_PHN_STATUS" t="St. tel."/>
+<phrase i="S_Phone_statistics" t="Št. tel."/>
+<phrase i="S_LINE_STATUS" t="St. lin."/>
+<phrase i="S_PROV_STATUS" t="Poskyto."/>
+<phrase i="S_Call_Statistics" t="Št. hov."/>
+<phrase i="S_ReportProblem" t="Nah. pro"/>
+<phrase i="S_RebootHistory" t="His. reš"/>
+<phrase i="S_Accessories" t="Prísluš."/>
+<phrase i="S_Status_Msg" t="Spr stav"/>
+<phrase i="S_Wi-Fi_Msg" t="Spr WiFi"/>
+<phrase i="S_XML_App" t="Apl. XML"/>
+<phrase i="S_Directory" t="Adresáre"/>
+<phrase i="S_Personal_Dir" t="Osob adr"/>
+<phrase i="S_All_Dirs" t="Vše. adr"/>
+<phrase i="S_XML_Dir" t="XML adr."/>
+<phrase i="S_LDAP_Dir" t="LDAP adr"/>
+<phrase i="S_BroadsoftDirectory" t="BrdSf ad"/>
+<phrase i="S_BroadsoftPersonal" t="Osobné"/>
+<phrase i="S_BroadsoftGroup" t="Skupina"/>
+<phrase i="S_BroadsoftEnterprise" t="Podnik"/>
+<phrase i="S_BroadsoftGroupCommon" t="Sku.–spo"/>
+<phrase i="S_BroadsoftEnterpriseCommon" t="Pod.–spo"/>
+<phrase i="S_BT_contacts" t="BT kont"/>
+<phrase i="S_IMPContacts" t="IMP kont"/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="LinKonf"/>
+<phrase i="S_XferLx" t="PreLin"/>
+<phrase i="S_Redial" t="Opakovať"/>
+<phrase i="S_Contacts" t="Kontakty"/>
+<phrase i="S_Recents" t="Posledné"/>
+<phrase i="S_Forward" t="Presmer."/>
+<phrase i="S_ForwardAll" t="PresmVš"/>
+<phrase i="S_DND" t="Nerušiť"/>
+<phrase i="S_NForward" t="VymPresm"/>
+<phrase i="S_NForwardAll" t="VymPresm"/>
+<phrase i="S_NDND" t="VymNeruš"/>
+<phrase i="S_LCR" t="VrátHov"/>
+<phrase i="S_Missed" t="Zmeškané"/>
+<phrase i="S_Login" t="Prihl."/>
+<phrase i="S_Logout" t="Odhlásiť"/>
+<phrase i="S_SignIn" t="Prihl."/>
+<phrase i="S_SignOut" t="Odhlásiť"/>
+<phrase i="S_Avail" t="Dostupný"/>
+<phrase i="S_UnAvail" t="Nedost."/>
+<phrase i="S_UnPark" t="Odpark."/>
+<phrase i="S_PickUp" t="Vezmi"/>
+<phrase i="S_Mobility" t="Mobility"/>
+<phrase i="S_GrPickup" t="VýbSkup"/>
+<phrase i="S_NewCall" t="Volať"/>
+<phrase i="S_Barge" t="Prístup"/>
+<phrase i="S_BargeSilent" t="TichPrís"/>
+<phrase i="S_Resume" t="Pokrač."/>
+<phrase i="S_Answer" t="Prijať"/>
+<phrase i="S_Hold" t="Podržať"/>
+<phrase i="S_EndCall" t="Koniec"/>
+<phrase i="S_End" t="Ukončiť"/>
+<phrase i="S_Transfer" t="Prepojiť"/>
+<phrase i="S_CONF" t="Konfer."/>
+<phrase i="S_BXfer" t="Naslepo"/>
+<phrase i="S_Park" t="Parkovať"/>
+<phrase i="S_Join" t="Spojiť"/>
+<phrase i="S_Update" t="Aktual."/>
+<phrase i="S_Dial" t="Hovor"/>
+<phrase i="S_delChar" t="OdstZnak"/>
+<phrase i="S_AbbrDial" t="SkrVoľb"/>
+<phrase i="S_Back" t="Späť"/>
+<phrase i="S_Close" t="Zavrieť"/>
+<phrase i="S_Save" t="Uložiť"/>
+<phrase i="S_Delete" t="Odstr."/>
+<phrase i="S_Add" t="Pridať"/>
+<phrase i="S_Option" t="Voľba"/>
+<phrase i="S_Other" t="Iné"/>
+<phrase i="S_EditDial" t="UpravHov"/>
+<phrase i="S_EditDial1" t="UpravČís"/>
+<phrase i="S_AddNew" t="Pridať nové"/>
+<phrase i="S_Copy" t="Kopírov."/>
+<phrase i="S_Paste" t="Vložiť"/>
+<phrase i="S_Search" t="Hľadať"/>
+<phrase i="S_SimpleSearch" t="Jed. vyh"/>
+<phrase i="S_AdvancedSearch" t="Roz. vyh"/>
+<phrase i="S_Select" t="Vybrať"/>
+<phrase i="S_Replace" t="Nahradiť"/>
+<phrase i="S_Default" t="Predvol."/>
+<phrase i="S_Add2SpeedDial" t="Pridať k rýchlej voľbe"/>
+<phrase i="S_SendMessage" t="Poslať správu"/>
+<phrase i="S_InputAll" t="Zadajte všetko"/>
+<phrase i="S_InputNum" t="Zadajte číslo"/>
+<phrase i="S_InputIP" t="Zadajte IP"/>
+<phrase i="S_InputHebrew" t="Zadajte hebrejčinu"/>
+<phrase i="S_InputStarCode" t="Zad. hviezdic. kód"/>
+<phrase i="S_Clear" t="Vymazať"/>
+<phrase i="S_DeleteList" t="Odstrániť zoznam"/>
+<phrase i="S_DeleteAll" t="Odstrániť všetko"/>
+<phrase i="S_DeleteEntry" t="Odstrániť záznam"/>
+<phrase i="S_Add2AB" t="Pridať kontakt"/>
+<phrase i="S_SortByName" t="Zoradiť podľa názvu"/>
+<phrase i="S_Next" t="Viac"/>
+<phrase i="S_Zoom" t="Priblíž."/>
+<phrase i="S_EditSettings" t="Upraviť nastavenia"/>
+<phrase i="S_Previous" t="Predch."/>
+<phrase i="S_Previous1" t="Predch."/>
+<phrase i="S_Up" t="Zvýšiť"/>
+<phrase i="S_Down" t="Znížiť"/>
+<phrase i="S_SelectFromAB" t="Pridať z kontaktov"/>
+<phrase i="S_Play" t="Prehrať"/>
+<phrase i="S_Exit" t="Skončiť"/>
+<phrase i="S_Resync" t="OpätSyn"/>
+<phrase i="S_SetTime" t="Uložiť"/>
+<phrase i="S_Set" t="Nastaviť"/>
+<phrase i="S_MoveUp" t="Posunúť nahor"/>
+<phrase i="S_MoveDown" t="Posunúť nadol"/>
+<phrase i="S_Edit" t="Upraviť"/>
+<phrase i="S_View" t="Zobraziť"/>
+<phrase i="S_Enable_Disable" t="Povoliť alebo zakázať"/>
+<phrase i="S_Refresh" t="Obnoviť"/>
+<phrase i="S_List" t="Zoznam"/>
+<phrase i="S_Stop" t="Zastaviť"/>
+<phrase i="S_AddList" t="PridZozn"/>
+<phrase i="S_Scan" t="Skenovať"/>
+<phrase i="S_Connect" t="Pripojiť"/>
+<phrase i="S_Disconnect" t="Odpojiť"/>
+<phrase i="S_ConnectAll" t="PripVšet"/>
+<phrase i="S_Detail" t="Podrobn."/>
+<phrase i="S_Cancel" t="Zrušiť"/>
+<phrase i="S_OK" t="OK"/>
+<phrase i="S_Unpair" t="Odpojiť"/>
+<phrase i="S_SelectAll" t="VybrVšet"/>
+<phrase i="S_ClearAll" t="VymVšet"/>
+<phrase i="S_More" t="Viac"/>
+<phrase i="S_Format" t="Formát"/>
+<phrase i="S_Monitor" t="Monitor"/>
+<phrase i="S_VCARD" t="Import."/>
+<phrase i="S_Retry" t="Opakovať"/>
+<phrase i="S_FLASH" t="Flash"/>
+<phrase i="S_STARCODE" t="*kód"/>
+<phrase i="S_IP" t="IP"/>
+<phrase i="S_NUM" t="Čísla"/>
+<phrase i="S_ALPHA" t="Alfabet."/>
+<phrase i="S_Audio" t="Zvuk"/>
+<phrase i="S_Video" t="Video"/>
+<phrase i="S_Call" t="Hovor"/>
+<phrase i="S_Submit" t="Odoslať"/>
+<phrase i="S_CallRecordStart" t="Nahrávať"/>
+<phrase i="S_CallRecordStop" t="Zastaviť"/>
+<phrase i="S_CallRecordPause" t="Pozast."/>
+<phrase i="S_CallRecordResume" t="Pokrač."/>
+<phrase i="S_Pause" t="Pozast."/> <!--Used on 6821,replace for PauseRec-->
+<phrase i="S_Ignore" t="Ignor."/>
+<phrase i="S_Override" t="Zrušiť"/>
+<phrase i="S_HotelingGuestIn" t="VstupHos"/>
+<phrase i="S_HotelingGuestOut" t="VýstHost"/>
+<phrase i="S_AUDIO_SWAP_IN" t="PresZvuk"/>
+<phrase i="S_AUDIO_SWAP_OUT" t="PresZvuk"/>
+<phrase i="S_Skip" t="Preskoč."/>
+<phrase i="S_Settings" t="Nastav."/>
+<phrase i="S_Favorites" t="Obľúbené"/>
+<phrase i="S_Messages" t="Správy"/>
+<phrase i="S_Selfview" t="Vlastný pohľad"/>
+<phrase i="S_CallList" t="Zoz.hov."/>
+<phrase i="S_ShowVideo" t="Zob.vid."/>
+<phrase i="S_Presence" t="Prítomn."/>
+<phrase i="S_Swap" t="Vymeniť"/>
+<phrase i="S_ProxyCall" t="ProxyHov"/>
+<phrase i="S_Divert" t="Rozdeliť"/>
+<phrase i="S_DivertAll" t="OdklVš"/>
+<phrase i="S_ClrDivert" t="VymOdkl"/>
+<phrase i="S_CallPush" t="HovStlač"/>
+<phrase i="S_CallRetrieve" t="Obnoviť"/>
+<phrase i="S_BridgeIn" t="Premost"/>
+<phrase i="S_Micgain" t="PríjMikr"/>
+<phrase i="S_Setup" t="Nastav."/>
+<phrase i="S_SpeedDial" t="Rý. voľ."/>
+<phrase i="S_Continue" t="Pokrač."/>
+<phrase i="S_WiFiScan" t="Nájsť WiFi"/>
+<phrase i="S_Category" t="Kateg."/>
+<phrase i="S_Filter" t="Filter"/>
+
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="Stupeň Fahrenheit"/>
+<phrase i="OL_Celsius" t="Stupeň Celzia"/>
+<phrase i="OL_MONO" t="Mono"/>
+<phrase i="OL_STEREO" t="Stereo"/>
+<phrase i="OL_InProgress" t="Prebieha"/>
+<phrase i="OL_DnsResolution" t="rozlíšenie DNS"/>
+<phrase i="OL_NoServerName" t="Neexist. náz. ser."/>
+<phrase i="OL_InvalidServer" t="Neplatný alebo obmedzený server"/>
+<phrase i="OL_NoResources" t="Zdroje sú vyčerpané"/>
+<phrase i="OL_FileNotFound" t="Súbor sa nenašiel"/>
+<phrase i="OL_CorruptFile" t="Poškodený súbor"/>
+<phrase i="OL_EncrptionKey" t="Šifrovací kľúč"/>
+<phrase i="OL_InvalidURL" t="Neplatná URL"/>
+<phrase i="OL_Phone" t="Telefón"/>
+<phrase i="OL_Handsfree" t="Hl. telef."/>
+<phrase i="OL_Both" t="Obe"/>
+<phrase i="OL_DownloadFailed" t="Preber. zlyhalo"/>
+<phrase i="OL_DownloadConflict" t="%d nových záznamov. V %d záznamoch sú rozpory."/>
+<phrase i="OL_DownloadTypeError" t="Hlasitý telefón nemá režim Bluetooth."/>
+<phrase i="OL_DownloadFull" t="Adresár je plný, nemôžem stiahnuť žiadne záznamy."/>
+<phrase i="OL_ParsingError" t="Analyzovať chybu v pravidle"/>
+<phrase i="OL_Ended" t="Ukončené"/>
+<phrase i="OL_StaticIP" t="St.ad.IP"/>
+<phrase i="OL_PictureRotation" t="Otáčanie obrazu"/>
+<phrase i="OL_CurrentWallpaper" t="Aktuálna tapeta"/>
+<phrase i="OL_DownloadPicture" t="Stiah. obr."/>
+<phrase i="OL_Default" t="Predvolené"/>
+<phrase i="OL_Clock" t="Hodiny"/>
+<phrase i="OL_Logo" t="Logo"/>
+<phrase i="OL_Lock" t="Zamknúť"/>
+<phrase i="OL_Speaker" t="Reproduktor"/>
+<phrase i="OL_Headset" t="Slúchadlá"/>
+<phrase i="OL_Handset" t="Slúchadlo"/>
+<phrase i="OL_Ringer" t="Zvonenie"/>
+<phrase i="OL_Volume" t="Hlasitosť"/>
+<phrase i="OL_Headset_Fail" t="Pre nastavenie hlasitosti, použite ovládanie na náhlavnej súprave."/>
+<phrase i="OL_LightBlue" t="Bledomodrá"/>
+<phrase i="OL_LightGray" t="Bledosivá"/>
+<phrase i="OL_LightGreen" t="Bledozelená"/>
+<phrase i="OL_None" t="Žiadne"/>
+<phrase i="OL_Simple" t="Jednoduchý"/>
+<phrase i="OL_PlainTLS" t="Priamy-TLS"/>
+<phrase i="OL_64HEX" t="10 šestnást. číslic"/>
+<phrase i="OL_128HEX" t="26 šestnástkových číslic"/>
+<phrase i="OL_64ASCII" t="5 ASCII znakov"/>
+<phrase i="OL_128ASCII" t="13 ASCII znakov"/>
+<phrase i="OL_Enterprise" t="Podnik"/>
+<phrase i="OL_Group" t="Skupina"/>
+<phrase i="OL_Personal" t="Osobné"/>
+<phrase i="OL_EnterpriseCommon" t="Podnik – spoločné"/>
+<phrase i="OL_GroupCommon" t="Skupina – spoločné"/>
+<phrase i="OL_Login_Credentials" t="Prihlas. údaje"/>
+<phrase i="OL_SIP_Credentials" t="SIP"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_6" t="6"/>
+<phrase i="OL_7" t="7"/>
+<phrase i="OL_8" t="8"/>
+<phrase i="OL_9" t="9"/>
+<phrase i="OL_10" t="10"/>
+<phrase i="OL_11" t="11"/>
+<phrase i="OL_12" t="12"/>
+<phrase i="OL_13" t="13"/>
+<phrase i="OL_14" t="14"/>
+<phrase i="OL_15" t="15"/>
+<phrase i="OL_16" t="16"/>
+<phrase i="OL_Disabled" t="Deaktivovaná"/>
+<phrase i="OL_Enabled" t="Povolené"/>
+<phrase i="OL_AUTO" t="Automat."/>
+<phrase i="OL_10_HALF" t="10 MB pol."/>
+<phrase i="OL_10_FULL" t="10 MB plný"/>
+<phrase i="OL_100_HALF" t="100 MB pol."/>
+<phrase i="OL_100_FULL" t="100 MB plný"/>
+<phrase i="OL_1000_FULL" t="1000 plný"/>
+<phrase i="OL_10s" t="10 s"/>
+<phrase i="OL_20s" t="20 s"/>
+<phrase i="OL_30s" t="30 s"/>
+<phrase i="OL_AlwaysOn" t="Vždy zapnuté"/>
+<phrase i="OL_1m" t="1 m"/>
+<phrase i="OL_5m" t="5 m"/>
+<phrase i="OL_30m" t="30 m"/>
+<phrase i="OL_monthday" t="Mesiac/deň"/>
+<phrase i="OL_daymonth" t="Deň/mesiac"/>
+<phrase i="OL_12hr" t="12 hod."/>
+<phrase i="OL_24hr" t="24 hod."/>
+<phrase i="OL_IPv4" t="Iba IPv4"/>
+<phrase i="OL_IPv6" t="Iba IPv6"/>
+<phrase i="OL_DUAL_MODE" t="Duálny režim"/>
+<phrase i="OL_Phone" t="Telefón"/>
+<phrase i="OL_Server" t="Server"/>
+<phrase i="OL_Show" t="Zobraziť"/>
+<phrase i="OL_Hide" t="Skryť"/>
+<phrase i="OL_BEKEM" t="BEKEM"/>
+<phrase i="OL_AKEM" t="CP-8800-Audio"/>
+<phrase i="OL_VKEM" t="CP-8800-Video"/>
+
+<!-- Option label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="Automat."/>
+<phrase i="OL_Name" t="Názov"/>
+<phrase i="OL_Ext" t="Kl."/>
+<phrase i="OL_Both" t="Obe"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############-->
+<phrase i="T_EditProfile" t="Upraviť profil"/>
+<phrase i="T_SetupWiFi" t="Nastaviť Wi-Fi"/>
+<phrase i="T_WlanProfileListprofile" t="Vyberte profil"/>
+<phrase i="T_WlanScanList" t="Pripojiť k sieti Wi-Fi"/>
+<phrase i="T_WlanServerCaList" t="Vyberte súbor ako certifikát servera"/>
+<phrase i="T_WlanClientCaList" t="Vyberte súbor ako certifikát klienta"/>
+<phrase i="T_WlanProfileReplace" t="Vyberte profil na nahradenie"/>
+<phrase i="T_WlanWpsSelect" t="vyberte tento režim."/>
+<phrase i="WirelessStatusDetail" t="Podrobnosti bezdrôtovej siete"/>
+<phrase i="T_Profile" t="Profil"/>
+<phrase i="T_WlanPartitionLsit" t="Vyberte oddiel"/>
+<phrase i="L_InvalidProfile" t="Neplatné pravidlo profilu!"/>
+<phrase i="L_Disable" t="Deaktivovať"/>
+<phrase i="L_None" t="Žiadny"/>
+<phrase i="L_Auto" t="Automat."/>
+<phrase i="L_EapFast" t="EAP-FAST"/>
+<phrase i="L_PeapGtc" t="PEAP-GTC"/>
+<phrase i="L_PeapMschapv2" t="PEAP-MSCHAPV2"/>
+<phrase i="L_Psk" t="PSK"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_802Dot1x" t="802.1x"/>
+<phrase i="L_WpaEnt" t="Podnik WPA"/>
+<phrase i="L_Wpa2Ent" t="Podnik WPA2"/>
+<phrase i="L_Connection" t="Pripojenie"/>
+<phrase i="L_SecurityMode" t="Režim zabezpečenia"/>
+<phrase i="L_ProfileName" t="Názov profilu"/>
+<phrase i="L_SecuredWith" t="Zabezpečené s"/>
+<phrase i="L_CipherType" t="Typ šifry"/>
+<phrase i="L_KeyId" t="Prednastavený kľúč prenosu"/>
+<phrase i="L_KeyLen" t="Dĺžka kľúča"/>
+<phrase i="L_Key1" t="Kľúč 1"/>
+<phrase i="L_Key2" t="Kľúč 2"/>
+<phrase i="L_Key3" t="Kľúč 3"/>
+<phrase i="L_Key4" t="Kľúč 4"/>
+<phrase i="L_PskKey" t="Zdieľaný kľúč WPA"/>
+<phrase i="L_WEPKey" t="Kľúč WEP"/>
+<phrase i="L_Pphrase" t="Prístupový výraz"/>
+<phrase i="L_EapType" t="Typ EAP"/>
+<phrase i="L_UserId" t="ID použív."/>
+<phrase i="L_Password" t="Heslo"/>
+<phrase i="L_CheckSvrCa" t="Skontrolujte certifikát servera"/>
+<phrase i="L_On" t="Zap."/>
+<phrase i="L_Off" t="Vyp."/>
+<phrase i="L_LinkSignal" t="Sila signálu"/>
+<phrase i="L_NoiseLevel" t="Úroveň šumu"/>
+<phrase i="L_Bssid" t="AP MAC adresa"/>
+<phrase i="L_Frequency" t="Frekvencia"/>
+<phrase i="L_DataEncryption" t="Kódovanie dát"/>
+<phrase i="L_EncryptionType" t="Typ kódovania"/>
+<phrase i="L_TransmitRate" t="Prenosová rýchlosť"/>
+<phrase i="L_Channel" t="Kanál"/>
+<phrase i="L_RootCa" t="Koreňový certifikát"/>
+<phrase i="L_UserCa" t="Certifikát používateľa"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="Heslo pre súkromný kľúč"/>
+<phrase i="L_AnonyId" t="Anonymné ID"/>
+<phrase i="L_TtlsInnerProto" t="Vnútorný protokol TTLS"/>
+<phrase i="L_PeapInnerProto" t="Vnútorný protokol PEAP"/>
+<phrase i="L_WlanConfiguration" t="Konfigurácia bezdrôtovej siete"/>
+<phrase i="L_WlanWpsPbc" t="Konfigurácia tlačidla"/>
+<phrase i="L_WlanWpsPbcText1" t="Pre zariadenia s chrán. nastavením Wi-Fi"/>
+<phrase i="L_WlanWpsPbcText2" t="stlačte tlačidlo na zariadení a vyberte"/>
+<phrase i="L_WlanWpsPbcText3" t="tento režim."/>
+<phrase i="L_WlanWpsPin" t="Konfigurácia kódu PIN"/>
+<phrase i="L_WlanWpsPinText1" t="Pre zariad., ktoré vyžadujú PIN, zadajte"/>
+<phrase i="L_WlanWpsPinText2" t="nasledujúce číslo: %s a vyberte tento režim"/>
+<phrase i="L_WlanWpsPinText3" t="vyberte tento režim."/>
+<phrase i="L_WlanProfile" t="Profil Wi-Fi"/>
+<phrase i="L_Networksetup" t="Nastavenie siete"/>
+<phrase i="L_WlanAddCurrent" t="Pridajte pripojenie ako profil"/>
+<phrase i="L_WlanStatus" t="Stav Wi-Fi"/>
+<phrase i="L_WlanWps" t="Chránené nastavenie Wi-Fi"/>
+<phrase i="WlanMsgPfLock" t="Bezdrôtový profil je uzamknutý"/>
+<phrase i="WlanMsgPfNameLenNull" t="Neplatný názov profilu"/>
+<phrase i="WlanMsgPfNameLenOver" t="Názov profilu je príliš dlhý"/>
+<phrase i="WlanMsgSssidLenNull" t="Názov siete nemôže byť prázdny."/>
+<phrase i="WlanMsgSssidLenOver" t="SSID príliš dlhé"/>
+<phrase i="WlanMsgWepNoValue" t="Nastavte ID kľúča %d, ktorý nemá hodnotu."/>
+<phrase i="WlanMsgWepWrongLen" t="Dĺžka kľúča %d je neplatná."/>
+<phrase i="WlanMsgWepWrongHex" t="Kľúč %d nemá šestnástkové číslice."/>
+<phrase i="WlanMsgPsKeyLenLess" t="Zdieľ. WPA kľúč je príliš krátky."/>
+<phrase i="WlanMsgPsKeyLenOver" t="Zdieľaný WPA kľúč je príliš dlhý"/>
+<phrase i="WlanMsgPsKeyInvalide" t="Prístupový výraz musí byť 64 hexadecimálnych číslic alebo 8 až 63 znakov ASCII."/>
+<phrase i="WlanMsgWepKeyInvalid" t="Kľúč WEP musí mať 10 alebo 26 hexadecimálnych znakov, alebo 5 alebo 13 znakov ASCII."/>
+<phrase i="WlanMsgIdentityLenNull" t="ID používateľa nemôže byť prázdne."/>
+<phrase i="WlanMsgIdentityLenOver" t="Identita je príliš dlhá"/>
+<phrase i="WlanMsgServerCaWrong" t="Overiť certifikát servera"/>
+<phrase i="WlanMsgClientCaWrong" t="Neplatný certifikát klienta"/>
+<phrase i="WlanMsgPasswordLenNull" t="Heslo nemôže byť prázdne."/>
+<phrase i="WlanMsgPasswordLenOver" t="Heslo je príliš dlhé"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="Žiadna anonymná identita"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="Anonymná identita je príliš dlhá"/>
+<phrase i="WlanMsgOverMaxPFNum" t="Zoznam je plný. Chcete nahradiť iným profilom?"/>
+<phrase i="WlanMsgUseWpsPbc" t="Použite WPS PBC pre pripojenie"/>
+<phrase i="WlanMsgUseWpsPin" t="Použite WPS PIN pre pripojenie"/>
+<phrase i="WlanNoProfileConnect" t="Žiadny existujúci profil pre pripojenie"/>
+<phrase i="WlanNoScanProfileAdd" t="Žiadny skenovaný profil pre pridanie"/>
+<phrase i="WlanProfileExistReplace" t="Profil s SSID: %s už existuje. Chcete nahradiť tento profil?"/>
+<phrase i="WlanNotEnable" t="Musí byť aktivovaná sieť Wi-Fi."/>
+<phrase i="WlanNotConnect" t="Wi-Fi nebolo pripojené, nie je možné pridať do zoznamu profilov"/>
+<phrase i="WPSNotSet" t="Na použitie WPS stlačte možnosť Nastaviť."/>
+<phrase i="WLANNotSet" t="Na použitie WLAN stlačte možnosť Nastaviť."/>
+<phrase i="WlanProfileExist" t="Profil s SSID: %s] už existuje."/>
+<phrase i="WlanNotInterface" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="WlanMsgAssociating" t="Priradenie so SSID: %s"/>
+<phrase i="WlanMsgFailAssociation" t="Chyba pri priradení k %s."/>
+<phrase i="WlanMsgFailAssociationContinue" t="Chyba pri prirad. %s pokus bude naďalej prebiehať na pozadí."/>
+<phrase i="WlanMsgOobSkip" t="Ak tento krok prekročíte, budete musieť sieť nakonfigurovať manuálne."/>
+
+<phrase i="WlanMsgSuccessAssociation" t="Pripojenie bolo úspešné"/>
+<phrase i="WlanMsgSuccessAssociationSSID" t="Spojenie s %s sa nepodarilo."/>
+
+<phrase i="WlanProfileAlreadyConnected" t="Tento profil je už pripojený."/>
+<phrase i="WlanWpsFailConnect" t="Nepodarilo sa pripojiť k WPS"/>
+<phrase i="WlanAddIntoProfile" t="Chcete pridať toto nastavenie ako profil?"/>
+<phrase i="WlanScanning" t="Vyhľadáva sa bezdrôtová sieť"/>
+<phrase i="WlanWpsConnect" t="Konf. WPS je dokončená. Nast. Prid. do profilu z Nast. Bezdrôt. siete."/>
+<phrase i="WlanConnectAll1" t="Chcete použiť zoznam profilov pre pripojenie?"/>
+<phrase i="WlanConnectAll2" t="Chcete odpojiť aktuálne prip. a použiť zoznam profilov na pripojenie?"/>
+<phrase i="WlanMsgConnectAll" t="Použiť zoznam profilov na pripojenie"/>
+<phrase i="WlanMsgFailConnectAll" t="Chyba pri pripájaní, naďalej sa pokúšajte na pozadí."/>
+<phrase i="WlanAddCurrent" t="Chcete pridať aktuálne pripojenie ako profil?"/>
+<phrase i="FileLengthOver" t="Názov súboru prekračuje dĺžku %d."/>
+<phrase i="WlanProfileConnectDisable" t="Profil Wi-Fi je deaktivovaný"/>
+<phrase i="WlanProfileEnable" t="Chcete povoliť tento profil?"/>
+<phrase i="WlanProfileDisable" t="Chcete zakázať tento profil?"/>
+<phrase i="WlanEmptyScanningResult" t="Žiadne výsledky vyhľadávania. Skúste znova"/>
+<phrase i="devRestart" t="Zariadenie možno bude nutné zaregistrovať znova."/>
+<phrase i="M_NetworkBusy" t="Sieť je zaneprázdnená."/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="Vyberte titul"/>
+<phrase i="T_MP3SourceList" t="Pridajte titul do zoznamu skladieb"/>
+<phrase i="T_MP3PartitionList" t="Vyberte oddiel pre získanie skladieb"/>
+<phrase i="MP3MsgOverMaxSongNum" t="Zoznam je obmedzený na %d vstupov."/>
+<phrase i="MP3MsgEntryNotExist" t="Vstup neexistuje."/>
+<phrase i="MP3MsgAPendingCall" t="Počas hovoru nie je možné prehrávať hudbu."/>
+<phrase i="MP3MsgFileNameOverLen" t="Názov %d súborov prekračuje dĺžku %d."/>
+<phrase i="MP3MsgGetList" t="Získavam zoznam z USB jednotky"/>
+<phrase i="MP3MsgSaveRing" t="Ukladám tón zvon. z USB jednotky"/>
+<phrase i="MP3MsgFileIllegle" t="Formát súboru je neplatný."/>
+<phrase i="MP3DeletePrompt" t="Chcete odstrániť %s zo zoznamu skladieb?"/>
+<phrase i="MP3MsgSelectNull" t="Nie je vybraná žiadna skladba pre pridanie do zoznamu skladieb."/>
+<phrase i="MP3MsgSelectOverMax" t="Vybrali ste si viac ako %d skladieb!"/>
+<phrase i="MP3UsbFolderNotPresent" t="Adresár „%s“ neexistuje. Skontrolujte, či máte mp3 súbory v priečinku „mp3'“ na USB zariadení."/>
+<phrase i="MP3UsbFileNotPresent" t="Žiadne súbory MP3 v prieč. „%s“. Skontrolujte, či máte mp3 súbory v priečinku „mp3'“ na USB zariadení."/>
+<phrase i="MP3DeleteAllPrompt" t="Chcete odstrániť všetky skladby zo zoznamu skladieb?"/>
+<phrase i="MP3MsgCalcTime" t="Počítam čas prehrávania"/>
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="Ethernet sa používa"/>
+<phrase i="NC_TITLE_WIRELESS" t="Bezdrôtové pripojenie sa používa"/>
+<phrase i="NC_NOT_AVAILABLE" t="Nie je dostupná"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="Prebieha pripájanie k AP"/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="Kontrolujem Ethernetové pripojenie"/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="Bezdrôtové pripojenie zlyhalo."/>
+<phrase i="NC_L2_FAIL_WIRED" t="Ethernetové pripojenie zlyhalo."/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="Bezdrôtové pripojenie je OK."/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="Ethernetové pripojenie je OK."/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="Použiť statickú IP"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="Získavanie IP pomocou DHCP"/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="Získavam IP pomocou PPPoE"/>
+<phrase i="NC_L3_FAIL_STATIC" t="Chyba pri nastavení IP adresy."/>
+<phrase i="NC_L3_FAIL_DHCP" t="Chyba pri získavaní IP pomocou DHCP."/>
+<phrase i="NC_L3_FAIL_PPPOE" t="Chyba pri získavaní IP pomocou DHCP."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="Nová adresa IP"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="Nová adresa IP"/>
+<phrase i="NC_WAIT_VLAN_ID" t="Získavam ID VLAN"/>
+<phrase i="NC_NO_PROFILE_LIST" t="Žiadny zoznam profilov"/>
+<phrase i="NC_VPN_CONNECTING" t="Vytvoriť pripojenie VPN."/>
+<phrase i="NC_VPN_CONNECTED" t="VPN pripojenie je OK."/>
+<phrase i="NC_VPN_FAILED" t="Chyba pri vytváraní VPN pripojenia."/>
+<phrase i="NC_WPS_SUCCESS" t="Vyjednávanie WPS úspešné."/>
+<phrase i="NC_WPS_FAIL" t="Vyjednávanie WPS zlyhalo."/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="USB zariadenie nebolo nájdené. Prosím, zasuňte USB zariadenie do USB slotu na telefóne."/>
+<phrase i="UsbFolderNotPresent" t="Adresár „%s“ rneexistuje."/>
+<phrase i="UsbFileNotPresent" t="V priečinku %s nie je žiadny súbor."/>
+<phrase i="UsbFileNotPresent2" t="Súbor %s neexistuje."/>
+<phrase i="UsbUnknownError" t="Neznáma chyba."/>
+<phrase i="UsbPartitionName" t="Oddiel"/>
+<phrase i="UsbDevicePluged" t="USB zariadenie je pripojené. Počkajte na pripojenie zariadenia."/>
+
+<!-- #############  #USB Headset msgs #############-->
+<phrase i="UsbDeviceConnected" t="Príslušenstvo je pripojené."/>
+<phrase i="UsbDeviceDisconnected" t="Príslušenstvo je odpojené."/>
+<phrase i="UsbDeviceNotSupported" t="Príslušenstvo nie je podpor."/>
+<phrase i="UsbDeviceErrorStatus" t="Chyba príslušenstva."/>
+
+<phrase i="UsbDeviceMaxHeadsets" t="Prekročený max. počet náhlavných súprav."/>
+<phrase i="UsbDeviceNoPower" t="Toto príslušenstvo nie je možné napájať telefónom."/>
+<phrase i="UsbDeviceDisabled" t="Príslušenstvo nie je podporované."/>
+<phrase i="UsbDeviceError" t="Pokúste sa znovu pripojiť zariadenie."/>
+<phrase i="UsbDeviceMaxKEMs" t="Maximálny počet konzol operátora."/>
+<phrase i="UsbDeviceSysError" t="Nie je možné rozpoznať príslušenstvo."/>
+
+<!-- #############  #Microphone/Speaker msgs #############-->
+<phrase i="ExternalMicrophone" t="Externý mikrofón."/>
+<phrase i="ExternalSpeaker" t="Externý reproduktor."/>
+
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="USB je plné. Záznam hovoru bol zastavený. Prosím, zasuňte nové zariadenie a opäť spustite záznam."/>
+<phrase i="UsbDeviceIsFull" t="USB je plné. Prosím, zasuňte nové zariadenie a opäť spustite záznam."/>
+<phrase i="CallRecordMaxSingleFileReached" t="Bola dosiahnutá maximálna dĺžka samostatného záznamu, prosím, spusťte nový záznam."/>
+<phrase i="CallRecordMaxFileNumberReached" t="Bol dosiahnutý max. počet záznamov,  prosím, vymažte niektoré záznamy a opäť spustite záznam."/>
+<phrase i="CallRecordListDeletePrompt" t="Naozaj chcete odstrániť tento záznam?"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="Chcete naozaj odstrániť všetky záznamy?"/>
+<phrase i="CallRecordNameInvalid" t="Názov súboru záznamu je neplatný."/>
+<phrase i="CallRecordLenInvalid" t="Nie je možné vypočítať dĺžku záznamu hovoru."/>
+<phrase i="CallRecordFoldInvalid" t="Adresár pre záznam hovorov je neplatný."/>
+<phrase i="CallRecordUnknownError" t="Neznáma chyba záznamu hovoru"/>
+<phrase i="CallRecordMsgAPendingCall" t="Počas hovoru nie je možné prehrávať záznam."/>
+<phrase i="CallRecordStarted" t="Nahrávanie sa začalo"/>
+<phrase i="CallRecordStopped" t="Nahrávanie sa zastavilo."/>
+<phrase i="CallRecordPaused" t="Nahrávanie sa pozastavilo."/>
+<phrase i="CallRecordResumed" t="Nahráv. sa znova spustilo."/>
+<phrase i="CallRecordPending" t="Počkajte na začatie nahráv."/>
+<phrase i="CallRecordServerError" t="Chyba servera"/>
+<phrase i="CallRecordStartError" t="Nahráv. sa nepodarilo začať."/>
+<phrase i="CallRecordStopError" t="Nahráv. sa nepodarilo zast."/>
+<phrase i="CallRecordPauseError" t="Nahrávanie sa nepozastavilo. "/>
+<phrase i="CallRecordResumeError" t="Nahráv. sa znova nespustilo."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="Funkcia Bluetooth musí byť aktivovaná pred %s."/>
+<phrase i="BT_Discovering" t="Zistené %s."/>
+<phrase i="BT_Discovered" t="Zistené %s."/>
+<phrase i="BT_DiscoveredFaild" t="Zistené %s zlyhalo."/>
+<phrase i="BT_DeviceNotFound" t="Nebolo nájdené žiadne zariadenie Bluetooth."/>
+<phrase i="BT_Pairing" t="Práve prebieha párovanie %s."/>
+<phrase i="BT_Paired" t="%s je úspešne spárované."/>
+<phrase i="BT_PairingFailed" t="Pripojenie zlyhalo."/>
+<phrase i="BT_Abort" t="Pripojenie k %s zlyhalo."/>
+<phrase i="BT_UnPairPrompt" t="Chcete naozaj odpojiť %s?"/>
+<phrase i="BT_PinCodePrompt" t="Zadajte PIN."/>
+<phrase i="BT_ScanningPrompt" t="Prebieha skenovanie. Počkajte 10 sekúnd a skúste znova."/>
+<phrase i="BT_ConnectingPrompt" t="Pripája sa. Počkajte 10 sekúnd a spustite znova."/>
+<phrase i="BT_DownloadingPrompt" t="Prebieha sťahovanie. Počkajte minútu a spustite znova."/>
+<phrase i="BT_CallActivePrompt" t="Prebieha hovor. Počkajte na ukončenie hovoru a skúste znovu. "/>
+<phrase i="BT_OP_FAIL" t="Operácia zlyhala."/>
+<phrase i="BT_OP_WAIT_ENABLE" t="Bluetooth bol zapnutý. Skúste znovu."/>
+<phrase i="BT_Dev_Connected" t="Zariadenie je už pripojené."/>
+<phrase i="BT_Search" t="Vyhľadávanie Bluetooth zariadení"/>
+<phrase i="BT_Connecting_Dev" t="Pripája sa k zariadeniu Bluetooth"/>
+<phrase i="BT_HeadsetNamePrompt" t="Názov slúchadla nesmie byť prázdny."/>
+<phrase i="BT_PhoneModeError" t="Režim telefónu nie je možné pripojiť  k mobilnému telefónu."/>
+<phrase i="BT_HandsfreeModeError" t="Režim hlasitého telefónu nie je možné pripojiť k slúchadlu."/>
+<phrase i="BT_DownloadUpdate" t="Aktualizuje sa osobný adresár."/>
+<phrase i="BT_DownloadAddFull" t="Adresár je plný, nie je možné pridať všetky položky. %d položiek pridaných. %d položiek ignorovaných."/>
+<phrase i="BT_DownloadConflictFull" t="Adresár je plný, nie je možné pridať žiadne vstupy. Aktualizovať %d konfliktné vstupy Pridať %d nové vstupy Ignorovať %d nové vstupy"/>
+<phrase i="BT_OverMaxProfileNum" t="Zoznam je plný. Chcete nahradiť iným profilom?"/>
+<phrase i="BT_ConToast" t="Bluetooth bol pripojený"/>
+<phrase i="BT_DisconToast" t="Bluetooth bol odpojený"/>
+<phrase i="BT_HandsfreePin" t="Uistite sa, že párované zariadenia zobrazujú PIN"/>
+<phrase i="BT_St_Cntct_Prompt" t="Chcete všetky kontakty z mobilného telefónu uložiť v stolovom telefóne? Môžete ich vymazať neskôr v kontaktoch."/>
+<phrase i="T_Sv_Mob_Cntct" t="Uložiť kontakty z mobilného telefónu"/>
+<phrase i="T_BluetoothProfileList" t="Vyberte profil Bluetooth"/>
+<phrase i="T_BluetoothProfilePlace" t="Vyberte profil Bluetooth, ktorý chcete vymeniť"/>
+<phrase i="T_BTMode" t="Režim Bluetooth"/>
+<phrase i="T_BTProfile" t="Profily Bluetooth"/>
+<phrase i="T_AddDevice" t="Zariadenia"/>
+<phrase i="T_BTHeadsetName" t="Názov slúchadla"/>
+<phrase i="T_BTLoadPhoneBook" t="Stiahnuť telefónny zoznam"/>
+<phrase i="T_BTShowPhoneBook" t="Zobraziť telefónny zoznam"/>
+<phrase i="T_BTChoosePair" t="Vyberte Bluetooth zariadenie"/>
+<phrase i="T_BTEditProfile" t="Upraviť profil Bluetooth"/>
+<phrase i="L_BTDeviceName" t="Názov zariadenia"/>
+<phrase i="L_BTPINCODE" t="Pin"/>
+<phrase i="L_BTConnectAuto" t="Automaticky pripojiť"/>
+<phrase i="T_BTDownLoad" t="Stiahnuť"/>
+<phrase i="T_BTReplace" t="Nahradiť"/>
+<phrase i="T_BTDeleteAccessory" t="Odstrániť príslušenstvo"/>
+<phrase i="CALL_SERVNOTAVAIL" t="Služby sú nedostupné"/>
+<phrase i="CALL_NETERR" t="Chyba siete"/>
+<phrase i="CALL_NORES" t="Žiadna odozva"/>
+<phrase i="CALL_PROTOERR" t="Chyba protokolu"/>
+<phrase i="CALL_NOLINE" t="Žiadna linka"/>
+<phrase i="CALL_TIMEOUT" t="Časový limit"/>
+<phrase i="S_PHOLD" t="SúkrPodr"/>
+<phrase i="CALL_PHELD" t="Súkromie podržané"/>
+<phrase i="S_IGNORE" t="Ignor."/>
+<phrase i="S_DECLINE" t="Odmiet."/>
+<phrase i="LINE_INUSE" t="Používa sa"/>
+<phrase i="CALL_PARKED" t="Zaparkované hovory"/>
+<phrase i="CALL_SERVUNAVAIL" t="Služba je nedostupná"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" / . @ 1 : ; = ? - _ &amp; % "/>
+<phrase i="3851" t=" a b c 2 A B C á ä č Á Ä Č "/>
+<phrase i="3852" t=" d e f 3 D E F ď é Ď É "/>
+<phrase i="3853" t=" g h i 4 G H I í Í "/>
+<phrase i="3854" t=" j k l 5 J K L ĺ ľ Ĺ Ľ "/>
+<phrase i="3855" t=" m n o 6 M N O ň ó ô Ň Ó Ô "/>
+<phrase i="3856" t=" p q r s 7 P Q R S ŕ š Ŕ Š "/>
+<phrase i="3857" t=" t u v 8 T U V ť ú Ť Ú "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z ý ž Ý Ž "/>
+<phrase i="3859" t=" + * ~ ` &lt; &gt; "/>
+<phrase i="3860" t=" 0   , ! ^ ' &quot; | "/>
+<phrase i="3861" t=" # $ £ ¤ \ ( ) { } [ ] "/>
+
+<!-- #############  #language #############-->
+<phrase i="L_English" t="English"/>
+<phrase i="L_English-US" t="English-US"/>
+<phrase i="L_English-Canada" t="English-Canada"/>
+<phrase i="L_English-Australia" t="English-Australia"/>
+<phrase i="L_English-Britain" t="English-Britain"/>
+<phrase i="L_English-NewZealand" t="English-New Zealand"/>
+<phrase i="L_French" t="French"/>
+<phrase i="L_French-Canada" t="French-Canada"/>
+<phrase i="L_Spanish" t="Spanish"/>
+<phrase i="L_Spanish-Mexico" t="Spanish-Mexico"/>
+<phrase i="L_Italian" t="Italian"/>
+<phrase i="L_German" t="German"/>
+<phrase i="L_Norwegian" t="Norwegian"/>
+<phrase i="L_Portuguese" t="Portuguese"/>
+<phrase i="L_Polish" t="Polish"/>
+<phrase i="L_Dutch" t="Dutch"/>
+<phrase i="L_Swedish" t="Swedish"/>
+<phrase i="L_Russian" t="Russian"/>
+<phrase i="L_Turkish" t="Turkish"/>
+<phrase i="L_Slovak" t="Slovak"/>
+<phrase i="L_Hungarian" t="Hungarian"/>
+<phrase i="L_Croatian" t="Croatian"/>
+<phrase i="L_Bulgarian" t="Bulgarian"/>
+<phrase i="L_Czech_Republic" t="Czech Republic"/>
+<phrase i="L_Slovenian" t="Slovenian"/>
+<phrase i="L_Danish" t="Danish"/>
+<phrase i="L_Hebrew" t="Hebrejčina"/>
+
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="Kamera č."/>
+<phrase i="L_Camera_Name" t="Názov kamery"/>
+<phrase i="L_Camera_Ip" t="Adresa IP"/>
+<phrase i="L_Camara_UserName" t="Používat. meno"/>
+<phrase i="L_Camera_Password" t="Heslo"/>
+<phrase i="L_Camera_Port" t="Č. portu"/>
+<phrase i="L_Camera_Resolution" t="Rozlíšenie"/>
+<phrase i="L_Camera_Quality" t="Kvalita videa"/>
+<phrase i="L_Camera_FrameRate" t="Rýchlosť snímkovania"/>
+<phrase i="L_Camera_Status" t="Stav"/>
+<phrase i="T_Camera_Entry" t="Informácie o kamere"/>
+<phrase i="T_Camera_List" t="Vyberte kameru pre monitorovanie"/>
+<phrase i="CamInvalidParam" t="Parametre kamery %s nie sú platné."/>
+<phrase i="CamMissingURL" t="Prístupová URL kamery %s chýba."/>
+<phrase i="CamMissingUserName" t="Používateľské meno kamery %s chýba."/>
+<phrase i="CamMissingPassword" t="Heslo kamery %s chýba."/>
+<phrase i="CamInvalidURL" t="Prístupová URL kamery %s je neplatná."/>
+<phrase i="CamInvalidProtocol" t="Protokol kamery %s nie je RTSP."/>
+<phrase i="CamNoVideo" t="Žiadne video."/>
+<phrase i="CamConnecting" t="Pripája sa"/>
+<phrase i="CamConnectError" t="Žiadne video – chyba pri pripojení."/>
+<phrase i="CamAccessError" t="Žiadne video – prístup zamietnutý."/>
+<phrase i="CamResolveError" t="Žiadne video – chyba pri analýze adresy."/>
+<phrase i="CamResolutionError" t="Žiadne video – rozlíšenie je príliš vysoké."/>
+<phrase i="CamBusy" t="Kamera je zaneprázdnená. Prosím, počkajte a pokúste sa znova."/>
+<phrase i="CamActivateDoorOK" t="Otvorenie dverí OK pre [%s]."/>
+<phrase i="CamActivateDoorFailed" t="Otvorenie dverí zlyhalo pre [%s]."/>
+<phrase i="CamFeatureNotAvailable" t="Funkcia nie je dostupná pri aktivovanej funkcii Bluetooth"/>
+<phrase i="P_CamAccess" t="Pripájam sa k videu"/>
+<phrase i="Shutter_Closed" t="Uzávierka ja zatvorená."/>
+<phrase i="Bandwidth_Allowance" t="Povolená šírka pásma"/>
+<phrase i="Exposure" t="Expozícia"/>
+<phrase i="Auto" t="Automat."/>
+<phrase i="250_kbps" t="250 Kb/s"/>
+<phrase i="500_kbps" t="500 Kb/s"/>
+<phrase i="750_kbps" t="750 Kb/s"/>
+<phrase i="1_mbps" t="1 Mb/s"/>
+<phrase i="2_mbps" t="2 Mb/s"/>
+<phrase i="L_Video_Stats" t="Stav videohovoru"/>
+<phrase i="L_VideoEncoder" t="Kódovač"/>
+<phrase i="L_VideoDecoder" t="Dekódovač"/>
+<phrase i="L_VideoPktSent" t="Odoslané pakety"/>
+<phrase i="L_VideoPktRecv" t="Prijaté pakety"/>
+<phrase i="L_VideoAvgJitter" t="Priemerné chvenie"/>
+<phrase i="L_VideoMaxJitter" t="Max. chvenie"/>
+<phrase i="L_VideoRxPktDiscarded" t="Paket Rx zahodený"/>
+<phrase i="L_VideoRxPktLost" t="Paket Rx stratený"/>
+<phrase i="L_VideoTxResolution" t="Rozlíšenie Tx"/>
+<phrase i="L_VideoRxResolution" t="Rozlíšenie Rx"/>
+<phrase i="L_VideoRxFrames" t="Snímky Rx"/>
+<phrase i="L_VideoTxFrames" t="Snímky Tx"/>
+<phrase i="L_VideoTxIDRFrames" t="Snímky IDR"/>
+<phrase i="L_VideoTxFastUpdateReq" t="Požadované snímky Tx"/>
+<phrase i="L_VideoRxIDRFrames" t="Snímky IDR"/>
+<phrase i="L_VideoRxFastUpdateReq" t="Požadované snímky Rx"/>
+<phrase i="L_VideoTxFrameRate" t="Rýchl. snímkovania Tx"/>
+<phrase i="L_VideoRxFrameRate" t="Rýchl. snímkovania Rx"/>
+<phrase i="L_VideoLatency" t="Latencia videa"/>
+<phrase i="L_VideoTxBandwidth" t="Šírka pásma Tx"/>
+<phrase i="L_VideoRxBandwidth" t="Šírka pásma Rx"/>
+
+
+<phrase i="OL_Very_Low" t="Veľmi nízka"/>
+<phrase i="OL_Lowest" t="Najnižšia"/>
+<phrase i="OL_Low" t="Nízka"/>
+<phrase i="OL_Medium" t="Stredne"/>
+<phrase i="OL_Normal" t="Normálne"/>
+<phrase i="OL_High" t="Vysoká"/>
+<phrase i="OL_Highest" t="Najvyššia"/>
+<phrase i="OL_Very_High" t="Veľmi vysoké"/>
+
+<!-- #############  Profile Account #############-->
+<phrase i="L_ProAcnt_Setup" t="Nastavenie účtu profilu"/>
+<phrase i="L_ProAcnt_Setup_Basic" t="Nastavenie účtu profilu (HTTP)"/>
+<phrase i="L_ProAcnt_Setup_XsiLogin" t="Nastavenie účtu profilu (XSI)"/>
+<phrase i="L_ProAcnt_Setup_XsiSip" t="Nastavenie účtu profilu (XSI SIP)"/>
+<phrase i="L_PA_HOST_WARNING" t="Prihlásenie zlyhalo. Obráťte sa na správcu."/>
+<phrase i="L_PA_Username" t="Používat. meno"/>
+<phrase i="L_PA_RESYNC_TRY" t="Prebieha prihlasovanie do účtu..."/>
+<phrase i="L_PA_RESYNC_OK" t="Prihlásenie bolo úspešné!"/>
+<phrase i="L_PA_RESYNC_DISABLED" t="Funkcia opätovnej synchronizácie je deaktivovaná. Kontaktujte svojho správcu."/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="Aplikácia Extension Mobility"/>
+<phrase i="L_ExtMob_LoginForm" t="Prihlásiť sa do Extension Mobility"/>
+<phrase i="L_EM_LOGIN_TRY" t="Prihlasuje sa."/>
+<phrase i="L_EM_LOGIN_OK" t="Prihlásenie úspešné."/>
+<phrase i="L_EM_LOGIN_FAILED" t="Nesprávne prihlasovacie údaje."/>
+<phrase i="L_EM_LOGOUT_TRY" t="Odhlasuje sa."/>
+<phrase i="L_EM_LOGOUT_OK" t="Odhlásenie úspešné."/>
+<phrase i="L_EM_LOGOUT_FAILED" t="Odhlásenie zlyhalo. Telefón sa reštartuje."/>
+<phrase i="L_EM_LOGIN_WARNING" t="Zadajte ID používateľa a heslo."/>
+<phrase i="L_EM_LOGOUT_CONFIRMATION" t="Skutočne sa chcete odhlásiť z Extension Mobility?"/>
+<phrase i="L_EM_INACTIVE_WARNING" t="Pre neaktvitu sa telefón chystá odhlásiť z Extension Mobility. Chcete ostať prihlásený?"/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="Chcete vykonať obnovenie na záložné nastavenia?"/>
+<phrase i="L_RecoveryReset" t="Obnovenie na záložné nastavenia"/>
+<phrase i="L_FirmwareUpgrade" t="Nová verzia firmvéru"/>
+<phrase i="T_ST_Diag" t="Obnovenie Diagnostiky"/>
+<phrase i="UsbImageFileNotPresent" t="Kôš /image/spa525g.nebol nájdený. Prosím, skopírujte obraz firmvéru do koša /image/spa525g."/>
+<phrase i="L_Picture" t="Obrázok"/>
+<phrase i="L_IncomingPage" t="Prichádzajúca stránka"/>
+<phrase i="L_OutgoingPage" t="Odchádzajúca stránka"/>
+
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="Adresár „%s“ neexistuje. Skontrolujte, či máte jpg súbory v priečinku „%s“ na USB zariadení."/>
+<phrase i="ImageUsbFileNotPresent" t="Žiadne súbory JPG v priečinku „%s“. Skontrolujte, či máte jpg súbory v priečinku „%s“ na USB zariadení."/>
+<phrase i="T_ImageSelect" t="Vyberte obrázok"/>
+<phrase i="ImageMsgOverMaxImageNum" t="Vybrali ste si viac ako %d obrázkov!"/>
+
+<phrase i="WS_Jan" t="Jan."/>
+<phrase i="WS_Feb" t="Feb."/>
+<phrase i="WS_Mar" t="Mar."/>
+<phrase i="WS_Apr" t="Apr."/>
+<phrase i="WS_May" t="Máj"/>
+<phrase i="WS_Jun" t="Jún"/>
+<phrase i="WS_Jul" t="Júl"/>
+<phrase i="WS_Aug" t="Aug."/>
+<phrase i="WS_Sep" t="Sept."/>
+<phrase i="WS_Oct" t="Okt."/>
+<phrase i="WS_Nov" t="Nov."/>
+<phrase i="WS_Dec" t="Dec."/>
+<phrase i="WS_Sun" t="Slnko"/>
+<phrase i="WS_Mon" t="Po"/>
+<phrase i="WS_Tue" t="Ut"/>
+<phrase i="WS_Wed" t="St"/>
+<phrase i="WS_Thu" t="Št"/>
+<phrase i="WS_Fri" t="Pi"/>
+<phrase i="WS_Sat" t="So"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="Odosiela sa požiadavka"/>
+<phrase i="T_EmptyHTTPBody" t="Prázdne telo Http."/>
+<phrase i="T_404NotFound" t="404 Nie je nájdená."/>
+<phrase i="T_AudioDataError" t="Chyba zvukových dát."/>
+<phrase i="T_DNSError" t="Chyba DNS."/>
+<phrase i="T_NoServer" t="Pripojenie na server nie je možné."/>
+<phrase i="T_NoResponse" t="Server neodpovedá. Skúste znova."/>
+<phrase i="T_DataError" t="Chyba dát."/>
+<phrase i="T_UnknownError" t="Neznáma chyba."/>
+<phrase i="T_RTPFail" t="Na telefóne práve prebieha iný hovor. Skúste neskôr."/>
+<phrase i="T_XMLFormatError" t="Chyba formátu XML: neplatné použitie."/>
+<phrase i="T_NotValidApp" t="Tento model telefónu nepodporuje aplikáciu."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="Výsledok"/>
+<phrase i="PRV_Msg_Resync" t="Opätovne synchronizovať na"/>
+<phrase i="PRV_Msg_ReqFailed" t="Požadovaná opätovná synchronizácia zlyhala. Telefón sa práve opätovne synchronizuje. Skúste neskôr."/>
+<phrase i="PRV_Msg_ReqFailedByUpg" t="Požiadavka zlyhala z dôvodu inovácia firmvéru. Skúste neskôr znova."/>
+<phrase i="PRV_Invalid_URL" t="Neplatné pravidlo profilu opätovnej synchronizácie."/>
+<phrase i="StringLengthOver" t="Reťazec prekračuje maximálnu dĺžku."/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="Práve prebieha opätovná synchronizácia"/>
+<phrase i="PRV_Msg_Resync_OK" t="Opätovná synchronizácia dokončená."/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="Telefón sa reštartuje. Čakajte"/>
+<phrase i="L_Active_Call_Progress" t="Prebieha hovor. Ukočnite hovor a skúste to znova."/>
+<phrase i="L_Unable_To_Add_Participant" t="Nebolo možné pridať účastníka."/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="Žiadny"/>
+<phrase i="L_RReason1" t="Chyba DHCP"/>
+<phrase i="L_RReason2" t="Inovácia"/>
+<phrase i="L_RReason3" t="Poskytovanie"/>
+<phrase i="L_RReason4" t="Inovácia"/>
+<phrase i="L_RReason5" t="Spustenie použ."/>
+<phrase i="L_RReason6" t="Inovácia"/>
+<phrase i="L_RReason7" t="Spustil SIP"/>
+<phrase i="L_RReason8" t="Inovácia"/>
+<phrase i="L_RReason9" t="Systémová chyba"/>
+<phrase i="L_RReason10" t="Vypadla linka"/>
+<phrase i="L_RReason11" t="Systém 1"/>
+<phrase i="L_RReason12" t="Systém 2"/>
+<phrase i="L_RReason13" t="Duplicitná adresa IP"/>
+<phrase i="L_RReason14" t="Zálohovať IP"/>
+<phrase i="L_RReason15" t="Systém 3"/>
+<phrase i="L_RReason16" t="Systém 4"/>
+<phrase i="L_RReason17" t="Systém 5"/>
+<phrase i="L_RReason18" t="Systém 6"/>
+<phrase i="L_RReason19" t="Systém 7"/>
+<phrase i="L_RReason20" t="Spustil SIP"/>
+<phrase i="L_RReason21" t="Prevzatie slovníka"/>
+<phrase i="L_RReason22" t="VLAN zmenená"/>
+<phrase i="L_RReason23" t="RC"/>
+<phrase i="L_RReason24" t="Obnoviť nast. výrobcu"/>
+<phrase i="L_RReason25" t="Požiadavky na softvér"/>
+<phrase i="L_RReason26" t="Zmenila sa adresa IP"/>
+
+<phrase i="L_Calls" t="Hovory"/>
+
+<!-- ############# Full Screen Progress Spinner ########### -->
+<phrase i="L_ProgressSpinnerText" t="Prebieha aktualizácia firmvéru"/>
+
+<!-- ############# Accessories ############ -->
+<phrase i="L_Accessories" t="Príslušenstvo"/>
+<phrase i="L_AccessoryDetails" t="Podrobnosti o príslušenstve"/>
+<phrase i="L_DeviceType" t="Typ zariadenia"/>
+<phrase i="L_DeviceClass" t="Trieda zariadenia"/>
+<phrase i="L_Configured" t="Nakonfigurované"/>
+<phrase i="L_unitEnable" t="Jednotka zapnutá"/>
+<phrase i="L_unitState" t="Jednotka je online"/>
+
+<!-- #############  Cisco Headset#############-->
+<phrase i="L_Setup" t="Nastavenie"/>
+<phrase i="L_Microphone" t="Mikrofón"/>
+<phrase i="L_Tuning" t="Ladenie"/>
+<phrase i="L_Sidetone" t="Príposluch"/>
+<phrase i="L_MicrophoneTest" t="Test mikrofónu"/>
+<phrase i="L_InputLevel" t="Úroveň vstupu"/>
+<phrase i="L_SpeakNow" t="Hovorte teraz"/>
+<phrase i="L_SpeakLevel" t="Hovorte na zobrazenie úrovne vstupu"/>
+<phrase i="L_PlayRecord" t="Prehrať nahrávku"/>
+<phrase i="L_AdjustMicroGain" t="Upraviť zosilnenie mikrofónu"/>
+<phrase i="L_Softer" t="Tiché"/>
+<phrase i="L_Louder" t="Hlasné"/>
+<phrase i="L_AdjustAudioTune" t="Upraviť ladenie zvuku"/>
+<phrase i="L_Warmer" t="Teplý"/>
+<phrase i="L_Brighter" t="Jasný"/>
+<phrase i="L_AdjustMicrophone" t="Upraviť mikrofón"/>
+
+<phrase i="L_headsetSettings" t="Nastavenia náhlavnej súpravy Cisco"/>
+<phrase i="L_headsetSpeaker" t="Reproduktor náhlavnej súpravy Cisco"/>
+<phrase i="L_headsetMicrophone" t="Mikrofón náhlavnej súpravy Cisco"/>
+<phrase i="L_Test" t="Test"/>
+<phrase i="L_Gain" t="Príjem"/>
+<phrase i="L_CiscoWiredHeadset" t="Káblová náhlavná súprava Cisco"/>
+<phrase i="L_CiscoWirelessHeadset" t="Bezdrôtová náhlavná súprava Cisco"/>
+<phrase i="L_CiscoHeadset" t="Náhlavná súprava Cisco"/>
+<phrase i="L_NewAccDetected" t="Bolo zistené nové príslušenstvo"/>
+<phrase i="L_HeadsetSetupProgress" t="Stlačením možnosti Nastavenie nakonfigurujte hlavičku. V opačnom prípade sa stránka zavrie o %d sekúnd/-y."/>
+<phrase i="L_HeadsetSetupProgressOneSecond" t="Stlačením možnosť Nastavenie nakonfigurujte hlavičku. V opačnom prípade sa stránka zavrie o 1 sekundu."/>
+<phrase i="L_HeadsetUpgrade" t="Prebieha aktualizácia softvéru. Neodpájajte náhlavnú súpravu."/>
+<phrase i="L_HeadsetMDUpgradeNotify" t="Inovácia firmvéru vašej náhlavnej súpravy je pripravená. Môže trvať niekoľko minút a počas nej nebude možné náhlavnú súpravu používať. Chcete pristúpiť k inovácii teraz?"/>
+<phrase i="L_CannotRecord" t="Zisk alebo hlasitosť mikrofónu nie je možné skontrolovať počas hovoru."/>
+<phrase i="L_Version" t="Verzia"/>
+<phrase i="L_UpgradeFaild" t="Zvyšovanie verzie zlyhalo."/>
+<phrase i="S_PlayBack" t="Prehrať"/>
+<phrase i="L_Upgrade" t="Inovovať"/>
+<phrase i="L_Postpone" t="Odložiť"/>
+
+<!-- #############  PRT Screen#############-->
+<phrase i="L_ReportProblem" t="Nahlásiť probl."/>
+<phrase i="L_ProblemDate" t="Dátum problému"/>
+<phrase i="L_ProblemTime" t="Čas problému"/>
+<phrase i="L_ProblemDescription" t="Popis problému"/>
+<phrase i="L_SelectProblem" t="Vyberte"/>
+<phrase i="L_PRTProblem1" t="Tel. sa odpojil alebo reštartoval"/>
+<phrase i="L_PRTProblem2" t="Zlyhalo pripojenie k sieti"/>
+<phrase i="L_PRTProblem3" t="Zlyhala registrácia telefónu"/>
+<phrase i="L_PRTProblem4" t="Uskutočnenie hovoru zlyhalo"/>
+<phrase i="L_PRTProblem5" t="Nedá sa odpovedať na hovor"/>
+<phrase i="L_PRTProblem6" t="Funkcie hovoru nefungujú"/>
+<phrase i="L_PRTProblem7" t="Slabá kvalita zvuku/obrazu"/>
+<phrase i="L_PRTProblem8" t="Jednosmerný zvuk/obraz"/>
+<phrase i="L_PRTProblem9" t="Žiadny zvuk/obraz"/>
+<phrase i="L_PRTProblem10" t="Pomalá odozva UI"/>
+<phrase i="L_PRTProblem11" t="Chyba zobrazenia UI"/>
+<phrase i="L_PRTProblem12" t="Iné"/>
+<phrase i="L_PrtSpinnerText" t="Vytvára sa súbor PRT"/>
+<phrase i="L_PrtStatusOKText" t="Vaše nahrávanie bolo úspešné. Súbor: %s"/>
+<phrase i="L_PrtStatusFailedText" t="Nahranie súboru PRT sa nepodarilo, ale je na webovej stránke: %s"/>
+<phrase i="L_PrtStatusFailedText1" t="Nahranie súboru PRT sa nepodarilo, ale je na webovej stránke:"/>
+<phrase i="L_PrtStatusNoURLText" t="Súbor PRT dostupný na webovej stránke (%s)"/>
+<phrase i="L_PrtStatusNoURLText1" t="Súbor PRT dostupný na webovej stránke"/>
+<phrase i="L_PrtWarningText" t="Vyberte popis problému."/>
+<phrase i="T_PRT_Submitted" t="Problém bol nahlásený"/>
+<phrase i="T_PRT_Error" t="Chyba: %d"/>
+
+<!-- #############  802.1X Authentication #############-->
+<phrase i="L_802Authentication" t="802.1X overenie"/>
+<phrase i="L_DeviceAuthentication" t="Overenie zariadenia"/>
+<phrase i="L_TransactionStatus" t="Stav transakcie"/>
+<phrase i="L_Protocol" t="Protokol"/>
+
+<!-- #############  Agent Login #############-->
+<phrase i="S_AState" t="StavAgen"/>
+<phrase i="L_ACD_AGENT_STATE" t="Nastaviť status agenta"/>
+<phrase i="S_ASignIn" t="PriAgent"/>
+<phrase i="S_ASignOut" t="OdhAgent"/>
+<phrase i="S_AgtIn" t="PriAgent"/>
+<phrase i="S_AgtOut" t="OdhAgent"/>
+<phrase i="T_ACD_CallInformation" t="Informácie o hovore"/>
+<phrase i="L_ACD_WaitTime" t="Doba čakania"/>
+<phrase i="L_ACD_CCUID" t="CC UID"/>
+<phrase i="L_ACD_CCName" t="Názov CC"/>
+<phrase i="L_ACD_Queue" t="Poradie"/>
+<phrase i="L_ACD_LongestWaitTime" t="Najdlhšia doba čakania"/>
+<phrase i="S_ACallInfo" t="Informácie o hovore"/>
+<phrase i="S_ADispCode" t="Kód dis."/>
+<phrase i="S_ATrace" t="Sledovať"/>
+<phrase i="S_AEmergcy" t="Núdz.st."/>
+<phrase i="L_ACD_DispCode" t="Kód dispozície"/>
+<phrase i="L_ACD_Emergency" t="Núdzová eskalácia"/>
+<phrase i="L_Avail" t="Dostupný"/>
+<phrase i="L_Unavail" t="Nedostupný"/>
+<phrase i="L_Wrap" t="Súhrn"/>
+<phrase i="L_SignOut" t="Odhlásiť"/>
+<phrase i="L_AgtState" t="Agent"/>
+<phrase i="L_AQS_EMPTY" t="Prázdne"/>
+<phrase i="L_AQS_NORMAL" t="ukladanie do poradia"/>
+<phrase i="L_AQS_FULL" t="plné"/>
+<phrase i="L_SECOND" t="%d s"/>
+<phrase i="L_SECONDS" t="%d s"/>
+<phrase i="L_Queue_Call" t="%d Hovor"/>
+<phrase i="L_Queue_Calls" t="%d Hovory"/>
+<phrase i="L_AgtIn" t="Agent sa prihlásil"/>
+<phrase i="L_AgtOut" t="Agent sa odhlásil"/>
+
+
+<!-- #############  Exec/Admin Feature #############-->
+<phrase i="L_Executive" t="Vedúci"/>
+<phrase i="L_Executive_List" t="Zoznam vedúcich"/>
+<phrase i="L_Assistant" t="Asistent"/>
+<phrase i="L_AllowOptInOut" t="Deaktivácia/aktivácia asistenta"/>
+<phrase i="L_CallFilter" t="Filter hovorov"/>
+<phrase i="L_CallFilterMode" t="Režim filtra hovorov"/>
+<phrase i="L_CallFilterType" t="Typ filtra hovorov"/>
+<phrase i="L_AssistsList" t="Zoznam asistentov"/>
+<phrase i="M_No_Executive" t="K dispozícii nie sú žiadni vedúci."/>
+<phrase i="L_DivertNum" t="Číslo pre odklonenie"/>
+<phrase i="OL_AllCalls" t="Vše. hov"/>
+<phrase i="OL_InternalCalls" t="Interné hovory"/>
+<phrase i="OL_ExternalCalls" t="Externé hovory"/>
+<phrase i="OL_Simple" t="Jednoduchý"/>
+<phrase i="OL_Advanced" t="Rozšírené"/>
+<phrase i="L_Opt0" t="Deaktivácia"/>
+<phrase i="L_Opt1" t="Aktivácia"/>
+<phrase i="M_CallFilterPrompt" t="Každá zmena nastavenia filtra hovorov má vplyv na všetkých ostatných asistentov. Chcete pokračovať?"/>
+<phrase i="M_DivertNumberPrompt" t="Číslo pre odklonenie je požadované pole."/>
+
+<!-- #############  GDS Activation Feature #############-->
+<phrase i="L_Welcome" t="Vitajte"/>
+<phrase i="S_Continue" t="Pokrač."/>
+<phrase i="L_Enter_Activation_Code" t="Zadajte aktivačný kód"/>
+<phrase i="L_Activation_Connecting" t="Prebieha pripájanie."/>
+<phrase i="L_Activation_Download_Configuration" t="Prebieha sťahovanie..."/>
+<phrase i="L_Activation_Check_Info" t="Neplatný aktivačný kód."/>
+<phrase i="L_Activation_Invalid_Config" t="Neplatná konfigurácia. Obráťte sa na správcu."/>
+<phrase i="L_Activation_Service_Unavailable" t="Služba nie je dostupná. Skúste to neskôr."/>
+<phrase i="L_Activation_Internal_Error" t="Reštartujte telefón alebo sa spojte so správcom."/>
+<phrase i="L_Activation_Network_Error" t="Skontrolujte internetové pripojenie alebo sa spojte so správcom."/>
+<phrase i="L_Activation_Cert_Error" t="Neplatný serverový certifikát. Spojte sa so správcom."/>
+<phrase i="L_Activation_Download_Retrying" t="Sťahovanie zlyhalo. Prebieha opakovanie..."/>
+<phrase i="L_Activation_Download_Failed" t="Sťahovanie zlyhalo. Spojte sa so správcom."/>
+<phrase i="M_Config_In_Progress" t="Prebieha kontrola konfigurácie. To trvá niekoľko minút."/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/> <!--aks:can be removed after all required screens are fixed-->
+<phrase i="L_NetworkName" t="Názov siete"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_802.11" t="Frekvenčné pásmo"/>
+<phrase i="L_5ghz" t="5 GHz"/>
+<phrase i="L_2.4ghz" t="2,4 GHz"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_WiFi_Type" t="Typ Wi-Fi"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="RRRR"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="HH"/>
+<phrase i="Label_mm" t="MM"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_SWITCH_PORT_CFG" t="Zmeniť konfig. portu"/>
+<phrase i="L_PC_PORT_CFG" t="Konfigurácia PC portu"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_PC_PORT_MIRRORING" t="Zrkadlenie portu PC"/>
+<phrase i="L_STARTUP_DELAY" t="Oneskorenie pri spustení"/>
+<phrase i="L_DHCP_VLAN_OPTION" t="Možnosť DHCP VLAN"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="VLAN ID"/>
+<phrase i="L_VLAN_PRIPORITY" t="VLAN priority"/>
+<phrase i="L_DATAPORT_VLAN" t="PC port VLAN"/>
+<phrase i="L_DATAPORT_VLANID" t="VLAN ID portu PC"/>
+<phrase i="L_DATAPORT_PRIORITY" t="PC port priority"/>
+<phrase i="OL_NO_LIMIT" t="No limit"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_WLAN" t="WLAN"/>
+<phrase i="OL_WPS" t="WPS"/>
+<phrase i="OL_RELEASE_DHCP" t="Uvoľniť DHCP IP"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_DIGEST-MD5" t="DIGEST-MD5"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  #Status messages #############-->
+<phrase i="M_SM_status_no_connection" t="Žiadne pripojenie"/>
+<phrase i="M_SM_status_Eth_connected" t="Sieť Ethernet bola pripojená"/>
+<phrase i="M_SM_status_Wifi_connected" t="Sieť Wifi bola pripojená"/>
+<phrase i="M_SM_Eth_Dis" t="Sieť Ethernet bola odpojená"/>
+<phrase i="M_SM_Wifi_Dis" t="Sieť Wifi bola odpojená"/>
+<phrase i="M_SM_V6_IP_Dup" t="Duplicitná adresa IPv6"/>
+<phrase i="M_SM_V4_IP_Dup" t="Duplicitná adresa IPv4"/>
+<phrase i="M_SM_V6_Dns_Err" t="Chyba rozlíšenia DNSv6"/>
+<phrase i="M_SM_Usr_Cncld_Pwr_off" t="Vypnutie telefónu bolo zrušené: Príkaz na vypnutie z prepínača bol zrušený z dôvodu zásahu používateľa."/>
+<phrase i="M_SM_POE_Rqd" t="Chyba vypnutia telefónu: Vypnutie sa nepodarilo, pretože na vypnutie telefónu je požadovaná technológia napájania zo siete Ethernet."/>
+<phrase i="M_SM_NO_FILE_CHG" t="Žiadne súbory neboli zmenené"/>
+<phrase i="M_SM_PORT_CFG_ERR" t="Chyba konfigurácie portu"/>
+<phrase i="M_SM_V4_ADDR_REL" t="Adresa IPv4 bola zverejnená"/>
+<phrase i="M_SM_V4_ADDR_RENEW" t="Adresa IPv4 bola obnovená"/>
+<phrase i="M_SM_NTP_TEMP_TIME" t="Keď bude dostupné NTP, manuálny čas sa prepíše."/>
+<phrase i="M_SM_CertError" t="Chyba certifikátu SSL %s"/>
+<phrase i="M_SM_DNSError" t="Chyba pri rozpoznávaní adresy %s"/>
+<phrase i="M_SM_DNSSuccess" t="Úspešne vyriešené %s"/>
+<phrase i="M_SM_NoGeolocation" t="Pre riadok %s sa nepodarilo identifikovať núdzovú polohu."/>
+<phrase i="M_SM_FailedGeolocation" t="Systému sa nepodarilo identifikovať vašu núdzovú polohu."/>
+
+<phrase i="ReadOnly_Prompt" t="Na túto zmenu nemáte oprávnenie."/>
+<phrase i="Copyright_Year" t="2000 - 2020"/>
+<phrase i="Copyright_Text" t="Copyright 2000 - 2020 Cisco Systems, Inc."/>
+
+<!-- #############  #Upgrade error message #############-->
+<phrase i="M_UG_FAIL" t="Chyba inovácie"/>
+<phrase i="M_UG_CRC_FAIL" t="Kontrola CRC zlyhala"/>
+<phrase i="M_UG_MAGIC_FAIL" t="Nerozpoznané nahranie"/>
+<phrase i="M_UG_MEMORY_NOT_ENOUGH" t="Nedostatok voľného miesta v systém. pamäti"/>
+<phrase i="M_UG_FILE_NOT_FOUND" t="Súbor sa nenašiel"/>
+<phrase i="M_UG_READ_FAIL" t="Získanie údajov zlyhalo"/>
+<phrase i="M_UG_WRITE_FAIL" t="Zápis údajov zlyhal"/>
+<phrase i="M_UG_HASH_CHECK_FAIL" t="Kontrola hashovania zlyhala"/>
+<phrase i="M_UG_HEADER_FAIL" t="Kontrola hlavnej hlavičky zlyhala"/>
+<phrase i="M_UG_UPGRADE_ABORT" t="Proces inovácie bol zrušený"/>
+<phrase i="M_UG_FORBID" t="Nekompatibilný hardvér alebo softvér"/>
+<phrase i="M_UG_CONN_FAIL" t="Nedá sa pripojiť k serveru"/>
+<phrase i="M_UG_INTERNAL_ERR" t="Interná chyba v procese inovácie"/>
+<phrase i="M_UG_BAD_LOAD_EBR" t="Chybné nahranie alebo rozšírený záznam spustenia"/>
+<phrase i="M_UG_BAD_SCHEME" t="Chybná schéma protokolu sťahovania"/>
+<phrase i="M_UG_IN_PROGRESS" t="Prebieha inovácia"/>
+<phrase i="M_UG_BAD_URL" t="Bola zadaná chybná adresa URL"/>
+<phrase i="M_UG_AUTHORIZED" t="Inovácia prechodu je oprávnená."/>
+<phrase i="M_UG_UNAUTHORIZED" t="Inovácia prechodu nemá oprávnenie."/>
+<phrase i="M_UG_AUTH_FAIL" t="Chyba pri načítaní procesu oprávnenia prechodu"/>
+<phrase i="M_UG_AUTH_FNF" t="Súbor oprávnenia načítania prechodu sa nenašiel."/>
+<phrase i="M_UG_SERV_CERT_ERR" t="Chyba certifikátu."/>
+<phrase i="M_UG_UNKNOWN_ERR" t="Neznáma chyba"/>
+
+<phrase i="Tr_Configure" t="Configuration check in progress."/>
+<phrase i="Tr_Authorize" t="Authorization in progress."/>
+<phrase i="Tr_Auth_Download" t="Inovácie prechodu a vrátenia sú povolené. Inovácia prebieha."/>
+<phrase i="Tr_Unauth_Download" t="Povolené sú len inovácie vrátenia. Inovácia prebieha."/>
+<phrase i="Tr_AuthFail" t="Overenie zlyhalo. Skontrolujte konfiguráciu a skúste to znova."/>
+<phrase i="Tr_ConfigureFail" t="Failed to download the configuration. Contact your administrator."/>
+<phrase i="Tr_ContactAdmin" t="Contact your administrator."/>
+
+<!-- TODO: Delete the following 3 strings when all code references are gone-->
+<phrase i="Tr_Revert" t="Load reversion in progress..."/>
+<phrase i="Tr_RevertPrompt" t="Do you want to revert to the previous load?"/>
+<phrase i="Tr_RevertFail" t="Failed to revert to the previous load"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s&amp;mobilePhone=%s"/>
+<phrase i="URL_AddToBSPAB" t="Application_BsDirPersAddToFrom?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2016"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All rights reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi protected setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade file select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi profile name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push button configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching available sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to personal address book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to personal address book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with personal address book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the conflict list"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the personal address book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth device name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices"/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait"/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting wireless profile"/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call history type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add new Wi-Fi profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit all changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware upgrade window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space not allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password not valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available speed dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current personal directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension name of certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter PIN."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of call history entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of received calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of placed calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of missed calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected call history entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected received calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected placed calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected missed calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to personal address book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal address book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Recents"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default transmit key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA shared key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of private key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS inner protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP inner protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="PIN"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone no"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work no"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile no"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home no"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add personal address entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check server certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed calls"/>
+<phrase i="S_Pg_C_All" t="All calls"/>
+<phrase i="S_Pg_C_XsiAll" t="Server All calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import address book from mobile phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- status messages for future use. When using, move them in translatable section-->
+<phrase i="M_SM_cant_pwr_off" t="Phone off error: Could not power off; the required EnergyWise domain is not configured."/>
+<phrase i="M_SM_app_conf" t="apply_config"/>
+<phrase i="M_SM_cust_pend" t="Custom-pending"/>
+<phrase i="M_SM_psp_dev_unreg_pwr_off" t="Device unregistered when it entered powered off due to the Power Save Plus feature"/>
+<phrase i="M_SM_trst_lst_updtd" t="Trust list updated"/>
+<phrase i="M_SM_vpn_proc_not_rng" t="VPN process not running"/>
+<phrase i="M_SM_vpn_clnt_not_rng" t="VPN client not running"/>
+<phrase i="M_SM_vpn_not_cnfgd" t="VPN not configured"/>
+<phrase i="M_SM_trst_lst_updt_faild" t="Trust list update failed"/>
+<phrase i="M_SM_itl_upd_failed" t="ITL update failed"/>
+<phrase i="M_SM_no_trst_lst" t="No trust list installed"/>
+<phrase i="M_SM_itl_instld" t="ITL installed"/>
+<phrase i="M_SM_tz_dnld_failed" t="Time zone data download failed"/>
+<phrase i="M_SM_V6_dns_to" t="IPv6 DNS timeout"/>
+<phrase i="M_SM_V4_no_tftp_svr" t="No IPv4 TFTP server"/>
+<phrase i="M_SM_V6_no_tftp_svr" t="No IPv6 TFTP server"/>
+<phrase i="M_SM_V6_dhcp_to" t="DHCPv6 Timeout"/>
+<phrase i="M_SM_V6_dns_h_un" t="DNS unknown IPv6 host"/>
+<phrase i="M_SM_V6_no_dns_svr" t="No IPv6 DNS server"/>
+<phrase i="M_SM_V6_ADDR_REL" t="IPv6 address released"/>
+<phrase i="M_SM_load_svr_invld" t="Load server is invalid"/>
+<phrase i="M_SM_tftp_svr" t="TFTP server"/>
+<phrase i="M_SM_tftp_not_auth755" t="TFTP not authorized"/>
+<phrase i="M_SM_pend" t="Pending"/>
+<phrase i="M_SM_ctl_instd" t="CTL installed"/>
+<phrase i="M_SM_ctl_updtd_failed" t="CTL update failed"/>
+<phrase i="M_SM_file_auth_fail" t="File auth fail"/>
+<phrase i="M_SM_load_auth_fail" t="Load authenication failed"/>
+<phrase i="M_SM_err_updt_lcl" t="Error updating locale"/>
+<phrase i="M_SM_load_rej_hc" t="Load rejected HC"/>
+<phrase i="M_SM_failback" t="Failback"/>
+<phrase i="M_SM_err_vrfy_cfg" t="Error verifying config info"/>
+<phrase i="M_SM_tftp_err" t="TFTP error"/>
+<phrase i="M_SM_tftp_acc_err" t="TFTP access error"/>
+<phrase i="M_SM_tcp_to" t="TCP-timeout"/>
+<phrase i="M_SM_ver_err" t="Version Error"/>
+<phrase i="M_SM_prog_err" t="Programming Error"/>
+<phrase i="M_SM_no_def_rtr" t="No default router"/>
+<phrase i="M_SM_V4_no_dns_svr" t="No IPv4 DNS server"/>
+<phrase i="M_SM_V4_dns_to" t="IPv4 DNS timeout"/>
+<phrase i="M_SM_V4_dns_h_un" t="DNS unknown IPv4 host"/>
+<phrase i="M_SM_tftp_to" t="TFTP timeout"/>
+<phrase i="M_SM_V4_dhcp_to" t="IPv4 DHCP timeout"/>
+<phrase i="M_SM_V6_Vid_Cap" t="VideoCap with IPv6 Only"/>
+
+<!-- Voice Feedback Strings (hints). DO NOT LOCALIZE this section-->
+<phrase i="VF_FEEDBACK_ON" t="voice feedback on press three times to turn off"/>
+<phrase i="VF_FEEDBACK_OFF" t="voice feedback off"/>
+<phrase i="VF_HOME_SCREEN" t="Home Screen"/>
+<phrase i="VF_STARTUP_SCREEN" t="Startup Screen"/>
+<phrase i="VF_OPTION" t="Option"/>
+<phrase i="VF_XFER_LINE" t="Transfer line"/>
+<phrase i="VF_CONF_LINE" t="Conference line"/>
+<phrase i="VF_INPUT_FIELD" t="Input field"/>
+<phrase i="VF_SWITCH_FIELD" t="Switch field"/>
+<phrase i="VF_OPTION_FIELD" t="Option field"/>
+<phrase i="VF_EXPAND_FIELD" t="Expand field"/>
+<phrase i="VF_NEXT_PAGE" t="Next page"/>
+<phrase i="VF_SLIDER_FIELD" t="Slider field"/>
+<phrase i="VF_MENU" t="Menu"/>
+<phrase i="VF_INCOMING_CALL" t="Incoming call from"/>
+<phrase i="VF_OUTGOING_CALL" t="Outgoing call to"/>
+<phrase i="VF_MISSED_CALL" t="Missed call from"/>
+<phrase i="VF_HELD_CALL" t="Held call with"/>
+<phrase i="VF_CONNECTED_CALL" t="Connected call with"/>
+<phrase i="VF_CANCEL_FORWARD" t="Cancel call forward"/>
+<phrase i="VF_MUTE" t="Mute"/>
+<phrase i="VF_SELECTED" t="Selected"/>
+<phrase i="VF_CURSOR" t="Cursor"/>
+<phrase i="VF_AT_START" t="Cursor at start"/>
+<phrase i="VF_AT_END" t="Cursor at end"/>
+<phrase i="VF_JANUARY" t="January"/>
+<phrase i="VF_FEBRUARY" t="February"/>
+<phrase i="VF_MARCH" t="March"/>
+<phrase i="VF_APRIL" t="April"/>
+<phrase i="VF_MAY" t="May"/>
+<phrase i="VF_JUNE" t="June"/>
+<phrase i="VF_JULY" t="July"/>
+<phrase i="VF_AUGUST" t="August"/>
+<phrase i="VF_SEPTEMBER" t="September"/>
+<phrase i="VF_OCTOBER" t="October"/>
+<phrase i="VF_NOVEMBER" t="November"/>
+<phrase i="VF_DECEMBER" t="December"/>
+<phrase i="VF_MENU_CLOSED" t="Menu Closed"/>
+<phrase i="VF_DND_SET" t="Do Not Disturb Set"/>
+<phrase i="VF_DND_CANCEL" t="Do Not Disturb Cancelled"/>
+<!-- Voice Feedback Strings. END OF THIS SECTION-->
+
+</phrases>

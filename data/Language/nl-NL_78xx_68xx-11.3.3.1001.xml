@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Max number of parsable phrases is capped at 4096 in csstringrepo.c --><phrases>
+<trkLocaleName>Dutch</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  Conference Microphones ###########-->
+
+<phrase i="L_WirelessPairing_info" t="Houd de toets Dempen op microfoon %d 3 seconden ingedrukt. Tijdens het koppelen knippert het lampje op de microfoon wit."/>
+<phrase i="L_UNPLUG_WIRED" t="Koppel de bedrade microfoons los voordat u op Koppelen drukt."/>
+
+<phrase i="L_WIRED_MIC_CONNECTED" t="Bedrade microfoon %d verbonden."/>
+<phrase i="L_WIRED_MIC_DISCONNECTED" t="Verbinding bedrade microfoon %d verbroken."/>
+<phrase i="L_WIRELESS_MIC_DISCONNECTED" t="Verbinding draadloze microfoon %d verbroken."/>
+<phrase i="L_WIRELESS_MIC_CONNECTED" t="Draadloze microfoon %d verbonden."/>
+
+<phrase i="L_LOW_BATTERY" t="Batterij van microfoon minder dan %d%25%25 opgeladen."/>
+<phrase i="L_RANGE" t="Bereik"/>
+<phrase i="L_BATTERY_LEVEL" t="Batterijniveau %d%%"/>
+<phrase i="L_BATTERY_POOR_CONNECTION" t="Slechte aansluiting met de batterij"/>
+<phrase i="L_BATTERY_BAD" t="Slechte batterij"/>
+<phrase i="L_PAIRED" t="Gekoppeld"/>
+<phrase i="L_UNPAIRED" t="Ontkoppeld"/>
+<phrase i="L_LOST_LINK" t="Koppeling verbroken"/>
+<phrase i="L_UPGRADE_IN_PROGRES" t="Bezig met upgraden"/>
+<phrase i="L_WIRELESS_MICROPHONE" t="Draadloze microfoon %d"/>
+<phrase i="L_MICROPHONE" t="Microfoon %d"/>
+<phrase i="L_MICROPHONES" t="Microfoons"/>
+<phrase i="L_WIRED_MIC" t="Bedrade microfoons"/>
+<phrase i="L_WIRELESS_MIC" t="Draadloze microfoons"/>
+<phrase i="L_PAIR" t="Koppelen"/>
+<phrase i="L_UNPAIR" t="Ontkop."/>
+<phrase i="L_LOSTLINK" t="Koppeling verloren"/>
+<phrase i="L_WIRELESS_MICROPHONE_ID" t="Microfoon %d wordt gekoppeld"/>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="Systeem wordt opnieuw opgestart"/>
+<phrase i="L_S_NET" t="Bezig init. netw."/>
+<phrase i="L_S_DOWNLOAD" t="Downloaden wordt uitgevoerd"/>
+<phrase i="L_S_UPGRADE" t="Upgraden naar"/>
+<phrase i="L_S_UPGRADEFAILED" t="Upgrade mislukt."/>
+<phrase i="L_S_RESYNC" t="Opnieuw synchroniseren naar"/>
+<phrase i="L_S_RESYNCFAILED" t="Opnieuw synchroniseren mislukt."/>
+<phrase i="L_S_SRVC_PROVISIONING_FAILED" t="Controleer uw inrichtingsinstellingen of neem contact op met uw serviceprovider."/>
+<phrase i="L_S_CONNECT" t="Bezig met verbinden"/>
+<phrase i="L_S_NOCME" t="Kan UCxxx niet vinden. Neem contact op met uw beheerder."/>
+<phrase i="L_S_REGTOKENREJECT" t="Token SPCP-register geweigerd. Opnieuw proberen..."/>
+<phrase i="L_S_REGISTERING" t="Bezig met registreren"/>
+<phrase i="L_S_REGISTERED" t="Registratie voltooid."/>
+<phrase i="L_S_REGREJECT" t="Registratie geweigerd."/>
+<phrase i="L_S_REGFAILED" t="Registratie mislukt."/>
+<phrase i="L_S_NO_REG" t="Uw telefoon is niet geregistreerd. Neem contact op met de beheerder."/>
+<phrase i="L_S_NO_NETWORK" t="Uw telefoon kan geen verbinding maken met het netwerk. Controleer de telefoonkabels. Neem contact op met de beheerder als het probleem zich blijft voordoen."/>
+<phrase i="L_S_NO_WIFI_NETWORK" t="U moet het netwerk configureren om de oproepfuncties in te schakelen."/>
+<phrase i="L_S_SRVC_NO_NETWORK" t="Controleer uw internetverbinding of contacteer uw serviceprovider."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_NEWCALL" t="Nieuw gesprek"/>
+<phrase i="L_DS_ENTERNUMBER" t="Nummer invoeren"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="Alle gesprekken doorsch."/>
+<phrase i="L_DS_ENTER_CFWD" t="Doorschakelen"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="Doorsch. gespr. bezet"/>
+<phrase i="L_DS_ENTER_NOANS" t="Gesprekken doorschakelen bij geen antwoord"/>
+<phrase i="L_DS_ENTER_BXFER" t="Doel doorverbinden zonder gesprek invoeren"/>
+<phrase i="L_DS_ENTER_PARK" t="Nummer typen om te parkeren"/>
+<phrase i="L_DS_ENTER_UNPARK" t="Nummer typen om parkeren op te heffen"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="Doel verwijzingsservice invoeren"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="Doel speciale service invoeren"/>
+<phrase i="L_DS_ENTER_MORE" t="Meer cijfers invoeren"/>
+<phrase i="L_DS_ENTER_PICKUP" t="Nummer voor opnemen invoeren"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="Groep voor opnemen invoeren"/>
+<phrase i="L_DS_ENTER_PAGE" t="Paginadoel invoeren"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="Buitennummer invoeren"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="Accountcode invoeren"/>
+<phrase i="L_DS_ENTER_PROXYCALL" t="Proxygesprek"/>
+<phrase i="L_DS_ENTER_DIVERTALL" t="Alles omleiden"/>
+<phrase i="L_DS_LINE" t="Lijn: %s"/>
+<phrase i="L_DS_FOR" t="voor %s"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="Lijn"/>
+<phrase i="L_READY" t="Gereed"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="Ongeregistr."/>
+<phrase i="L_CAPPN_DISABLED" t="Uitgesch."/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="Snelkeuze"/>
+<phrase i="L_CAPPN_APP" t="Toepassing"/>
+<phrase i="L_CAPPN_URL" t="Service-URL"/>
+<phrase i="L_CAPPN_FEAT" t="Functie"/>
+<phrase i="L_CAPPN_EXTFUNC" t="Uitgebreide functie"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="Gast gereed"/>
+<phrase i="CALL_RINGING" t="Inkomende oproep"/>
+<phrase i="L_CONNECTED" t="Verbonden"/>
+<phrase i="L_NOT_CONNECTED" t="Niet verbonden"/>
+<phrase i="L_OK" t="OK"/>
+<phrase i="L_DUPLICATED" t="Gedupliceerd"/>
+<phrase i="L_INITIALIZING" t="Initialiseren"/>
+<phrase i="L_CONNECTING" t="Bezig met verbinden"/>
+<phrase i="L_DHCP_ERROR" t="DHCP-fout"/>
+<phrase i="CALL_HOLDING" t="Gesprek in wacht"/>
+<phrase i="CALL_END" t="Gesprek beëindigd"/>
+<phrase i="CALL_CALLING" t="Gesprek bezig"/>
+<phrase i="CALL_SEIZED" t="Opgelegd"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="In wacht"/>
+<phrase i="CALL_DIALING" t="Kiezen"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="Bezig met hervatten"/>
+<phrase i="CALL_SHARE" t="Gesprek delen"/>
+<phrase i="CALL_PAGE" t="Pagina"/>
+<phrase i="CALL_PICKUP" t="Opnemen"/>
+<phrase i="CALL_PICKUPCALL" t="Gesprek opnemen"/>
+<phrase i="CALL_PICKUPFAILED" t="Opnemen mislukt."/>
+<phrase i="CALL_PICKUP_NULL" t="Geen oproepen."/>
+<phrase i="CALL_GPICKUP" t="Groep opnemen"/>
+<phrase i="CALL_GPICKUPSTATION" t="Station opnemen"/>
+<phrase i="CALL_ANSWERING" t="Beantwoorden"/>
+<phrase i="CALL_UNKNOWN" t="Onbekend"/>
+<phrase i="CALL_ANONYMOUS" t="Anoniem"/>
+<phrase i="CALL_USER" t="Gebruiker"/>
+<phrase i="CALL_IDLE" t="Inactief"/>
+<phrase i="CALL_PROGRESSING" t="Voortgang"/>
+<phrase i="CALL_ALERT" t="Waarschuwen"/>
+<phrase i="CALL_ACTIVE" t="Actief"/>
+<phrase i="CALL_HELD" t="In wacht"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="Brug actief"/>
+<phrase i="CALL_BRIDGE_HELD" t="Brug aktief"/>
+<phrase i="CALL_FROM" t="Van"/>
+<phrase i="CALL_TO" t="Aan"/>
+<phrase i="CALL_CALLBACK" t="Terugbellen"/>
+<phrase i="CALL_FORWARD" t="Doorsturen"/>
+<phrase i="CALL_XFERTO" t="Doorschakelen naar"/>
+<phrase i="CALL_PAGEFROM" t="Pagina van"/>
+<phrase i="CALL_PAGETO" t="Pagina tot"/>
+<phrase i="CALL_BY" t="Van"/>
+<phrase i="CALL_CALLER" t="Beller"/>
+<phrase i="CALL_BUSY" t="In gesprek"/>
+<phrase i="CALL_REORDER" t="Opnieuw ordenen"/>
+<phrase i="CALL_CONGESTION" t="Opstopping"/>
+<phrase i="CALL_PROCEED" t="Doorgaan"/>
+<phrase i="CALL_RML" t="Externe multilijn in gebruik"/>
+<phrase i="CALL_INVALIDNUM" t="Ongeldig nummer"/>
+<phrase i="CALL_INVALID" t="Ongeldig"/>
+<phrase i="L_GATHERINFO" t="Bezig met verzamelen info"/>
+<phrase i="L_FAILED" t="Mislukt"/>
+<phrase i="L_Empty" t="Leeg"/>
+<phrase i="L_DND" t="Niet storen"/>
+<phrase i="L_CFWD" t="Doorgestuurde gesprekken"/>
+<phrase i="L_CFWDTO" t="naar %s"/>
+<phrase i="L_MissedCall" t="Nieuwe gemiste oproep"/>
+<phrase i="L_MissedCalls" t="Nieuwe gemiste oproepen"/>
+<phrase i="L_RingCallList" t="Lijst bellende oproepen"/>
+<phrase i="L_RingStationList" t="Lijst bellende stations"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="Ongeldig parkeernummer."/>
+<phrase i="L_SECS_LOGIN_OK" t="Aanmelden gelukt."/>
+<phrase i="L_SECS_LOGIN_FAILED" t="Aanmelden mislukt. Controleer uw gebruikers-ID en wachtwoord."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="Update ACD-beschikbaarheid mislukt."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="Update ACD-beschikbaarheid gelukt."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="Contact opnemen met ACD-server"/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="Gebruikers-ID en wachtw.invoeren."/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="Contact opnemen met server"/>
+<phrase i="L_SECS_HOTELING_OK" t="Aanmelden gelukt."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="Aanmelden mislukt."/>
+<phrase i="L_SECS_HOTELING_LOGOUT_CONFIRMATION" t="Weet u zeker dat u zich wilt afmelden?"/>
+<phrase i="L_ACD_LoginForm" t="ACD-aanmeldingsformulier"/>
+<phrase i="L_TRANSFERRING" t="Doorverbinden"/>
+<phrase i="L_XFERFAILED" t="Doorverbinden mislukt"/>
+<phrase i="L_LineSeizing" t="Poging om lijn in beslag te nemen"/>
+<phrase i="L_GatheringCallInfo" t="Gespreksinfo verzamelen"/>
+<phrase i="L_SelectingCall" t="Gesprek kiezen"/>
+<phrase i="L_SelectingStation" t="Telefoon kiezen"/>
+<phrase i="L_ContactingStunServer" t="Verbinden met STUN-server"/>
+<phrase i="L_CalledPartyRinging" t="Gebelde partij oproepen"/>
+<phrase i="L_TryingHold" t="Bezig met in wacht zetten"/>
+<phrase i="L_TringResume" t="Bezig met hervatten"/>
+<phrase i="L_StunIn" t="STUN-ingang"/>
+<phrase i="L_Shared" t="Gedeeld"/>
+<phrase i="L_Conference" t="Conferentie"/>
+<phrase i="L_SecureCallIndication" t="Signaal beveiligd gesprek"/>
+<phrase i="L_SystemBeep" t="Pieptoon systeem"/>
+<phrase i="L_2ndDial" t="Tweede keer kiezen"/>
+<phrase i="L_OutsideDial" t="Buitenlijn kiezen"/>
+<phrase i="L_BluetoothDial" t="Kiezen via Bluetooth"/>
+<phrase i="L_MessageWaiting" t="Bericht in wacht"/>
+<phrase i="L_RingBack" t="Terugbellen"/>
+<phrase i="L_OffhookWarning" t="Waarschuwing hoorn van haak"/>
+<phrase i="L_Ring" t="Bellen"/>
+<phrase i="L_Alert" t="Waarschuwing"/>
+<phrase i="L_Ring_hold" t="Bellen - in wacht"/>
+<phrase i="L_Ring_Callback" t="Bellen - terugbellen"/>
+<phrase i="L_Inbound" t="Inkomend"/>
+<phrase i="L_Outbound" t="Uitgaand"/>
+<phrase i="L_Forwarded" t="Doorgeschakeld"/>
+<phrase i="L_Transfered" t="Doorverbonden"/>
+<phrase i="L_Transfer" t="Doorvb"/>
+<phrase i="L_Secure" t="Beveiligd"/>
+<phrase i="L_CallsList" t="Oproeplijst"/>
+<phrase i="L_InvalidAcntCode" t="Ongeldige accountcode"/>
+<phrase i="L_ServiceUnavailable" t="Service niet beschikbaar"/>
+<phrase i="L_Via" t="Via: %s"/>
+<phrase i="L_CALL_DTMF_WAIT" t="Voer meer cijfers in en druk op OK om door te gaan."/>
+<phrase i="L_CALL_PARKED" t="Gesprek wordt geparkeerd"/>
+<phrase i="L_TO" t="naar"/>
+<phrase i="L_Incoming" t="Inkomend"/>
+<phrase i="L_Private" t="Privé"/>
+<phrase i="L_Seized" t="Opgelegd"/>
+<phrase i="L_CurrentSelectionTitle" t="%d van %d"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="In gebruik"/>
+<phrase i="CALL_OTHERRESERVED" t="Gereserveerd"/>
+<phrase i="CALL_OTHERIDLE" t="Overige inactief"/>
+<phrase i="CALL_OTHERNOSERV" t="Geen service"/>
+<phrase i="CALL_OTHERHOLD" t="Overige in wacht"/>
+<phrase i="CALL_OTHERRING" t="Overige bellen"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="Belstatistieken"/>
+<phrase i="T_AB_STSCH_LIST" t="Belstatistieken"/>
+<phrase i="L_Name" t="Naam"/>
+<phrase i="L_WorkPhone" t="Tel. zakelijk"/>
+<phrase i="L_Extension" t="Toestel"/>
+<phrase i="L_HomePhone" t="Telefoon thuis"/>
+<phrase i="L_ConferenceNumber" t="Conferentienummer"/>
+<phrase i="L_MobilePhone" t="Mobiele telefoon"/>
+<phrase i="L_RingTone" t="Beltoon"/>
+<phrase i="L_AT" t="op"/>
+<phrase i="L_PeerName" t="Naam van peer"/>
+<phrase i="L_PeerNumber" t="Telefoon peer"/>
+<phrase i="L_CallType" t="Gesprekstype"/>
+<phrase i="L_CallDuration" t="Gespreksduur"/>
+<phrase i="L_CallDuration1" t="Duur:"/>
+<phrase i="L_EncCodec" t="Codec coderen"/>
+<phrase i="L_DecCodec" t="Codec decoderen"/>
+<phrase i="L_CallTime" t="Beltijd"/>
+<phrase i="L_CallID" t="Gespr.-id"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="Status geparkeerde oproep"/>
+<phrase i="T_AB_CALLPARK_LIST" t="Lijst geparkeerde oproepen"/>
+<phrase i="L_ParkingAt" t="Parkeren op"/>
+<phrase i="L_ParkingBy" t="Parkeren op"/>
+<phrase i="CPARK_PROGRESSING" t="Bezig met ophalen status oproep parkeren..."/>
+<phrase i="CPARK_FAILED" t="Aanvraag status oproep parkeren mislukt"/>
+<phrase i="CPARK_EMPTY" t="Geen geparkeerde oproepen"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="Stercodeselectie"/>
+<phrase i="callReturnCode" t="Terugbellen"/>
+<phrase i="blindXferCode" t="Doorverb. zonder gesprek"/>
+<phrase i="callBackActCode" t="Terugbellen"/>
+<phrase i="callBackDeactCode" t="Terugbellen annuleren"/>
+<phrase i="forwardAllActCode" t="Alle gesprekken doorsch."/>
+<phrase i="forwardAllDeactCode" t="Alle gspr. drsch. annl."/>
+<phrase i="forwardBusyActCode" t="Doorsch. gespr. bezet"/>
+<phrase i="forwardBusyDeactCode" t="Drsch. gspr. bezet annl."/>
+<phrase i="forwardNoAnsActCode" t="Doorsch. bij geen antw."/>
+<phrase i="forwardNoAnsDeactCode" t="Drsch. bij gn antw.annl."/>
+<phrase i="forwardNoAnsActCode_s" t="Doorsch. bij geen antw."/>
+<phrase i="forwardNoAnsDeactCode_s" t="Drsch. bij gn antw.annl."/>
+<phrase i="blockCIDActCode" t="Beller-ID blokkeren"/>
+<phrase i="blockCIDDeactCode" t="Blokk. beller-ID annulrn"/>
+<phrase i="blockCIDPerCallActCode" t="Daarna beller-ID blokkrn"/>
+<phrase i="blockCIDPerCallDeactCode" t="Daarna beller-ID annlrn"/>
+<phrase i="blockANCode" t="Anonieme oproepen blok."/>
+<phrase i="blockANCDeactCode" t="Anonieme opr.blok.annl."/>
+<phrase i="blockANCode_s" t="ANC blokkeren"/>
+<phrase i="blockANCDeactCode_s" t="ANC blokkeren annuleren"/>
+<phrase i="DNDActCode" t="Niet storen"/>
+<phrase i="DNDDeactCode" t="Niet storen annul."/>
+<phrase i="CIDActCode" t="Beller-ID"/>
+<phrase i="CIDDeactCode" t="Beller-ID annuleren"/>
+<phrase i="secureAllActCode" t="Alle oproepen beveiligen"/>
+<phrase i="secureAllDeactCode" t="Al. gspr. beveilgn annl."/>
+<phrase i="secureOneCallActCode" t="Volgende beveiligen"/>
+<phrase i="secureOneCallDeactCode" t="Beveilgn volgnd annulrn"/>
+<phrase i="pagingCode" t="Pagen"/>
+<phrase i="callParkCode" t="Gesprek parkeren"/>
+<phrase i="callUnparkCode" t="Gesprek parkeren annulrn"/>
+<phrase i="callPickupCode" t="Opnemen"/>
+<phrase i="groupCallPickupCode" t="Groep opnemen"/>
+<phrase i="mediaLoopBackCode" t="Media-loopback"/>
+<phrase i="preferG711uCode" t="Verkies G711U"/>
+<phrase i="forceG711uCode" t="Forceer G711U"/>
+<phrase i="preferG711aCode" t="Verkies G711A"/>
+<phrase i="forceG711aCode" t="Forceer G711A"/>
+<phrase i="preferG723Code" t="Verkies G723"/>
+<phrase i="forceG723Code" t="Forceer G723"/>
+<phrase i="preferG726r16Code" t="Verkies G726r16"/>
+<phrase i="forceG726r16Code" t="Forceer G726r16"/>
+<phrase i="preferG726r24Code" t="Verkies G726r24"/>
+<phrase i="forceG726r24Code" t="Forceer G726r24"/>
+<phrase i="preferG726r32Code" t="Verkies G726r32"/>
+<phrase i="forceG726r32Code" t="Forceer G726r32"/>
+<phrase i="preferG726r40Code" t="Verkies G726r40"/>
+<phrase i="forceG726r40Code" t="Forceer G726r40"/>
+<phrase i="preferG729aCode" t="Verkies G729A"/>
+<phrase i="forceG729aCode" t="Forceer G729A"/>
+<phrase i="preferG722Code" t="Verkies G722"/>
+<phrase i="forceG722Code" t="Forceer G722"/>
+<phrase i="preferL16Code" t="Verkies L16"/>
+<phrase i="forceL16Code" t="Forceer L16"/>
+<phrase i="preferILBCCode" t="Verkies iLBC"/>
+<phrase i="forceILBCCode" t="Forceer iLBC"/>
+<phrase i="preferISACCode" t="Verkies iSAC"/>
+<phrase i="forceISACCode" t="Forceer iSAC"/>
+<phrase i="preferG722_2Code" t="Verkies G722_2"/>
+<phrase i="forceG722_2Code" t="Forceer G722_2"/>
+<phrase i="preferOPUSCode" t="Verkies OPUS"/>
+<phrase i="forceOPUSCode" t="Forceer OPUS"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_AM" t="AM"/>
+<phrase i="L_PM" t="PM"/>
+<phrase i="L_UpTime" t="Verstr. tijd"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="dag en"/>
+<phrase i="L_DAYS_AND" t="dagen en"/>
+<phrase i="L_Packets" t="(pakketten)"/>
+<phrase i="L_Registered" t="Geregistr."/>
+<phrase i="L_notRegistered" t="Ongeregistr."/>
+<phrase i="L_notReachable" t="Onbereikbaar"/>
+<phrase i="L_Authenticate" t="Vaststellen"/>
+<phrase i="L_Succeeded" t="Gelukt"/>
+<phrase i="L_Error" t="Fout"/>
+<phrase i="L_LastRegAt" t="Laatste registratie op:"/>
+<phrase i="L_NextRegIn" t="Volgende registratie:"/>
+<phrase i="L_Proxy" t="Proxy:"/>
+<phrase i="L_Reason" t="Reden"/>
+<phrase i="L_Status" t="Status"/>
+<phrase i="L_CallStatusInfo" t="Status"/>
+<phrase i="L_XMLServices" t="XML-services"/>
+<phrase i="L_Tone" t="Toon"/>
+<phrase i="L_Type" t="Type"/>
+<phrase i="L_CallName" t="Naam"/>
+<phrase i="L_Number" t="Nummer"/>
+<phrase i="L_Enc" t="Coderen"/>
+<phrase i="L_Dec" t="Decoderen"/>
+<phrase i="L_Dur" t="Duur"/>
+<phrase i="L_CALL" t="Gesprek"/>
+<phrase i="L_CALLSTATUS" t="Status gesprek %d"/>
+<phrase i="L_CALL1" t="Gesprek 1"/>
+<phrase i="L_CALL2" t="Gesprek 2"/>
+<phrase i="L_CALL3" t="Gesprek 3"/>
+<phrase i="L_CALL4" t="Gesprek 4"/>
+<phrase i="L_CALL5" t="Gesprek 5"/>
+<phrase i="L_CALL6" t="Gesprek 6"/>
+<phrase i="L_CALL7" t="Gesprek 7"/>
+<phrase i="L_CALL8" t="Gesprek 8"/>
+<phrase i="L_CALL9" t="Gesprek 9"/>
+<phrase i="L_CALL10" t="Gesprek 10"/>
+<phrase i="L_CALL11" t="Gesprek 11"/>
+<phrase i="L_INFO" t="Informatie"/>
+<phrase i="L_Extension" t="Toestel"/>
+<phrase i="L_Extension1" t="Toest.:"/>
+<phrase i="T_PHN_STATUS" t="Telefoonstatus"/>
+<phrase i="T_LINE_STATUS" t="Lijnstatus"/>
+<phrase i="T_PROV_STATUS" t="Toegangsbeheer"/>
+<phrase i="T_PROV_STATUS1" t="Toegangsbeheer status 1"/>
+<phrase i="T_PROV_STATUS2" t="Toegangsbeheer status 2"/>
+<phrase i="T_PROV_STATUS3" t="Toegangsbeheer status 3"/>
+<phrase i="T_PHN_SYS_STATUS" t="Telefoonstatus"/>
+<phrase i="L_ExtLabel" t="Status toestel %d"/>
+<phrase i="L_Line1Status" t="Status lijn 1"/>
+<phrase i="L_Line2Status" t="Status lijn 2"/>
+<phrase i="L_Line3Status" t="Status lijn 3"/>
+<phrase i="L_Line4Status" t="Status lijn 4"/>
+<phrase i="L_Line5Status" t="Status lijn 5"/>
+<phrase i="L_Line6Status" t="Status lijn 6"/>
+<phrase i="L_Line7Status" t="Status lijn 7"/>
+<phrase i="L_Line8Status" t="Status lijn 8"/>
+<phrase i="L_Line9Status" t="Status lijn 9"/>
+<phrase i="L_Line10Status" t="Status lijn 10"/>
+<phrase i="L_Line11Status" t="Status lijn 11"/>
+<phrase i="L_Line12Status" t="Status lijn 12"/>
+<phrase i="L_Line13Status" t="Status lijn 13"/>
+<phrase i="L_Line14Status" t="Status lijn 14"/>
+<phrase i="L_Line15Status" t="Status lijn 15"/>
+<phrase i="L_Line16Status" t="Status lijn 16"/>
+<phrase i="DeletePrompt" t="Weet u zeker dat u %s wilt verwijderen?"/>
+<phrase i="DeleteListPrompt" t="Wilt u %s belrecords verwijderen?"/>
+<phrase i="DeleteAllPrompt" t="Wilt u alle gegevens verwijderen?"/>
+<phrase i="DeleteAllCallsPrompt" t="Wilt u alle records voor alle lijnen verwijderen?"/>
+<phrase i="AddPrompt" t="Invoergegevens onvolledig. Wilt u opslaan?"/>
+<phrase i="AddNullPrompt" t="Invoergegevens onvolledig. "/>
+<phrase i="AddFullPrompt" t="Adresboek is vol. Kan het gegeven niet plakken."/>
+<phrase i="UpdatePrompt" t="Invoergegevens onvolledig. Wilt u bijwerken?"/>
+<phrase i="ClearPrompt" t="Wilt u record %s wissen?"/>
+<phrase i="ClearStatusPrompt" t="Wilt u de statusberichten wissen?"/>
+<phrase i="ClearString" t="Wilt u %s wissen?"/>
+<phrase i="Prompt_Logout" t="Wilt u afmelden?"/>
+<phrase i="Message_Rebooting" t="Bezig met opnieuw opstarten"/>
+<phrase i="Message_UpdateConfig" t="Configuratie toepassen"/>
+<phrase i="Message_FactoryReset" t="Fabrieksinstellingen herstellen. Bezig met opnieuw opstarten."/>
+<phrase i="Message_RebootingVoIP" t="Voicecomponent wordt vernieuwd"/>
+<phrase i="Message_CustomReset" t="Aangepast herstellen. Bezig met opnieuw opstarten."/>
+<phrase i="All" t="Alle gesprekken"/>
+<phrase i="Answered" t="Ontvangen gesprekken"/>
+<phrase i="Outgoing" t="Gevoerde gesprekken"/>
+<phrase i="Missed" t="Gemiste gesprekken"/>
+<phrase i="AnsweredCallType" t="Ontvangen gesprek"/>
+<phrase i="OutgoingCallType" t="Gevoerd gesprek"/>
+<phrase i="MissedCallType" t="Gemiste oproep"/>
+<phrase i="RebootPrompt" t="Wilt u het systeem opnieuw opstarten?"/>
+<phrase i="DeepsleepPrompt" t="De telefoon kan geen oproepen ontvangen tijdens energiebesparing."/>
+<phrase i="PowerSavePromptUpgrading" t="Upgrade in uitvoering; probeer het later opnieuw."/>
+<phrase i="PowerSavePromptEmlogin" t="Log uit de Extension Mobility en probeer het opnieuw."/>
+<phrase i="PowerSavePromptHoteling" t="Meld u af en probeer het opnieuw."/>
+<phrase i="PowerSavePromptCallInProgress" t="Bezig met een oproep. Beëindig oproep en probeer opnieuw."/>
+<phrase i="FactoryResetPrompt" t="Wilt u de fabrieksinstellingen voor het systeem toepassen?"/>
+<phrase i="ResetPrompt" t="Wilt u het systeem opnieuw instellen?"/>
+<phrase i="ClearWlanMessagesPrompt" t="Weet u zeker dat u alle berichten wilt verwijderen?"/>
+<phrase i="CustomResetPrompt" t="Controleren op updates voor het aanpasssingsprofiel? (werkt op de achtergrond)"/>
+<phrase i="WPSPbcPrompt" t="Druk op de WPS-knop op het andere apparaat en druk vervolgens op Doorgaan."/>
+<phrase i="WPSPinPrompt" t="Voer PIN [ %s ] in op het andere apparaat"/>
+<phrase i="MSG_InvalidPasswordData" t="Ongeldige aanmeldingsgegevens"/>
+<phrase i="Label_Day" t="Dag"/>
+<phrase i="CertInstall" t="Geïnstalleerd"/>
+<phrase i="CertNotInstall" t="Niet geïnstalleerd"/>
+<phrase i="L_Network_Type" t="Netwerktype"/>
+<phrase i="L_Network_Statistics" t="Netwerkstatistieken"/>
+<phrase i="L_Address_Type" t="Adresseringstype"/>
+<phrase i="L_Gateway" t="Standaardrouter"/>
+<phrase i="L_MAC_Address" t="MAC-adres"/>
+<phrase i="T_DEVICE_INFO" t="Productinformatie"/>
+<phrase i="L_Product_Name" t="Productnaam"/>
+<phrase i="L_Serial_Number" t="Serienummer"/>
+<phrase i="L_Software_Version" t="Softwareversie"/>
+<phrase i="L_Wi-Fi_Messages" t="WiFi-berichten"/>
+<phrase i="L_VID" t="VID"/>
+<phrase i="L_Desp" t="Beschrijving"/>
+<phrase i="L_Hardware_Version" t="Hardwareversie"/>
+<phrase i="L_Certificate" t="Certificaat"/>
+<phrase i="L_Config_Version" t="Configuratieversie"/>
+<phrase i="L_CustomizationInfo" t="Aanpassing"/>
+<phrase i="L_Asset_ID" t="Activum-id"/>
+<phrase i="L_DHCP_Server" t="DHCP-server"/>
+<phrase i="L_TFTP_Server_1" t="TFTP-server 1"/>
+<phrase i="L_Last_TFTP_Server" t="Laatste TFTP-server"/>
+<phrase i="L_Host_Name" t="Hostnaam"/>
+<phrase i="L_Domain_Name" t="Domein"/>
+<phrase i="L_CallManager_1" t="CallManager 1"/>
+<phrase i="L_Directories_URL" t="Mappen URL"/>
+<phrase i="L_Services_URL" t="Services URL"/>
+<phrase i="L_Messages_URL" t="Berichten URL"/>
+<phrase i="L_Authentication_URL" t="Verificatie URL"/>
+<phrase i="L_User_Locale" t="Landinstelling gebruiker"/>
+<phrase i="L_Network_Locale" t="Landinstelling netwerk"/>
+<phrase i="L_Switch_Port_Link" t="Poortkopp. omschakelen"/>
+<phrase i="L_Switch_Port_Config" t="Poortconfig. selecteren"/>
+<phrase i="L_PC_Port_Config" t="Pc-poort configureren"/>
+<phrase i="L_PC_Port_Link" t="PC port link"/>
+<phrase i="L_Status_Messages" t="Statusberichten"/>
+<phrase i="T_PERIPHERAL_STATUS" t="Status randapparatuur"/>
+<phrase i="L_Peripheral" t="Randapparaat"/>
+<phrase i="L_Analog_Headset" t="Analoge headset"/>
+<phrase i="L_USB_Status" t="USB-station"/>
+<phrase i="L_xmit" t="verzenden"/>
+<phrase i="L_recv" t="ontvangen"/>
+<phrase i="L_Multicast" t="mcst"/>
+<phrase i="L_EthPackets" t="Ethernet: pakketten (bytes)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: pakketten (bytes)"/>
+<phrase i="L_Wireless" t="Draadloos"/>
+<phrase i="L_No_Network" t="Geen netwerk"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="Toets"/>
+<phrase i="L_IPv4Status" t="IPv4-status"/>
+<phrase i="L_IPv6Status" t="IPv6-status"/>
+<phrase i="L_Prefixlen" t="Lengte voorvoegsel"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="Beantwcons. 1"/>
+<phrase i="L_Sidecar2_Status" t="Beantw.cons.2"/>
+<phrase i="L_DISCONNECTED" t="Verb.verbroken"/>
+<phrase i="L_Attendant_Console_Unit" t="Telefoonoperator app. eenheid %d"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="Ja"/>
+<phrase i="L_No" t="Nee"/>
+<phrase i="L_Switch0" t="Uit"/>
+<phrase i="L_Switch1" t="Aan"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="Pers. adresgegevens bewerken"/>
+<phrase i="T_AB_Add_Entry" t="Pers. adresgegevens toevoegen"/>
+<phrase i="T_AB_Search" t="Adresgegevens zoeken"/>
+<phrase i="T_AB_Select" t="Adresgegevens selecteren"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="Tijdstip van oproep"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="Gemiste oproep"/>
+<phrase i="L_PhoneNo" t="Nummer"/>
+<phrase i="L_CallAt" t="Bellen om"/>
+<phrase i="L_Duration" t="Duur"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="Snelkiezen bewerken"/>
+<phrase i="T_SD_List" t="Snelkiesnummers"/>
+<phrase i="L_SpeedDialNo" t="Snelkiesnummer"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="Beltoon kiezen"/>
+<phrase i="T_RT_Select_USB" t="Beltoon kiezen van USB"/>
+<phrase i="T_RT_Select_Slot" t="Slot kiezen voor opslaan beltoon"/>
+<phrase i="T_RT_Not_Installed" t="Niet geïnstalleerd"/>
+<phrase i="T_RT_USER_1" t="Gebruiker 1"/>
+<phrase i="T_RT_USER_2" t="Gebruiker 2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="Informatie en instellingen"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Bluetooth-headset"/>
+<phrase i="L_UserPref" t="Gebruikersvoorkeuren"/>
+<phrase i="L_CallRecord" t="Configuratie oproepopnamen"/>
+<phrase i="L_CallRecordMode" t="Audiomodus opnamen"/>
+<phrase i="L_CallRecordAudioPath" t="Audiopad opnamen"/>
+<phrase i="L_CallRecordBeep" t="Herinneringstoon opname"/>
+<phrase i="L_CallRecords" t="Opnamen"/>
+<phrase i="L_CallRecordsPlayer" t="Gespreksopnamen"/>
+<phrase i="L_Directory" t="Telefoonlijsten"/>
+<phrase i="OL_Fastest" t="Snelst"/>
+<phrase i="OL_Faster" t="Sneller"/>
+<phrase i="OL_Normal" t="Normaal"/>
+<phrase i="OL_Slower" t="Langzamer"/>
+<phrase i="OL_Slowest" t="Langzaamst"/>
+<phrase i="L_VoiceSpeed" t="Spraaksnelheid"/>
+<phrase i="L_SelectVFSpeed" t="Selecteer Stemsnelheid"/>
+<phrase i="L_VoiceVolume" t="Spraakvolume"/>
+<phrase i="L_VoiceFeedback" t="Gesproken feedback"/>
+<phrase i="L_Accessibility" t="Toegankelijkheid"/>
+<phrase i="L_CallHistory" t="Belgeschiedenis"/>
+<phrase i="L_DisplayFrom" t="Recente opr. weerg."/>
+<phrase i="L_SpeedDial" t="Snelkiesnummers"/>
+<phrase i="L_VideoMonitoring" t="Videobewaking"/>
+<phrase i="L_WebApplication" t="Toepassingen"/>
+<phrase i="L_CallPreferences" t="Belvoorkeuren"/>
+<phrase i="L_Anywhere" t="Anywhere"/>
+<phrase i="L_SelectLine" t="Een lijn selecteren"/>
+<phrase i="L_Locations" t="Locaties"/>
+<phrase i="L_EditLocation" t="De locatie bewerken"/>
+<phrase i="L_AddLocation" t="Een locatie toevoegen"/>
+<phrase i="L_LocationName" t="Naam"/>
+<phrase i="L_LocationNumber" t="Nummer"/>
+<phrase i="L_EnableLocation" t="Locatie inschakelen"/>
+<phrase i="L_DeletePrompt" t="%s verwijderen?"/>
+<phrase i="L_ConnectionSetting" t="Verbindingsinstellingen"/>
+<phrase i="L_NetworkConfig" t="Netwerkconfiguratie"/>
+<phrase i="L_AudioPreferences" t="Audiovoorkeuren"/>
+<phrase i="L_RingSetting" t="Belinstellingen"/>
+<phrase i="L_ScreenPreferences" t="Schermvoorkeuren"/>
+<phrase i="L_Administration" t="Apparaatbeheer"/>
+<phrase i="T_ST_IP_Address" t="Instellingen statisch IP-adres"/>
+<phrase i="T_ST_IPV4_Address" t="Instellingen IPv4-adres"/>
+<phrase i="T_ST_IPV6_Address" t="Instellingen IPv6-adres"/>
+<phrase i="L_IPAddress" t="IP-adres"/>
+<phrase i="L_StaticIPAddress" t="Stel IP-adres in"/>
+<phrase i="L_SubnetMask" t="Subnetmasker"/>
+<phrase i="L_GatewayAddress" t="Gateway-adres"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="L_PrefixLength" t="Lengte voorvoegsel"/>
+<phrase i="L_BroadcastEcho" t="Echo uitzenden"/>
+<phrase i="L_AutoConfig" t="Auto configuratie"/>
+<phrase i="T_ST_Admin" t="Beheer"/>
+<phrase i="L_About" t="Info"/>
+<phrase i="L_SetPassword" t="Wachtwoord instellen"/>
+<phrase i="L_DateTime" t="Datum/Tijd"/>
+<phrase i="L_Language" t="Taal"/>
+<phrase i="L_Reboot" t="Opnieuw opstarten"/>
+<phrase i="L_Reset" t="Opnieuw instellen"/>
+<phrase i="L_UserDataReset" t="Gebruikersgegevens opnieuw instellen"/>
+<phrase i="L_ConfigReset" t="Configuratie voor gegevens opnieuw instellen"/>
+<phrase i="L_NetworkReset" t="Netwerkgegevens"/>
+<phrase i="L_ServiceProviderReset" t="Serviceprovider opnieuw instellen"/>
+<phrase i="L_Deepsleep" t="Energiebesparing"/>
+<phrase i="L_FactoryReset" t="Fabrieksinstellingen"/>
+<phrase i="L_CustomReset" t="Aangepast herstellen"/>
+<phrase i="L_ProfileRule" t="Profielregel"/>
+<phrase i="L_CallControlSettings" t="Belbeheerinstellingen"/>
+<phrase i="L_SignalingProtocol" t="Signaleringsprotocol"/>
+<phrase i="L_AutoDetectSPCP" t="Autodetectie SCCP"/>
+<phrase i="T_ST_Audio" t="Audio-instellingen"/>
+<phrase i="L_PrefAudioDevice" t="Voorkeursaudioapp."/>
+<phrase i="L_EnableStereo" t="Headsettype"/>
+<phrase i="L_PhRingTone" t="Standaard beltoon"/>
+<phrase i="L_Ext1RingTone" t="Toest. 1 - Beltoon"/>
+<phrase i="L_Ext2RingTone" t="Toest. 2 - Beltoon"/>
+<phrase i="L_Ext3RingTone" t="Toest. 3 - Beltoon"/>
+<phrase i="L_Ext4RingTone" t="Toest. 4 - Beltoon"/>
+<phrase i="L_Ext5RingTone" t="Toest. 5 - Beltoon"/>
+<phrase i="L_Ext6RingTone" t="Toest. 6 - Beltoon"/>
+<phrase i="L_Ext7RingTone" t="Toest. 7 - Beltoon"/>
+<phrase i="L_Ext8RingTone" t="Toest. 8 - Beltoon"/>
+<phrase i="L_Ext9RingTone" t="Toest. 9 - Beltoon"/>
+<phrase i="L_Ext10RingTone" t="Toest. 10 - Beltoon"/>
+<phrase i="L_Ext11RingTone" t="Toest. 11 - Beltoon"/>
+<phrase i="L_Ext12RingTone" t="Toest. 12 - Beltoon"/>
+<phrase i="L_Ext13RingTone" t="Toest. 13 - Beltoon"/>
+<phrase i="L_Ext14RingTone" t="Toest. 14 - Beltoon"/>
+<phrase i="L_Ext15RingTone" t="Toest. 15 - Beltoon"/>
+<phrase i="L_Ext16RingTone" t="Toest. 16 - Beltoon"/>
+<phrase i="L_SpeakerTuning" t="Luidspreker afstellen"/>
+<phrase i="L_MicrophoneGain" t="Versterking microfoon"/>
+<phrase i="L_Micgain" t="Microfoonversterking"/>
+
+<phrase i="T_ST_CallForward" t="Instellingen oproep doorsturen"/>
+<phrase i="L_ForwardAll" t="Alles doorschakelen"/>
+<phrase i="L_ForwardBusy" t="Doorsch. bezet"/>
+<phrase i="L_ForwardNoAns" t="Doorschakelen bij geen antwoord"/>
+<phrase i="L_ForwardAllNumbers" t="Alle nummers doorsch."/>
+<phrase i="L_ForwardBusyNumber" t="Bezet nummer doorst."/>
+<phrase i="L_ForwardNoAnsNumber" t="Doorsch. nr geen antw."/>
+<phrase i="L_ForwardNoAnsDelay" t="Dsch.gn.antw.vertr."/>
+<phrase i="L_NumberofRingsBeforeForwarding" t="Aantal keer overgegaan"/>
+<phrase i="L_RingReminder" t="Beltoonherinnering"/>
+<phrase i="L_IPMODE" t="IP-modus"/>
+<phrase i="L_WiFiConfiguration" t="Wi-Fi-configuratie"/>
+<phrase i="L_EthernetConfiguration" t="Ethernet-configuratie"/>
+<phrase i="L_ConnectionType" t="Verbindingstype"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="Auto verbinden"/>
+<phrase i="L_Headset" t="Headset"/>
+<phrase i="L_WebServer" t="Webserver"/>
+<phrase i="L_DiscoveryAddress" t="Opsporingsadres"/>
+<phrase i="L_LVSAutoDiscovery" t="Auto opsporing hoofdsysteem"/>
+<phrase i="L_LVSProxyAddress" t="IP-adres hoofdsysteem"/>
+<phrase i="L_DHCPOption" t="Te gebr. DHCP-optie"/>
+<phrase i="L_DHCPv6Option" t="Gebr. DHCPv6-optie"/>
+<phrase i="L_TranProtocol" t="Transportprotocol"/>
+<phrase i="L_NetworkStatus" t="Netwerkstatus"/>
+<phrase i="L_RebootHistory" t="Rebootgeschiedenis"/>
+<phrase i="L_IPStatus" t="IP-status"/>
+<phrase i="T_ST_SetTime" t="Huidige tijd instellen"/>
+<phrase i="L_Presence_Available" t="Beschikbaar"/>
+<phrase i="L_Presence_Away" t="Afwezig"/>
+<phrase i="L_Presence_DND" t="Niet storen"/>
+<phrase i="L_Presence_Offline" t="Offline"/>
+<phrase i="L_Presence_Title" t="Mijn aanwezigheid"/>
+<phrase i="L_IMPContacts" t="IM&amp;P-contacten"/>
+<phrase i="L_ContactDetails" t="Contactgegevens"/>
+<phrase i="L_AllContacts" t="Alle contacten"/>
+<phrase i="L_Favorites" t="Favorieten"/>
+<phrase i="L_XMPPDisconnected" t="Niet verbonden met server"/>
+<phrase i="L_XMPPAuthFailed" t="Mislukte verificaties"/>
+<phrase i="L_AB" t="Persoonlijk adresboek"/>
+<phrase i="L_AllDirectorySearch" t="Alles"/>
+<phrase i="L_XMLDirectory" t="Bedrijfstelefoonlijst (XML)"/>
+<phrase i="L_LDAPDirectory" t="Bedrijfstelefoonlijst (LDAP)"/>
+<phrase i="L_LVSDirectory" t="Bedrijfstelefoonlijst"/>
+<phrase i="L_BroadsoftDirectory" t="Broadsoft-gids"/>
+<phrase i="L_BroadsoftPersonal" t="Persoonlijk"/>
+<phrase i="L_BroadsoftGroup" t="Groep"/>
+<phrase i="L_BroadsoftEnterprise" t="Bedrijf"/>
+<phrase i="L_BroadsoftGroupCommon" t="Groep algemeen"/>
+<phrase i="L_BroadsoftEnterpriseCommon" t="Bedrijf algemeen"/>
+<phrase i="L_XMLService" t="Cisco XML-services"/>
+<phrase i="T_ST_CallHistories" t="Belgeschiedenis"/>
+<phrase i="T_ST_Language" t="Taalselectie"/>
+<phrase i="T_ST_Password" t="Wachtwoord instellen"/>
+<phrase i="L_OldPassword" t="Oud wachtwoord"/>
+<phrase i="L_NewPassword" t="Nieuw wachtwoord"/>
+<phrase i="L_ReEnterNewPassword" t="Wachtwoord herhalen"/>
+<phrase i="L_IncorrectOldPassword" t="Het oude wachtwoord komt niet overeen met het oorspronkelijke wachtwoord."/>
+<phrase i="L_NewPasswordNotSame" t="Het nieuwe wachtwoord en het herhaalde wachtwoord komen niet overeen."/>
+<phrase i="L_NewPasswordNotLong" t="Gebruikerswachtwoord moet ten minste 4 tekens lang zijn."/>
+<phrase i="L_CallForwarding" t="Gesprek doorschakelen"/>
+<phrase i="L_CallWaiting" t="Gesprek in wacht"/>
+<phrase i="L_VoiceMail" t="Voicemail"/>
+<phrase i="L_BlockCallerID" t="Beller-id blokkeren"/>
+<phrase i="L_BlockAnonymCall" t="Anonieme oproep blok."/>
+<phrase i="L_SecureCall" t="Beveiligd gesprek"/>
+<phrase i="L_DialAssist" t="Kieshulp"/>
+<phrase i="L_AutoAnswerPage" t="Pager auto. beantwoorden"/>
+<phrase i="L_MissCallShortCut" t="Snelkiesnr. gemiste opr."/>
+<phrase i="L_EnabledScreenSaver" t="Schermbeveiliging"/>
+<phrase i="L_DisplayBrightness" t="Helderheid scherm"/>
+<phrase i="L_ContrastLevel" t="Contrastniveau"/>
+<phrase i="L_WallPaper" t="Achtergrond"/>
+<phrase i="T_ST_ScreenSaver" t="Instellingen schermbeveiliging"/>
+<phrase i="L_ScreenSaverType" t="Type schermbeveiliging"/>
+<phrase i="L_TriggerInterval" t="Act. Interval (sec)"/>
+<phrase i="L_RefreshInterval" t="Vern. Interval (sec)"/>
+<phrase i="L_BackLight" t="Achtergrondverl."/>
+<phrase i="L_BackLightTimer" t="Timer achtergrondverlichting"/>
+<phrase i="L_Contrast" t="Contrast"/>
+<phrase i="L_Brightness" t="Helderheid"/>
+<phrase i="T_StarCodeList" t="Een stercode selecteren"/>
+<phrase i="T_Select_Image" t="Een afbeelding selecteren"/>
+<phrase i="T_ST_Time" t="Tijdsinstellingen"/>
+<phrase i="L_TimeZone" t="Tijdzone"/>
+<phrase i="L_DayLightSaving" t="Zomertijd"/>
+<phrase i="L_NTPServer1" t="NTP-server 1"/>
+<phrase i="L_NTPServer2" t="NTP-server 2"/>
+<phrase i="L_SetCurrentTimeManually" t="Huidige tijd handm. inst."/>
+<phrase i="T_ST_TimeZone" t="Tijdzone instellen"/>
+<phrase i="L_TimeFormat" t="Tijdnotatie"/>
+<phrase i="L_DateFormat" t="Datumnotatie"/>
+<phrase i="L_DHCP_Address_Released" t="DHCP-adres vrijgegeven"/>
+<phrase i="L_Erase_Config" t="Configuratie wissen"/>
+<phrase i="L_WebServerWritable" t="Webserver beschr."/>
+<phrase i="M_ABEmpty" t="Adresboek is leeg."/>
+<phrase i="M_ABDuplicate" t="Alle records zijn identiek."/>
+<phrase i="M_InvalidVLAN" t="VLAN-id moet tussen 1 en 4095 liggen."/>
+<phrase i="M_InvalidDataportVLAN" t="PC-poort VLAN-id moet tussen 1 en 4095 liggen."/>
+<phrase i="M_InvalidDHCPVLANOption" t="DHCP VLAN-optie [%s] is ongeldig."/>
+<phrase i="M_InvalidDataportPriority" t="Prioriteit moet tussen 0 en 7 liggen."/>
+<phrase i="M_InvalidMAddr" t="Opsporingsadres moet deze notatie hebben: aaa.bbb.ccc.ddd:pppp."/>
+<phrase i="M_InvalidNetStartupDelay" t="Vertraging bij starten moet tussen 1 en 300 liggen."/>
+<phrase i="M_RebootInvalid" t="Telefoonoproepen bezig. Kan niet opnieuw starten."/>
+<phrase i="M_FactoryResetInvalid" t="Telefoonoproepen bezig. Kan fabr.inst. niet herstellen."/>
+<phrase i="M_CustomResetInvalid" t="Telefoonoproepen bezig. Kan geen aangepast herstel uitvoeren."/>
+<phrase i="M_OperationInvalid" t="Telefoongesprekken bezig. Kan bewerking niet uitvoeren."/>
+<phrase i="M_OperationInvalidInUpgrade" t="Telefoonupgrade bezig. Kan bewerking niet uitvoeren."/>
+<phrase i="M_ProfileRuleInvalid" t="Telefoonoproepen bezig. Kan niet opnieuw synchr. met profielregel."/>
+<phrase i="M_InvalidDHCPOptions" t="De waarde moet een met komma´s gescheiden lijst zijn [%s]."/>
+<phrase i="M_UpgradeStart" t="Upgrade starten."/>
+<phrase i="M_UpgradeInProgress" t="Bezig met bijwerken. Niet uitschakelen."/>
+<phrase i="M_DownloadProgress" t="Bezig met downloaden adresgegevens"/>
+<phrase i="M_UpgradeCompleted" t="Upgrade voltooid."/>
+<phrase i="M_UpgradeAborted" t="Upgrade afgebroken door gebruiker."/>
+<phrase i="M_UpgradeAbortedWithError" t="Upgrade afgebroken met fout."/>
+<phrase i="M_UpgradeCompletedReboot" t="Upgrade voltooid. Bezig met opnieuw opstarten."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="Upgrade afgebroken met fout. Bezig met opnieuw opstarten."/>
+<phrase i="M_InvalidCFWDNoAnsDelay" t="Vertraging voor Doorschakelen bij geen antwoord moet  tussen 1 en 300 liggen."/>
+<phrase i="M_InvalidCFWDNoFKS" t="Minder dan %d tekens invoeren."/>
+<phrase i="M_EmptyCFWDNoFKS" t="Telefoonnummer voor gesprek doorschakelen is een vereist veld"/>
+<phrase i="M_InvalidCFWDNoAnsDelayXSI" t="XSI fwd geen antwoord vertraging moet liggen tussen 2 en 20, of gelijk aan 0."/>
+<phrase i="T_Login_Form" t="Aanmeldingsformulier"/>
+<phrase i="L_Pending" t="In wacht"/>
+<phrase i="L_Customized" t="Aangepast"/>
+<phrase i="L_Open" t="Open"/>
+<phrase i="L_Unavailable" t="Niet beschikb."/>
+<phrase i="L_CustomPending" t="Custom-Pending"/>
+<phrase i="L_Acquired" t="Verworven"/>
+<phrase i="L_Aborted" t="Afgebroken"/>
+<phrase i="L_GdsAcquired" t="GDS-Verworven"/>
+<phrase i="L_GdsPending" t="GDS-In afwachting"/>
+<phrase i="L_GdsCustomPending" t="GDS-Custom-Pending"/>
+<phrase i="L_Hour" t="uur"/>
+<phrase i="L_Minute" t="minuut"/>
+<phrase i="L_Second" t="seconde"/>
+<phrase i="L_HourShort" t="uur"/>
+<phrase i="L_MinuteShort" t="min"/>
+<phrase i="L_SecondShort" t="sec"/>
+<phrase i="M_InvalidRefreshTime" t="Vernieuwingsinterval moet tussen 1 en 999999 seconden liggen."/>
+<phrase i="M_InvalidBackLightTime" t="Activeringstijd achtergrondlicht moet 30 of hoger zijn."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="Triggerinterval moet tussen 30 en 65000 seconden liggen."/>
+<phrase i="M_InvalidContrastLevel" t="Helderheid moet tussen 4 en 15 liggen."/>
+<phrase i="M_InvalidContrastActualLevel" t="Contrast moet tussen 1 en 15 liggen."/>
+<phrase i="L_Att_Cons_Pref" t="Voorkeuren beantwoordersconsole"/>
+<phrase i="L_Attendant_Console_Pref" t="Voorkeuren beantwoordersconsole"/>
+<phrase i="L_LCD_Contrast" t="Helderheid"/>
+<phrase i="L_Font_Size" t="Tekengrootte"/>
+<phrase i="L_Display_Mode" t="Weergavemodus"/>
+<phrase i="L_Authenticating" t="Verifiëren"/>
+<phrase i="L_Authenticated" t="Geverifieerd"/>
+<phrase i="L_Exposure" t="Belichting"/>
+<phrase i="L_Kem_Type" t="Type KEM"/>
+<phrase i="M_Directories_Disabled" t="Telefoonlijst is uitgeschakeld. Neem contact op met uw beheerder."/>
+<phrase i="M_Directories_Unavailable" t="Geen telefoonlijst beschikbaar. Neem contact op met uw beheerder."/>
+<phrase i="M_DirAll_Unavailable" t="Niet beschikbaar op dit moment. Neem contact op met uw beheerder."/>
+<phrase i="L_SIGNIN_FAILED" t="Fout met aanmeldgegevens, neem contact op met de beheerder."/>
+
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="Interne gids"/>
+<phrase i="L_EXTERNAL_DIR" t="Externe gids"/>
+<phrase i="L_GROUPS_DIR" t="Groepsgids"/>
+<phrase i="L_STATIONS_DIR" t="Stationsgids"/>
+<phrase i="L_Auto_Attnd" t="Auto telefonist"/>
+<phrase i="L_Int_Music" t="Interne muziek"/>
+<phrase i="L_ExternalMusic" t="Externe muziek"/>
+<phrase i="L_Station" t="Station"/>
+<phrase i="L_PageGroup1" t="Paginagroep 1"/>
+<phrase i="L_PageGroup2" t="Paginagroep 2"/>
+<phrase i="L_PageGroup3" t="Paginagroep 3"/>
+<phrase i="L_PageGroup4" t="Paginagroep 4"/>
+<phrase i="L_PageGroup5" t="Paginagroep 5"/>
+<phrase i="L_Page_Grp" t="Paginagroep"/>
+<phrase i="L_ExternalPage" t="Externe pagina"/>
+<phrase i="L_CallPark" t="Gesprek parkeren"/>
+<phrase i="L_PickUp" t="Opnemen"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="Organisatie"/>
+<phrase i="L_FirstName" t="Voornaam"/>
+<phrase i="L_LastName" t="Achternaam"/>
+<phrase i="LDAP_DISPLAY_NAME" t="Naam"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="Tel. zakelijk"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="Mobiele telefoon"/>
+<phrase i="LDAP_ACCESS_ERROR" t="LDAP-fout: kan niet verbinden met server."/>
+<phrase i="LDAP_STARTTLS_ERROR" t="LDAP-fout: de bewerking TLSstarten is mislukt"/>
+<phrase i="LDAP_InvalidInput" t="LDAP-fout: ongeldige invoerwaarde"/>
+<phrase i="LDAP_NoFilter" t="Filter definiëren."/>
+<phrase i="LDAP_TooManyResults" t="Te veel overeenkomsten gevonden. Verfijn uw zoekopdracht."/>
+<phrase i="LDAP_NoResult" t="Geen resultaten"/>
+<phrase i="NoRingTone" t="Geen beltoon"/>
+<phrase i="S_Failed" t="Zoeken mislukt."/>
+<phrase i="S_Sys_Err" t="Systeemfout."/>
+<phrase i="T_LDAP_ResultList" t="Resultaten bedrijfsgids (LDAP)"/>
+<phrase i="T_LDAPQueryForm" t="LDAP-aanvraagformulier"/>
+<phrase i="T_LDAPAddrEntry" t="Adresgegeven bedrijfsgids (LDAP)"/>
+<phrase i="T_LDAPQuery" t="Aanvraag LDAP-server"/>
+<phrase i="T_LDAP" t="LDAP"/>
+<phrase i="L_SimpleSearch" t="Eenvoudige zoekopdracht"/>
+<phrase i="L_AdvSearch" t="Geavanceerde zoekopdracht"/>
+<phrase i="T_LDAPSigninForm" t="LDAP-aanmelding"/>
+<phrase i="L_ClientDN" t="Client-DN"/>
+
+<!-- #############  #BroadSoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="Toegang tot telefoonlijst mislukt. Controleer de configuratie en de netwerkinstellingen"/>
+<phrase i="BSDIR_ACCESS_TIMEOUT" t="Time-out voor toegang tot de telefoonlijst. Controleer de config. en de netwerkinstlngn."/>
+<phrase i="BSDIR_InvalidInput" t="Fout Broadsoft-gids: ongeldige invoerwaarde."/>
+<phrase i="BSDIR_HTTP_AUTH_ERR" t="Verificatiefout. Controleer het account."/>
+<phrase i="BSDIR_TooManyResults" t="Te veel overeenkomsten gevonden. Verfijn uw zoekopdracht."/>
+<phrase i="BSDIR_NoSearchParameters" t="Zoekcriteria invoeren"/>
+<phrase i="BSDIR_Setting_MSG" t="Deze wijziging is van invloed op andere groepsinstellingen. Wilt u deze opslaan?"/>
+<phrase i="T_BSDIR_CONFIG" t="Configuratie Broadsoft-gids"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="Zoeken in privégids"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="Zoeken in groepsgids"/>
+<phrase i="T_BSDIR_SEARCH_GROUP_COMMON" t="Zoeken in algemene telefoonlijst van groep"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="Zoeken in bedrijfsgids"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE_COMMON" t="Zoeken in algemene telefoonlijst van bedrijf"/>
+<phrase i="T_BSDIR_SEARCH_ALL" t="Zoeken in alle BroadSoft-telefoonlijsten"/>
+<phrase i="T_BSDIR_Pers_Contact_Add" t="Persoonlijk BroadSoft-contact toevoegen"/>
+<phrase i="T_BSDIR_Pers_Contact_Edit" t="Persoonlijk BroadSoft-contact bewerken"/>
+<phrase i="M_SavePersContactPrompt" t="Contact %s opslaan is mislukt."/>
+<phrase i="M_DeletePersContactPrompt" t="Contact %s verwijderen is mislukt."/>
+
+<phrase i="L_HOST_SERVER" t="Hostserver"/>
+<phrase i="L_AUTH_TYPE" t="Verificatietype"/>
+<phrase i="L_SIPAUTH_ID" t="SIP-verif.-id"/>
+<phrase i="L_SIPAUTH_PWD" t="SIP-wachtwoord"/>
+<phrase i="L_DIR_NAME" t="Naam directory"/>
+<phrase i="T_Configure" t="%s config."/>
+
+<phrase i="T_BSDIR_SEARCH" t="Zoeken in Broadsoft-gids"/>
+<phrase i="T_SIMPLE_SEARCH" t="Eenvoudige zoekopdracht"/>
+<phrase i="T_ADVANCED_SEARCH" t="Geavanceerde zoekopdracht"/>
+<phrase i="L_BSDIR_LNAME" t="Achternaam"/>
+<phrase i="L_BSDIR_FNAME" t="Voornaam"/>
+<phrase i="L_BSDIR_GROUPID" t="Groeps-id"/>
+<phrase i="L_BSDIR_DEPT" t="Afdeling"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="Afdeling"/>
+<phrase i="L_BSDIR_EMAIL" t="E-mail"/>
+
+<phrase i="BSCLOG_ACCESS_ERROR" t="Toegang mislukt. Controleer configuratie en netwerk."/>
+<phrase i="BsClog_InvalidInput" t="Lege of ongeldige invoerwaarde."/>
+<phrase i="BsClog_TooManyResults" t="Te veel gesprekslogboeken."/>
+<phrase i="BsClog_NoResult" t="Geen gesprekslogboeken."/>
+<phrase i="BSCLOG_HTTP_AUTH_ERR" t="Verificatiefout: voer verificatie opnieuw uit."/>
+
+<phrase i="BsAnywhere_TooManyResults" t="Maximumaantal Anywhere-locaties bereikt."/>
+<phrase i="BsAnywhere_NoLine" t="Geen Anywhere-lijn ingeschakeld."/>
+<phrase i="BsAnywhere_BadRequest" t="Ongeldige invoer of actie."/>
+<phrase i="BsAnywhere_ServerBusy" t="De server is bezet."/>
+
+<phrase i="XSI_GET_ERROR" t="Kan XSI-instellingen niet ophalen."/>
+<phrase i="XSI_GET_AUTH_ERROR" t="Verificatiefout: Kan XSI-instellingen niet ophalen."/>
+<phrase i="XSI_GET_DNS_ERROR" t="DNS-fout. Kan XSI-instellingen niet ophalen."/>
+<phrase i="XSI_SET_ERROR" t="Kan XSI-instellingen niet instellen."/>
+<phrase i="XSI_SET_AUTH_ERROR" t="Verificatiefout. Kan XSI-instellingen niet instellen."/>
+<phrase i="XSI_SET_DNS_ERROR" t="DNS-fout. Kan XSI-instellingen niet instellen."/>
+<phrase i="XSI_SET_INVALID" t="Ongeldige parameters. Kan XSI-instellingen niet instellen."/>
+<phrase i="XSI_SET_ERR_400_PERMISSION" t="U bent niet gemachtigd om de instelling te wijzigen."/>
+<phrase i="XSI_SET_ERR_400_INVALIDNUM" t="Ongeldig telefoonnummer. Het nummer mag alleen-, 0-9-of E.164-nummer bevatten. Het maximumaantal cijfers is 30."/>
+
+<phrase i="T_LVSDIR_REQ" t="LVS-gids aangevraagd van server."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="Aanvraag LVS-gids mislukt."/>
+
+<!-- #############  #All Directories #############-->
+<phrase i="T_ALLDIRECTORY_SEARCH" t="Zoeken in alle telefoonlijsten"/>
+<phrase i="T_ALLDIRECTORY_RESULTS" t="Zoekresultaten"/>
+<phrase i="T_ALLDIRECTORY_DETAILS" t="Details van zoekresultaten"/>
+<phrase i="ALLDIRECTORY_TIMEOUT_ERROR" t="Time-out opgetreden voor zoekopdracht. Controleer de configuratie en het netwerk."/>
+
+<!-- #############  #Call Recording #############-->
+<phrase i="L_RECORDING" t="Bezig met opnemen"/>
+<phrase i="L_RECORDINGPAUSED" t="Opnemen onderbroken"/>
+
+<!-- #############  #Customizable PLKs  #############-->
+<phrase i="L_DefSpeedDial" t="Snelkiezen definiëren"/>
+<phrase i="L_Define_BLF_Presence" t="BLF-aanwezigheid definiëren"/>
+<phrase i="L_PLK_ERROR" t="Fout: lege of ongeldige invoer"/>
+<phrase i="PLK_DeletePrompt" t="Weet u zeker dat u de functie wilt verwijderen op %s %d?"/>
+<phrase i="L_SelectFeature" t="Functie selecteren"/>
+<phrase i="L_BLF_Presence" t="BLF-aanwezigheid"/>
+<phrase i="L_BLF_SD" t="BLF + Snelkeuze"/>
+<phrase i="L_BLF_List" t="BLF-lijst"/>
+<phrase i="L_BLF_CP" t="BLF + Gesprek opnemen"/>
+<phrase i="L_BLF_SD_CP" t="BLF + Snelkeuze + Gesprek opnemen"/>
+<phrase i="L_Define_BLF_Presence" t="BLF-aanwezigheid definiëren"/>
+<phrase i="L_Search_BLF_List" t="Zoeken in BLF-lijst"/>
+<phrase i="L_Select_User" t="Gebruiker selecteren"/>
+<phrase i="L_UserId" t="Gebruikers-ID"/>
+<phrase i="L_Label" t="Label"/>
+<phrase i="L_MWI" t="MWI"/>
+<phrase i="L_MWI_SD" t="MWI + snelkeuze"/>
+<phrase i="L_PLK_Shortcut" t="Menusnelkoppeling"/>
+<phrase i="L_PLK_LCR" t="Terugbellen"/>
+<phrase i="L_PLK_ACD" t="ACD"/>
+<phrase i="L_PLK_CallRetrieve" t="Gesprek ophalen"/>
+<phrase i="L_PLK_Forward" t="Doorschakelen"/>
+<phrase i="L_PLK_CLR_DND" t="DND wissen"/>
+<phrase i="L_PLK_CLR_Forward" t="Doorschakelen wissen"/>
+<phrase i="L_PLK_CLR_Divert" t="Omleiden wissen"/>
+<phrase i="L_CallInfo" t="Belinfo"/>
+<phrase i="L_CallList" t="Bellijst"/>
+<phrase i="L_ProxyCall" t="Proxygesprek"/>
+<phrase i="L_Divert" t="Omleiden"/>
+<phrase i="L_CallPush" t="Pushgesprek"/>
+<phrase i="L_BridgeIn" t="BridgeIn"/>
+<phrase i="M_Key_Disabled" t="De toets is uitgeschakeld."/>
+<phrase i="M_Callpush_Not_Held" t="Het gesprek is niet verbonden of in de wacht stand gezet."/>
+<phrase i="M_Callpush_No_Held" t="Er staat geen gesprek en staat geen gesprek in de wacht op deze lijn."/>
+<phrase i="M_No_Idle_Call" t="Er is geen inactief gesprek dat verder kan gaan."/>
+<phrase i="M_Not_Remote_Connected" t="Het gesprek is niet verbonden aan de andere kant."/>
+<phrase i="M_No_CallInfo" t="Geen gespreksgegevens beschikbaar."/>
+<!-- PLK labels -->
+<phrase i="L_AttConsole" t="Apparatuur operator"/>
+<phrase i="L_WpsPbc" t="WPS DKC"/>
+<phrase i="L_WpsPin" t="WPS PIN"/>
+<phrase i="L_IPV4_Address" t="IPv4-adres"/>
+<phrase i="L_IPV6_Address" t="IPv6-adres"/>
+<phrase i="L_UserSignIn" t="Gebruiker aanmelden"/>
+<phrase i="L_UserSignOut" t="Gebruiker afmelden"/>
+<phrase i="L_ProAcnt" t="Profielaccount"/>
+<phrase i="L_Phone_Statistics" t="Telefoonstatistieken"/>
+<phrase i="L_XML_Application" t="XML-applicatie"/>
+<phrase i="L_Personal_Directory" t="Persoonlk. tel-lijst"/>
+<phrase i="L_All_Directories" t="Alle telefoonlijsten"/>
+<phrase i="L_XML_Directory" t="XML-telefoonlijst"/>
+<phrase i="L_LDAP_Directory" t="LDAP-namenlijst"/>
+<phrase i="L_BluetoothContacts" t="Bluetth-contactpers."/>
+<!-- PSK labels -->
+<phrase i="S_Accessibility" t="Tgnklkhd"/>
+<phrase i="S_AllCalls" t="Al.gspr."/>
+<phrase i="S_Received" t="Ontvangn"/>
+<phrase i="S_Placed" t="Gepltst"/>
+<phrase i="S_Executive" t="Ldnggvnd"/>
+<phrase i="S_Assistant" t="Assistnt"/>
+<phrase i="S_UserPref" t="Gbrvoork"/>
+<phrase i="S_CallPref" t="Gspvoork"/>
+<phrase i="S_CfwdSetting" t="Vrk drsc"/>
+<phrase i="S_Anywhere" t="Anywhere"/>
+<phrase i="S_AudioPref" t="Audiovrk"/>
+<phrase i="S_ScreenPref" t="Schrmvrk"/>
+<phrase i="S_ScreenSaver" t="Schrmbev"/>
+<phrase i="S_AttConsole" t="Att cons"/>
+<phrase i="S_RingTone" t="Beltoon"/>
+<phrase i="S_BlueTooth" t="Bluetth"/>
+<phrase i="S_NetworkConf" t="Netwerk"/>
+<phrase i="S_EthernetConf" t="Ethernet"/>
+<phrase i="S_WiFiConf" t="Wifi-vrk"/>
+<phrase i="S_WlanProfile" t="Wifi-prf"/>
+<phrase i="S_WpsPbc" t="WPS DKC"/>
+<phrase i="S_WpsPin" t="WPS PIN"/>
+<phrase i="S_WlanStatus" t="Wifi-st."/>
+<phrase i="S_IPV4_Addr" t="IPv4-adr"/>
+<phrase i="S_IPV6_Addr" t="IPv6-adr"/>
+<phrase i="S_DeviceAdmin" t="App.behr"/>
+<phrase i="S_SetPassword" t="Ww inst."/>
+<phrase i="S_UserSignIn" t="Gbr.aanm"/>
+<phrase i="S_UserSignOut" t="Gebr.afm"/>
+<phrase i="S_DateTime" t="Dat/Tijd"/>
+<phrase i="S_Language" t="Taal"/>
+<phrase i="S_Reboot" t="Herstart"/>
+<phrase i="S_Deepsleep" t="Enrg.bsp"/>
+<phrase i="S_FactoryReset" t="Fabr.ins"/>
+<phrase i="S_ProfileRule" t="Prof.reg"/>
+<phrase i="S_ProfileAccount" t="Prof.acc"/>
+<phrase i="S_MICROPHONES" t="Microfns"/>
+<phrase i="S_WIRED_MIC" t="Vast.mic"/>
+<phrase i="S_WIRELESS_MIC" t="Drdl.mic"/>
+<phrase i="S_Status" t="Status"/>
+<phrase i="S_ProductInfo" t="Prod.inf"/>
+<phrase i="S_NetworkStatus" t="Net.stts"/>
+<phrase i="S_IPv4Status" t="IPv4-sta"/>
+<phrase i="S_IPv6Status" t="IPv6-sta"/>
+<phrase i="S_PHN_STATUS" t="Tel.stts"/>
+<phrase i="S_Phone_statistics" t="Tl.stats"/>
+<phrase i="S_LINE_STATUS" t="Lijnstts"/>
+<phrase i="S_PROV_STATUS" t="Toeg.beh"/>
+<phrase i="S_Call_Statistics" t="Gpr.stat"/>
+<phrase i="S_ReportProblem" t="Prbl.rap"/>
+<phrase i="S_RebootHistory" t="Opst.hst"/>
+<phrase i="S_Accessories" t="Access."/>
+<phrase i="S_Status_Msg" t="Sttsber."/>
+<phrase i="S_Wi-Fi_Msg" t="Wifi-ber"/>
+<phrase i="S_XML_App" t="XML-app"/>
+<phrase i="S_Directory" t="Tel.lst."/>
+<phrase i="S_Personal_Dir" t="Prs.lst."/>
+<phrase i="S_All_Dirs" t="All.lst."/>
+<phrase i="S_XML_Dir" t="XML-lst."/>
+<phrase i="S_LDAP_Dir" t="LDAP-lst"/>
+<phrase i="S_BroadsoftDirectory" t="BrdSft.g"/>
+<phrase i="S_BroadsoftPersonal" t="Pers."/>
+<phrase i="S_BroadsoftGroup" t="Groep"/>
+<phrase i="S_BroadsoftEnterprise" t="Bedrijf"/>
+<phrase i="S_BroadsoftGroupCommon" t="Grp Cmmn"/>
+<phrase i="S_BroadsoftEnterpriseCommon" t="Ent Cmmn"/>
+<phrase i="S_BT_contacts" t="BT-cont."/>
+<phrase i="S_IMPContacts" t="IMP-cnt."/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="ConfLijn"/>
+<phrase i="S_XferLx" t="LijnDrvb"/>
+<phrase i="S_Redial" t="Herhaal"/>
+<phrase i="S_Contacts" t="Contact."/>
+<phrase i="S_Recents" t="Recent"/>
+<phrase i="S_Forward" t="Doorschk"/>
+<phrase i="S_ForwardAll" t="All dsch"/>
+<phrase i="S_DND" t="NST"/>
+<phrase i="S_NForward" t="Wis drst"/>
+<phrase i="S_NForwardAll" t="Wis dsch"/>
+<phrase i="S_NDND" t="Wis n st"/>
+<phrase i="S_LCR" t="OntvOprp"/>
+<phrase i="S_Missed" t="Gemist"/>
+<phrase i="S_Login" t="Aanmeld."/>
+<phrase i="S_Logout" t="Afmelden"/>
+<phrase i="S_SignIn" t="Aanmeld."/>
+<phrase i="S_SignOut" t="Afmelden"/>
+<phrase i="S_Avail" t="Beschikb"/>
+<phrase i="S_UnAvail" t="N.besch."/>
+<phrase i="S_UnPark" t="HefPrkOp"/>
+<phrase i="S_PickUp" t="Opnemen"/>
+<phrase i="S_Mobility" t="Mobiel"/>
+<phrase i="S_GrPickup" t="GOpn"/>
+<phrase i="S_NewCall" t="Nieuw"/>
+<phrase i="S_Barge" t="Inbreken"/>
+<phrase i="S_BargeSilent" t="Stilstrn"/>
+<phrase i="S_Resume" t="Hervat"/>
+<phrase i="S_Answer" t="Beantw"/>
+<phrase i="S_Hold" t="Wacht"/>
+<phrase i="S_EndCall" t="Einde"/>
+<phrase i="S_End" t="Beëindig"/>
+<phrase i="S_Transfer" t="Doorvb"/>
+<phrase i="S_CONF" t="Conf"/>
+<phrase i="S_BXfer" t="BlDoorv."/>
+<phrase i="S_Park" t="Parkeren"/>
+<phrase i="S_Join" t="Samenv"/>
+<phrase i="S_Update" t="Bijwrk"/>
+<phrase i="S_Dial" t="Bellen"/>
+<phrase i="S_delChar" t="WisTeken"/>
+<phrase i="S_AbbrDial" t="KortKies"/>
+<phrase i="S_Back" t="Terug"/>
+<phrase i="S_Close" t="Sluiten"/>
+<phrase i="S_Save" t="Opslaan"/>
+<phrase i="S_Delete" t="Verwij"/>
+<phrase i="S_Add" t="Toev."/>
+<phrase i="S_Option" t="Optie"/>
+<phrase i="S_Other" t="Anders"/>
+<phrase i="S_EditDial" t="OprpWijz"/>
+<phrase i="S_EditDial1" t="KiezBew"/>
+<phrase i="S_AddNew" t="Nw toev."/>
+<phrase i="S_Copy" t="Kopieer"/>
+<phrase i="S_Paste" t="Plak"/>
+<phrase i="S_Search" t="Zoeken"/>
+<phrase i="S_SimpleSearch" t="Eenv.zkp"/>
+<phrase i="S_AdvancedSearch" t="Gvcr.zkp"/>
+<phrase i="S_Select" t="Kies"/>
+<phrase i="S_Replace" t="Vervangen"/>
+<phrase i="S_Default" t="Default"/>
+<phrase i="S_Add2SpeedDial" t="Toevoegen aan snelkiesnummers"/>
+<phrase i="S_SendMessage" t="Bericht verzenden"/>
+<phrase i="S_InputAll" t="Alles invoeren"/>
+<phrase i="S_InputNum" t="Nr. invoeren"/>
+<phrase i="S_InputIP" t="IP invoeren"/>
+<phrase i="S_InputHebrew" t="Hebreeuws invoeren"/>
+<phrase i="S_InputStarCode" t="Stercode invoeren"/>
+<phrase i="S_Clear" t="Wissen"/>
+<phrase i="S_DeleteList" t="Lijst verw."/>
+<phrase i="S_DeleteAll" t="Alles verw."/>
+<phrase i="S_DeleteEntry" t="Gegevens verw."/>
+<phrase i="S_Add2AB" t="Contact toev"/>
+<phrase i="S_SortByName" t="Sorteren op naam"/>
+<phrase i="S_Next" t="Volgende"/>
+<phrase i="S_Zoom" t="Inzoomen"/>
+<phrase i="S_EditSettings" t="Instell. bewerken"/>
+<phrase i="S_Previous" t="Vorige"/>
+<phrase i="S_Previous1" t="Vorige"/>
+<phrase i="S_Up" t="Omhoog"/>
+<phrase i="S_Down" t="Minder"/>
+<phrase i="S_SelectFromAB" t="Toev. uit cont."/>
+<phrase i="S_Play" t="Afspelen"/>
+<phrase i="S_Exit" t="Sluiten"/>
+<phrase i="S_Resync" t="Opn.Sync"/>
+<phrase i="S_SetTime" t="Opslaan"/>
+<phrase i="S_Set" t="Instlln"/>
+<phrase i="S_MoveUp" t="Omhoog"/>
+<phrase i="S_MoveDown" t="Omlaag"/>
+<phrase i="S_Edit" t="Bewerk"/>
+<phrase i="S_View" t="Beeld"/>
+<phrase i="S_Enable_Disable" t="Inschakelen/uitschakelen"/>
+<phrase i="S_Refresh" t="Vernieuw"/>
+<phrase i="S_List" t="Lijst"/>
+<phrase i="S_Stop" t="Stoppen"/>
+<phrase i="S_AddList" t="Lst toev"/>
+<phrase i="S_Scan" t="Scannen"/>
+<phrase i="S_Connect" t="Verbind"/>
+<phrase i="S_Disconnect" t="VrbVerbr"/>
+<phrase i="S_ConnectAll" t="All.verb"/>
+<phrase i="S_Detail" t="Details"/>
+<phrase i="S_Cancel" t="Annul."/>
+<phrase i="S_OK" t="OK"/>
+<phrase i="S_Unpair" t="Verbreek"/>
+<phrase i="S_SelectAll" t="All.sel."/>
+<phrase i="S_ClearAll" t="All. Wis"/>
+<phrase i="S_More" t="Meer"/>
+<phrase i="S_Format" t="Formatt."/>
+<phrase i="S_Monitor" t="Monitor"/>
+<phrase i="S_VCARD" t="Imprteer"/>
+<phrase i="S_Retry" t="Opnieuw"/>
+<phrase i="S_FLASH" t="Flash"/>
+<phrase i="S_STARCODE" t="*code"/>
+<phrase i="S_IP" t="IP"/>
+<phrase i="S_NUM" t="Num"/>
+<phrase i="S_ALPHA" t="Alfabet"/>
+<phrase i="S_Audio" t="Audio"/>
+<phrase i="S_Video" t="Video"/>
+<phrase i="S_Call" t="Bellen"/>
+<phrase i="S_Submit" t="Verzend"/>
+<phrase i="S_CallRecordStart" t="Opnemen"/>
+<phrase i="S_CallRecordStop" t="Opn stop"/>
+<phrase i="S_CallRecordPause" t="Opn pauz"/>
+<phrase i="S_CallRecordResume" t="Opn herv"/>
+<phrase i="S_Pause" t="Pauzeren"/> <!--Used on 6821,replace for PauseRec-->
+<phrase i="S_Ignore" t="Negeren"/>
+<phrase i="S_Override" t="Overschr"/>
+<phrase i="S_HotelingGuestIn" t="Gast in"/>
+<phrase i="S_HotelingGuestOut" t="GastUit"/>
+<phrase i="S_AUDIO_SWAP_IN" t="Aud. Vrp"/>
+<phrase i="S_AUDIO_SWAP_OUT" t="Aud. Vrp"/>
+<phrase i="S_Skip" t="Oversla."/>
+<phrase i="S_Settings" t="Instell."/>
+<phrase i="S_Favorites" t="Favor."/>
+<phrase i="S_Messages" t="Bericht."/>
+<phrase i="S_Selfview" t="Zelfweergave"/>
+<phrase i="S_CallList" t="Bellijst"/>
+<phrase i="S_ShowVideo" t="Toon vid"/>
+<phrase i="S_Presence" t="Aanwezig"/>
+<phrase i="S_Swap" t="Wisselen"/>
+<phrase i="S_ProxyCall" t="Proxygesprek"/>
+<phrase i="S_Divert" t="Omleiden"/>
+<phrase i="S_DivertAll" t="Alle oml"/>
+<phrase i="S_ClrDivert" t="Wis oml."/>
+<phrase i="S_CallPush" t="Pushgesprek"/>
+<phrase i="S_CallRetrieve" t="Ophalen"/>
+<phrase i="S_BridgeIn" t="BridgeIn"/>
+<phrase i="S_Micgain" t="Micverst"/>
+<phrase i="S_Setup" t="Instellingen"/>
+<phrase i="S_SpeedDial" t="Snelk."/>
+<phrase i="S_Continue" t="Doorgaan"/>
+<phrase i="S_WiFiScan" t="WiFiscan"/>
+<phrase i="S_Category" t="Categori"/>
+<phrase i="S_Filter" t="Filter"/>
+
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="Fahrenheit"/>
+<phrase i="OL_Celsius" t="Celsius"/>
+<phrase i="OL_MONO" t="Mono"/>
+<phrase i="OL_STEREO" t="Stereo"/>
+<phrase i="OL_InProgress" t="Bezig"/>
+<phrase i="OL_DnsResolution" t="DNS-resolutie"/>
+<phrase i="OL_NoServerName" t="Geen servernaam"/>
+<phrase i="OL_InvalidServer" t="Ongeldige of beperkte server"/>
+<phrase i="OL_NoResources" t="Bronnen uitgeput"/>
+<phrase i="OL_FileNotFound" t="Bestand niet gevonden"/>
+<phrase i="OL_CorruptFile" t="Beschadigd bestand"/>
+<phrase i="OL_EncrptionKey" t="Coderingssleutel"/>
+<phrase i="OL_InvalidURL" t="Ongeldige URL"/>
+<phrase i="OL_Phone" t="Telefoon"/>
+<phrase i="OL_Handsfree" t="Handsfree"/>
+<phrase i="OL_Both" t="Beide"/>
+<phrase i="OL_DownloadFailed" t="Download mislukt"/>
+<phrase i="OL_DownloadConflict" t="%d nieuwe gegevens. %d gegevens hebben conflicten."/>
+<phrase i="OL_DownloadTypeError" t="Bluetooth niet in handsfree."/>
+<phrase i="OL_DownloadFull" t="Adresboek is vol. Kan niet meer gegevens downloaden."/>
+<phrase i="OL_ParsingError" t="Parseerfout in regel"/>
+<phrase i="OL_Ended" t="Beëindigd"/>
+<phrase i="OL_StaticIP" t="Stat. IP"/>
+<phrase i="OL_PictureRotation" t="Beeld draaien"/>
+<phrase i="OL_CurrentWallpaper" t="Huidige achtergrond"/>
+<phrase i="OL_DownloadPicture" t="Foto oph."/>
+<phrase i="OL_Default" t="Standaard"/>
+<phrase i="OL_Clock" t="Klok"/>
+<phrase i="OL_Logo" t="Logo"/>
+<phrase i="OL_Lock" t="Vergrendelen"/>
+<phrase i="OL_Speaker" t="Luidspreker"/>
+<phrase i="OL_Headset" t="Headset"/>
+<phrase i="OL_Handset" t="Hoorn"/>
+<phrase i="OL_Ringer" t="Bel"/>
+<phrase i="OL_Volume" t="Volume"/>
+<phrase i="OL_Headset_Fail" t="Gebruik uw headsetbediening om het volume aan te passen."/>
+<phrase i="OL_LightBlue" t="Lichtblauw"/>
+<phrase i="OL_LightGray" t="Lichtgrijs"/>
+<phrase i="OL_LightGreen" t="Lichtgroen"/>
+<phrase i="OL_None" t="Geen"/>
+<phrase i="OL_Simple" t="Eenvoudig"/>
+<phrase i="OL_PlainTLS" t="Normale- TLS"/>
+<phrase i="OL_64HEX" t="10 hex. cijfers"/>
+<phrase i="OL_128HEX" t="26 hex. cijfers"/>
+<phrase i="OL_64ASCII" t="5 ASCII-tekens"/>
+<phrase i="OL_128ASCII" t="13 ASCII-tekens"/>
+<phrase i="OL_Enterprise" t="Bedrijf"/>
+<phrase i="OL_Group" t="Groep"/>
+<phrase i="OL_Personal" t="Persoonlijk"/>
+<phrase i="OL_EnterpriseCommon" t="Bedrijf alg."/>
+<phrase i="OL_GroupCommon" t="Groep alg."/>
+<phrase i="OL_Login_Credentials" t="Aanmeldingsref."/>
+<phrase i="OL_SIP_Credentials" t="SIP-refer."/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_6" t="6"/>
+<phrase i="OL_7" t="7"/>
+<phrase i="OL_8" t="8"/>
+<phrase i="OL_9" t="9"/>
+<phrase i="OL_10" t="10"/>
+<phrase i="OL_11" t="11"/>
+<phrase i="OL_12" t="12"/>
+<phrase i="OL_13" t="13"/>
+<phrase i="OL_14" t="14"/>
+<phrase i="OL_15" t="15"/>
+<phrase i="OL_16" t="16"/>
+<phrase i="OL_Disabled" t="Uitgesch."/>
+<phrase i="OL_Enabled" t="Ingesch."/>
+<phrase i="OL_AUTO" t="Auto"/>
+<phrase i="OL_10_HALF" t="10 MB half"/>
+<phrase i="OL_10_FULL" t="10MB full"/>
+<phrase i="OL_100_HALF" t="100 MB half"/>
+<phrase i="OL_100_FULL" t="100MB full"/>
+<phrase i="OL_1000_FULL" t="1000 full"/>
+<phrase i="OL_10s" t="10s"/>
+<phrase i="OL_20s" t="20s"/>
+<phrase i="OL_30s" t="30s"/>
+<phrase i="OL_AlwaysOn" t="Altijd aan"/>
+<phrase i="OL_1m" t="1 min."/>
+<phrase i="OL_5m" t="5 min."/>
+<phrase i="OL_30m" t="30 min."/>
+<phrase i="OL_monthday" t="Maand/dag"/>
+<phrase i="OL_daymonth" t="Dag/maand"/>
+<phrase i="OL_12hr" t="12u"/>
+<phrase i="OL_24hr" t="24u"/>
+<phrase i="OL_IPv4" t="Alleen IPv4"/>
+<phrase i="OL_IPv6" t="Alleen IPv6"/>
+<phrase i="OL_DUAL_MODE" t="Dubbele modus"/>
+<phrase i="OL_Phone" t="Telefoon"/>
+<phrase i="OL_Server" t="Server"/>
+<phrase i="OL_Show" t="Weergeven"/>
+<phrase i="OL_Hide" t="Verbergen"/>
+<phrase i="OL_BEKEM" t="BEKEM"/>
+<phrase i="OL_AKEM" t="CP-8800-Audio"/>
+<phrase i="OL_VKEM" t="CP-8800-Video"/>
+
+<!-- Option label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="Auto"/>
+<phrase i="OL_Name" t="Naam"/>
+<phrase i="OL_Ext" t="Toestel"/>
+<phrase i="OL_Both" t="Beide"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############-->
+<phrase i="T_EditProfile" t="Profiel bewerken"/>
+<phrase i="T_SetupWiFi" t="Wi-Fi instellen"/>
+<phrase i="T_WlanProfileListprofile" t="Profiel selecteren"/>
+<phrase i="T_WlanScanList" t="Verbinden met Wi-Fi"/>
+<phrase i="T_WlanServerCaList" t="Bestand selecteren als servercertificaat"/>
+<phrase i="T_WlanClientCaList" t="Bestand selecteren als clientcertificaat"/>
+<phrase i="T_WlanProfileReplace" t="Profiel voor vervanging selecteren"/>
+<phrase i="T_WlanWpsSelect" t="De WPS-modus selecteren"/>
+<phrase i="WirelessStatusDetail" t="Draadloos detail"/>
+<phrase i="T_Profile" t="Profiel"/>
+<phrase i="T_WlanPartitionLsit" t="Een partitie selecteren"/>
+<phrase i="L_InvalidProfile" t="Ongeldige profielregel."/>
+<phrase i="L_Disable" t="Uitschakelen"/>
+<phrase i="L_None" t="Geen"/>
+<phrase i="L_Auto" t="Auto"/>
+<phrase i="L_EapFast" t="EAP-FAST"/>
+<phrase i="L_PeapGtc" t="PEAP-GTC"/>
+<phrase i="L_PeapMschapv2" t="PEAP-MSCHAPV2"/>
+<phrase i="L_Psk" t="PSK"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_802Dot1x" t="802.1x"/>
+<phrase i="L_WpaEnt" t="WPA enterprise"/>
+<phrase i="L_Wpa2Ent" t="WPA2 enterprise"/>
+<phrase i="L_Connection" t="Verbinding"/>
+<phrase i="L_SecurityMode" t="Beveil.modus"/>
+<phrase i="L_ProfileName" t="Profielnaam"/>
+<phrase i="L_SecuredWith" t="Beveiligd met"/>
+<phrase i="L_CipherType" t="Codeertype"/>
+<phrase i="L_KeyId" t="Standaard verzendsleutel"/>
+<phrase i="L_KeyLen" t="Sleutellengte"/>
+<phrase i="L_Key1" t="Sleutel 1"/>
+<phrase i="L_Key2" t="Sleutel 2"/>
+<phrase i="L_Key3" t="Sleutel 3"/>
+<phrase i="L_Key4" t="Sleutel 4"/>
+<phrase i="L_PskKey" t="Gedeelde WPA-sleutel"/>
+<phrase i="L_WEPKey" t="WEP-sleutel"/>
+<phrase i="L_Pphrase" t="Wachtwoordzin"/>
+<phrase i="L_EapType" t="EAP-type"/>
+<phrase i="L_UserId" t="Gebruikers-ID"/>
+<phrase i="L_Password" t="Wachtwoord"/>
+<phrase i="L_CheckSvrCa" t="Controleer servercertif."/>
+<phrase i="L_On" t="Aan"/>
+<phrase i="L_Off" t="Uit"/>
+<phrase i="L_LinkSignal" t="Signaalsterkte"/>
+<phrase i="L_NoiseLevel" t="Geluidsniveau"/>
+<phrase i="L_Bssid" t="MAC-adres AP"/>
+<phrase i="L_Frequency" t="Frequentie"/>
+<phrase i="L_DataEncryption" t="Geg.codering"/>
+<phrase i="L_EncryptionType" t="Coderingstype"/>
+<phrase i="L_TransmitRate" t="Verzendsnelh."/>
+<phrase i="L_Channel" t="Kanaal"/>
+<phrase i="L_RootCa" t="Hoofdcertificaat"/>
+<phrase i="L_UserCa" t="Gebruikerscertificaat"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="Wachtw. of pers.sleutel"/>
+<phrase i="L_AnonyId" t="Anonieme ID"/>
+<phrase i="L_TtlsInnerProto" t="TTLS-binnenprot."/>
+<phrase i="L_PeapInnerProto" t="PEAP-binnenprot."/>
+<phrase i="L_WlanConfiguration" t="Draadloze configuratie"/>
+<phrase i="L_WlanWpsPbc" t="Drukknopconfiguratie"/>
+<phrase i="L_WlanWpsPbcText1" t="Voor apparaten met knop Wi-Fi-beveil.inst."/>
+<phrase i="L_WlanWpsPbcText2" t="druk op de knop op het apparaat en selecteer"/>
+<phrase i="L_WlanWpsPbcText3" t="deze modus."/>
+<phrase i="L_WlanWpsPin" t="PIN-configuratie"/>
+<phrase i="L_WlanWpsPinText1" t="Voor app.die PIN eisen, voer"/>
+<phrase i="L_WlanWpsPinText2" t="volg.nr.: %s en selecteer deze modus."/>
+<phrase i="L_WlanWpsPinText3" t="dan deze modus."/>
+<phrase i="L_WlanProfile" t="Wi-Fi-profiel"/>
+<phrase i="L_Networksetup" t="Netwerkinstallatie"/>
+<phrase i="L_WlanAddCurrent" t="Verbinding als profiel toevoegen"/>
+<phrase i="L_WlanStatus" t="Wi-Fi-status"/>
+<phrase i="L_WlanWps" t="Wi-Fi-beveiligde inst."/>
+<phrase i="WlanMsgPfLock" t="Draadloos profiel vergrendeld"/>
+<phrase i="WlanMsgPfNameLenNull" t="Ongeldige profielnaam"/>
+<phrase i="WlanMsgPfNameLenOver" t="Profielnaam te lang"/>
+<phrase i="WlanMsgSssidLenNull" t="Netwerknaam mag niet leeg zijn."/>
+<phrase i="WlanMsgSssidLenOver" t="SSID te lang"/>
+<phrase i="WlanMsgWepNoValue" t="Stel sleutel-ID in op %d, die geen sleutelwaarde heeft."/>
+<phrase i="WlanMsgWepWrongLen" t="Lengte sleutel %d ongeldig."/>
+<phrase i="WlanMsgWepWrongHex" t="Sleutel %d heeft niet-hex.cijfers"/>
+<phrase i="WlanMsgPsKeyLenLess" t="WPA gedeelde sleutel te kort."/>
+<phrase i="WlanMsgPsKeyLenOver" t="WPA gedeelde sleutel te lang"/>
+<phrase i="WlanMsgPsKeyInvalide" t="Wachtwoordzin moet bestaan uit 64 hexadecimale cijfers, of 8 tot 63 ASCII-tekens."/>
+<phrase i="WlanMsgWepKeyInvalid" t="WEP-sleutel moet bestaan uit 10 of 26 hexadecimale cijfers, of 5 of 13 ASCII-tekens"/>
+<phrase i="WlanMsgIdentityLenNull" t="Gebruikers-ID mag niet leeg zijn."/>
+<phrase i="WlanMsgIdentityLenOver" t="Identiteit te lang"/>
+<phrase i="WlanMsgServerCaWrong" t="Ongeldig servercertificaat"/>
+<phrase i="WlanMsgClientCaWrong" t="Ongeldig clientcertificaat"/>
+<phrase i="WlanMsgPasswordLenNull" t="Wachtwoord mag niet leeg zijn."/>
+<phrase i="WlanMsgPasswordLenOver" t="Wachtwoord te lang"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="Geen anonieme identiteit"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="Broadsoft-gids te lang"/>
+<phrase i="WlanMsgOverMaxPFNum" t="De lijst is vol. Wilt u een ander profiel vervangen?"/>
+<phrase i="WlanMsgUseWpsPbc" t="WPS PBC gebr.voor verbinding"/>
+<phrase i="WlanMsgUseWpsPin" t="WPS PIN gebr.voor verbinding"/>
+<phrase i="WlanNoProfileConnect" t="Geen beschikbaar profiel voor verbinding"/>
+<phrase i="WlanNoScanProfileAdd" t="Geen toe te voegen scanprofiel"/>
+<phrase i="WlanProfileExistReplace" t="Profiel met SSID: %s bestaat al. Profiel vervangen?"/>
+<phrase i="WlanNotEnable" t="Wi-Fi moet zijn ingeschakeld."/>
+<phrase i="WlanNotConnect" t="Geen Wi-Fi-verbinding. Kan niet worden toegevoegd aan de profiellijst"/>
+<phrase i="WPSNotSet" t="Druk op Instlln om WPS te gebruiken."/>
+<phrase i="WLANNotSet" t="Druk op Instellen om de WLAN te gebruiken."/>
+<phrase i="WlanProfileExist" t="Profiel met SSID: %s bestaat al."/>
+<phrase i="WlanNotInterface" t="Ethernet-verbinding moet worden verbroken voor gebruik van Wi-Fi."/>
+<phrase i="WlanMsgAssociating" t="Koppelen met SSID: %s"/>
+<phrase i="WlanMsgFailAssociation" t="Koppelen met %s mislukt."/>
+<phrase i="WlanMsgFailAssociationContinue" t="Koppelen met %s mislukt, pogingen voortgezet op achtergrond."/>
+<phrase i="WlanMsgOobSkip" t="Als u deze stap moet overslaan, moet u het netwerk handmatig configureren."/>
+
+<phrase i="WlanMsgSuccessAssociation" t="Verbonden."/>
+<phrase i="WlanMsgSuccessAssociationSSID" t="Verbonden met %s."/>
+
+<phrase i="WlanProfileAlreadyConnected" t="Dit profiel is al verbonden."/>
+<phrase i="WlanWpsFailConnect" t="Kon geen verbinding maken met WPS"/>
+<phrase i="WlanAddIntoProfile" t="Wilt u deze instelling toevoegen als profiel?"/>
+<phrase i="WlanScanning" t="Bezig met draadloos scannen"/>
+<phrase i="WlanWpsConnect" t="WPS-config. voltooid. Instelling toev. aan profiel draadl. status pag."/>
+<phrase i="WlanConnectAll1" t="Wilt u profiellijst gebruiken voor de verbinding?"/>
+<phrase i="WlanConnectAll2" t="Huidige verbinding verbreken en profiellijst gebruiken?"/>
+<phrase i="WlanMsgConnectAll" t="Profiellijst gebr. voor verb."/>
+<phrase i="WlanMsgFailConnectAll" t="Kan niet verbinden. Blijft het proberen op achtergrond."/>
+<phrase i="WlanAddCurrent" t="Wilt u huidige verbinding toevoegen als profiel?"/>
+<phrase i="FileLengthOver" t="Bestandsnaam is langer dan %d."/>
+<phrase i="WlanProfileConnectDisable" t="WiFi-profiel is uitgeschakeld"/>
+<phrase i="WlanProfileEnable" t="Wilt u dit profiel inschakelen?"/>
+<phrase i="WlanProfileDisable" t="Wilt u dit profiel uitschakelen?"/>
+<phrase i="WlanEmptyScanningResult" t="Geen scanresultaat. Probeer het opnieuw."/>
+<phrase i="devRestart" t="Apparaat moet mogelijk opnieuw registreren."/>
+<phrase i="M_NetworkBusy" t="Het netwerk is bezet."/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="Titel selecteren"/>
+<phrase i="T_MP3SourceList" t="Titel aan afspeellijst toev."/>
+<phrase i="T_MP3PartitionList" t="Partitie kiezen voor nummers"/>
+<phrase i="MP3MsgOverMaxSongNum" t="Lijst is beperkt tot %d gegevens."/>
+<phrase i="MP3MsgEntryNotExist" t="Gegeven bestaat niet."/>
+<phrase i="MP3MsgAPendingCall" t="Kan muziek niet afspelen tijdens oproep."/>
+<phrase i="MP3MsgFileNameOverLen" t="Bestandsnaam %d is langer dan %d."/>
+<phrase i="MP3MsgGetList" t="Lijst ophalen van USB-station"/>
+<phrase i="MP3MsgSaveRing" t="Beltoon opslaan van USB-station"/>
+<phrase i="MP3MsgFileIllegle" t="Ongeldige bestandsindeling."/>
+<phrase i="MP3DeletePrompt" t="Wilt u %s verwijderen uit de afspeellijst?"/>
+<phrase i="MP3MsgSelectNull" t="Geen nummer geselecteerd om aan afspeellijst toe te voegen."/>
+<phrase i="MP3MsgSelectOverMax" t="U hebt meer dan %d nummers gekozen!"/>
+<phrase i="MP3UsbFolderNotPresent" t="Map '%s' bestaat niet. Controleer of er mp3-bestanden zijn in de map 'mp3' op het USB-apparaat."/>
+<phrase i="MP3UsbFileNotPresent" t="Geen MP3-bestanden in map '%s'. Controleer of er mp3-bestanden zijn in de map 'mp3' op het USB-apparaat."/>
+<phrase i="MP3DeleteAllPrompt" t="Wilt u alle nummers verwijderen uit afspeellijst?"/>
+<phrase i="MP3MsgCalcTime" t="Afspeeltijd wordt berekend"/>
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="Ethernet in gebruik"/>
+<phrase i="NC_TITLE_WIRELESS" t="draadloos in gebruik"/>
+<phrase i="NC_NOT_AVAILABLE" t="Niet beschikb."/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="Bezig met verbinden met AP"/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="Bezig met controleren van ethernetverbinding"/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="Draadloze verbinding mislukt."/>
+<phrase i="NC_L2_FAIL_WIRED" t="Ethernetverbinding mislukt."/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="Draadloze verbinding OK."/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="Ethernetverbinding OK."/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="Statisch IP gebruiken"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="IP via DHCP ophalen"/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="IP via PPPoE ophalen"/>
+<phrase i="NC_L3_FAIL_STATIC" t="Kan IP-adres niet instellen."/>
+<phrase i="NC_L3_FAIL_DHCP" t="Kan IP niet ophalen via DHCP."/>
+<phrase i="NC_L3_FAIL_PPPOE" t="Kan IP niet ophalen via PPPoE."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="IP-adres instellen"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="IP-adres ophalen"/>
+<phrase i="NC_WAIT_VLAN_ID" t="Bezig met ophalen VLAN-ID"/>
+<phrase i="NC_NO_PROFILE_LIST" t="Geen profiellijst"/>
+<phrase i="NC_VPN_CONNECTING" t="VPN-verbinding maken."/>
+<phrase i="NC_VPN_CONNECTED" t="VPN-verbinding gelukt."/>
+<phrase i="NC_VPN_FAILED" t="Kan geen VPN-verbinding maken"/>
+<phrase i="NC_WPS_SUCCESS" t="WPS-onderhandeling geslaagd."/>
+<phrase i="NC_WPS_FAIL" t="WPS-onderhandeling mislukt."/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="USB-apparaat niet gevonden. Sluit USB-apparaat aan op de USB-sleuf op de telefoon."/>
+<phrase i="UsbFolderNotPresent" t="Map '%s' bestaat niet."/>
+<phrase i="UsbFileNotPresent" t="Geen bestand in map '%s'."/>
+<phrase i="UsbFileNotPresent2" t="Bestand %s bestaat niet."/>
+<phrase i="UsbUnknownError" t="Onbekende USB-fout."/>
+<phrase i="UsbPartitionName" t="Partitie"/>
+<phrase i="UsbDevicePluged" t="USB-apparaat verbonden. Wacht tot apparaat geladen is."/>
+
+<!-- #############  #USB Headset msgs #############-->
+<phrase i="UsbDeviceConnected" t="Sec. app. Verbonden."/>
+<phrase i="UsbDeviceDisconnected" t="Sec. app. niet verb."/>
+<phrase i="UsbDeviceNotSupported" t="Sec. app. niet onderst."/>
+<phrase i="UsbDeviceErrorStatus" t="Foutmelding secundair apparaat."/>
+
+<phrase i="UsbDeviceMaxHeadsets" t="Maximumaantal headsets overschreden"/>
+<phrase i="UsbDeviceNoPower" t="De telefoon kan deze accessoire niet van voeding voorzien."/>
+<phrase i="UsbDeviceDisabled" t="Secundair apparaat niet ondersteund."/>
+<phrase i="UsbDeviceError" t="Probeer het apparaat opnieuw aan te sluiten."/>
+<phrase i="UsbDeviceMaxKEMs" t="Max. aantal telefoonoperator app."/>
+<phrase i="UsbDeviceSysError" t="Kan geen accessoires detecteren."/>
+
+<!-- #############  #Microphone/Speaker msgs #############-->
+<phrase i="ExternalMicrophone" t="Externe microfoon."/>
+<phrase i="ExternalSpeaker" t="Externe luidspreker."/>
+
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="USB is nu vol. Belrecord gestopt. Plaats een nieuwe USB en hervat de opname."/>
+<phrase i="UsbDeviceIsFull" t="USB is nu vol. Plaats een nieuwe USB en hervat de opname."/>
+<phrase i="CallRecordMaxSingleFileReached" t="Max. lengte afzonderlijk record bereikt. Start een nieuwe record."/>
+<phrase i="CallRecordMaxFileNumberReached" t="Max. aantal records bereikt. Verwijder enkele records en hervat de opname."/>
+<phrase i="CallRecordListDeletePrompt" t="Weet u zeker dat u deze opname wilt verwijderen?"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="Weet u zeker dat u alle records wilt verwijderen?"/>
+<phrase i="CallRecordNameInvalid" t="Bestandsnaam belrecord is ongeldig."/>
+<phrase i="CallRecordLenInvalid" t="Kan lengte belrecord niet berekenen."/>
+<phrase i="CallRecordFoldInvalid" t="Lijst van belrecords is ongeldig."/>
+<phrase i="CallRecordUnknownError" t="Onbekende fout belrecord"/>
+<phrase i="CallRecordMsgAPendingCall" t="Kan record niet afspelen tijdens oproep."/>
+<phrase i="CallRecordStarted" t="Opnemen is gestart."/>
+<phrase i="CallRecordStopped" t="Opnemen is gestopt."/>
+<phrase i="CallRecordPaused" t="Opnemen is gepauzeerd."/>
+<phrase i="CallRecordResumed" t="Opnemen is hervat."/>
+<phrase i="CallRecordPending" t="Wachten op begin van opname."/>
+<phrase i="CallRecordServerError" t="Serverfout"/>
+<phrase i="CallRecordStartError" t="Kan opnemen niet starten."/>
+<phrase i="CallRecordStopError" t="Kan opnemen niet stoppen."/>
+<phrase i="CallRecordPauseError" t="Kan opnemen niet pauzeren. "/>
+<phrase i="CallRecordResumeError" t="Kan opnemen niet hervatten."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="Bluetooth moet worden ingeschakeld vóór %s."/>
+<phrase i="BT_Discovering" t="Bezig met opsporen %s."/>
+<phrase i="BT_Discovered" t="%s opgespoord."/>
+<phrase i="BT_DiscoveredFaild" t="Opgespoorde %s mislukt."/>
+<phrase i="BT_DeviceNotFound" t="Geen Bluetooth-apparaat gevonden."/>
+<phrase i="BT_Pairing" t="Bezig met koppeling %s."/>
+<phrase i="BT_Paired" t="%s is gekoppeld."/>
+<phrase i="BT_PairingFailed" t="Koppelen mislukt."/>
+<phrase i="BT_Abort" t="Verbinding met %s verbroken."/>
+<phrase i="BT_UnPairPrompt" t="Wilt u de verbinding met %s verbreken?"/>
+<phrase i="BT_PinCodePrompt" t="PIN invoeren."/>
+<phrase i="BT_ScanningPrompt" t="Scan wordt uitgevoerd. Wacht 10 sec. en voer opnieuw uit."/>
+<phrase i="BT_ConnectingPrompt" t="In verbindingsstatus. Wacht 10 sec. en start opnieuw."/>
+<phrase i="BT_DownloadingPrompt" t="In downloadstatus. Wacht even en start opnieuw."/>
+<phrase i="BT_CallActivePrompt" t="In status Oproep actief. Wacht tot de oproep is beëindigd voordat u het opnieuw probeert. "/>
+<phrase i="BT_OP_FAIL" t="Bewerking mislukt."/>
+<phrase i="BT_OP_WAIT_ENABLE" t="Bluetooth wordt ingeschakeld. Probeer het opnieuw."/>
+<phrase i="BT_Dev_Connected" t="Het apparaat is al aangesloten."/>
+<phrase i="BT_Search" t="Bluetooth-apparaten zoeken"/>
+<phrase i="BT_Connecting_Dev" t="Bezig met verbinden Bluetooth-apparaat."/>
+<phrase i="BT_HeadsetNamePrompt" t="De naam van de headset mag niet leeg zijn."/>
+<phrase i="BT_PhoneModeError" t="De telefoonmodus kan geen verbinding maken met een mobiele telefoon."/>
+<phrase i="BT_HandsfreeModeError" t="De handsfree-modus kan geen verbinding maken met de headset."/>
+<phrase i="BT_DownloadUpdate" t="Persoonlijk adresboek wordt bijgewerkt."/>
+<phrase i="BT_DownloadAddFull" t="Adresboek is vol. Kan niet alle gegevens toevoegen. %d gegevens toegevoegd; %d gegevens genegeerd."/>
+<phrase i="BT_DownloadConflictFull" t="Adresboek is vol. Kan niet opnieuw gegevens toevoegen. Werk %d conflictgegevens bij, voeg nieuw gegeven %d toe en negeer %d nieuwe gegevens"/>
+<phrase i="BT_OverMaxProfileNum" t="De lijst is vol. Wilt u een ander profiel vervangen?"/>
+<phrase i="BT_ConToast" t="Bluetooth verbonden"/>
+<phrase i="BT_DisconToast" t="Bluetooth-verbinding verbroken"/>
+<phrase i="BT_HandsfreePin" t="Apparaatkoppeling moet pincode weergeven"/>
+<phrase i="BT_St_Cntct_Prompt" t="Wilt u al uw mobiele contactpersonen opslaan op uw bureautelefoon? U kunt ze later verwijderen in contactpersonen."/>
+<phrase i="T_Sv_Mob_Cntct" t="Mobiele contactpersonen opslaan"/>
+<phrase i="T_BluetoothProfileList" t="Bluetooth-profiel selecteren"/>
+<phrase i="T_BluetoothProfilePlace" t="Sel. te verv.Bluetooth-profiel"/>
+<phrase i="T_BTMode" t="Bluetooth-modus"/>
+<phrase i="T_BTProfile" t="Bluetooth-profielen"/>
+<phrase i="T_AddDevice" t="Services"/>
+<phrase i="T_BTHeadsetName" t="Headsetnaam"/>
+<phrase i="T_BTLoadPhoneBook" t="Telefoonboek downloaden"/>
+<phrase i="T_BTShowPhoneBook" t="Telefoonboek weergeven"/>
+<phrase i="T_BTChoosePair" t="Bluetooth-profiel selecteren"/>
+<phrase i="T_BTEditProfile" t="Bluetooth-profiel bewerken"/>
+<phrase i="L_BTDeviceName" t="Apparaatnaam"/>
+<phrase i="L_BTPINCODE" t="PIN"/>
+<phrase i="L_BTConnectAuto" t="Automatisch verbinden"/>
+<phrase i="T_BTDownLoad" t="Download"/>
+<phrase i="T_BTReplace" t="Vervangen"/>
+<phrase i="T_BTDeleteAccessory" t="Accessoire verwijderen"/>
+<phrase i="CALL_SERVNOTAVAIL" t="Service niet beschikbaar"/>
+<phrase i="CALL_NETERR" t="Netwerkfout"/>
+<phrase i="CALL_NORES" t="Geen antwoord"/>
+<phrase i="CALL_PROTOERR" t="Protocolfout"/>
+<phrase i="CALL_NOLINE" t="Geen lijn"/>
+<phrase i="CALL_TIMEOUT" t="Time-out"/>
+<phrase i="S_PHOLD" t="PrivWcht"/>
+<phrase i="CALL_PHELD" t="Privé in wacht"/>
+<phrase i="S_IGNORE" t="Negeren"/>
+<phrase i="S_DECLINE" t="Afwijzen"/>
+<phrase i="LINE_INUSE" t="In gebruik"/>
+<phrase i="CALL_PARKED" t="Gesprek geparkeerd"/>
+<phrase i="CALL_SERVUNAVAIL" t="Service niet beschikbaar"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C à á â ä À Á Â Ä "/>
+<phrase i="3852" t=" d e f 3 D E F è é ê ë È É Ê Ë "/>
+<phrase i="3853" t=" g h i 4 G H I ì í î ï Ì Í Î Ï "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O ò ó ô ö Ò Ó Ô Ö "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V ù ú û ü Ù Ú Û Ü "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" + * ~ ` &lt; &gt; "/>
+<phrase i="3860" t=" 0   , ! ^ ' &quot; | "/>
+<phrase i="3861" t=" # $ £ ¤ \ ( ) { } [ ] "/>
+
+<!-- #############  #language #############-->
+<phrase i="L_English" t="Engels"/>
+<phrase i="L_English-US" t="Engels-VS"/>
+<phrase i="L_English-Canada" t="Engels-Canada"/>
+<phrase i="L_English-Australia" t="Engels-Australi"/>
+<phrase i="L_English-Britain" t="Engels-UK"/>
+<phrase i="L_English-NewZealand" t="Engels-Nieuw-Zeeland"/>
+<phrase i="L_French" t="Frans"/>
+<phrase i="L_French-Canada" t="Frans-Canada"/>
+<phrase i="L_Spanish" t="Spaans"/>
+<phrase i="L_Spanish-Mexico" t="Spaans-Mexico"/>
+<phrase i="L_Italian" t="Italiaans"/>
+<phrase i="L_German" t="Duits"/>
+<phrase i="L_Norwegian" t="Noors"/>
+<phrase i="L_Portuguese" t="Portugees"/>
+<phrase i="L_Polish" t="Pools"/>
+<phrase i="L_Dutch" t="Nederlands"/>
+<phrase i="L_Swedish" t="Zweeds"/>
+<phrase i="L_Russian" t="Russisch"/>
+<phrase i="L_Turkish" t="Turks"/>
+<phrase i="L_Slovak" t="Slovaaks"/>
+<phrase i="L_Hungarian" t="Hongaars"/>
+<phrase i="L_Croatian" t="Kroatisch"/>
+<phrase i="L_Bulgarian" t="Bulgaars"/>
+<phrase i="L_Czech_Republic" t="Tsjechisch"/>
+<phrase i="L_Slovenian" t="Sloveens"/>
+<phrase i="L_Danish" t="Deens"/>
+<phrase i="L_Hebrew" t="Hebreeuws"/>
+
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="Cameranr."/>
+<phrase i="L_Camera_Name" t="Cameranaam"/>
+<phrase i="L_Camera_Ip" t="IP-adres"/>
+<phrase i="L_Camara_UserName" t="Gebruikersnaam"/>
+<phrase i="L_Camera_Password" t="Wachtwoord"/>
+<phrase i="L_Camera_Port" t="Poortnr."/>
+<phrase i="L_Camera_Resolution" t="Resolutie"/>
+<phrase i="L_Camera_Quality" t="Videokwaliteit"/>
+<phrase i="L_Camera_FrameRate" t="Framesnelheid"/>
+<phrase i="L_Camera_Status" t="Status"/>
+<phrase i="T_Camera_Entry" t="Camera-informatie"/>
+<phrase i="T_Camera_List" t="Te bewaken camera selecteren"/>
+<phrase i="CamInvalidParam" t="Parameter(s) camera %s ongeldig"/>
+<phrase i="CamMissingURL" t="Toegangs-URL camera %s ontbreekt."/>
+<phrase i="CamMissingUserName" t="Gebruikersnaam camera %s ontbreekt."/>
+<phrase i="CamMissingPassword" t="Wachtwoord camera %s ontbreekt."/>
+<phrase i="CamInvalidURL" t="Toegangs-URL camera %s is ongeldig."/>
+<phrase i="CamInvalidProtocol" t="Protocol camera %s is niet RTSP."/>
+<phrase i="CamNoVideo" t="Geen video"/>
+<phrase i="CamConnecting" t="Verbinden"/>
+<phrase i="CamConnectError" t="Geen video - verbinding mislukt."/>
+<phrase i="CamAccessError" t="Geen video - toegang geweigerd."/>
+<phrase i="CamResolveError" t="Geen video - adres omzetten mislukt."/>
+<phrase i="CamResolutionError" t="Geen video - resolutie te hoog."/>
+<phrase i="CamBusy" t="Camera is bezet. Wacht en probeer het opnieuw."/>
+<phrase i="CamActivateDoorOK" t="Open deur gelukt voor %s."/>
+<phrase i="CamActivateDoorFailed" t="Open deur mislukt voor %s."/>
+<phrase i="CamFeatureNotAvailable" t="De functie is niet beschikbaar wanneer Bluetooth is ingeschakeld"/>
+<phrase i="P_CamAccess" t="Video wordt geopend"/>
+<phrase i="Shutter_Closed" t="Sluiter is dicht."/>
+<phrase i="Bandwidth_Allowance" t="Toegestane bandbreedte"/>
+<phrase i="Exposure" t="Belichting"/>
+<phrase i="Auto" t="Auto"/>
+<phrase i="250_kbps" t="250 Kbps"/>
+<phrase i="500_kbps" t="500 Kbps"/>
+<phrase i="750_kbps" t="750 Kbps"/>
+<phrase i="1_mbps" t="1 Mbps"/>
+<phrase i="2_mbps" t="2 Mbps"/>
+<phrase i="L_Video_Stats" t="Status videogesprek"/>
+<phrase i="L_VideoEncoder" t="Codering"/>
+<phrase i="L_VideoDecoder" t="Decodering"/>
+<phrase i="L_VideoPktSent" t="Pakket verzonden"/>
+<phrase i="L_VideoPktRecv" t="Pakket ontvangen"/>
+<phrase i="L_VideoAvgJitter" t="Gemiddelde jitter"/>
+<phrase i="L_VideoMaxJitter" t="Maximum jitter"/>
+<phrase i="L_VideoRxPktDiscarded" t="Rx-pakket verworpen"/>
+<phrase i="L_VideoRxPktLost" t="Rx-pakket verloren"/>
+<phrase i="L_VideoTxResolution" t="Tx-resolutie"/>
+<phrase i="L_VideoRxResolution" t="Rx-resolutie"/>
+<phrase i="L_VideoRxFrames" t="Rx-frames"/>
+<phrase i="L_VideoTxFrames" t="Tx-frames"/>
+<phrase i="L_VideoTxIDRFrames" t="IDR-frames"/>
+<phrase i="L_VideoTxFastUpdateReq" t="Tx-iframes vereist"/>
+<phrase i="L_VideoRxIDRFrames" t="IDR-frames"/>
+<phrase i="L_VideoRxFastUpdateReq" t="Rx-iframes vereist"/>
+<phrase i="L_VideoTxFrameRate" t="Tx-framesnelheid"/>
+<phrase i="L_VideoRxFrameRate" t="Rx-framesnelheid"/>
+<phrase i="L_VideoLatency" t="Videolatentie"/>
+<phrase i="L_VideoTxBandwidth" t="Tx-bandbreedte"/>
+<phrase i="L_VideoRxBandwidth" t="Rx-bandbreedte"/>
+
+
+<phrase i="OL_Very_Low" t="Zeer laag"/>
+<phrase i="OL_Lowest" t="Laagste"/>
+<phrase i="OL_Low" t="Laag"/>
+<phrase i="OL_Medium" t="Gemiddeld"/>
+<phrase i="OL_Normal" t="Normaal"/>
+<phrase i="OL_High" t="Hoog"/>
+<phrase i="OL_Highest" t="Hoogste"/>
+<phrase i="OL_Very_High" t="Zeer hoog"/>
+
+<!-- #############  Profile Account #############-->
+<phrase i="L_ProAcnt_Setup" t="Profielaccount instellen"/>
+<phrase i="L_ProAcnt_Setup_Basic" t="Profielaccount instellen (HTTP)"/>
+<phrase i="L_ProAcnt_Setup_XsiLogin" t="Profielaccount instellen (XSI)"/>
+<phrase i="L_ProAcnt_Setup_XsiSip" t="Profielaccount instellen (XSI SIP)"/>
+<phrase i="L_PA_HOST_WARNING" t="Aanmelden mislukt, neem contact op met de beheerder."/>
+<phrase i="L_PA_Username" t="Gebruikersnaam"/>
+<phrase i="L_PA_RESYNC_TRY" t="Bezig met aanmelden bij account..."/>
+<phrase i="L_PA_RESYNC_OK" t="Aanmelden gelukt."/>
+<phrase i="L_PA_RESYNC_DISABLED" t="Hersynchronisatiefunctie is uitgeschakeld. Neem contact op met uw beheerder."/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="Extension Mobility"/>
+<phrase i="L_ExtMob_LoginForm" t="Aanmelden bij Extension Mobility"/>
+<phrase i="L_EM_LOGIN_TRY" t="Bezig met aanmelden."/>
+<phrase i="L_EM_LOGIN_OK" t="Aanmelden gelukt."/>
+<phrase i="L_EM_LOGIN_FAILED" t="Aanmeldgegevens onjuist."/>
+<phrase i="L_EM_LOGOUT_TRY" t="Bezig met afmelden."/>
+<phrase i="L_EM_LOGOUT_OK" t="Afmelden gelukt."/>
+<phrase i="L_EM_LOGOUT_FAILED" t="Afmelden mislukt. Telefoon wordt opnieuw opgestart."/>
+<phrase i="L_EM_LOGIN_WARNING" t="Gebruikers-ID en wachtwoord invoeren."/>
+<phrase i="L_EM_LOGOUT_CONFIRMATION" t="Weet u zeker dat u zich wilt afmelden bij Extension Mobility?"/>
+<phrase i="L_EM_INACTIVE_WARNING" t="Door inactiviteit wordt deze telefoon afgemeld bij Extension Mobility. Wilt u aangemeld blijven?"/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="Wilt u een reset voor herstel uitvoeren?"/>
+<phrase i="L_RecoveryReset" t="Reset herstel"/>
+<phrase i="L_FirmwareUpgrade" t="Firmware-upgrade"/>
+<phrase i="T_ST_Diag" t="Diag. herstel"/>
+<phrase i="UsbImageFileNotPresent" t="/image/spa525g.bin niet gevonden. Kopieer de firmware-image naar /image/spa525g.bin."/>
+<phrase i="L_Picture" t="Afbeelding"/>
+<phrase i="L_IncomingPage" t="Inkomende oproep"/>
+<phrase i="L_OutgoingPage" t="Uitgaande oproep"/>
+
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="Map '%s' bestaat niet. Controleer of er jpg-bestanden zijn in map '%s' op USB-apparaat."/>
+<phrase i="ImageUsbFileNotPresent" t="Geen JPG-bestanden in map '%s'. Controleer of er jpg-bestanden zijn in map '%s' op USB-apparaat."/>
+<phrase i="T_ImageSelect" t="Een afbeelding selecteren"/>
+<phrase i="ImageMsgOverMaxImageNum" t="U hebt meer dan %d beelden gekozen."/>
+
+<phrase i="WS_Jan" t="Jan"/>
+<phrase i="WS_Feb" t="Feb"/>
+<phrase i="WS_Mar" t="Mrt"/>
+<phrase i="WS_Apr" t="Apr"/>
+<phrase i="WS_May" t="Mei"/>
+<phrase i="WS_Jun" t="Jun"/>
+<phrase i="WS_Jul" t="Jul"/>
+<phrase i="WS_Aug" t="Aug"/>
+<phrase i="WS_Sep" t="Sep"/>
+<phrase i="WS_Oct" t="Okt"/>
+<phrase i="WS_Nov" t="Nov"/>
+<phrase i="WS_Dec" t="Dec"/>
+<phrase i="WS_Sun" t="Zon"/>
+<phrase i="WS_Mon" t="Ma"/>
+<phrase i="WS_Tue" t="Di"/>
+<phrase i="WS_Wed" t="Wo"/>
+<phrase i="WS_Thu" t="Do"/>
+<phrase i="WS_Fri" t="Vr"/>
+<phrase i="WS_Sat" t="Za"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="Bezig met aanvraag"/>
+<phrase i="T_EmptyHTTPBody" t="Lege HTTP-inhoud."/>
+<phrase i="T_404NotFound" t="404 niet gevonden."/>
+<phrase i="T_AudioDataError" t="Fout audiogegevens."/>
+<phrase i="T_DNSError" t="DNS-fout."/>
+<phrase i="T_NoServer" t="Kan niet verbinden met server."/>
+<phrase i="T_NoResponse" t="Server reageert niet. Probeer het opnieuw."/>
+<phrase i="T_DataError" t="Gegevensfout."/>
+<phrase i="T_UnknownError" t="Onbekende fout."/>
+<phrase i="T_RTPFail" t="De telefoon heeft een andere oproep. Probeer het later opnieuw."/>
+<phrase i="T_XMLFormatError" t="Fout in XML-indeling: ongeldige toepassing."/>
+<phrase i="T_NotValidApp" t="Dit telefoonmodel ondersteunt de toepassing niet."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="Resultaat"/>
+<phrase i="PRV_Msg_Resync" t="Opnieuw synchr. met"/>
+<phrase i="PRV_Msg_ReqFailed" t="Aanvraag opnieuw synchr. mislukt! Tel. voert nieuwe synchr. uit. Probeer het later opnieuw."/>
+<phrase i="PRV_Msg_ReqFailedByUpg" t="Het verzoek is mislukt vanwege een firmwareupgrade. Probeer het later opnieuw."/>
+<phrase i="PRV_Invalid_URL" t="Ongeldige profielregel opn.synchr."/>
+<phrase i="StringLengthOver" t="De tekenreeks is langer dan maximumlengte."/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="Bezig met synchroniseren"/>
+<phrase i="PRV_Msg_Resync_OK" t="Opnieuw synchr. voltooid"/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="Telefoon herstart. Even wachten"/>
+<phrase i="L_Active_Call_Progress" t="Bezig met een oproep. Beëindig oproep en probeer opnieuw."/>
+<phrase i="L_Unable_To_Add_Participant" t="Kan een deelnemer niet toevoegen."/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="Geen"/>
+<phrase i="L_RReason1" t="DHCP mislukt"/>
+<phrase i="L_RReason2" t="Upgrade"/>
+<phrase i="L_RReason3" t="Inrichting"/>
+<phrase i="L_RReason4" t="Upgrade"/>
+<phrase i="L_RReason5" t="Door gebr.geactiveerd"/>
+<phrase i="L_RReason6" t="Upgrade"/>
+<phrase i="L_RReason7" t="Door SIP geactiveerd"/>
+<phrase i="L_RReason8" t="Upgrade"/>
+<phrase i="L_RReason9" t="Systeemfout"/>
+<phrase i="L_RReason10" t="Omlaag koppelen"/>
+<phrase i="L_RReason11" t="Systeem 1"/>
+<phrase i="L_RReason12" t="Systeem 2"/>
+<phrase i="L_RReason13" t="Dubbel IP"/>
+<phrase i="L_RReason14" t="Back-up IP"/>
+<phrase i="L_RReason15" t="Systeem 3"/>
+<phrase i="L_RReason16" t="Systeem 4"/>
+<phrase i="L_RReason17" t="Systeem 5"/>
+<phrase i="L_RReason18" t="Systeem 6"/>
+<phrase i="L_RReason19" t="Systeem 7"/>
+<phrase i="L_RReason20" t="Door SIP geactiveerd"/>
+<phrase i="L_RReason21" t="Wb download"/>
+<phrase i="L_RReason22" t="VLAN gewijzigd"/>
+<phrase i="L_RReason23" t="RC"/>
+<phrase i="L_RReason24" t="Fabrieksinstellingen"/>
+<phrase i="L_RReason25" t="Softwareaanvraag"/>
+<phrase i="L_RReason26" t="IP gewijzigd"/>
+
+<phrase i="L_Calls" t="Gesprekken"/>
+
+<!-- ############# Full Screen Progress Spinner ########### -->
+<phrase i="L_ProgressSpinnerText" t="Firmware upgrade bezig"/>
+
+<!-- ############# Accessories ############ -->
+<phrase i="L_Accessories" t="Accessoires"/>
+<phrase i="L_AccessoryDetails" t="Accessoiredetails"/>
+<phrase i="L_DeviceType" t="Apparaattype"/>
+<phrase i="L_DeviceClass" t="Apparaatklasse"/>
+<phrase i="L_Configured" t="Geconfigureerd"/>
+<phrase i="L_unitEnable" t="Eenheid ingeschakeld"/>
+<phrase i="L_unitState" t="Eenheid online"/>
+
+<!-- #############  Cisco Headset#############-->
+<phrase i="L_Setup" t="Instel."/>
+<phrase i="L_Microphone" t="Microfoon"/>
+<phrase i="L_Tuning" t="Afstemmen"/>
+<phrase i="L_Sidetone" t="Zijtoon"/>
+<phrase i="L_MicrophoneTest" t="Microfoontest"/>
+<phrase i="L_InputLevel" t="Invoerniveau"/>
+<phrase i="L_SpeakNow" t="Spreek nu"/>
+<phrase i="L_SpeakLevel" t="Spreek om het ingangsniveau te zien"/>
+<phrase i="L_PlayRecord" t="Opname afspelen"/>
+<phrase i="L_AdjustMicroGain" t="Microfoonversterking aanpassen"/>
+<phrase i="L_Softer" t="Zachter"/>
+<phrase i="L_Louder" t="Luider"/>
+<phrase i="L_AdjustAudioTune" t="Audiotoonhoogte aanpassen"/>
+<phrase i="L_Warmer" t="Warmer"/>
+<phrase i="L_Brighter" t="Helderder"/>
+<phrase i="L_AdjustMicrophone" t="Microfoon aanpassen"/>
+
+<phrase i="L_headsetSettings" t="Voorkeuren Cisco-headset"/>
+<phrase i="L_headsetSpeaker" t="Luidspreker Cisco-headset"/>
+<phrase i="L_headsetMicrophone" t="Microfoon Cisco-headset"/>
+<phrase i="L_Test" t="Test"/>
+<phrase i="L_Gain" t="Versterking"/>
+<phrase i="L_CiscoWiredHeadset" t="Bekabelde Cisco-headset"/>
+<phrase i="L_CiscoWirelessHeadset" t="Draadloze Cisco-headset"/>
+<phrase i="L_CiscoHeadset" t="Cisco-headset"/>
+<phrase i="L_NewAccDetected" t="Nieuw accessoire gedetecteerd."/>
+<phrase i="L_HeadsetSetupProgress" t="Druk op Instellingen om de headset te configureren, anders wordt deze pagina na %d seconden gesloten."/>
+<phrase i="L_HeadsetSetupProgressOneSecond" t="Druk op Instellingen om de headset te configureren, anders wordt deze pagina na 1 seconde gesloten."/>
+<phrase i="L_HeadsetUpgrade" t="Softwareupdate wordt uitgevoerd. Koppel de headset niet los."/>
+<phrase i="L_HeadsetMDUpgradeNotify" t="De firmware-upgrade voor uw headset is klaar. Dit kan enkele minuten duren. U kunt uw headset niet gebruiken tijdens de upgrade. Wilt u nu upgraden?"/>
+<phrase i="L_CannotRecord" t="U kunt de versterking of het volume van uw microfoon niet controleren terwijl u in gesprek bent."/>
+<phrase i="L_Version" t="Versie"/>
+<phrase i="L_UpgradeFaild" t="Upgrade mislukt."/>
+<phrase i="S_PlayBack" t="Afspelen"/>
+<phrase i="L_Upgrade" t="Bijw."/>
+<phrase i="L_Postpone" t="Uitstellen"/>
+
+<!-- #############  PRT Screen#############-->
+<phrase i="L_ReportProblem" t="Rap. Probleem"/>
+<phrase i="L_ProblemDate" t="Datum probleem"/>
+<phrase i="L_ProblemTime" t="Tijdstip probl."/>
+<phrase i="L_ProblemDescription" t="Beschrijv. probleem"/>
+<phrase i="L_SelectProblem" t="Selecteer"/>
+<phrase i="L_PRTProblem1" t="Verbroken verb. of tel. herstart"/>
+<phrase i="L_PRTProblem2" t="Netwerkverbinding mislukt"/>
+<phrase i="L_PRTProblem3" t="Registratie telefoon mislukt"/>
+<phrase i="L_PRTProblem4" t="Bellen is mislukt"/>
+<phrase i="L_PRTProblem5" t="Kan geen oproep beantwoorden"/>
+<phrase i="L_PRTProblem6" t="Gespreksfuncties werken niet"/>
+<phrase i="L_PRTProblem7" t="Slechte kwaliteit audio/video"/>
+<phrase i="L_PRTProblem8" t="Eenrichtingsverkeer audio/video"/>
+<phrase i="L_PRTProblem9" t="Geen audio/video"/>
+<phrase i="L_PRTProblem10" t="Trage reactie UI"/>
+<phrase i="L_PRTProblem11" t="UI-weergavefout"/>
+<phrase i="L_PRTProblem12" t="Anders"/>
+<phrase i="L_PrtSpinnerText" t="PRT-bestand wordt gegenereerd"/>
+<phrase i="L_PrtStatusOKText" t="Uw upload is geslaagd. Bestand: %s"/>
+<phrase i="L_PrtStatusFailedText" t="PRT niet geüpload. Het is op webpagina: %s"/>
+<phrase i="L_PrtStatusFailedText1" t="PRT-upload mislukt. Het is op de webpagina:"/>
+<phrase i="L_PrtStatusNoURLText" t="PRT-bestand beschikbaar op webpagina (%s)"/>
+<phrase i="L_PrtStatusNoURLText1" t="PRT-bestand beschikbaar op de webpagina"/>
+<phrase i="L_PrtWarningText" t="Selecteer de probleembeschrijving."/>
+<phrase i="T_PRT_Submitted" t="Probleem ingediend"/>
+<phrase i="T_PRT_Error" t="Fout: %d"/>
+
+<!-- #############  802.1X Authentication #############-->
+<phrase i="L_802Authentication" t="802.1X-verificatie"/>
+<phrase i="L_DeviceAuthentication" t="Apparaatverificatie"/>
+<phrase i="L_TransactionStatus" t="Transactiestatus"/>
+<phrase i="L_Protocol" t="Protocol"/>
+
+<!-- #############  Agent Login #############-->
+<phrase i="S_AState" t="Agentst."/>
+<phrase i="L_ACD_AGENT_STATE" t="Status agent instellen"/>
+<phrase i="S_ASignIn" t="AgntAanm"/>
+<phrase i="S_ASignOut" t="AgntAfm"/>
+<phrase i="S_AgtIn" t="AgntAanm"/>
+<phrase i="S_AgtOut" t="AgntAfm"/>
+<phrase i="T_ACD_CallInformation" t="Gespreksinformatie"/>
+<phrase i="L_ACD_WaitTime" t="Wachttijd"/>
+<phrase i="L_ACD_CCUID" t="CC UID"/>
+<phrase i="L_ACD_CCName" t="CC-naam"/>
+<phrase i="L_ACD_Queue" t="Wachtrij"/>
+<phrase i="L_ACD_LongestWaitTime" t="Langste wachttijd"/>
+<phrase i="S_ACallInfo" t="Belinfo"/>
+<phrase i="S_ADispCode" t="Dispcode"/>
+<phrase i="S_ATrace" t="Traceren"/>
+<phrase i="S_AEmergcy" t="Noodopr."/>
+<phrase i="L_ACD_DispCode" t="Dispositiecode"/>
+<phrase i="L_ACD_Emergency" t="Escalatie noodsit."/>
+<phrase i="L_Avail" t="Beschikbaar"/>
+<phrase i="L_Unavail" t="Niet beschikb."/>
+<phrase i="L_Wrap" t="Samenvatting"/>
+<phrase i="L_SignOut" t="Afmelden"/>
+<phrase i="L_AgtState" t="Agent"/>
+<phrase i="L_AQS_EMPTY" t="leeg"/>
+<phrase i="L_AQS_NORMAL" t="In wachtrij"/>
+<phrase i="L_AQS_FULL" t="vol"/>
+<phrase i="L_SECOND" t="%d s"/>
+<phrase i="L_SECONDS" t="%d s"/>
+<phrase i="L_Queue_Call" t="%d gesprek"/>
+<phrase i="L_Queue_Calls" t="%d gesprekken"/>
+<phrase i="L_AgtIn" t="Agent is aangemeld"/>
+<phrase i="L_AgtOut" t="Agent is afgemeld"/>
+
+
+<!-- #############  Exec/Admin Feature #############-->
+<phrase i="L_Executive" t="Leidinggevende"/>
+<phrase i="L_Executive_List" t="Lijst leidinggevende"/>
+<phrase i="L_Assistant" t="Assistent"/>
+<phrase i="L_AllowOptInOut" t="Assistent opt-in/opt-out"/>
+<phrase i="L_CallFilter" t="Gespreksfilter"/>
+<phrase i="L_CallFilterMode" t="Modus gespreksfilter"/>
+<phrase i="L_CallFilterType" t="Filtertype gesprek"/>
+<phrase i="L_AssistsList" t="Lijst assistenten"/>
+<phrase i="M_No_Executive" t="Geen leidinggevende beschikbaar."/>
+<phrase i="L_DivertNum" t="Nummer omleiden"/>
+<phrase i="OL_AllCalls" t="Al.gspr."/>
+<phrase i="OL_InternalCalls" t="Interne gesprekken"/>
+<phrase i="OL_ExternalCalls" t="Externe gesprekken"/>
+<phrase i="OL_Simple" t="Eenvoudig"/>
+<phrase i="OL_Advanced" t="Geavanceerd"/>
+<phrase i="L_Opt0" t="Opt-out"/>
+<phrase i="L_Opt1" t="Opt-in"/>
+<phrase i="M_CallFilterPrompt" t="Elke wijziging in de instellingen voor gespreksfilters zijn van invloed op alle andere assistenten. Wilt u doorgaan?"/>
+<phrase i="M_DivertNumberPrompt" t="Het omleidingsnummer is een verplicht veld."/>
+
+<!-- #############  GDS Activation Feature #############-->
+<phrase i="L_Welcome" t="Welkom"/>
+<phrase i="S_Continue" t="Doorgaan"/>
+<phrase i="L_Enter_Activation_Code" t="Activeringscode invoeren"/>
+<phrase i="L_Activation_Connecting" t="Bezig met verbinden."/>
+<phrase i="L_Activation_Download_Configuration" t="Download wordt uitgevoerd..."/>
+<phrase i="L_Activation_Check_Info" t="Ongeldige activeringscode."/>
+<phrase i="L_Activation_Invalid_Config" t="Ongeldige configuratie. Neem contact op met uw beheerder."/>
+<phrase i="L_Activation_Service_Unavailable" t="De service is niet beschikbaar. Probeer het later opnieuw."/>
+<phrase i="L_Activation_Internal_Error" t="Start de telefoon opnieuw op of neem contact op met de beheerder."/>
+<phrase i="L_Activation_Network_Error" t="Controleer de internetverbinding of neem contact op met de beheerder."/>
+<phrase i="L_Activation_Cert_Error" t="Ongeldig servercertificaat. Neem contact op met uw beheerder."/>
+<phrase i="L_Activation_Download_Retrying" t="Download mislukt. Nieuwe poging aan de gang..."/>
+<phrase i="L_Activation_Download_Failed" t="Download  mislukt, neem contact op met uw beheerder."/>
+<phrase i="M_Config_In_Progress" t="Configuratiecontrole wordt uitgevoerd. Dit duurt enkele minuten."/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/> <!--aks:can be removed after all required screens are fixed-->
+<phrase i="L_NetworkName" t="Netwerknaam"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_802.11" t="Frequentieband"/>
+<phrase i="L_5ghz" t="5 GHz"/>
+<phrase i="L_2.4ghz" t="2,4 GHz"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_WiFi_Type" t="Type wifi"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="JJJJ"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="UU"/>
+<phrase i="Label_mm" t="MM"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_SWITCH_PORT_CFG" t="Poortconfig. selecteren"/>
+<phrase i="L_PC_PORT_CFG" t="Pc-poort configureren"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_PC_PORT_MIRRORING" t="Mirror pc-poort"/>
+<phrase i="L_STARTUP_DELAY" t="Startup vertraging"/>
+<phrase i="L_DHCP_VLAN_OPTION" t="DHCP VLAN-optie"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="VLAN ID"/>
+<phrase i="L_VLAN_PRIPORITY" t="VLAN prioriteit"/>
+<phrase i="L_DATAPORT_VLAN" t="PC port VLAN"/>
+<phrase i="L_DATAPORT_VLANID" t="PC port VLAN ID"/>
+<phrase i="L_DATAPORT_PRIORITY" t="PC port prior."/>
+<phrase i="OL_NO_LIMIT" t="Geen Limiet"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_WLAN" t="WLAN"/>
+<phrase i="OL_WPS" t="WPS"/>
+<phrase i="OL_RELEASE_DHCP" t="DHCP-IP vrijgeven"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_DIGEST-MD5" t="DIGEST-MD5"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  #Status messages #############-->
+<phrase i="M_SM_status_no_connection" t="Geen verbinding"/>
+<phrase i="M_SM_status_Eth_connected" t="Ethernet verbonden"/>
+<phrase i="M_SM_status_Wifi_connected" t="Wi-fi verbonden"/>
+<phrase i="M_SM_Eth_Dis" t="Ethernet-verbinding verbroken"/>
+<phrase i="M_SM_Wifi_Dis" t="Wi-fi-verbinding verbroken"/>
+<phrase i="M_SM_V6_IP_Dup" t="Duplicaat IPv6-adres"/>
+<phrase i="M_SM_V4_IP_Dup" t="Duplicaat IPv4-adres"/>
+<phrase i="M_SM_V6_Dns_Err" t="DNSv6-resolutiefout"/>
+<phrase i="M_SM_Usr_Cncld_Pwr_off" t="Telefoon uitschakelen geannuleerd: de opdracht voor uitschakelen van de switch is geannuleerd vanwege een gebruiker."/>
+<phrase i="M_SM_POE_Rqd" t="Fout bij telefoon uitschakelen: kan niet uitschakelen; bevoegdheid over Ethernet is vereist om de telefoon te kunnen uitschakelen."/>
+<phrase i="M_SM_NO_FILE_CHG" t="Geen bestanden gewijzigd"/>
+<phrase i="M_SM_PORT_CFG_ERR" t="Fout bij poortconfiguratie"/>
+<phrase i="M_SM_V4_ADDR_REL" t="IPv4 adres vrijgegeven"/>
+<phrase i="M_SM_V4_ADDR_RENEW" t="IPv4 adres hernieuwd"/>
+<phrase i="M_SM_NTP_TEMP_TIME" t="Handmatige tijd zal worden overschreven wanneer NTP beschikbaar is."/>
+<phrase i="M_SM_CertError" t="Fout SSL-certificaat %s"/>
+<phrase i="M_SM_DNSError" t="Fout bij oplossen adres %s"/>
+<phrase i="M_SM_DNSSuccess" t="Opgelost %s"/>
+<phrase i="M_SM_NoGeolocation" t="Uw noodlocatie kan niet worden herkend voor lijn: %s"/>
+<phrase i="M_SM_FailedGeolocation" t="Uw noodlocatie kan niet worden herkend door het systeem."/>
+
+<phrase i="ReadOnly_Prompt" t="U heeft geen toestemming om deze verandering te maken."/>
+<phrase i="Copyright_Year" t="2000-2020"/>
+<phrase i="Copyright_Text" t="Copyright 2000-2020 Cisco Systems, Inc."/>
+
+<!-- #############  #Upgrade error message #############-->
+<phrase i="M_UG_FAIL" t="Upgradefout"/>
+<phrase i="M_UG_CRC_FAIL" t="CRC-controle mislukt"/>
+<phrase i="M_UG_MAGIC_FAIL" t="Belasting niet herkend"/>
+<phrase i="M_UG_MEMORY_NOT_ENOUGH" t="Onvoldoende systeemgeheugen beschikbaar"/>
+<phrase i="M_UG_FILE_NOT_FOUND" t="Bestand niet gevonden"/>
+<phrase i="M_UG_READ_FAIL" t="Gegevens ophalen mislukt"/>
+<phrase i="M_UG_WRITE_FAIL" t="Gegevens schrijven mislukt"/>
+<phrase i="M_UG_HASH_CHECK_FAIL" t="Hash-controle mislukt"/>
+<phrase i="M_UG_HEADER_FAIL" t="Controle hoofdkop mislukt"/>
+<phrase i="M_UG_UPGRADE_ABORT" t="Upgradeproces afgebroken"/>
+<phrase i="M_UG_FORBID" t="Hardware of software niet compatibel"/>
+<phrase i="M_UG_CONN_FAIL" t="Verbinden met server mislukt"/>
+<phrase i="M_UG_INTERNAL_ERR" t="Interne fout upgradeproces"/>
+<phrase i="M_UG_BAD_LOAD_EBR" t="Verkeerde lading of uitgebreid opstartrecord"/>
+<phrase i="M_UG_BAD_SCHEME" t="Verkeerd downloadprotocolschema"/>
+<phrase i="M_UG_IN_PROGRESS" t="Upgrade wordt uitgevoerd"/>
+<phrase i="M_UG_BAD_URL" t="Verkeerde URL opgegeven"/>
+<phrase i="M_UG_AUTHORIZED" t="Overgangsupgrade is geverifieerd."/>
+<phrase i="M_UG_UNAUTHORIZED" t="Overgangsupgrade is niet geverifieerd."/>
+<phrase i="M_UG_AUTH_FAIL" t="Er is een fout opgetreden bij het verifiëren van de overgangsupgrade"/>
+<phrase i="M_UG_AUTH_FNF" t="Verificatiebestand voor overgangsupgrade niet gevonden."/>
+<phrase i="M_UG_SERV_CERT_ERR" t="Certificaatfout."/>
+<phrase i="M_UG_UNKNOWN_ERR" t="Onbekende fout"/>
+
+<phrase i="Tr_Configure" t="Configuration check in progress."/>
+<phrase i="Tr_Authorize" t="Authorization in progress."/>
+<phrase i="Tr_Auth_Download" t="Overgangs- en omkeerupgrades zijn toegestaan. Bezig met upgrade."/>
+<phrase i="Tr_Unauth_Download" t="Alleen omkeerupgrade is toegestaan. Bezig met upgrade."/>
+<phrase i="Tr_AuthFail" t="De autorisatie is mislukt. Controleer de configuratie en probeer het opnieuw."/>
+<phrase i="Tr_ConfigureFail" t="Failed to download the configuration. Contact your administrator."/>
+<phrase i="Tr_ContactAdmin" t="Contact your administrator."/>
+
+<!-- TODO: Delete the following 3 strings when all code references are gone-->
+<phrase i="Tr_Revert" t="Load reversion in progress..."/>
+<phrase i="Tr_RevertPrompt" t="Do you want to revert to the previous load?"/>
+<phrase i="Tr_RevertFail" t="Failed to revert to the previous load"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s&amp;mobilePhone=%s"/>
+<phrase i="URL_AddToBSPAB" t="Application_BsDirPersAddToFrom?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2016"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All rights reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi protected setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade file select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi profile name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push button configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching available sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to personal address book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to personal address book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with personal address book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the conflict list"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the personal address book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth device name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices"/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait"/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting wireless profile"/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call history type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add new Wi-Fi profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit all changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware upgrade window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space not allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password not valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available speed dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current personal directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension name of certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter PIN."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of call history entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of received calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of placed calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of missed calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected call history entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected received calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected placed calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected missed calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to personal address book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal address book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Recents"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default transmit key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA shared key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of private key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS inner protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP inner protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="PIN"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone no"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work no"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile no"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home no"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add personal address entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check server certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed calls"/>
+<phrase i="S_Pg_C_All" t="All calls"/>
+<phrase i="S_Pg_C_XsiAll" t="Server All calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import address book from mobile phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- status messages for future use. When using, move them in translatable section-->
+<phrase i="M_SM_cant_pwr_off" t="Phone off error: Could not power off; the required EnergyWise domain is not configured."/>
+<phrase i="M_SM_app_conf" t="apply_config"/>
+<phrase i="M_SM_cust_pend" t="Custom-pending"/>
+<phrase i="M_SM_psp_dev_unreg_pwr_off" t="Device unregistered when it entered powered off due to the Power Save Plus feature"/>
+<phrase i="M_SM_trst_lst_updtd" t="Trust list updated"/>
+<phrase i="M_SM_vpn_proc_not_rng" t="VPN process not running"/>
+<phrase i="M_SM_vpn_clnt_not_rng" t="VPN client not running"/>
+<phrase i="M_SM_vpn_not_cnfgd" t="VPN not configured"/>
+<phrase i="M_SM_trst_lst_updt_faild" t="Trust list update failed"/>
+<phrase i="M_SM_itl_upd_failed" t="ITL update failed"/>
+<phrase i="M_SM_no_trst_lst" t="No trust list installed"/>
+<phrase i="M_SM_itl_instld" t="ITL installed"/>
+<phrase i="M_SM_tz_dnld_failed" t="Time zone data download failed"/>
+<phrase i="M_SM_V6_dns_to" t="IPv6 DNS timeout"/>
+<phrase i="M_SM_V4_no_tftp_svr" t="No IPv4 TFTP server"/>
+<phrase i="M_SM_V6_no_tftp_svr" t="No IPv6 TFTP server"/>
+<phrase i="M_SM_V6_dhcp_to" t="DHCPv6 Timeout"/>
+<phrase i="M_SM_V6_dns_h_un" t="DNS unknown IPv6 host"/>
+<phrase i="M_SM_V6_no_dns_svr" t="No IPv6 DNS server"/>
+<phrase i="M_SM_V6_ADDR_REL" t="IPv6 address released"/>
+<phrase i="M_SM_load_svr_invld" t="Load server is invalid"/>
+<phrase i="M_SM_tftp_svr" t="TFTP server"/>
+<phrase i="M_SM_tftp_not_auth755" t="TFTP not authorized"/>
+<phrase i="M_SM_pend" t="Pending"/>
+<phrase i="M_SM_ctl_instd" t="CTL installed"/>
+<phrase i="M_SM_ctl_updtd_failed" t="CTL update failed"/>
+<phrase i="M_SM_file_auth_fail" t="File auth fail"/>
+<phrase i="M_SM_load_auth_fail" t="Load authenication failed"/>
+<phrase i="M_SM_err_updt_lcl" t="Error updating locale"/>
+<phrase i="M_SM_load_rej_hc" t="Load rejected HC"/>
+<phrase i="M_SM_failback" t="Failback"/>
+<phrase i="M_SM_err_vrfy_cfg" t="Error verifying config info"/>
+<phrase i="M_SM_tftp_err" t="TFTP error"/>
+<phrase i="M_SM_tftp_acc_err" t="TFTP access error"/>
+<phrase i="M_SM_tcp_to" t="TCP-timeout"/>
+<phrase i="M_SM_ver_err" t="Version Error"/>
+<phrase i="M_SM_prog_err" t="Programming Error"/>
+<phrase i="M_SM_no_def_rtr" t="No default router"/>
+<phrase i="M_SM_V4_no_dns_svr" t="No IPv4 DNS server"/>
+<phrase i="M_SM_V4_dns_to" t="IPv4 DNS timeout"/>
+<phrase i="M_SM_V4_dns_h_un" t="DNS unknown IPv4 host"/>
+<phrase i="M_SM_tftp_to" t="TFTP timeout"/>
+<phrase i="M_SM_V4_dhcp_to" t="IPv4 DHCP timeout"/>
+<phrase i="M_SM_V6_Vid_Cap" t="VideoCap with IPv6 Only"/>
+
+<!-- Voice Feedback Strings (hints). DO NOT LOCALIZE this section-->
+<phrase i="VF_FEEDBACK_ON" t="voice feedback on press three times to turn off"/>
+<phrase i="VF_FEEDBACK_OFF" t="voice feedback off"/>
+<phrase i="VF_HOME_SCREEN" t="Home Screen"/>
+<phrase i="VF_STARTUP_SCREEN" t="Startup Screen"/>
+<phrase i="VF_OPTION" t="Option"/>
+<phrase i="VF_XFER_LINE" t="Transfer line"/>
+<phrase i="VF_CONF_LINE" t="Conference line"/>
+<phrase i="VF_INPUT_FIELD" t="Input field"/>
+<phrase i="VF_SWITCH_FIELD" t="Switch field"/>
+<phrase i="VF_OPTION_FIELD" t="Option field"/>
+<phrase i="VF_EXPAND_FIELD" t="Expand field"/>
+<phrase i="VF_NEXT_PAGE" t="Next page"/>
+<phrase i="VF_SLIDER_FIELD" t="Slider field"/>
+<phrase i="VF_MENU" t="Menu"/>
+<phrase i="VF_INCOMING_CALL" t="Incoming call from"/>
+<phrase i="VF_OUTGOING_CALL" t="Outgoing call to"/>
+<phrase i="VF_MISSED_CALL" t="Missed call from"/>
+<phrase i="VF_HELD_CALL" t="Held call with"/>
+<phrase i="VF_CONNECTED_CALL" t="Connected call with"/>
+<phrase i="VF_CANCEL_FORWARD" t="Cancel call forward"/>
+<phrase i="VF_MUTE" t="Mute"/>
+<phrase i="VF_SELECTED" t="Selected"/>
+<phrase i="VF_CURSOR" t="Cursor"/>
+<phrase i="VF_AT_START" t="Cursor at start"/>
+<phrase i="VF_AT_END" t="Cursor at end"/>
+<phrase i="VF_JANUARY" t="January"/>
+<phrase i="VF_FEBRUARY" t="February"/>
+<phrase i="VF_MARCH" t="March"/>
+<phrase i="VF_APRIL" t="April"/>
+<phrase i="VF_MAY" t="May"/>
+<phrase i="VF_JUNE" t="June"/>
+<phrase i="VF_JULY" t="July"/>
+<phrase i="VF_AUGUST" t="August"/>
+<phrase i="VF_SEPTEMBER" t="September"/>
+<phrase i="VF_OCTOBER" t="October"/>
+<phrase i="VF_NOVEMBER" t="November"/>
+<phrase i="VF_DECEMBER" t="December"/>
+<phrase i="VF_MENU_CLOSED" t="Menu Closed"/>
+<phrase i="VF_DND_SET" t="Do Not Disturb Set"/>
+<phrase i="VF_DND_CANCEL" t="Do Not Disturb Cancelled"/>
+<!-- Voice Feedback Strings. END OF THIS SECTION-->
+
+</phrases>

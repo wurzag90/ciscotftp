@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Max number of parsable phrases is capped at 4096 in csstringrepo.c --><phrases>
+<trkLocaleName>Italian</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  Conference Microphones ###########-->
+
+<phrase i="L_WirelessPairing_info" t="Tenere premuto il tasto di disattivazione del microfono %d per 3 secondi. Durante l'associazione, l'indicatore bianco del microfono lampeggia."/>
+<phrase i="L_UNPLUG_WIRED" t="Prima di premere Abbina, scollegare i microfoni con cavo."/>
+
+<phrase i="L_WIRED_MIC_CONNECTED" t="Microfono con cavo %d collegato."/>
+<phrase i="L_WIRED_MIC_DISCONNECTED" t="Microfono con cavo %d scollegato."/>
+<phrase i="L_WIRELESS_MIC_DISCONNECTED" t="Microfono wireless %d disconnesso."/>
+<phrase i="L_WIRELESS_MIC_CONNECTED" t="Microfono wireless %d connesso."/>
+
+<phrase i="L_LOW_BATTERY" t="Livello della batteria del microfono inferiore a %d%25%25."/>
+<phrase i="L_RANGE" t="Intervallo"/>
+<phrase i="L_BATTERY_LEVEL" t="Livello della batteria %d%%"/>
+<phrase i="L_BATTERY_POOR_CONNECTION" t="Collegamento batteria scadente"/>
+<phrase i="L_BATTERY_BAD" t="Batteria danneggiata"/>
+<phrase i="L_PAIRED" t="Abbinato"/>
+<phrase i="L_UNPAIRED" t="Abbinamento rimosso"/>
+<phrase i="L_LOST_LINK" t="Collegamento perso"/>
+<phrase i="L_UPGRADE_IN_PROGRES" t="Aggiornamento in corso"/>
+<phrase i="L_WIRELESS_MICROPHONE" t="Microfono wireless %d"/>
+<phrase i="L_MICROPHONE" t="Microfono %d"/>
+<phrase i="L_MICROPHONES" t="Microfoni"/>
+<phrase i="L_WIRED_MIC" t="Microfoni con cavo"/>
+<phrase i="L_WIRELESS_MIC" t="Microfoni wireless"/>
+<phrase i="L_PAIR" t="Abbina"/>
+<phrase i="L_UNPAIR" t="Rimuovi"/>
+<phrase i="L_LOSTLINK" t="Collegamento perso"/>
+<phrase i="L_WIRELESS_MICROPHONE_ID" t="Abbinamento microfono %d"/>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="Riavvio del sistema in corso..."/>
+<phrase i="L_S_NET" t="Inizializzazione rete in corso..."/>
+<phrase i="L_S_DOWNLOAD" t="Download in corso..."/>
+<phrase i="L_S_UPGRADE" t="Aggiornamento a"/>
+<phrase i="L_S_UPGRADEFAILED" t="Aggiornamento non riuscito"/>
+<phrase i="L_S_RESYNC" t="Risincronizzazione a"/>
+<phrase i="L_S_RESYNCFAILED" t="Risincronizzazione non riuscita."/>
+<phrase i="L_S_SRVC_PROVISIONING_FAILED" t="Verificare le impostazioni del provisioning o contattare il fornitore del servizio."/>
+<phrase i="L_S_CONNECT" t="Connessione"/>
+<phrase i="L_S_NOCME" t="Impossibile trovare UCxxx. Contattare l'amministratore."/>
+<phrase i="L_S_REGTOKENREJECT" t="Token di registrazione SPCP rifiutato. Nuovo tentativo in corso..."/>
+<phrase i="L_S_REGISTERING" t="Registrazione in corso..."/>
+<phrase i="L_S_REGISTERED" t="Registrazione completata."/>
+<phrase i="L_S_REGREJECT" t="Registrazione rifiutata"/>
+<phrase i="L_S_REGFAILED" t="Registrazione non riuscita"/>
+<phrase i="L_S_NO_REG" t="Il telefono non è stato registrato. Contattare amministratore."/>
+<phrase i="L_S_NO_NETWORK" t="Impossibile connettere il telefono alla rete. Controllare i cavi del telefono. Se il problema persiste contattare l'amministratore."/>
+<phrase i="L_S_NO_WIFI_NETWORK" t="Per abilitare le funzioni di chiamata, è necessario configurare la rete."/>
+<phrase i="L_S_SRVC_NO_NETWORK" t="Verificare la connessione Internet o contattare il fornitore del servizio."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_NEWCALL" t="Nuova chiamata"/>
+<phrase i="L_DS_ENTERNUMBER" t="Digita il numero"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="Inoltro di tutte le chiamate"/>
+<phrase i="L_DS_ENTER_CFWD" t="Inoltro di chiamata"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="Inoltro chiam. se occup."/>
+<phrase i="L_DS_ENTER_NOANS" t="Inoltro di chiamata nessuna risposta"/>
+<phrase i="L_DS_ENTER_BXFER" t="Immettere destinazione trasferimento cieco"/>
+<phrase i="L_DS_ENTER_PARK" t="Immettere numero da parcheggiare"/>
+<phrase i="L_DS_ENTER_UNPARK" t="Immettere numero da recuperare"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="Immettere target servizio riferimento"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="Immettere target servizio speciale"/>
+<phrase i="L_DS_ENTER_MORE" t="Immettere più cifre"/>
+<phrase i="L_DS_ENTER_PICKUP" t="Immettere numero risposta per assente"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="Immettere gruppo risposta per assente"/>
+<phrase i="L_DS_ENTER_PAGE" t="Immettere destinazione per cercapersone"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="Immettere numero esterno"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="Immettere codice account"/>
+<phrase i="L_DS_ENTER_PROXYCALL" t="Chiamata proxy"/>
+<phrase i="L_DS_ENTER_DIVERTALL" t="Devia tutte"/>
+<phrase i="L_DS_LINE" t="Linea: %s"/>
+<phrase i="L_DS_FOR" t="per %s"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="Linea"/>
+<phrase i="L_READY" t="Pronta"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="Non reg."/>
+<phrase i="L_CAPPN_DISABLED" t="Disattivato"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="Chiamata rapida"/>
+<phrase i="L_CAPPN_APP" t="Applicazione"/>
+<phrase i="L_CAPPN_URL" t="URL servizio"/>
+<phrase i="L_CAPPN_FEAT" t="Funzione"/>
+<phrase i="L_CAPPN_EXTFUNC" t="Funzione estesa"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="Ospite hoteling pronto"/>
+<phrase i="CALL_RINGING" t="Chiamata in arrivo"/>
+<phrase i="L_CONNECTED" t="Connessa"/>
+<phrase i="L_NOT_CONNECTED" t="Non connesso"/>
+<phrase i="L_OK" t="OK"/>
+<phrase i="L_DUPLICATED" t="Duplicata"/>
+<phrase i="L_INITIALIZING" t="Inizializz."/>
+<phrase i="L_CONNECTING" t="Connessione"/>
+<phrase i="L_DHCP_ERROR" t="Errore DHCP"/>
+<phrase i="CALL_HOLDING" t="Chiamata in attesa"/>
+<phrase i="CALL_END" t="Chiamata terminata"/>
+<phrase i="CALL_CALLING" t="Chiamata in corso"/>
+<phrase i="CALL_SEIZED" t="ChiamPre"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="InAttesa"/>
+<phrase i="CALL_DIALING" t="Composizione"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="Ripresa un corso"/>
+<phrase i="CALL_SHARE" t="Condividi chiamata"/>
+<phrase i="CALL_PAGE" t="Cercapersone"/>
+<phrase i="CALL_PICKUP" t="Risposta per assente"/>
+<phrase i="CALL_PICKUPCALL" t="Rispondi"/>
+<phrase i="CALL_PICKUPFAILED" t="Risposta per assente non riuscita"/>
+<phrase i="CALL_PICKUP_NULL" t="No suoneria."/>
+<phrase i="CALL_GPICKUP" t="Risposta per assente di gruppo"/>
+<phrase i="CALL_GPICKUPSTATION" t="Risposta per assente di stazione"/>
+<phrase i="CALL_ANSWERING" t="Risposta in corso"/>
+<phrase i="CALL_UNKNOWN" t="Sconosciuto"/>
+<phrase i="CALL_ANONYMOUS" t="Anonimo"/>
+<phrase i="CALL_USER" t="Utente"/>
+<phrase i="CALL_IDLE" t="Inattivo"/>
+<phrase i="CALL_PROGRESSING" t="In corso"/>
+<phrase i="CALL_ALERT" t="Avviso in corso"/>
+<phrase i="CALL_ACTIVE" t="Attiva"/>
+<phrase i="CALL_HELD" t="InAttesa"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="Ponte attivo"/>
+<phrase i="CALL_BRIDGE_HELD" t="Ponte in attesa"/>
+<phrase i="CALL_FROM" t="Da"/>
+<phrase i="CALL_TO" t="A"/>
+<phrase i="CALL_CALLBACK" t="Prenota chiamata"/>
+<phrase i="CALL_FORWARD" t="Inoltra"/>
+<phrase i="CALL_XFERTO" t="Trasferisci a"/>
+<phrase i="CALL_PAGEFROM" t="Cercapersone da"/>
+<phrase i="CALL_PAGETO" t="Cercapersone a"/>
+<phrase i="CALL_BY" t="Da"/>
+<phrase i="CALL_CALLER" t="Chiamante"/>
+<phrase i="CALL_BUSY" t="Occupato"/>
+<phrase i="CALL_REORDER" t="Riordina"/>
+<phrase i="CALL_CONGESTION" t="Congestione"/>
+<phrase i="CALL_PROCEED" t="Continua"/>
+<phrase i="CALL_RML" t="Multilinea remota in uso"/>
+<phrase i="CALL_INVALIDNUM" t="Numero non valido"/>
+<phrase i="CALL_INVALID" t="Non valido"/>
+<phrase i="L_GATHERINFO" t="Raccolta informazioni in corso..."/>
+<phrase i="L_FAILED" t="Non riuscito"/>
+<phrase i="L_Empty" t="Vuoto"/>
+<phrase i="L_DND" t="Non disturbare"/>
+<phrase i="L_CFWD" t="Chiamate inoltrate"/>
+<phrase i="L_CFWDTO" t="a %s"/>
+<phrase i="L_MissedCall" t="Nuova chiamata persa"/>
+<phrase i="L_MissedCalls" t="Nuove chiamate perse"/>
+<phrase i="L_RingCallList" t="Elenco chiamate in entrata"/>
+<phrase i="L_RingStationList" t="Elenco stazioni in entrata"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="Numero di parcheggio non valido."/>
+<phrase i="L_SECS_LOGIN_OK" t="Accesso eseguito."/>
+<phrase i="L_SECS_LOGIN_FAILED" t="Accesso non riuscito. Verificare ID utente e password."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="Aggiornamento disponibilità ACD non riuscito."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="Aggiornamento disponibilità ACD riuscito."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="Collegamento al server ACD in corso..."/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="Immettere ID utente e password"/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="Collegamento al server in corso..."/>
+<phrase i="L_SECS_HOTELING_OK" t="Accesso eseguito."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="Accesso non riuscito."/>
+<phrase i="L_SECS_HOTELING_LOGOUT_CONFIRMATION" t="Uscire?"/>
+<phrase i="L_ACD_LoginForm" t="Modulo accesso ACD"/>
+<phrase i="L_TRANSFERRING" t="Trasferimento in corso"/>
+<phrase i="L_XFERFAILED" t="Trasferimento non riuscito"/>
+<phrase i="L_LineSeizing" t="Tentativo di prendere la linea"/>
+<phrase i="L_GatheringCallInfo" t="Raccolta info chiamata"/>
+<phrase i="L_SelectingCall" t="Selezione della chiamata"/>
+<phrase i="L_SelectingStation" t="Selezione della stazione"/>
+<phrase i="L_ContactingStunServer" t="Collegamento al server STUN in corso..."/>
+<phrase i="L_CalledPartyRinging" t="Il numero chiamato sta squillando"/>
+<phrase i="L_TryingHold" t="Messa in attesa..."/>
+<phrase i="L_TringResume" t="Ripresa in corso..."/>
+<phrase i="L_StunIn" t="STUN In"/>
+<phrase i="L_Shared" t="Condivisa"/>
+<phrase i="L_Conference" t="Conferenza"/>
+<phrase i="L_SecureCallIndication" t="Indicazione di chiamata protetta"/>
+<phrase i="L_SystemBeep" t="Segnale acustico sistema"/>
+<phrase i="L_2ndDial" t="Seconda composizione"/>
+<phrase i="L_OutsideDial" t="Composizione esterna"/>
+<phrase i="L_BluetoothDial" t="Chiamata Bluetooth"/>
+<phrase i="L_MessageWaiting" t="Messaggio in attesa"/>
+<phrase i="L_RingBack" t="Richiamata"/>
+<phrase i="L_OffhookWarning" t="Avviso di telefono sganciato"/>
+<phrase i="L_Ring" t="Suoneria"/>
+<phrase i="L_Alert" t="Avviso"/>
+<phrase i="L_Ring_hold" t="Tono di attesa"/>
+<phrase i="L_Ring_Callback" t="Tono di richiamata"/>
+<phrase i="L_Inbound" t="In entrata"/>
+<phrase i="L_Outbound" t="In uscita"/>
+<phrase i="L_Forwarded" t="Deviata"/>
+<phrase i="L_Transfered" t="Trasferita"/>
+<phrase i="L_Transfer" t="Trasferisci"/>
+<phrase i="L_Secure" t="Protetta"/>
+<phrase i="L_CallsList" t="Elenco chiamate"/>
+<phrase i="L_InvalidAcntCode" t="Codice account non valido"/>
+<phrase i="L_ServiceUnavailable" t="Servizio non disponibile"/>
+<phrase i="L_Via" t="(Tramite: %s)"/>
+<phrase i="L_CALL_DTMF_WAIT" t="Immettere altre cifre e premere OK per continuare."/>
+<phrase i="L_CALL_PARKED" t="Parcheggio chiamata in corso..."/>
+<phrase i="L_TO" t="a"/>
+<phrase i="L_Incoming" t="In arrivo"/>
+<phrase i="L_Private" t="Privato"/>
+<phrase i="L_Seized" t="ChiamPre"/>
+<phrase i="L_CurrentSelectionTitle" t="%d di %d"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="In uso"/>
+<phrase i="CALL_OTHERRESERVED" t="Riservato"/>
+<phrase i="CALL_OTHERIDLE" t="Altro inattivo"/>
+<phrase i="CALL_OTHERNOSERV" t="Nessun servizio"/>
+<phrase i="CALL_OTHERHOLD" t="Altro in attesa"/>
+<phrase i="CALL_OTHERRING" t="Altro in chiamata"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="Statistiche chiamate"/>
+<phrase i="T_AB_STSCH_LIST" t="Statistiche chiamate"/>
+<phrase i="L_Name" t="Nome"/>
+<phrase i="L_WorkPhone" t="Telefono ufficio"/>
+<phrase i="L_Extension" t="Interno"/>
+<phrase i="L_HomePhone" t="Telefono abitaz."/>
+<phrase i="L_ConferenceNumber" t="Numero conferenza"/>
+<phrase i="L_MobilePhone" t="Cellulare"/>
+<phrase i="L_RingTone" t="Suoneria"/>
+<phrase i="L_AT" t="a"/>
+<phrase i="L_PeerName" t="Nome interlocutore"/>
+<phrase i="L_PeerNumber" t="Tel. interl."/>
+<phrase i="L_CallType" t="Tipo di chiamata"/>
+<phrase i="L_CallDuration" t="Durata chiamata"/>
+<phrase i="L_CallDuration1" t="Durata:"/>
+<phrase i="L_EncCodec" t="Codec codifica"/>
+<phrase i="L_DecCodec" t="Codec decodifica"/>
+<phrase i="L_CallTime" t="Ora chiamata"/>
+<phrase i="L_CallID" t="ID chiamata"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="Stato parcheggio chiamata"/>
+<phrase i="T_AB_CALLPARK_LIST" t="Elenco parcheggio chiamate"/>
+<phrase i="L_ParkingAt" t="Parcheggiata a"/>
+<phrase i="L_ParkingBy" t="Parcheggiata da"/>
+<phrase i="CPARK_PROGRESSING" t="Richiesta stato parcheggio chiamata in corso..."/>
+<phrase i="CPARK_FAILED" t="Errore richiesta stato parcheggio chiamata"/>
+<phrase i="CPARK_EMPTY" t="Parcheggio chiamata vuoto"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="Selezione codice stella"/>
+<phrase i="callReturnCode" t="Ritorno di chiamata"/>
+<phrase i="blindXferCode" t="Trasferimento cieco"/>
+<phrase i="callBackActCode" t="Prenota chiamata"/>
+<phrase i="callBackDeactCode" t="Ann prenotazione chiam"/>
+<phrase i="forwardAllActCode" t="Inoltra tutte le chiam"/>
+<phrase i="forwardAllDeactCode" t="Ann inoltro delle chiam"/>
+<phrase i="forwardBusyActCode" t="Inoltra chiam se occup"/>
+<phrase i="forwardBusyDeactCode" t="Ann inoltro chiam se occ"/>
+<phrase i="forwardNoAnsActCode" t="Inoltra chiam senza risp"/>
+<phrase i="forwardNoAnsDeactCode" t="Ann inolt chiam snz rsp"/>
+<phrase i="forwardNoAnsActCode_s" t="Inoltra chiam senza risp"/>
+<phrase i="forwardNoAnsDeactCode_s" t="Ann inolt chiam snz rsp"/>
+<phrase i="blockCIDActCode" t="Blocco ID chiamante"/>
+<phrase i="blockCIDDeactCode" t="Ann blocco ID chiamante"/>
+<phrase i="blockCIDPerCallActCode" t="Blocco ID chiam succ"/>
+<phrase i="blockCIDPerCallDeactCode" t="Ann blocco ID chiam succ"/>
+<phrase i="blockANCode" t="Blocco chiamate anonime"/>
+<phrase i="blockANCDeactCode" t="Ann blocco chiam anon"/>
+<phrase i="blockANCode_s" t="Blocca ANC"/>
+<phrase i="blockANCDeactCode_s" t="Annulla blocco ANC"/>
+<phrase i="DNDActCode" t="Non disturbare"/>
+<phrase i="DNDDeactCode" t="Annulla Non disturbare"/>
+<phrase i="CIDActCode" t="ID chiamante"/>
+<phrase i="CIDDeactCode" t="Annulla ID chiamante"/>
+<phrase i="secureAllActCode" t="Proteggi tutte le chiam"/>
+<phrase i="secureAllDeactCode" t="Ann protezione chiamate"/>
+<phrase i="secureOneCallActCode" t="Proteggi successiva"/>
+<phrase i="secureOneCallDeactCode" t="Ann Proteggi successiva"/>
+<phrase i="pagingCode" t="Cercapersone"/>
+<phrase i="callParkCode" t="Parcheggio chiamata"/>
+<phrase i="callUnparkCode" t="Recupero chiamata"/>
+<phrase i="callPickupCode" t="Risposta per assente"/>
+<phrase i="groupCallPickupCode" t="Rsp per assente di grup"/>
+<phrase i="mediaLoopBackCode" t="Loopback multimediale"/>
+<phrase i="preferG711uCode" t="Preferire G711U"/>
+<phrase i="forceG711uCode" t="Forzare G711U"/>
+<phrase i="preferG711aCode" t="Preferire G711A"/>
+<phrase i="forceG711aCode" t="Forzare G711A"/>
+<phrase i="preferG723Code" t="Preferire G723"/>
+<phrase i="forceG723Code" t="Forzare G723"/>
+<phrase i="preferG726r16Code" t="Preferire G726r16"/>
+<phrase i="forceG726r16Code" t="Forzare G726r16"/>
+<phrase i="preferG726r24Code" t="Preferire G726r24"/>
+<phrase i="forceG726r24Code" t="Forzare G726r24"/>
+<phrase i="preferG726r32Code" t="Preferire G726r32"/>
+<phrase i="forceG726r32Code" t="Forzare G726r32"/>
+<phrase i="preferG726r40Code" t="Preferire G726r40"/>
+<phrase i="forceG726r40Code" t="Forzare G726r40"/>
+<phrase i="preferG729aCode" t="Preferire G729A"/>
+<phrase i="forceG729aCode" t="Forzare G729A"/>
+<phrase i="preferG722Code" t="Preferire G722"/>
+<phrase i="forceG722Code" t="Forzare G722"/>
+<phrase i="preferL16Code" t="Preferire L16"/>
+<phrase i="forceL16Code" t="Forzare L16"/>
+<phrase i="preferILBCCode" t="Preferire iLBC"/>
+<phrase i="forceILBCCode" t="Forzare iLBC"/>
+<phrase i="preferISACCode" t="Preferire iSAC"/>
+<phrase i="forceISACCode" t="Forzare iSAC"/>
+<phrase i="preferG722_2Code" t="Preferire G722_2"/>
+<phrase i="forceG722_2Code" t="Forzare G722_2"/>
+<phrase i="preferOPUSCode" t="Preferire OPUS"/>
+<phrase i="forceOPUSCode" t="Forzare OPUS"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_AM" t="AM"/>
+<phrase i="L_PM" t="PM"/>
+<phrase i="L_UpTime" t="Tempo trascorso"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="giorno e"/>
+<phrase i="L_DAYS_AND" t="giorni e"/>
+<phrase i="L_Packets" t="(pacchetti)"/>
+<phrase i="L_Registered" t="Registrato"/>
+<phrase i="L_notRegistered" t="Non reg."/>
+<phrase i="L_notReachable" t="NonRaggiun."/>
+<phrase i="L_Authenticate" t="Autenticato"/>
+<phrase i="L_Succeeded" t="Eseguito"/>
+<phrase i="L_Error" t="Errore"/>
+<phrase i="L_LastRegAt" t="Ultima registr. alle:"/>
+<phrase i="L_NextRegIn" t="Prossima registr. tra:"/>
+<phrase i="L_Proxy" t="Proxy:"/>
+<phrase i="L_Reason" t="Motivo"/>
+<phrase i="L_Status" t="Stato"/>
+<phrase i="L_CallStatusInfo" t="Stato"/>
+<phrase i="L_XMLServices" t="Servizi XML"/>
+<phrase i="L_Tone" t="Tono"/>
+<phrase i="L_Type" t="Tipo"/>
+<phrase i="L_CallName" t="Nome"/>
+<phrase i="L_Number" t="Numero"/>
+<phrase i="L_Enc" t="Codifica"/>
+<phrase i="L_Dec" t="Decodifica"/>
+<phrase i="L_Dur" t="Durata"/>
+<phrase i="L_CALL" t="Chiamata"/>
+<phrase i="L_CALLSTATUS" t="Stato chiamata %d"/>
+<phrase i="L_CALL1" t="Chiamata 1"/>
+<phrase i="L_CALL2" t="Chiamata 2"/>
+<phrase i="L_CALL3" t="Chiamata 3"/>
+<phrase i="L_CALL4" t="Chiamata 4"/>
+<phrase i="L_CALL5" t="Chiamata 5"/>
+<phrase i="L_CALL6" t="Chiamata 6"/>
+<phrase i="L_CALL7" t="Chiamata 7"/>
+<phrase i="L_CALL8" t="Chiamata 8"/>
+<phrase i="L_CALL9" t="Chiamata 9"/>
+<phrase i="L_CALL10" t="Chiamata 10"/>
+<phrase i="L_CALL11" t="Chiamata 11"/>
+<phrase i="L_INFO" t="Informazioni"/>
+<phrase i="L_Extension" t="Interno"/>
+<phrase i="L_Extension1" t="Int.:"/>
+<phrase i="T_PHN_STATUS" t="Stato telefono"/>
+<phrase i="T_LINE_STATUS" t="Stato linea"/>
+<phrase i="T_PROV_STATUS" t="Provisioning"/>
+<phrase i="T_PROV_STATUS1" t="Stato provisioning 1"/>
+<phrase i="T_PROV_STATUS2" t="Stato provisioning 2"/>
+<phrase i="T_PROV_STATUS3" t="Stato provisioning 3"/>
+<phrase i="T_PHN_SYS_STATUS" t="Stato telefono"/>
+<phrase i="L_ExtLabel" t="Stato int %d"/>
+<phrase i="L_Line1Status" t="Stato linea 1"/>
+<phrase i="L_Line2Status" t="Stato linea 2"/>
+<phrase i="L_Line3Status" t="Stato linea 3"/>
+<phrase i="L_Line4Status" t="Stato linea 4"/>
+<phrase i="L_Line5Status" t="Stato linea 5"/>
+<phrase i="L_Line6Status" t="Stato linea 6"/>
+<phrase i="L_Line7Status" t="Stato linea 7"/>
+<phrase i="L_Line8Status" t="Stato linea 8"/>
+<phrase i="L_Line9Status" t="Stato linea 9"/>
+<phrase i="L_Line10Status" t="Stato lina 10"/>
+<phrase i="L_Line11Status" t="Stato linea 11"/>
+<phrase i="L_Line12Status" t="Stato linea 12"/>
+<phrase i="L_Line13Status" t="Stato linea 13"/>
+<phrase i="L_Line14Status" t="Stato linea 14"/>
+<phrase i="L_Line15Status" t="Stato linea 15"/>
+<phrase i="L_Line16Status" t="Stato linea 16"/>
+<phrase i="DeletePrompt" t="Eliminare %s?"/>
+<phrase i="DeleteListPrompt" t="Eliminare registrazioni di chiamate in %s?"/>
+<phrase i="DeleteAllPrompt" t="Eliminare tutte le registrazioni?"/>
+<phrase i="DeleteAllCallsPrompt" t="Eliminare tutte le registrazioni per tutte le linee?"/>
+<phrase i="AddPrompt" t="Dati immessi non completi. Salvare?"/>
+<phrase i="AddNullPrompt" t="Dati immessi non completi. "/>
+<phrase i="AddFullPrompt" t="La rubrica è piena. Impossibile incollare la voce."/>
+<phrase i="UpdatePrompt" t="Dati immessi non completi. Aggiornare?"/>
+<phrase i="ClearPrompt" t="Cancellare la registrazione %s?"/>
+<phrase i="ClearStatusPrompt" t="Cancellare i messaggi di stato?"/>
+<phrase i="ClearString" t="Cancellare %s?"/>
+<phrase i="Prompt_Logout" t="Uscire?"/>
+<phrase i="Message_Rebooting" t="Riavvio in corso..."/>
+<phrase i="Message_UpdateConfig" t="Applicazione configurazione in corso"/>
+<phrase i="Message_FactoryReset" t="Ripristino impostazioni di fabbrica. Riavvio in corso..."/>
+<phrase i="Message_RebootingVoIP" t="Aggiornamento componente voce..."/>
+<phrase i="Message_CustomReset" t="Ripristino impostazioni personalizzate. Riavvio in corso..."/>
+<phrase i="All" t="Tutte le chiamate"/>
+<phrase i="Answered" t="Ricevute"/>
+<phrase i="Outgoing" t="Effettuate"/>
+<phrase i="Missed" t="Perse"/>
+<phrase i="AnsweredCallType" t="Chiamata ricevuta"/>
+<phrase i="OutgoingCallType" t="Chiamata effettuata"/>
+<phrase i="MissedCallType" t="Chiamata persa"/>
+<phrase i="RebootPrompt" t="Riavviare il sistema?"/>
+<phrase i="DeepsleepPrompt" t="Non si possono ricevere chiamate se si è in modalità risparmio energetico"/>
+<phrase i="PowerSavePromptUpgrading" t="Aggiornamento in corso. Riprovare più tardi."/>
+<phrase i="PowerSavePromptEmlogin" t="Disconnettersi da extension mobility e riprovare."/>
+<phrase i="PowerSavePromptHoteling" t="Disconnettersi e riprovare."/>
+<phrase i="PowerSavePromptCallInProgress" t="Chiamata in corso. Si prega di terminare la chiamata e riprovare."/>
+<phrase i="FactoryResetPrompt" t="Ripristinare le impostazioni di fabbrica?"/>
+<phrase i="ResetPrompt" t="Reimpostare il sistema?"/>
+<phrase i="ClearWlanMessagesPrompt" t="Cancellare tutti i messaggi?"/>
+<phrase i="CustomResetPrompt" t="Verificare gli aggiornamenti per il profilo personalizzato? (lavoro in background)"/>
+<phrase i="WPSPbcPrompt" t="Premere il pulsante WPS sull'altro dispositivo, quindi premere Continua."/>
+<phrase i="WPSPinPrompt" t="Immettere il PIN [ %s ] sull'altro dispositivo"/>
+<phrase i="MSG_InvalidPasswordData" t="Credenziali non valide."/>
+<phrase i="Label_Day" t="Giorno"/>
+<phrase i="CertInstall" t="Installato"/>
+<phrase i="CertNotInstall" t="Not installato"/>
+<phrase i="L_Network_Type" t="Tipo di rete"/>
+<phrase i="L_Network_Statistics" t="Statistiche di rete"/>
+<phrase i="L_Address_Type" t="Tipo di indirizzamento"/>
+<phrase i="L_Gateway" t="Router predefinito"/>
+<phrase i="L_MAC_Address" t="Indirizzo MAC"/>
+<phrase i="T_DEVICE_INFO" t="Informazioni prodotto"/>
+<phrase i="L_Product_Name" t="Nome prodotto"/>
+<phrase i="L_Serial_Number" t="Numero di serie"/>
+<phrase i="L_Software_Version" t="Versione software"/>
+<phrase i="L_Wi-Fi_Messages" t="Messaggi Wi-Fi"/>
+<phrase i="L_VID" t="VID"/>
+<phrase i="L_Desp" t="Descrizione"/>
+<phrase i="L_Hardware_Version" t="Versione hardware"/>
+<phrase i="L_Certificate" t="Certificato"/>
+<phrase i="L_Config_Version" t="Versione della configurazione"/>
+<phrase i="L_CustomizationInfo" t="Personalizzazione"/>
+<phrase i="L_Asset_ID" t="ID asset"/>
+<phrase i="L_DHCP_Server" t="Server DHCP"/>
+<phrase i="L_TFTP_Server_1" t="Server TFTP 1"/>
+<phrase i="L_Last_TFTP_Server" t="Ultimo server TFTP"/>
+<phrase i="L_Host_Name" t="Nome host"/>
+<phrase i="L_Domain_Name" t="Dominio"/>
+<phrase i="L_CallManager_1" t="CallManager 1"/>
+<phrase i="L_Directories_URL" t="URL rubriche"/>
+<phrase i="L_Services_URL" t="URL servizi"/>
+<phrase i="L_Messages_URL" t="URL messaggi"/>
+<phrase i="L_Authentication_URL" t="URL di autenticazione"/>
+<phrase i="L_User_Locale" t="Impostazioni internazionali utente"/>
+<phrase i="L_Network_Locale" t="Impostazioni internazionali rete"/>
+<phrase i="L_Switch_Port_Link" t="Collegam. porta switch"/>
+<phrase i="L_Switch_Port_Config" t="Config. porta switch"/>
+<phrase i="L_PC_Port_Config" t="Configurazione porta PC"/>
+<phrase i="L_PC_Port_Link" t="Collegam. porta del PC"/>
+<phrase i="L_Status_Messages" t="Messaggi di stato"/>
+<phrase i="T_PERIPHERAL_STATUS" t="Stato periferica"/>
+<phrase i="L_Peripheral" t="Periferica"/>
+<phrase i="L_Analog_Headset" t="Cuffia analogica"/>
+<phrase i="L_USB_Status" t="Unità USB"/>
+<phrase i="L_xmit" t="trasm"/>
+<phrase i="L_recv" t="ricez"/>
+<phrase i="L_Multicast" t="multcst"/>
+<phrase i="L_EthPackets" t="Ethernet: pacchetti (byte)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: pacchetti (byte)"/>
+<phrase i="L_Wireless" t="Wireless"/>
+<phrase i="L_No_Network" t="Nessuna rete"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="Chiave"/>
+<phrase i="L_IPv4Status" t="Stato IPv4"/>
+<phrase i="L_IPv6Status" t="Stato IPv6"/>
+<phrase i="L_Prefixlen" t="Lunghezza prefisso"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="Centralino 1"/>
+<phrase i="L_Sidecar2_Status" t="Centralino 2"/>
+<phrase i="L_DISCONNECTED" t="Disconnesso"/>
+<phrase i="L_Attendant_Console_Unit" t="Unità console addetto %d"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="Sì"/>
+<phrase i="L_No" t="No"/>
+<phrase i="L_Switch0" t="Disattivato"/>
+<phrase i="L_Switch1" t="Attivato"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="Modifica indirizzo personale"/>
+<phrase i="T_AB_Add_Entry" t="Aggiungi indirizzo personale"/>
+<phrase i="T_AB_Search" t="Cerca indirizzo"/>
+<phrase i="T_AB_Select" t="Seleziona indirizzo"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="Ora chiamata"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="Chiamata persa"/>
+<phrase i="L_PhoneNo" t="Numero"/>
+<phrase i="L_CallAt" t="Chiama alle"/>
+<phrase i="L_Duration" t="Durata"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="Modifica chiamata rapida"/>
+<phrase i="T_SD_List" t="Chiamate rapide"/>
+<phrase i="L_SpeedDialNo" t="Numero chiamata rapida"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="Seleziona suoneria"/>
+<phrase i="T_RT_Select_USB" t="Seleziona suoneria da USB"/>
+<phrase i="T_RT_Select_Slot" t="Seleziona slot per salvataggio suoneria"/>
+<phrase i="T_RT_Not_Installed" t="Not installato"/>
+<phrase i="T_RT_USER_1" t="Utente 1"/>
+<phrase i="T_RT_USER_2" t="Utente 2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="Informazioni e impostazioni"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Cuffia Bluetooth"/>
+<phrase i="L_UserPref" t="Preferenze utente"/>
+<phrase i="L_CallRecord" t="Configurazione registrazione chiamate"/>
+<phrase i="L_CallRecordMode" t="Modalità registraz. audio"/>
+<phrase i="L_CallRecordAudioPath" t="Percorso registrazione audio"/>
+<phrase i="L_CallRecordBeep" t="Promemoria acustico"/>
+<phrase i="L_CallRecords" t="Registrazioni"/>
+<phrase i="L_CallRecordsPlayer" t="Registrazioni chiamate"/>
+<phrase i="L_Directory" t="Rubriche"/>
+<phrase i="OL_Fastest" t="Velocissima"/>
+<phrase i="OL_Faster" t="Veloce"/>
+<phrase i="OL_Normal" t="Normale"/>
+<phrase i="OL_Slower" t="Lenta"/>
+<phrase i="OL_Slowest" t="Lentissima"/>
+<phrase i="L_VoiceSpeed" t="Velocità voce"/>
+<phrase i="L_SelectVFSpeed" t="Seleziona velocità voce"/>
+<phrase i="L_VoiceVolume" t="Volume voce"/>
+<phrase i="L_VoiceFeedback" t="Feedback voce"/>
+<phrase i="L_Accessibility" t="Accessibilità"/>
+<phrase i="L_CallHistory" t="Recenti"/>
+<phrase i="L_DisplayFrom" t="Visual. recenti da"/>
+<phrase i="L_SpeedDial" t="Chiamate rapide"/>
+<phrase i="L_VideoMonitoring" t="Monitoraggio video"/>
+<phrase i="L_WebApplication" t="Applicazioni"/>
+<phrase i="L_CallPreferences" t="Preferenze chiamata"/>
+<phrase i="L_Anywhere" t="Anywhere"/>
+<phrase i="L_SelectLine" t="Seleziona una linea"/>
+<phrase i="L_Locations" t="Posizioni"/>
+<phrase i="L_EditLocation" t="Modifica la posizione"/>
+<phrase i="L_AddLocation" t="Aggiungi una posizione"/>
+<phrase i="L_LocationName" t="Nome"/>
+<phrase i="L_LocationNumber" t="Numero"/>
+<phrase i="L_EnableLocation" t="Abilita la posizione"/>
+<phrase i="L_DeletePrompt" t="Eliminare %s?"/>
+<phrase i="L_ConnectionSetting" t="Impostazioni connessione"/>
+<phrase i="L_NetworkConfig" t="Configurazione di rete"/>
+<phrase i="L_AudioPreferences" t="Preferenze audio"/>
+<phrase i="L_RingSetting" t="Impostazioni suoneria"/>
+<phrase i="L_ScreenPreferences" t="Preferenze schermo"/>
+<phrase i="L_Administration" t="Amministratore dispositivo"/>
+<phrase i="T_ST_IP_Address" t="Impostazioni indirizzo IP statico"/>
+<phrase i="T_ST_IPV4_Address" t="Impostazioni indirizzo IPv4"/>
+<phrase i="T_ST_IPV6_Address" t="Impostazioni indirizzo IPv6"/>
+<phrase i="L_IPAddress" t="Indirizzo IP"/>
+<phrase i="L_StaticIPAddress" t="Indir. IP stat."/>
+<phrase i="L_SubnetMask" t="Subnet mask"/>
+<phrase i="L_GatewayAddress" t="Indiriz. gateway"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="L_PrefixLength" t="Lunghezza prefisso"/>
+<phrase i="L_BroadcastEcho" t="Eco trasmissione"/>
+<phrase i="L_AutoConfig" t="Config. automatica"/>
+<phrase i="T_ST_Admin" t="Amministrazione"/>
+<phrase i="L_About" t="Informazioni su"/>
+<phrase i="L_SetPassword" t="Imposta password"/>
+<phrase i="L_DateTime" t="Data e ora"/>
+<phrase i="L_Language" t="Lingua"/>
+<phrase i="L_Reboot" t="Riavvio"/>
+<phrase i="L_Reset" t="Reimposta"/>
+<phrase i="L_UserDataReset" t="Reimpostazione dati utente"/>
+<phrase i="L_ConfigReset" t="Reimpostazione dati configurazione"/>
+<phrase i="L_NetworkReset" t="Dati rete"/>
+<phrase i="L_ServiceProviderReset" t="Reimpostazione fornitore servizio"/>
+<phrase i="L_Deepsleep" t="Risparmio energetico"/>
+<phrase i="L_FactoryReset" t="Ripristino di fabbrica"/>
+<phrase i="L_CustomReset" t="Ripristino personalizzato"/>
+<phrase i="L_ProfileRule" t="Regola profilo"/>
+<phrase i="L_CallControlSettings" t="Impostazioni controllo chiamate"/>
+<phrase i="L_SignalingProtocol" t="Protocollo di segnalazione"/>
+<phrase i="L_AutoDetectSPCP" t="Rilevamento automatico SCCP"/>
+<phrase i="T_ST_Audio" t="Impostazioni audio"/>
+<phrase i="L_PrefAudioDevice" t="Dispos. audio pref."/>
+<phrase i="L_EnableStereo" t="Tipo di cuffia"/>
+<phrase i="L_PhRingTone" t="Suoneria predefinita"/>
+<phrase i="L_Ext1RingTone" t="Int 1: suoneria"/>
+<phrase i="L_Ext2RingTone" t="Int 2: suoneria"/>
+<phrase i="L_Ext3RingTone" t="Int 3: suoneria"/>
+<phrase i="L_Ext4RingTone" t="Int 4: suoneria"/>
+<phrase i="L_Ext5RingTone" t="Int 5: suoneria"/>
+<phrase i="L_Ext6RingTone" t="Int 6: suoneria"/>
+<phrase i="L_Ext7RingTone" t="Int 7: suoneria"/>
+<phrase i="L_Ext8RingTone" t="Int 8: suoneria"/>
+<phrase i="L_Ext9RingTone" t="Int 9: suoneria"/>
+<phrase i="L_Ext10RingTone" t="Int 10: suoneria"/>
+<phrase i="L_Ext11RingTone" t="Int 11: suoneria"/>
+<phrase i="L_Ext12RingTone" t="Int 12: suoneria"/>
+<phrase i="L_Ext13RingTone" t="Int 13: suoneria"/>
+<phrase i="L_Ext14RingTone" t="Int 14: suoneria"/>
+<phrase i="L_Ext15RingTone" t="Int 15: suoneria"/>
+<phrase i="L_Ext16RingTone" t="Int 16: suoneria"/>
+<phrase i="L_SpeakerTuning" t="Sintonizza altoparlante"/>
+<phrase i="L_MicrophoneGain" t="Guadagno microfono"/>
+<phrase i="L_Micgain" t="Guadagno microfono"/>
+
+<phrase i="T_ST_CallForward" t="Impostazioni inoltro di chiamata"/>
+<phrase i="L_ForwardAll" t="Inoltra tutto"/>
+<phrase i="L_ForwardBusy" t="Inol. se occup."/>
+<phrase i="L_ForwardNoAns" t="Inoltro nessuna risposta"/>
+<phrase i="L_ForwardAllNumbers" t="Inoltra tutto al num."/>
+<phrase i="L_ForwardBusyNumber" t="Numero se occupato"/>
+<phrase i="L_ForwardNoAnsNumber" t="Num. chiam. senza risp."/>
+<phrase i="L_ForwardNoAnsDelay" t="Rit. se senza risp."/>
+<phrase i="L_NumberofRingsBeforeForwarding" t="Numero di squilli"/>
+<phrase i="L_RingReminder" t="Promemoria suoneria"/>
+<phrase i="L_IPMODE" t="Modalità IP"/>
+<phrase i="L_WiFiConfiguration" t="Configurazione Wi-Fi"/>
+<phrase i="L_EthernetConfiguration" t="Configurazione Ethernet"/>
+<phrase i="L_ConnectionType" t="Tipo di connessione"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="Connessione automatica"/>
+<phrase i="L_Headset" t="Cuffia"/>
+<phrase i="L_WebServer" t="Server Web"/>
+<phrase i="L_DiscoveryAddress" t="Indirizzo di rilevamento"/>
+<phrase i="L_LVSAutoDiscovery" t="Rilevamento autom. sistema chiave"/>
+<phrase i="L_LVSProxyAddress" t="Ind. IP sistema chiave"/>
+<phrase i="L_DHCPOption" t="Opzioni DHCP"/>
+<phrase i="L_DHCPv6Option" t="Opzione DHCPv6:"/>
+<phrase i="L_TranProtocol" t="Protocollo trasporto"/>
+<phrase i="L_NetworkStatus" t="Stato rete"/>
+<phrase i="L_RebootHistory" t="Cronologia riavvii"/>
+<phrase i="L_IPStatus" t="Stato IP"/>
+<phrase i="T_ST_SetTime" t="Imposta ora corrente"/>
+<phrase i="L_Presence_Available" t="Disponibile"/>
+<phrase i="L_Presence_Away" t="Assente"/>
+<phrase i="L_Presence_DND" t="Non disturbare"/>
+<phrase i="L_Presence_Offline" t="Offline"/>
+<phrase i="L_Presence_Title" t="La mia presenza"/>
+<phrase i="L_IMPContacts" t="Contatti IM&amp;P"/>
+<phrase i="L_ContactDetails" t="Dettagli contatto"/>
+<phrase i="L_AllContacts" t="Tutti i contatti"/>
+<phrase i="L_Favorites" t="Preferiti"/>
+<phrase i="L_XMPPDisconnected" t="Disconnesso dal server"/>
+<phrase i="L_XMPPAuthFailed" t="Errori autenticazione"/>
+<phrase i="L_AB" t="Rubrica personale"/>
+<phrase i="L_AllDirectorySearch" t="Tutte"/>
+<phrase i="L_XMLDirectory" t="Rubrica aziendale (XML)"/>
+<phrase i="L_LDAPDirectory" t="Rubrica aziendale (LDAP)"/>
+<phrase i="L_LVSDirectory" t="Rubrica aziendale"/>
+<phrase i="L_BroadsoftDirectory" t="Rubrica BroadSoft"/>
+<phrase i="L_BroadsoftPersonal" t="Personale"/>
+<phrase i="L_BroadsoftGroup" t="Gruppo"/>
+<phrase i="L_BroadsoftEnterprise" t="Azienda"/>
+<phrase i="L_BroadsoftGroupCommon" t="Gruppi comuni"/>
+<phrase i="L_BroadsoftEnterpriseCommon" t="Aziendale comune"/>
+<phrase i="L_XMLService" t="Servizi Cisco XML"/>
+<phrase i="T_ST_CallHistories" t="Cronologie chiamate"/>
+<phrase i="T_ST_Language" t="Selezione lingua"/>
+<phrase i="T_ST_Password" t="Imposta password"/>
+<phrase i="L_OldPassword" t="Vecchia password"/>
+<phrase i="L_NewPassword" t="Nuova password"/>
+<phrase i="L_ReEnterNewPassword" t="Reinserire password"/>
+<phrase i="L_IncorrectOldPassword" t="La vecchia password non corrisponde alla password originale."/>
+<phrase i="L_NewPasswordNotSame" t="La nuova password e la nuova password reinserita non corrispondono."/>
+<phrase i="L_NewPasswordNotLong" t="La password utente deve contenere almeno 4 caratteri."/>
+<phrase i="L_CallForwarding" t="Inoltro di chiamata"/>
+<phrase i="L_CallWaiting" t="Chiamata in attesa"/>
+<phrase i="L_VoiceMail" t="Casella vocale"/>
+<phrase i="L_BlockCallerID" t="Blocco ID chiamante"/>
+<phrase i="L_BlockAnonymCall" t="Blocco chiamata anonima"/>
+<phrase i="L_SecureCall" t="Chiamata protetta"/>
+<phrase i="L_DialAssist" t="Assistenza composizione"/>
+<phrase i="L_AutoAnswerPage" t="Risp. automat. cercaper."/>
+<phrase i="L_MissCallShortCut" t="Colleg. chiamata persa"/>
+<phrase i="L_EnabledScreenSaver" t="Salvaschermo"/>
+<phrase i="L_DisplayBrightness" t="Luminosità display"/>
+<phrase i="L_ContrastLevel" t="Livello di contrasto"/>
+<phrase i="L_WallPaper" t="Sfondo"/>
+<phrase i="T_ST_ScreenSaver" t="Impostazioni salvaschermo"/>
+<phrase i="L_ScreenSaverType" t="Tipo di salvaschermo"/>
+<phrase i="L_TriggerInterval" t="Inter. attivaz. (sec)"/>
+<phrase i="L_RefreshInterval" t="Inter. aggiorn. (sec.)"/>
+<phrase i="L_BackLight" t="Retroilluminazione"/>
+<phrase i="L_BackLightTimer" t="Timer retroilluminazione"/>
+<phrase i="L_Contrast" t="Contrasto"/>
+<phrase i="L_Brightness" t="Luminosità"/>
+<phrase i="T_StarCodeList" t="Seleziona un cod stella"/>
+<phrase i="T_Select_Image" t="Seleziona immagine"/>
+<phrase i="T_ST_Time" t="Impostazioni ora"/>
+<phrase i="L_TimeZone" t="Fuso orario"/>
+<phrase i="L_DayLightSaving" t="Ora legale"/>
+<phrase i="L_NTPServer1" t="Server 1 NTP"/>
+<phrase i="L_NTPServer2" t="Server 2 NTP"/>
+<phrase i="L_SetCurrentTimeManually" t="Imposta ora corrente manualmente"/>
+<phrase i="T_ST_TimeZone" t="Seleziona fuso orario"/>
+<phrase i="L_TimeFormat" t="Formato ora"/>
+<phrase i="L_DateFormat" t="Formato data"/>
+<phrase i="L_DHCP_Address_Released" t="Indirizzo DHCP rilasciato"/>
+<phrase i="L_Erase_Config" t="Cancella configurazione"/>
+<phrase i="L_WebServerWritable" t="Modificabile da server"/>
+<phrase i="M_ABEmpty" t="Rubrica vuota."/>
+<phrase i="M_ABDuplicate" t="Tutti i record sono identici"/>
+<phrase i="M_InvalidVLAN" t="Il campo ID VLAN deve essere compreso tra 0 e 4095."/>
+<phrase i="M_InvalidDataportVLAN" t="L'ID VLAN della porta PC deve essere compreso tra 0 e 4095."/>
+<phrase i="M_InvalidDHCPVLANOption" t="L'opzione DHCP VLAN [%s] non è valida."/>
+<phrase i="M_InvalidDataportPriority" t="La priorità deve essere compresa tra 0 e 7."/>
+<phrase i="M_InvalidMAddr" t="L'indirizzo di rilevamento deve essere di tipo aaa.bbb.ccc.ddd:pppp."/>
+<phrase i="M_InvalidNetStartupDelay" t="Il ritardo di avvio deve essere compreso tra 1 e 300."/>
+<phrase i="M_RebootInvalid" t="Chiamata in corso. Riavvio non consentito."/>
+<phrase i="M_FactoryResetInvalid" t="Chiamata in corso. Ripristino impostazioni di fabbrica non consentito."/>
+<phrase i="M_CustomResetInvalid" t="Chiamata in corso. Ripristino personalizzato non consentito."/>
+<phrase i="M_OperationInvalid" t="Chiamata in corso. Operazione non consentita."/>
+<phrase i="M_OperationInvalidInUpgrade" t="Aggiornamento del telefono in corso. Impossibile eseguire l'operazione."/>
+<phrase i="M_ProfileRuleInvalid" t="Chiamate in corso. Risincronizzaz. con regola profilo non consentita."/>
+<phrase i="M_InvalidDHCPOptions" t="Il valore deve essere un elenco separato da virgole [%s]."/>
+<phrase i="M_UpgradeStart" t="Avvio aggiornamento."/>
+<phrase i="M_UpgradeInProgress" t="Aggiornamento in corso. Non spegnere."/>
+<phrase i="M_DownloadProgress" t="Download indirizzi in corso..."/>
+<phrase i="M_UpgradeCompleted" t="Aggiornamento completato."/>
+<phrase i="M_UpgradeAborted" t="Aggiornamento interrotto da utente."/>
+<phrase i="M_UpgradeAbortedWithError" t="Agg. interrotto con errore."/>
+<phrase i="M_UpgradeCompletedReboot" t="Aggiornamento completato. Riavvio in corso..."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="Aggiornamento interrotto con errore. Riavvio in corso..."/>
+<phrase i="M_InvalidCFWDNoAnsDelay" t="Il ritardo senza risposta deve essere compreso tra 1 e 300."/>
+<phrase i="M_InvalidCFWDNoFKS" t="Non immettere più di %d caratteri."/>
+<phrase i="M_EmptyCFWDNoFKS" t="Numero di telefono per inoltro di chiamata è un campo obbligatorio"/>
+<phrase i="M_InvalidCFWDNoAnsDelayXSI" t="Il ritardo senza risposta XSI deve essere compreso tra 2 e 20 o uguale a 0."/>
+<phrase i="T_Login_Form" t="Modulo di accesso"/>
+<phrase i="L_Pending" t="In sospeso"/>
+<phrase i="L_Customized" t="Personalizzato"/>
+<phrase i="L_Open" t="Aperto"/>
+<phrase i="L_Unavailable" t="Non disp."/>
+<phrase i="L_CustomPending" t="In attesa di personalizzazione"/>
+<phrase i="L_Acquired" t="Acquisito"/>
+<phrase i="L_Aborted" t="Interrotto"/>
+<phrase i="L_GdsAcquired" t="GDS-Acquisito"/>
+<phrase i="L_GdsPending" t="GDS-In sospeso"/>
+<phrase i="L_GdsCustomPending" t="GDS-In attesa di personalizzazione"/>
+<phrase i="L_Hour" t="Ora"/>
+<phrase i="L_Minute" t="Minuto"/>
+<phrase i="L_Second" t="Secondo"/>
+<phrase i="L_HourShort" t="Ora"/>
+<phrase i="L_MinuteShort" t="Min"/>
+<phrase i="L_SecondShort" t="Sec"/>
+<phrase i="M_InvalidRefreshTime" t="L'intervallo di aggiornamento deve essere compreso tra 1 e 999999 secondi."/>
+<phrase i="M_InvalidBackLightTime" t="Tempo attivaz. retroilluminazione deve essere  maggiore o uguale a 30."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="L'intervallo di attivazione deve essere compreso tra 30 e 65000 secondi."/>
+<phrase i="M_InvalidContrastLevel" t="La luminosità deve essere compresa tra 4 e 15."/>
+<phrase i="M_InvalidContrastActualLevel" t="Il contrasto deve essere compreso tra 1 e 15."/>
+<phrase i="L_Att_Cons_Pref" t="Preferenze console operatore"/>
+<phrase i="L_Attendant_Console_Pref" t="Preferenze console operatore"/>
+<phrase i="L_LCD_Contrast" t="Luminosità"/>
+<phrase i="L_Font_Size" t="Dimensione carattere"/>
+<phrase i="L_Display_Mode" t="Modalità di visualizzazione"/>
+<phrase i="L_Authenticating" t="Autentificazione"/>
+<phrase i="L_Authenticated" t="Autenticato"/>
+<phrase i="L_Exposure" t="Esposizione"/>
+<phrase i="L_Kem_Type" t="Tipo di KEM"/>
+<phrase i="M_Directories_Disabled" t="La rubrica è disabilitata. Contattare l'amministratore."/>
+<phrase i="M_Directories_Unavailable" t="Nessuna rubrica disponibile. Contattare l'amministratore."/>
+<phrase i="M_DirAll_Unavailable" t="Non disponibile ora. Contattare l'amministratore."/>
+<phrase i="L_SIGNIN_FAILED" t="Credenziali di accesso errate. Contattare l'amministratore."/>
+
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="Rubrica interna"/>
+<phrase i="L_EXTERNAL_DIR" t="Rubrica esterna"/>
+<phrase i="L_GROUPS_DIR" t="Rubrica gruppi"/>
+<phrase i="L_STATIONS_DIR" t="Rubrica stazioni"/>
+<phrase i="L_Auto_Attnd" t="Operatore automatico"/>
+<phrase i="L_Int_Music" t="Musica interna"/>
+<phrase i="L_ExternalMusic" t="Musica esterna"/>
+<phrase i="L_Station" t="Stazione"/>
+<phrase i="L_PageGroup1" t="Gruppo cercapersone 1"/>
+<phrase i="L_PageGroup2" t="Gruppo cercapersone 2"/>
+<phrase i="L_PageGroup3" t="Gruppo cercapersone 3"/>
+<phrase i="L_PageGroup4" t="Gruppo cercapersone 4"/>
+<phrase i="L_PageGroup5" t="Gruppo cercapersone 5"/>
+<phrase i="L_Page_Grp" t="Gruppo cercapersone"/>
+<phrase i="L_ExternalPage" t="Cercapersone esterno"/>
+<phrase i="L_CallPark" t="Parcheggio chiamata"/>
+<phrase i="L_PickUp" t="Risposta per assente"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="Organizzazione"/>
+<phrase i="L_FirstName" t="Nome"/>
+<phrase i="L_LastName" t="Cognome"/>
+<phrase i="LDAP_DISPLAY_NAME" t="Nome"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="Telefono ufficio"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="Cellulare"/>
+<phrase i="LDAP_ACCESS_ERROR" t="Errore LDAP: impossibile connettere al server"/>
+<phrase i="LDAP_STARTTLS_ERROR" t="Errore LDAP: operazione StartTLS non riuscita"/>
+<phrase i="LDAP_InvalidInput" t="Errore LDAP: input non valido"/>
+<phrase i="LDAP_NoFilter" t="Definire il filtro."/>
+<phrase i="LDAP_TooManyResults" t="Troppi risultati. Ridefinire la ricerca."/>
+<phrase i="LDAP_NoResult" t="Nessun valore trovato"/>
+<phrase i="NoRingTone" t="Nessuna suoneria"/>
+<phrase i="S_Failed" t="Ricerca non riuscita."/>
+<phrase i="S_Sys_Err" t="Errore di sistema."/>
+<phrase i="T_LDAP_ResultList" t="Elenco rubrica aziendale (LDAP)"/>
+<phrase i="T_LDAPQueryForm" t="Modulo richiesta LDAP"/>
+<phrase i="T_LDAPAddrEntry" t="Indirizzo rubrica aziend. (LDAP)"/>
+<phrase i="T_LDAPQuery" t="Server richiesta LDAP"/>
+<phrase i="T_LDAP" t="LDAP"/>
+<phrase i="L_SimpleSearch" t="Ricerca semplice"/>
+<phrase i="L_AdvSearch" t="Ricerca avanzata"/>
+<phrase i="T_LDAPSigninForm" t="Accesso LDAP"/>
+<phrase i="L_ClientDN" t="DN client"/>
+
+<!-- #############  #BroadSoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="Accesso alla rubrica non riuscito. Verificare la configurazione e le impostazioni di rete."/>
+<phrase i="BSDIR_ACCESS_TIMEOUT" t="Timeout dell'accesso alla rubrica. Verificare la configurazione e le impostazioni di rete"/>
+<phrase i="BSDIR_InvalidInput" t="Errore rubrica BroadSoft: valore non valido."/>
+<phrase i="BSDIR_HTTP_AUTH_ERR" t="Errore di autenticazione. Verificare l'account."/>
+<phrase i="BSDIR_TooManyResults" t="Troppi risultati. Ridefinire la ricerca."/>
+<phrase i="BSDIR_NoSearchParameters" t="Immettere criteri di ricerca"/>
+<phrase i="BSDIR_Setting_MSG" t="Questa modifica ha effetto su altre impostazioni del gruppo. Salvarla?"/>
+<phrase i="T_BSDIR_CONFIG" t="Configurazione rubrica BroadSoft"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="Ricerca in Elenco personale"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="Ricerca in Rubrica gruppi"/>
+<phrase i="T_BSDIR_SEARCH_GROUP_COMMON" t="Ricerca in Rubrica gruppi comune"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="Ricerca in Rubrica aziendale"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE_COMMON" t="Ricerca in Rubrica aziendale comune"/>
+<phrase i="T_BSDIR_SEARCH_ALL" t="Ricerca in tutte le Rubriche BroadSoft"/>
+<phrase i="T_BSDIR_Pers_Contact_Add" t="Aggiungi contatto personale BroadSoft"/>
+<phrase i="T_BSDIR_Pers_Contact_Edit" t="Modifica contatto personale BroadSoft"/>
+<phrase i="M_SavePersContactPrompt" t="Impossibile salvare il contatto %s."/>
+<phrase i="M_DeletePersContactPrompt" t="Impossibile eliminare il contatto %s."/>
+
+<phrase i="L_HOST_SERVER" t="Server host"/>
+<phrase i="L_AUTH_TYPE" t="Tipo di autenticazione"/>
+<phrase i="L_SIPAUTH_ID" t="ID SIP"/>
+<phrase i="L_SIPAUTH_PWD" t="Password SIP"/>
+<phrase i="L_DIR_NAME" t="Nome rubrica"/>
+<phrase i="T_Configure" t="Configura %s"/>
+
+<phrase i="T_BSDIR_SEARCH" t="Ricerca in Rubrica BroadSoft"/>
+<phrase i="T_SIMPLE_SEARCH" t="Ricerca semplice"/>
+<phrase i="T_ADVANCED_SEARCH" t="Ricerca avanzata"/>
+<phrase i="L_BSDIR_LNAME" t="Cognome"/>
+<phrase i="L_BSDIR_FNAME" t="Nome"/>
+<phrase i="L_BSDIR_GROUPID" t="ID gruppo"/>
+<phrase i="L_BSDIR_DEPT" t="Reparto"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="Rep"/>
+<phrase i="L_BSDIR_EMAIL" t="E-mail"/>
+
+<phrase i="BSCLOG_ACCESS_ERROR" t="Errore di accesso. Verificare configurazione e rete."/>
+<phrase i="BsClog_InvalidInput" t="Valore input vuoto o non valido."/>
+<phrase i="BsClog_TooManyResults" t="Troppi record registri chiamate."/>
+<phrase i="BsClog_NoResult" t="Nessun record registri chiamate."/>
+<phrase i="BSCLOG_HTTP_AUTH_ERR" t="Errore autenticazione: riprovare l'autenticazione"/>
+
+<phrase i="BsAnywhere_TooManyResults" t="Raggiunto il numero massimo di posizioni Anywhere"/>
+<phrase i="BsAnywhere_NoLine" t="Nessuna linea Anywhere abilitata."/>
+<phrase i="BsAnywhere_BadRequest" t="Azione o input non validi."/>
+<phrase i="BsAnywhere_ServerBusy" t="Il server è occupato."/>
+
+<phrase i="XSI_GET_ERROR" t="Impossibile recuperare le impostazioni XSI."/>
+<phrase i="XSI_GET_AUTH_ERROR" t="Errore di autenticazione. Impossibile recuperare le impostazioni XSI."/>
+<phrase i="XSI_GET_DNS_ERROR" t="Errore DNS. Impossibile recuperare le impostazioni DNS."/>
+<phrase i="XSI_SET_ERROR" t="Impossibile specificare le impostazioni XSI."/>
+<phrase i="XSI_SET_AUTH_ERROR" t="Errore di autenticazione. Impossibile specificare le impostazioni XSI."/>
+<phrase i="XSI_SET_DNS_ERROR" t="Errore DNS. Impossibile specificare le impostazioni XSI."/>
+<phrase i="XSI_SET_INVALID" t="Parametri non validi. Impossibile specificare le impostazioni XSI."/>
+<phrase i="XSI_SET_ERR_400_PERMISSION" t="L'utente non dispone dell'autorizzazione per modificare l'impostazione."/>
+<phrase i="XSI_SET_ERR_400_INVALIDNUM" t="Numero di telefono non valido. Il numero deve contenere solo -, 0-9 o un numero E.164. Il numero massimo di cifre è 30."/>
+
+<phrase i="T_LVSDIR_REQ" t="Richiesta rubrica LVS dal server..."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="Richiesta rubrica LVS non riuscita"/>
+
+<!-- #############  #All Directories #############-->
+<phrase i="T_ALLDIRECTORY_SEARCH" t="Ricerca in tutte le rubriche"/>
+<phrase i="T_ALLDIRECTORY_RESULTS" t="Risultati di ricerca"/>
+<phrase i="T_ALLDIRECTORY_DETAILS" t="Dettagli risultati di ricerca"/>
+<phrase i="ALLDIRECTORY_TIMEOUT_ERROR" t="Timeout ricerca. Verificare configurazione e rete."/>
+
+<!-- #############  #Call Recording #############-->
+<phrase i="L_RECORDING" t="Registrazione"/>
+<phrase i="L_RECORDINGPAUSED" t="Registrazione sospesa"/>
+
+<!-- #############  #Customizable PLKs  #############-->
+<phrase i="L_DefSpeedDial" t="Definisci chiamata rapida"/>
+<phrase i="L_Define_BLF_Presence" t="Definisci presenza indicatori di stato"/>
+<phrase i="L_PLK_ERROR" t="Errore: immissione vuota o non valida"/>
+<phrase i="PLK_DeletePrompt" t="Rimuovere questa funzione sulla %s %d?"/>
+<phrase i="L_SelectFeature" t="Seleziona funzione"/>
+<phrase i="L_BLF_Presence" t="Presenza  indicatori di stato"/>
+<phrase i="L_BLF_SD" t="Indicatore di stato + Chiamata rapida"/>
+<phrase i="L_BLF_List" t="Elenco indicatori di stato"/>
+<phrase i="L_BLF_CP" t="Indicatore di stato + Risposta per assente"/>
+<phrase i="L_BLF_SD_CP" t="BLF + Chiam rapida + Rsp alla chiam"/>
+<phrase i="L_Define_BLF_Presence" t="Definisci presenza indicatori di stato"/>
+<phrase i="L_Search_BLF_List" t="Cerca elenco indicatori di stato"/>
+<phrase i="L_Select_User" t="Seleziona utente"/>
+<phrase i="L_UserId" t="ID utente"/>
+<phrase i="L_Label" t="Etichetta"/>
+<phrase i="L_MWI" t="MWI"/>
+<phrase i="L_MWI_SD" t="MWI + Chiam. rapida"/>
+<phrase i="L_PLK_Shortcut" t="Collegamento al menu"/>
+<phrase i="L_PLK_LCR" t="Ritorno di chiamata"/>
+<phrase i="L_PLK_ACD" t="ACD"/>
+<phrase i="L_PLK_CallRetrieve" t="Recupero chiamata"/>
+<phrase i="L_PLK_Forward" t="Inoltra"/>
+<phrase i="L_PLK_CLR_DND" t="Cancella ND"/>
+<phrase i="L_PLK_CLR_Forward" t="Cancella inoltro"/>
+<phrase i="L_PLK_CLR_Divert" t="Cancella deviazione"/>
+<phrase i="L_CallInfo" t="Info chiamata"/>
+<phrase i="L_CallList" t="Elenco chiamate"/>
+<phrase i="L_ProxyCall" t="Chiamata proxy"/>
+<phrase i="L_Divert" t="Devia"/>
+<phrase i="L_CallPush" t="Forza chiamata"/>
+<phrase i="L_BridgeIn" t="Attr. bridge"/>
+<phrase i="M_Key_Disabled" t="Il tasto è disabilitato."/>
+<phrase i="M_Callpush_Not_Held" t="La chiamata non è connessa o in attesa."/>
+<phrase i="M_Callpush_No_Held" t="Nessuna chiamata connessa o in attesa su questa linea."/>
+<phrase i="M_No_Idle_Call" t="Nessuna chiamata inattiva da elaborare."/>
+<phrase i="M_Not_Remote_Connected" t="La chiamata non è connessa sul lato remoto."/>
+<phrase i="M_No_CallInfo" t="Informazioni sulla chiamata non disponibili."/>
+<!-- PLK labels -->
+<phrase i="L_AttConsole" t="Console operatore"/>
+<phrase i="L_WpsPbc" t="PBC WPS"/>
+<phrase i="L_WpsPin" t="PIN WPS"/>
+<phrase i="L_IPV4_Address" t="Indirizzo IPv4"/>
+<phrase i="L_IPV6_Address" t="Indirizzo IPv6"/>
+<phrase i="L_UserSignIn" t="Accesso utente"/>
+<phrase i="L_UserSignOut" t="Disconessione utente"/>
+<phrase i="L_ProAcnt" t="Account profilo"/>
+<phrase i="L_Phone_Statistics" t="Statistiche telefono"/>
+<phrase i="L_XML_Application" t="Applicazione XML"/>
+<phrase i="L_Personal_Directory" t="Rubrica personale"/>
+<phrase i="L_All_Directories" t="Tutte le rubriche"/>
+<phrase i="L_XML_Directory" t="Rubrica XML"/>
+<phrase i="L_LDAP_Directory" t="Rubrica LDAP"/>
+<phrase i="L_BluetoothContacts" t="Contatti Bluetooth"/>
+<!-- PSK labels -->
+<phrase i="S_Accessibility" t="Access"/>
+<phrase i="S_AllCalls" t="Tot ch"/>
+<phrase i="S_Received" t="Ricevuta"/>
+<phrase i="S_Placed" t="Effett"/>
+<phrase i="S_Executive" t="Dirigen."/>
+<phrase i="S_Assistant" t="Assist."/>
+<phrase i="S_UserPref" t="Pref ut"/>
+<phrase i="S_CallPref" t="Pref ch"/>
+<phrase i="S_CfwdSetting" t="Pre InCh"/>
+<phrase i="S_Anywhere" t="Ovunque"/>
+<phrase i="S_AudioPref" t="Pref aud"/>
+<phrase i="S_ScreenPref" t="Pref sch"/>
+<phrase i="S_ScreenSaver" t="Salvasch"/>
+<phrase i="S_AttConsole" t="Cons op"/>
+<phrase i="S_RingTone" t="Suoneria"/>
+<phrase i="S_BlueTooth" t="Bluet."/>
+<phrase i="S_NetworkConf" t="Rete"/>
+<phrase i="S_EthernetConf" t="Ethernet"/>
+<phrase i="S_WiFiConf" t="Pre WiFi"/>
+<phrase i="S_WlanProfile" t="Pro WiFi"/>
+<phrase i="S_WpsPbc" t="PBC WPS"/>
+<phrase i="S_WpsPin" t="PIN WPS"/>
+<phrase i="S_WlanStatus" t="Sta WiFi"/>
+<phrase i="S_IPV4_Addr" t="Ind IPv4"/>
+<phrase i="S_IPV6_Addr" t="Ind IPv6"/>
+<phrase i="S_DeviceAdmin" t="Amm disp"/>
+<phrase i="S_SetPassword" t="Imp pswd"/>
+<phrase i="S_UserSignIn" t="Acc ut"/>
+<phrase i="S_UserSignOut" t="Disc ut"/>
+<phrase i="S_DateTime" t="Data/ora"/>
+<phrase i="S_Language" t="Lingua"/>
+<phrase i="S_Reboot" t="Riavvio"/>
+<phrase i="S_Deepsleep" t="Risp en"/>
+<phrase i="S_FactoryReset" t="Fact res"/>
+<phrase i="S_ProfileRule" t="Reg prof"/>
+<phrase i="S_ProfileAccount" t="Prof acc"/>
+<phrase i="S_MICROPHONES" t="Mic"/>
+<phrase i="S_WIRED_MIC" t="Mic cavo"/>
+<phrase i="S_WIRELESS_MIC" t="Mic wrls"/>
+<phrase i="S_Status" t="Stato"/>
+<phrase i="S_ProductInfo" t="Inf prod"/>
+<phrase i="S_NetworkStatus" t="Sta rete"/>
+<phrase i="S_IPv4Status" t="Sta IPv4"/>
+<phrase i="S_IPv6Status" t="Sta IPv6"/>
+<phrase i="S_PHN_STATUS" t="Sta tel"/>
+<phrase i="S_Phone_statistics" t="Stat tel"/>
+<phrase i="S_LINE_STATUS" t="Sta lin"/>
+<phrase i="S_PROV_STATUS" t="Provis."/>
+<phrase i="S_Call_Statistics" t="Stat ch"/>
+<phrase i="S_ReportProblem" t="Segn prb"/>
+<phrase i="S_RebootHistory" t="Riav crn"/>
+<phrase i="S_Accessories" t="Access"/>
+<phrase i="S_Status_Msg" t="Mess sta"/>
+<phrase i="S_Wi-Fi_Msg" t="Mes WiFi"/>
+<phrase i="S_XML_App" t="App XML"/>
+<phrase i="S_Directory" t="Rubriche"/>
+<phrase i="S_Personal_Dir" t="Rub pers"/>
+<phrase i="S_All_Dirs" t="Tot rub"/>
+<phrase i="S_XML_Dir" t="Rub XML"/>
+<phrase i="S_LDAP_Dir" t="Rub LDAP"/>
+<phrase i="S_BroadsoftDirectory" t="R BroadS"/>
+<phrase i="S_BroadsoftPersonal" t="Person"/>
+<phrase i="S_BroadsoftGroup" t="Gruppo"/>
+<phrase i="S_BroadsoftEnterprise" t="Azienda"/>
+<phrase i="S_BroadsoftGroupCommon" t="Grup com"/>
+<phrase i="S_BroadsoftEnterpriseCommon" t="Imm comm"/>
+<phrase i="S_BT_contacts" t="Cont BT"/>
+<phrase i="S_IMPContacts" t="Cont IMP"/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="Lin conf"/>
+<phrase i="S_XferLx" t="TrafLin"/>
+<phrase i="S_Redial" t="Ripeti"/>
+<phrase i="S_Contacts" t="Contatti"/>
+<phrase i="S_Recents" t="Recenti"/>
+<phrase i="S_Forward" t="Inoltra"/>
+<phrase i="S_ForwardAll" t="InoltTut"/>
+<phrase i="S_DND" t="NoDist"/>
+<phrase i="S_NForward" t="CancDev"/>
+<phrase i="S_NForwardAll" t="CancInTt"/>
+<phrase i="S_NDND" t="CancND"/>
+<phrase i="S_LCR" t="RitChiam"/>
+<phrase i="S_Missed" t="Perse"/>
+<phrase i="S_Login" t="Accedi"/>
+<phrase i="S_Logout" t="Disconn."/>
+<phrase i="S_SignIn" t="Accedi"/>
+<phrase i="S_SignOut" t="Disconn."/>
+<phrase i="S_Avail" t="Dispon."/>
+<phrase i="S_UnAvail" t="NonDisp"/>
+<phrase i="S_UnPark" t="Recupera"/>
+<phrase i="S_PickUp" t="RispAss"/>
+<phrase i="S_Mobility" t="Mobilità"/>
+<phrase i="S_GrPickup" t="RispAsG"/>
+<phrase i="S_NewCall" t="NvChiam"/>
+<phrase i="S_Barge" t="Inclus."/>
+<phrase i="S_BargeSilent" t="InclSil"/>
+<phrase i="S_Resume" t="Ripr."/>
+<phrase i="S_Answer" t="Rispondi"/>
+<phrase i="S_Hold" t="Attesa"/>
+<phrase i="S_EndCall" t="Termina"/>
+<phrase i="S_End" t="Fine"/>
+<phrase i="S_Transfer" t="Trasfer."/>
+<phrase i="S_CONF" t="Conf"/>
+<phrase i="S_BXfer" t="Tr.Cieco"/>
+<phrase i="S_Park" t="ParChi"/>
+<phrase i="S_Join" t="Collega"/>
+<phrase i="S_Update" t="Aggiorna"/>
+<phrase i="S_Dial" t="Chiama"/>
+<phrase i="S_delChar" t="Cancella"/>
+<phrase i="S_AbbrDial" t="ChAbbr"/>
+<phrase i="S_Back" t="Indietro"/>
+<phrase i="S_Close" t="Chiudi"/>
+<phrase i="S_Save" t="Salva"/>
+<phrase i="S_Delete" t="Elimina"/>
+<phrase i="S_Add" t="Aggiungi"/>
+<phrase i="S_Option" t="Opzioni"/>
+<phrase i="S_Other" t="Altro"/>
+<phrase i="S_EditDial" t="ModChiam"/>
+<phrase i="S_EditDial1" t="Mod. n."/>
+<phrase i="S_AddNew" t="Aggiungi nuovo"/>
+<phrase i="S_Copy" t="Copia"/>
+<phrase i="S_Paste" t="Incolla"/>
+<phrase i="S_Search" t="Cerca"/>
+<phrase i="S_SimpleSearch" t="Ric sem"/>
+<phrase i="S_AdvancedSearch" t="Ric avan"/>
+<phrase i="S_Select" t="Selez."/>
+<phrase i="S_Replace" t="Sostituisci"/>
+<phrase i="S_Default" t="Predef."/>
+<phrase i="S_Add2SpeedDial" t="Aggiungi a chiamata rapida"/>
+<phrase i="S_SendMessage" t="Invia messaggio"/>
+<phrase i="S_InputAll" t="Inserisci tutto"/>
+<phrase i="S_InputNum" t="Inserisci num"/>
+<phrase i="S_InputIP" t="Ins IP"/>
+<phrase i="S_InputHebrew" t="Ins in ebraico"/>
+<phrase i="S_InputStarCode" t="Inser. cod stella"/>
+<phrase i="S_Clear" t="Cancella"/>
+<phrase i="S_DeleteList" t="Elimina elenco"/>
+<phrase i="S_DeleteAll" t="Elimina tutto"/>
+<phrase i="S_DeleteEntry" t="Elimina voce"/>
+<phrase i="S_Add2AB" t="Agg cont"/>
+<phrase i="S_SortByName" t="Ordina per nome"/>
+<phrase i="S_Next" t="Avanti"/>
+<phrase i="S_Zoom" t="Zoom"/>
+<phrase i="S_EditSettings" t="Modifica impost."/>
+<phrase i="S_Previous" t="Preced."/>
+<phrase i="S_Previous1" t="Preced."/>
+<phrase i="S_Up" t="Su"/>
+<phrase i="S_Down" t="Giù"/>
+<phrase i="S_SelectFromAB" t="Aggiungi da contatti"/>
+<phrase i="S_Play" t="Suona"/>
+<phrase i="S_Exit" t="Esci"/>
+<phrase i="S_Resync" t="Risincr."/>
+<phrase i="S_SetTime" t="Salva"/>
+<phrase i="S_Set" t="Imposta"/>
+<phrase i="S_MoveUp" t="Sposta su"/>
+<phrase i="S_MoveDown" t="Sposta giù"/>
+<phrase i="S_Edit" t="Modifica"/>
+<phrase i="S_View" t="Mostra"/>
+<phrase i="S_Enable_Disable" t="Abilita/disabilita"/>
+<phrase i="S_Refresh" t="Aggiorna"/>
+<phrase i="S_List" t="Elenco"/>
+<phrase i="S_Stop" t="Stop"/>
+<phrase i="S_AddList" t="Aggiungi"/>
+<phrase i="S_Scan" t="Scansiona"/>
+<phrase i="S_Connect" t="Connetti"/>
+<phrase i="S_Disconnect" t="Disconn."/>
+<phrase i="S_ConnectAll" t="ConTutto"/>
+<phrase i="S_Detail" t="Dettagli"/>
+<phrase i="S_Cancel" t="Annulla"/>
+<phrase i="S_OK" t="OK"/>
+<phrase i="S_Unpair" t="Disconn."/>
+<phrase i="S_SelectAll" t="SelTutto"/>
+<phrase i="S_ClearAll" t="CancTut"/>
+<phrase i="S_More" t="Altro"/>
+<phrase i="S_Format" t="Formato"/>
+<phrase i="S_Monitor" t="Monitor"/>
+<phrase i="S_VCARD" t="Importa"/>
+<phrase i="S_Retry" t="Riprova"/>
+<phrase i="S_FLASH" t="Flash"/>
+<phrase i="S_STARCODE" t="*codice"/>
+<phrase i="S_IP" t="IP"/>
+<phrase i="S_NUM" t="Num"/>
+<phrase i="S_ALPHA" t="Alfa"/>
+<phrase i="S_Audio" t="Audio"/>
+<phrase i="S_Video" t="Video"/>
+<phrase i="S_Call" t="Chiama"/>
+<phrase i="S_Submit" t="Invia"/>
+<phrase i="S_CallRecordStart" t="Registra"/>
+<phrase i="S_CallRecordStop" t="Stop"/>
+<phrase i="S_CallRecordPause" t="Sospendi"/>
+<phrase i="S_CallRecordResume" t="Riprendi"/>
+<phrase i="S_Pause" t="Sospendi"/> <!--Used on 6821,replace for PauseRec-->
+<phrase i="S_Ignore" t="Ignora"/>
+<phrase i="S_Override" t="Sost."/>
+<phrase i="S_HotelingGuestIn" t="Osp. in"/>
+<phrase i="S_HotelingGuestOut" t="Osp. out"/>
+<phrase i="S_AUDIO_SWAP_IN" t="Sposta audio"/>
+<phrase i="S_AUDIO_SWAP_OUT" t="Sposta audio"/>
+<phrase i="S_Skip" t="Salta"/>
+<phrase i="S_Settings" t="Impost."/>
+<phrase i="S_Favorites" t="Pref."/>
+<phrase i="S_Messages" t="Messaggi"/>
+<phrase i="S_Selfview" t="Vista personale"/>
+<phrase i="S_CallList" t="Elenco"/>
+<phrase i="S_ShowVideo" t="Video"/>
+<phrase i="S_Presence" t="Presenza"/>
+<phrase i="S_Swap" t="Scambio"/>
+<phrase i="S_ProxyCall" t="ChiProxy"/>
+<phrase i="S_Divert" t="Devia"/>
+<phrase i="S_DivertAll" t="DeviaTut"/>
+<phrase i="S_ClrDivert" t="CancDev"/>
+<phrase i="S_CallPush" t="FrzChiam"/>
+<phrase i="S_CallRetrieve" t="Recupera"/>
+<phrase i="S_BridgeIn" t="AtBridge"/>
+<phrase i="S_Micgain" t="GuadMic"/>
+<phrase i="S_Setup" t="Imposta"/>
+<phrase i="S_SpeedDial" t="Spd dial"/>
+<phrase i="S_Continue" t="Continua"/>
+<phrase i="S_WiFiScan" t="Scans Wi-Fi"/>
+<phrase i="S_Category" t="Categ"/>
+<phrase i="S_Filter" t="Filtro"/>
+
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="Fahrenheit"/>
+<phrase i="OL_Celsius" t="Celsius"/>
+<phrase i="OL_MONO" t="Mono"/>
+<phrase i="OL_STEREO" t="Stereo"/>
+<phrase i="OL_InProgress" t="In corso"/>
+<phrase i="OL_DnsResolution" t="Risoluzione DNS"/>
+<phrase i="OL_NoServerName" t="No nome server"/>
+<phrase i="OL_InvalidServer" t="Server invalido o con restrizioni"/>
+<phrase i="OL_NoResources" t="Risorse al limite"/>
+<phrase i="OL_FileNotFound" t="File non trovato"/>
+<phrase i="OL_CorruptFile" t="File corrotto"/>
+<phrase i="OL_EncrptionKey" t="Chiave di crittografia"/>
+<phrase i="OL_InvalidURL" t="URL non valido"/>
+<phrase i="OL_Phone" t="Telefono"/>
+<phrase i="OL_Handsfree" t="Viva voce"/>
+<phrase i="OL_Both" t="Entrambi"/>
+<phrase i="OL_DownloadFailed" t="Download fallito"/>
+<phrase i="OL_DownloadConflict" t="%d nuovi voci; %d voci presentano conflitti."/>
+<phrase i="OL_DownloadTypeError" t="Blutetooth non è in modalità viva voce"/>
+<phrase i="OL_DownloadFull" t="Rubrica piena. Impossibile scaricare le voci."/>
+<phrase i="OL_ParsingError" t="Errore di analisi"/>
+<phrase i="OL_Ended" t="Terminato"/>
+<phrase i="OL_StaticIP" t="IP statico"/>
+<phrase i="OL_PictureRotation" t="Alterna immagini"/>
+<phrase i="OL_CurrentWallpaper" t="Sfondo corrente"/>
+<phrase i="OL_DownloadPicture" t="Immagine"/>
+<phrase i="OL_Default" t="Predef."/>
+<phrase i="OL_Clock" t="Orologio"/>
+<phrase i="OL_Logo" t="Logo"/>
+<phrase i="OL_Lock" t="Blocca"/>
+<phrase i="OL_Speaker" t="Altoparlante"/>
+<phrase i="OL_Headset" t="Cuffia"/>
+<phrase i="OL_Handset" t="Ricevitore"/>
+<phrase i="OL_Ringer" t="Suoneria"/>
+<phrase i="OL_Volume" t="Volume"/>
+<phrase i="OL_Headset_Fail" t="Utilizzare i controlli della cuffia per regolare il volume."/>
+<phrase i="OL_LightBlue" t="Blu chiaro"/>
+<phrase i="OL_LightGray" t="Grigio chiaro"/>
+<phrase i="OL_LightGreen" t="Verde chiaro"/>
+<phrase i="OL_None" t="Nessuno"/>
+<phrase i="OL_Simple" t="Semplice"/>
+<phrase i="OL_PlainTLS" t="Plain-TLS"/>
+<phrase i="OL_64HEX" t="10 cifre esadec"/>
+<phrase i="OL_128HEX" t="26 cifre esadec"/>
+<phrase i="OL_64ASCII" t="5 caratteri ASCII"/>
+<phrase i="OL_128ASCII" t="13 caratteri ASCII"/>
+<phrase i="OL_Enterprise" t="Azienda"/>
+<phrase i="OL_Group" t="Gruppo"/>
+<phrase i="OL_Personal" t="Personale"/>
+<phrase i="OL_EnterpriseCommon" t="Aziendale comune"/>
+<phrase i="OL_GroupCommon" t="Gruppi comuni"/>
+<phrase i="OL_Login_Credentials" t="Credenziali login"/>
+<phrase i="OL_SIP_Credentials" t="Credenziali SIP"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_6" t="6"/>
+<phrase i="OL_7" t="7"/>
+<phrase i="OL_8" t="8"/>
+<phrase i="OL_9" t="9"/>
+<phrase i="OL_10" t="10"/>
+<phrase i="OL_11" t="11"/>
+<phrase i="OL_12" t="12"/>
+<phrase i="OL_13" t="13"/>
+<phrase i="OL_14" t="14"/>
+<phrase i="OL_15" t="15"/>
+<phrase i="OL_16" t="16"/>
+<phrase i="OL_Disabled" t="Disattivato"/>
+<phrase i="OL_Enabled" t="Abilitato"/>
+<phrase i="OL_AUTO" t="Auto"/>
+<phrase i="OL_10_HALF" t="10MB half"/>
+<phrase i="OL_10_FULL" t="10MB full"/>
+<phrase i="OL_100_HALF" t="100MB half"/>
+<phrase i="OL_100_FULL" t="100MB full"/>
+<phrase i="OL_1000_FULL" t="1000 full"/>
+<phrase i="OL_10s" t="10 s"/>
+<phrase i="OL_20s" t="20 s"/>
+<phrase i="OL_30s" t="30 s"/>
+<phrase i="OL_AlwaysOn" t="Sempre att."/>
+<phrase i="OL_1m" t="1 m"/>
+<phrase i="OL_5m" t="5 m"/>
+<phrase i="OL_30m" t="30 m"/>
+<phrase i="OL_monthday" t="Mese/gior."/>
+<phrase i="OL_daymonth" t="Gior./mese"/>
+<phrase i="OL_12hr" t="12 h"/>
+<phrase i="OL_24hr" t="24 h"/>
+<phrase i="OL_IPv4" t="Solo IPv4"/>
+<phrase i="OL_IPv6" t="Solo IPv6"/>
+<phrase i="OL_DUAL_MODE" t="Dual mode"/>
+<phrase i="OL_Phone" t="Telefono"/>
+<phrase i="OL_Server" t="Server"/>
+<phrase i="OL_Show" t="Mostra"/>
+<phrase i="OL_Hide" t="Nascondi"/>
+<phrase i="OL_BEKEM" t="BEKEM"/>
+<phrase i="OL_AKEM" t="CP-8800-Audio"/>
+<phrase i="OL_VKEM" t="CP-8800-Video"/>
+
+<!-- Option label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="Auto"/>
+<phrase i="OL_Name" t="Nome"/>
+<phrase i="OL_Ext" t="Int"/>
+<phrase i="OL_Both" t="Entrambi"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############-->
+<phrase i="T_EditProfile" t="Modifica profilo"/>
+<phrase i="T_SetupWiFi" t="Imposta Wi-Fi"/>
+<phrase i="T_WlanProfileListprofile" t="Seleziona un profilo"/>
+<phrase i="T_WlanScanList" t="Connettiti al Wi-Fi"/>
+<phrase i="T_WlanServerCaList" t="Seleziona un file come certificato server"/>
+<phrase i="T_WlanClientCaList" t="Seleziona un file come certificato client"/>
+<phrase i="T_WlanProfileReplace" t="Seleziona profilo da sostituire"/>
+<phrase i="T_WlanWpsSelect" t="Seleziona la modalità WPS"/>
+<phrase i="WirelessStatusDetail" t="Dettagli wireless"/>
+<phrase i="T_Profile" t="Profilo"/>
+<phrase i="T_WlanPartitionLsit" t="Seleziona una partizione"/>
+<phrase i="L_InvalidProfile" t="Profilo non valido"/>
+<phrase i="L_Disable" t="Disattiva"/>
+<phrase i="L_None" t="Nessuno"/>
+<phrase i="L_Auto" t="Auto"/>
+<phrase i="L_EapFast" t="EAP-FAST"/>
+<phrase i="L_PeapGtc" t="PEAP-GTC"/>
+<phrase i="L_PeapMschapv2" t="PEAP-MSCHAPV2"/>
+<phrase i="L_Psk" t="PSK"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_802Dot1x" t="802.1x"/>
+<phrase i="L_WpaEnt" t="WPA aziendale"/>
+<phrase i="L_Wpa2Ent" t="WPA2 aziendale"/>
+<phrase i="L_Connection" t="Connessione"/>
+<phrase i="L_SecurityMode" t="Mod. protezione"/>
+<phrase i="L_ProfileName" t="Nome profilo"/>
+<phrase i="L_SecuredWith" t="Protetto con"/>
+<phrase i="L_CipherType" t="Tipo di codifica"/>
+<phrase i="L_KeyId" t="Chiave trasmissione predefinita"/>
+<phrase i="L_KeyLen" t="Lunghezza chiave"/>
+<phrase i="L_Key1" t="Chiave 1"/>
+<phrase i="L_Key2" t="Chiave 2"/>
+<phrase i="L_Key3" t="Chiave 3"/>
+<phrase i="L_Key4" t="Chiave 4"/>
+<phrase i="L_PskKey" t="Chiave WPA condivisa"/>
+<phrase i="L_WEPKey" t="Chiave WEP"/>
+<phrase i="L_Pphrase" t="Passphrase"/>
+<phrase i="L_EapType" t="Tipo di EAP"/>
+<phrase i="L_UserId" t="ID utente"/>
+<phrase i="L_Password" t="Password"/>
+<phrase i="L_CheckSvrCa" t="Controlla certificato server"/>
+<phrase i="L_On" t="Attivo"/>
+<phrase i="L_Off" t="Disatt"/>
+<phrase i="L_LinkSignal" t="Potenza segnale"/>
+<phrase i="L_NoiseLevel" t="Interferenza"/>
+<phrase i="L_Bssid" t="Indirizzo AP MAC"/>
+<phrase i="L_Frequency" t="Frequenza"/>
+<phrase i="L_DataEncryption" t="Crittografia dati"/>
+<phrase i="L_EncryptionType" t="Tipo di crittografia"/>
+<phrase i="L_TransmitRate" t="Velocità di trasmissione"/>
+<phrase i="L_Channel" t="Canale"/>
+<phrase i="L_RootCa" t="Certificato principale"/>
+<phrase i="L_UserCa" t="Certificato utente"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="Password di chiave privata"/>
+<phrase i="L_AnonyId" t="ID anonimo"/>
+<phrase i="L_TtlsInnerProto" t="Protocollo TTLS interno"/>
+<phrase i="L_PeapInnerProto" t="Protocollo PEAP interno"/>
+<phrase i="L_WlanConfiguration" t="Configurazione wireless"/>
+<phrase i="L_WlanWpsPbc" t="Configurazione pulsante"/>
+<phrase i="L_WlanWpsPbcText1" t="Per dispositivi con tasto Wi-Fi Protected,"/>
+<phrase i="L_WlanWpsPbcText2" t="premere il tasto sul dispositivo e selezionare"/>
+<phrase i="L_WlanWpsPbcText3" t="questa modalità."/>
+<phrase i="L_WlanWpsPin" t="Configurazione PIN"/>
+<phrase i="L_WlanWpsPinText1" t="Per dispositivi che richiedono PIN"/>
+<phrase i="L_WlanWpsPinText2" t="seguente numero: %s, quindi selezionare questa modalità"/>
+<phrase i="L_WlanWpsPinText3" t="e selezionare questa modalità."/>
+<phrase i="L_WlanProfile" t="Profilo Wi-Fi"/>
+<phrase i="L_Networksetup" t="Impostazione di rete"/>
+<phrase i="L_WlanAddCurrent" t="Aggiungi connessione come profilo"/>
+<phrase i="L_WlanStatus" t="Stato Wi-Fi"/>
+<phrase i="L_WlanWps" t="Configurazione Wi-Fi Protected"/>
+<phrase i="WlanMsgPfLock" t="Profilo wireless bloccato"/>
+<phrase i="WlanMsgPfNameLenNull" t="Nome profilo non valido"/>
+<phrase i="WlanMsgPfNameLenOver" t="Nome profilo troppo lungo"/>
+<phrase i="WlanMsgSssidLenNull" t="Il campo Nome rete non può essere vuoto."/>
+<phrase i="WlanMsgSssidLenOver" t="SSID troppo lungo"/>
+<phrase i="WlanMsgWepNoValue" t="Imposta ID chiave su %d, che non ha un valore chiave."/>
+<phrase i="WlanMsgWepWrongLen" t="Lunghezza chiave %d non valida."/>
+<phrase i="WlanMsgWepWrongHex" t="Chiave %d ha cifre non esadecimali."/>
+<phrase i="WlanMsgPsKeyLenLess" t="Chiave WPA condivisa troppo breve"/>
+<phrase i="WlanMsgPsKeyLenOver" t="Chiave WPA condivisa troppo lunga"/>
+<phrase i="WlanMsgPsKeyInvalide" t="La passphrase deve essere composta da 64 cifre esadecimali o da 8 a 63 caratteri ASCII."/>
+<phrase i="WlanMsgWepKeyInvalid" t="La chiave WEP deve contenere 10 o 26 caratteri esadecimali oppure 5 o 13 caratteri ASCII."/>
+<phrase i="WlanMsgIdentityLenNull" t="Il campo ID utente non può essere vuoto."/>
+<phrase i="WlanMsgIdentityLenOver" t="Identità troppo lunga"/>
+<phrase i="WlanMsgServerCaWrong" t="Certificato server non valido"/>
+<phrase i="WlanMsgClientCaWrong" t="Certificato client non valido"/>
+<phrase i="WlanMsgPasswordLenNull" t="Il campo Password non può essere vuoto."/>
+<phrase i="WlanMsgPasswordLenOver" t="Password troppo lunga"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="Nessuna identità anonima"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="Identità anonima troppo lunga"/>
+<phrase i="WlanMsgOverMaxPFNum" t="L'elenco è pieno. Sostituire un altro profilo?"/>
+<phrase i="WlanMsgUseWpsPbc" t="Usare PBC WPS per il collegamento"/>
+<phrase i="WlanMsgUseWpsPin" t="Usare PIN WPS per il collegamento"/>
+<phrase i="WlanNoProfileConnect" t="Nessun profilo disponibile per connettersi"/>
+<phrase i="WlanNoScanProfileAdd" t="Nessun profilo di ricerca da aggiungere"/>
+<phrase i="WlanProfileExistReplace" t="Profilo con SSID: %s esiste già. Sostituire questo profilo?"/>
+<phrase i="WlanNotEnable" t="Il Wi-Fi deve essere abilitato."/>
+<phrase i="WlanNotConnect" t="Collegamento Wi-Fi non riuscito; non può essere aggiunto all'elenco."/>
+<phrase i="WPSNotSet" t="Premere Imposta per utilizzare WPS."/>
+<phrase i="WLANNotSet" t="Premere Imposta per utilizzare la WLAN."/>
+<phrase i="WlanProfileExist" t="Profilo con SSID: %s esiste già."/>
+<phrase i="WlanNotInterface" t="Per usare il Wi-Fi, il collegamento Ethernet deve essere disconnesso."/>
+<phrase i="WlanMsgAssociating" t="Associazione con SSID: %s"/>
+<phrase i="WlanMsgFailAssociation" t="Impossibile associare con %s"/>
+<phrase i="WlanMsgFailAssociationContinue" t="Impossibile associare con %s, si continuerà a provare in background."/>
+<phrase i="WlanMsgOobSkip" t="Per saltare questo passaggio, è necessario configurare manualmente la rete."/>
+
+<phrase i="WlanMsgSuccessAssociation" t="Connessione riuscita."/>
+<phrase i="WlanMsgSuccessAssociationSSID" t="Connessione a %s riuscita."/>
+
+<phrase i="WlanProfileAlreadyConnected" t="Questo profilo è già collegato."/>
+<phrase i="WlanWpsFailConnect" t="Impossibile connettersi con WPS"/>
+<phrase i="WlanAddIntoProfile" t="Aggiungere questa impostazione come profilo?"/>
+<phrase i="WlanScanning" t="Ricerca Wireless in corso..."/>
+<phrase i="WlanWpsConnect" t="Configurazione WPS completa. Si possono aggiungere le impostazioni al profilo dalla pagina Stato wireless."/>
+<phrase i="WlanConnectAll1" t="Usare elenco profili per la connessione?"/>
+<phrase i="WlanConnectAll2" t="Disconnettere l'attuale connessione e usare l'elenco profili?"/>
+<phrase i="WlanMsgConnectAll" t="Usa elenco profili per la connessione"/>
+<phrase i="WlanMsgFailConnectAll" t="Impossibile connettere; tentativo in background."/>
+<phrase i="WlanAddCurrent" t="Aggiungere la connessione corrente come profilo?"/>
+<phrase i="FileLengthOver" t="Il nome file supera la lunghezza di %d."/>
+<phrase i="WlanProfileConnectDisable" t="Profilo Wi-Fi disattivato"/>
+<phrase i="WlanProfileEnable" t="Attivare questo profilo?"/>
+<phrase i="WlanProfileDisable" t="Disattivare questo profilo?"/>
+<phrase i="WlanEmptyScanningResult" t="Nessun risultato d scansione. Riprovare."/>
+<phrase i="devRestart" t="Il dispositivo può avere bisogno di registrarsi nuovamente."/>
+<phrase i="M_NetworkBusy" t="La rete è occupata."/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="Seleziona titolo"/>
+<phrase i="T_MP3SourceList" t="Aggiungi titolo alla playlist"/>
+<phrase i="T_MP3PartitionList" t="Seleziona partizione pe recuperare i brani"/>
+<phrase i="MP3MsgOverMaxSongNum" t="L'elenco è limitato a %d voci."/>
+<phrase i="MP3MsgEntryNotExist" t="La voce non esiste"/>
+<phrase i="MP3MsgAPendingCall" t="Impossibile riprodurre musica durante una chiamata"/>
+<phrase i="MP3MsgFileNameOverLen" t="%d nome file supera la lunghezza di %d"/>
+<phrase i="MP3MsgGetList" t="Recupero elenco da unità USB in corso..."/>
+<phrase i="MP3MsgSaveRing" t="Salvataggio tono da unità USB in corso..."/>
+<phrase i="MP3MsgFileIllegle" t="Formato file non valido"/>
+<phrase i="MP3DeletePrompt" t="Eliminare %s dalla playlist?"/>
+<phrase i="MP3MsgSelectNull" t="Nessun brano selezionato da aggiungere alla playlist"/>
+<phrase i="MP3MsgSelectOverMax" t="Sono stati scelti più di %d brani."/>
+<phrase i="MP3UsbFolderNotPresent" t="La cartella &quot;%s&quot; non esiste. Controllare che nella cartella &quot;mp3&quot; del dispositivo USB siano presenti file mp3."/>
+<phrase i="MP3UsbFileNotPresent" t="Nessun file MP3 nella cartella &quot;%s&quot;. Controllare che nella cartella &quot;mp3&quot;  del dispositivo USB siano presenti file mp3."/>
+<phrase i="MP3DeleteAllPrompt" t="Eliminare tutti i brani dalla playlist?"/>
+<phrase i="MP3MsgCalcTime" t="Calcolo durata in corso..."/>
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="Ethernet in uso"/>
+<phrase i="NC_TITLE_WIRELESS" t="Wireless in uso"/>
+<phrase i="NC_NOT_AVAILABLE" t="Non disponibile"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="Collegamento ad AP in corso..."/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="Verifica connessione Ethernet in corso..."/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="Connessione Wireless non riuscita"/>
+<phrase i="NC_L2_FAIL_WIRED" t="Connessione Ethernet non riuscita"/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="Connessione Wireless riuscita"/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="Connessione Ethernet riuscita"/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="Usa IP statico"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="Recupero IP da DHCP..."/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="Recupero IP da PPPOE..."/>
+<phrase i="NC_L3_FAIL_STATIC" t="Impossibile impostare indirizzo IP"/>
+<phrase i="NC_L3_FAIL_DHCP" t="Impossibile ottenere IP da DHCP"/>
+<phrase i="NC_L3_FAIL_PPPOE" t="Impossibile recuperare IP da PPPoE."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="Imposta indirizzo IP"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="Recupera indirizzo IP"/>
+<phrase i="NC_WAIT_VLAN_ID" t="Recupero ID VLAN in corso..."/>
+<phrase i="NC_NO_PROFILE_LIST" t="Nessun elenco profili"/>
+<phrase i="NC_VPN_CONNECTING" t="Creare connessione VPN."/>
+<phrase i="NC_VPN_CONNECTED" t="Connessione VPN OK."/>
+<phrase i="NC_VPN_FAILED" t="Connessione VPN non riuscita."/>
+<phrase i="NC_WPS_SUCCESS" t="Negoziazione WPS riuscita."/>
+<phrase i="NC_WPS_FAIL" t="Negoziazione WPS non riuscita."/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="Dispositivo USB non presente. Inserire il dispositivo USB nello slot USB del telefono."/>
+<phrase i="UsbFolderNotPresent" t="La cartella &quot;%s&quot; non esiste."/>
+<phrase i="UsbFileNotPresent" t="Nessun file nella cartella &quot;%s&quot;."/>
+<phrase i="UsbFileNotPresent2" t="Il file %s non esiste."/>
+<phrase i="UsbUnknownError" t="Errore USB sconosciuto"/>
+<phrase i="UsbPartitionName" t="Partizione"/>
+<phrase i="UsbDevicePluged" t="Dispositivo USB collegato. Attendere il montaggio del dispositivo."/>
+
+<!-- #############  #USB Headset msgs #############-->
+<phrase i="UsbDeviceConnected" t="Accessorio connesso."/>
+<phrase i="UsbDeviceDisconnected" t="Accessorio disconnesso."/>
+<phrase i="UsbDeviceNotSupported" t="Accessorio non supportato."/>
+<phrase i="UsbDeviceErrorStatus" t="Errore accessorio."/>
+
+<phrase i="UsbDeviceMaxHeadsets" t="Numero massimo di cuffie superato."/>
+<phrase i="UsbDeviceNoPower" t="Questo accessorio non riceve alimentazione dal telefono."/>
+<phrase i="UsbDeviceDisabled" t="L'accessorio non è supportato."/>
+<phrase i="UsbDeviceError" t="Prova a collegare di nuovo il dispositivo."/>
+<phrase i="UsbDeviceMaxKEMs" t="Numero massimo di console addetto."/>
+<phrase i="UsbDeviceSysError" t="Impossibile rilevare gli accessori"/>
+
+<!-- #############  #Microphone/Speaker msgs #############-->
+<phrase i="ExternalMicrophone" t="Microfono esterno."/>
+<phrase i="ExternalSpeaker" t="Altoparlante esterno."/>
+
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="USB piena. Registrazione chiamate interrotta. Inserirne una nuova e riavviare la registrazione."/>
+<phrase i="UsbDeviceIsFull" t="USB piena. Inserirne una nuova e riavviare la registrazione."/>
+<phrase i="CallRecordMaxSingleFileReached" t="Raggiunta la durata max della registrazione. Iniziare una nuova registrazione."/>
+<phrase i="CallRecordMaxFileNumberReached" t="Raggiunto numero max registrazioni. Eliminare delle registrazioni e riavviare la registrazione."/>
+<phrase i="CallRecordListDeletePrompt" t="Eliminare questa registrazione:"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="Eliminare tutte le registrazioni?"/>
+<phrase i="CallRecordNameInvalid" t="Nome registrazione chiamate non valido"/>
+<phrase i="CallRecordLenInvalid" t="Impossib. calcolare la durata della registraz. di una chiamata."/>
+<phrase i="CallRecordFoldInvalid" t="Directory per le registrazioni chiamate non valida."/>
+<phrase i="CallRecordUnknownError" t="Errore sconosciuto registrazione chiamate"/>
+<phrase i="CallRecordMsgAPendingCall" t="Impossibile riprodurre la registrazione durante una chiamata"/>
+<phrase i="CallRecordStarted" t="Registrazione avviata."/>
+<phrase i="CallRecordStopped" t="Registrazione interrotta."/>
+<phrase i="CallRecordPaused" t="Registrazione sospesa."/>
+<phrase i="CallRecordResumed" t="Registrazione ripresa."/>
+<phrase i="CallRecordPending" t="Attesa avvio registrazione."/>
+<phrase i="CallRecordServerError" t="Errore server"/>
+<phrase i="CallRecordStartError" t="Registrazione non avviata."/>
+<phrase i="CallRecordStopError" t="Registraz. non interrotta."/>
+<phrase i="CallRecordPauseError" t="Registrazione non in pausa. "/>
+<phrase i="CallRecordResumeError" t="Registrazione non  ripresa."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="Il Bluetooth deve essere attivato prima di %s."/>
+<phrase i="BT_Discovering" t="%s in rilevamento."/>
+<phrase i="BT_Discovered" t="%s rilevato"/>
+<phrase i="BT_DiscoveredFaild" t="Rilevamento %s non riuscito"/>
+<phrase i="BT_DeviceNotFound" t="Nessun dispositivo Bluetooth trovato."/>
+<phrase i="BT_Pairing" t="Abbinamento di %s in corso..."/>
+<phrase i="BT_Paired" t="%s associato."/>
+<phrase i="BT_PairingFailed" t="Collegamento non riuscito."/>
+<phrase i="BT_Abort" t="Connessione a %s interrotta."/>
+<phrase i="BT_UnPairPrompt" t="Disconnettere %s?"/>
+<phrase i="BT_PinCodePrompt" t="Inserire il PIN"/>
+<phrase i="BT_ScanningPrompt" t="Ricerca in corso. Nuovo tentativo tra 10 secondi."/>
+<phrase i="BT_ConnectingPrompt" t="Connessione in corso. Nuovo tentativo tra 10 secondi."/>
+<phrase i="BT_DownloadingPrompt" t="Download in corso. Nuovo tentativo tra un minuto."/>
+<phrase i="BT_CallActivePrompt" t="Chiamata in corso. Nuovo tentativo a fine chiamata. "/>
+<phrase i="BT_OP_FAIL" t="Operazione non riuscita"/>
+<phrase i="BT_OP_WAIT_ENABLE" t="Bluetooth abilitato. Riprovare."/>
+<phrase i="BT_Dev_Connected" t="Il dispositivo è già collegato."/>
+<phrase i="BT_Search" t="Ricerca di dispositivi Bluetooth"/>
+<phrase i="BT_Connecting_Dev" t="Connessione al dispositivo Bluetooth in corso..."/>
+<phrase i="BT_HeadsetNamePrompt" t="Il campo Nome cuffia non può essere vuoto."/>
+<phrase i="BT_PhoneModeError" t="La modalità Telefono non può connettersi al cellulare."/>
+<phrase i="BT_HandsfreeModeError" t="La modalità Viva voce non può connettersi alla cuffia."/>
+<phrase i="BT_DownloadUpdate" t="Aggiornamento rubrica personale in corso..."/>
+<phrase i="BT_DownloadAddFull" t="Rubrica piena. Impossibile aggiungere voci. %d voci aggiunte, %d voci ignorate."/>
+<phrase i="BT_DownloadConflictFull" t="Rubrica piena. Impossibile aggiungere voci. Aggiorna %d voci in conflitto, aggiungi %d voce nuova, ignora %d voci nuove"/>
+<phrase i="BT_OverMaxProfileNum" t="L'elenco è pieno. Sostituire un altro profilo?"/>
+<phrase i="BT_ConToast" t="Bluetooth connesso"/>
+<phrase i="BT_DisconToast" t="Bluetooth    disconnesso"/>
+<phrase i="BT_HandsfreePin" t="Verificare che l'abbinamento del dispositivo mostri il PIN"/>
+<phrase i="BT_St_Cntct_Prompt" t="Archiviare tutti i contatti del cellulare sul telefono da tavolo? È possibile eliminarli in seguito in Contatti."/>
+<phrase i="T_Sv_Mob_Cntct" t="Salva contatti cellulare"/>
+<phrase i="T_BluetoothProfileList" t="Seleziona un profilo Bluetooth"/>
+<phrase i="T_BluetoothProfilePlace" t="Seleziona un profilo Bluetooth da sostituire"/>
+<phrase i="T_BTMode" t="Modalità Bluetooth"/>
+<phrase i="T_BTProfile" t="Profili Bluetooth"/>
+<phrase i="T_AddDevice" t="Dispositivi"/>
+<phrase i="T_BTHeadsetName" t="Nome cuffia"/>
+<phrase i="T_BTLoadPhoneBook" t="Scarica rubrica"/>
+<phrase i="T_BTShowPhoneBook" t="Mostra rubrica"/>
+<phrase i="T_BTChoosePair" t="Seleziona dispositivo Bluetooth"/>
+<phrase i="T_BTEditProfile" t="Modifica profilo Bluetooth"/>
+<phrase i="L_BTDeviceName" t="Nome dispositivo"/>
+<phrase i="L_BTPINCODE" t="PIN"/>
+<phrase i="L_BTConnectAuto" t="Connetti automaticamente"/>
+<phrase i="T_BTDownLoad" t="Download"/>
+<phrase i="T_BTReplace" t="Sostit"/>
+<phrase i="T_BTDeleteAccessory" t="Elimina accessorio"/>
+<phrase i="CALL_SERVNOTAVAIL" t="Servizio non disponibile"/>
+<phrase i="CALL_NETERR" t="Errore di rete"/>
+<phrase i="CALL_NORES" t="Nessuna risposta"/>
+<phrase i="CALL_PROTOERR" t="Errore protocollo"/>
+<phrase i="CALL_NOLINE" t="No linea"/>
+<phrase i="CALL_TIMEOUT" t="Timeout"/>
+<phrase i="S_PHOLD" t="AttesaPr"/>
+<phrase i="CALL_PHELD" t="Privata in attesa"/>
+<phrase i="S_IGNORE" t="Ignora"/>
+<phrase i="S_DECLINE" t="Rifiuta"/>
+<phrase i="LINE_INUSE" t="In uso"/>
+<phrase i="CALL_PARKED" t="Chiamata in parcheggio"/>
+<phrase i="CALL_SERVUNAVAIL" t="Servizio non disponibile"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C á Á "/>
+<phrase i="3852" t=" d e f 3 D E F è È "/>
+<phrase i="3853" t=" g h i 4 G H I ì Ì "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O ò Ò "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V ù Ù "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" + * ~ ` &lt; &gt; "/>
+<phrase i="3860" t=" 0   , ! ^ ' &quot; | "/>
+<phrase i="3861" t=" # $ £ ¤ \ ( ) { } [ ] "/>
+
+<!-- #############  #language #############-->
+<phrase i="L_English" t="Inglese"/>
+<phrase i="L_English-US" t="Inglese-USA"/>
+<phrase i="L_English-Canada" t="Inglese-Canada"/>
+<phrase i="L_English-Australia" t="Inglese-Australia"/>
+<phrase i="L_English-Britain" t="Inglese-Regno Unito"/>
+<phrase i="L_English-NewZealand" t="Inglese-N. Zelanda"/>
+<phrase i="L_French" t="Francese"/>
+<phrase i="L_French-Canada" t="Francese-Canada"/>
+<phrase i="L_Spanish" t="Spagnolo"/>
+<phrase i="L_Spanish-Mexico" t="Spagnolo-Messico"/>
+<phrase i="L_Italian" t="Italiano"/>
+<phrase i="L_German" t="Tedesco"/>
+<phrase i="L_Norwegian" t="Norvegese"/>
+<phrase i="L_Portuguese" t="Portoghese"/>
+<phrase i="L_Polish" t="Polacco"/>
+<phrase i="L_Dutch" t="Olandese"/>
+<phrase i="L_Swedish" t="Svedese"/>
+<phrase i="L_Russian" t="Russo"/>
+<phrase i="L_Turkish" t="Turco"/>
+<phrase i="L_Slovak" t="Slovacco"/>
+<phrase i="L_Hungarian" t="Ungherese"/>
+<phrase i="L_Croatian" t="Croato"/>
+<phrase i="L_Bulgarian" t="Bulgaro"/>
+<phrase i="L_Czech_Republic" t="Ceco"/>
+<phrase i="L_Slovenian" t="Sloveno"/>
+<phrase i="L_Danish" t="Danese"/>
+<phrase i="L_Hebrew" t="Ebraico"/>
+
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="N. fotocamera"/>
+<phrase i="L_Camera_Name" t="Nome fotocamera"/>
+<phrase i="L_Camera_Ip" t="Indirizzo IP"/>
+<phrase i="L_Camara_UserName" t="Nome utente"/>
+<phrase i="L_Camera_Password" t="Password"/>
+<phrase i="L_Camera_Port" t="N. porta"/>
+<phrase i="L_Camera_Resolution" t="Risoluzione"/>
+<phrase i="L_Camera_Quality" t="Qualità video"/>
+<phrase i="L_Camera_FrameRate" t="Velocità fotogramma"/>
+<phrase i="L_Camera_Status" t="Stato"/>
+<phrase i="T_Camera_Entry" t="Informazioni fotocamera"/>
+<phrase i="T_Camera_List" t="Seleziona fotocamera da monitorare"/>
+<phrase i="CamInvalidParam" t="Parametri fotocamera %s non validi."/>
+<phrase i="CamMissingURL" t="URL di accesso fotocamera %s mancante."/>
+<phrase i="CamMissingUserName" t="Nome utente fotocamera %s mancante."/>
+<phrase i="CamMissingPassword" t="Password fotocamera%s mancante."/>
+<phrase i="CamInvalidURL" t="Indirizzo fotocamera %s non valido."/>
+<phrase i="CamInvalidProtocol" t="Protocollo fotocamera %s non è RTSP."/>
+<phrase i="CamNoVideo" t="No video."/>
+<phrase i="CamConnecting" t="Connessione"/>
+<phrase i="CamConnectError" t="No video: connessione impossibile."/>
+<phrase i="CamAccessError" t="No video: accesso negato."/>
+<phrase i="CamResolveError" t="No video: impossibile risolvere indirizzo."/>
+<phrase i="CamResolutionError" t="No video: risoluzione troppo alta."/>
+<phrase i="CamBusy" t="Fotocamera in uso. Attendere e riprovare."/>
+<phrase i="CamActivateDoorOK" t="Attivazione riuscita per %s."/>
+<phrase i="CamActivateDoorFailed" t="Attivazione non riuscita per %s."/>
+<phrase i="CamFeatureNotAvailable" t="La funzione non è disponibile quando è abilitato Bluetooth"/>
+<phrase i="P_CamAccess" t="Accesso a video in corso..."/>
+<phrase i="Shutter_Closed" t="L'obiettivo è chiuso."/>
+<phrase i="Bandwidth_Allowance" t="Larghezza di banda consentita"/>
+<phrase i="Exposure" t="Esposizione"/>
+<phrase i="Auto" t="Auto"/>
+<phrase i="250_kbps" t="250 Kbps"/>
+<phrase i="500_kbps" t="500 Kbps"/>
+<phrase i="750_kbps" t="750 Kbps"/>
+<phrase i="1_mbps" t="1 Mbps"/>
+<phrase i="2_mbps" t="2 Mbps"/>
+<phrase i="L_Video_Stats" t="Stato videochiamata"/>
+<phrase i="L_VideoEncoder" t="Codificatore"/>
+<phrase i="L_VideoDecoder" t="Decodificatore"/>
+<phrase i="L_VideoPktSent" t="Pacchetti inviati"/>
+<phrase i="L_VideoPktRecv" t="Pacchetti ricevuti"/>
+<phrase i="L_VideoAvgJitter" t="Instabilità media"/>
+<phrase i="L_VideoMaxJitter" t="Instabilità max"/>
+<phrase i="L_VideoRxPktDiscarded" t="Pacchetto Rx eliminato"/>
+<phrase i="L_VideoRxPktLost" t="Pacchetto Rx perso"/>
+<phrase i="L_VideoTxResolution" t="Risoluzione Tx"/>
+<phrase i="L_VideoRxResolution" t="Risoluzione Rx"/>
+<phrase i="L_VideoRxFrames" t="Frame Rx"/>
+<phrase i="L_VideoTxFrames" t="Frame Tx"/>
+<phrase i="L_VideoTxIDRFrames" t="IDR frame"/>
+<phrase i="L_VideoTxFastUpdateReq" t="Iframe Tx richiesti"/>
+<phrase i="L_VideoRxIDRFrames" t="IDR frame"/>
+<phrase i="L_VideoRxFastUpdateReq" t="Iframe Rx richiesti"/>
+<phrase i="L_VideoTxFrameRate" t="Velocità fotogramma Tx"/>
+<phrase i="L_VideoRxFrameRate" t="Velocità fotogramma Rx"/>
+<phrase i="L_VideoLatency" t="Latenza video"/>
+<phrase i="L_VideoTxBandwidth" t="Larghezza di banda Tx"/>
+<phrase i="L_VideoRxBandwidth" t="Larghezza di banda Rx"/>
+
+
+<phrase i="OL_Very_Low" t="Molto basso"/>
+<phrase i="OL_Lowest" t="Il più basso"/>
+<phrase i="OL_Low" t="Basso"/>
+<phrase i="OL_Medium" t="Medio"/>
+<phrase i="OL_Normal" t="Normale"/>
+<phrase i="OL_High" t="Alto"/>
+<phrase i="OL_Highest" t="Il più alto"/>
+<phrase i="OL_Very_High" t="Molto alta"/>
+
+<!-- #############  Profile Account #############-->
+<phrase i="L_ProAcnt_Setup" t="Impostazione account profilo"/>
+<phrase i="L_ProAcnt_Setup_Basic" t="Impostazione account profilo (HTTP)"/>
+<phrase i="L_ProAcnt_Setup_XsiLogin" t="Impostazione account profilo (XSI)"/>
+<phrase i="L_ProAcnt_Setup_XsiSip" t="Impostazione account profilo (XSI SIP)"/>
+<phrase i="L_PA_HOST_WARNING" t="Accesso non riuscito. Contattare l'amministratore."/>
+<phrase i="L_PA_Username" t="Nome utente"/>
+<phrase i="L_PA_RESYNC_TRY" t="Accesso all'account in corso..."/>
+<phrase i="L_PA_RESYNC_OK" t="Accesso riuscito"/>
+<phrase i="L_PA_RESYNC_DISABLED" t="Funzione di risincronizzazione disabilitata. Contattare l'amministratore."/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="Extension Mobility"/>
+<phrase i="L_ExtMob_LoginForm" t="Accedi a Extension Mobility"/>
+<phrase i="L_EM_LOGIN_TRY" t="Accesso in corso..."/>
+<phrase i="L_EM_LOGIN_OK" t="Accesso eseguito."/>
+<phrase i="L_EM_LOGIN_FAILED" t="Informazioni di accesso non corrette."/>
+<phrase i="L_EM_LOGOUT_TRY" t="Disconnessione in corso..."/>
+<phrase i="L_EM_LOGOUT_OK" t="Disconnessione riuscita."/>
+<phrase i="L_EM_LOGOUT_FAILED" t="Disconnessione non riuscita. Riavvio del telefono in corso..."/>
+<phrase i="L_EM_LOGIN_WARNING" t="Inserire ID utente e password"/>
+<phrase i="L_EM_LOGOUT_CONFIRMATION" t="Disconnettersi da Extension Mobility?"/>
+<phrase i="L_EM_INACTIVE_WARNING" t="Causa inattività, il telefono si disconnetterà da Extension Mobility. Rimanere connesso?"/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="Eseguire ripristino di recupero?"/>
+<phrase i="L_RecoveryReset" t="Ripristino di recupero"/>
+<phrase i="L_FirmwareUpgrade" t="Aggiornamento firmware"/>
+<phrase i="T_ST_Diag" t="Recupero diagnostica"/>
+<phrase i="UsbImageFileNotPresent" t="/image/spa525g.bin non trovata. Copiare l'immagine firmware in /image/spa525g.bin."/>
+<phrase i="L_Picture" t="Immagine"/>
+<phrase i="L_IncomingPage" t="Chiamata su cercapersone in arrivo"/>
+<phrase i="L_OutgoingPage" t="Chiamata cercapersone in uscita"/>
+
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="La cartella &quot;%s&quot; non esiste. Controllare che nella cartella &quot;%s&quot; del dispositivo USB siano presenti file jpg."/>
+<phrase i="ImageUsbFileNotPresent" t="Nessun file JPG nella cartella &quot;%s&quot;. Controllare che nella cartella &quot;%s&quot; del dispositivo USB siano presenti file jpg."/>
+<phrase i="T_ImageSelect" t="Seleziona un immagine"/>
+<phrase i="ImageMsgOverMaxImageNum" t="Sono state scelte più di %d immagini"/>
+
+<phrase i="WS_Jan" t="Gen"/>
+<phrase i="WS_Feb" t="Feb"/>
+<phrase i="WS_Mar" t="Mar"/>
+<phrase i="WS_Apr" t="Apr"/>
+<phrase i="WS_May" t="Mag"/>
+<phrase i="WS_Jun" t="Giu"/>
+<phrase i="WS_Jul" t="Lug"/>
+<phrase i="WS_Aug" t="Ago"/>
+<phrase i="WS_Sep" t="Set"/>
+<phrase i="WS_Oct" t="Ott"/>
+<phrase i="WS_Nov" t="Nov"/>
+<phrase i="WS_Dec" t="Dic"/>
+<phrase i="WS_Sun" t="Sole"/>
+<phrase i="WS_Mon" t="Lun"/>
+<phrase i="WS_Tue" t="Mar"/>
+<phrase i="WS_Wed" t="Mer"/>
+<phrase i="WS_Thu" t="Gio"/>
+<phrase i="WS_Fri" t="Ven"/>
+<phrase i="WS_Sat" t="Sab"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="Richiesta in corso..."/>
+<phrase i="T_EmptyHTTPBody" t="Corpo HTTP vuoto."/>
+<phrase i="T_404NotFound" t="404 non trovato."/>
+<phrase i="T_AudioDataError" t="Errore dati audio."/>
+<phrase i="T_DNSError" t="Errore DNS."/>
+<phrase i="T_NoServer" t="Impossibile connettersi al server."/>
+<phrase i="T_NoResponse" t="Il server non risponde. Riprovare."/>
+<phrase i="T_DataError" t="Errore dati."/>
+<phrase i="T_UnknownError" t="Errore sconosciuto."/>
+<phrase i="T_RTPFail" t="Il telefono è occupato con un'altra chiamata. Riprovare più tardi."/>
+<phrase i="T_XMLFormatError" t="Errore formato XML: applicazione non valida."/>
+<phrase i="T_NotValidApp" t="Questo modello del telefono non supporta l'applicazione."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="Risultato"/>
+<phrase i="PRV_Msg_Resync" t="Risincronizza su"/>
+<phrase i="PRV_Msg_ReqFailed" t="Richiesta di risincronizzazione non riuscita. Risincronizzazione del telefono in corso. Riprovare più tardi."/>
+<phrase i="PRV_Msg_ReqFailedByUpg" t="Richiesta non riuscita a causa di un aggiornamento del firmware. Riprovare più tardi."/>
+<phrase i="PRV_Invalid_URL" t="Risincronizzazione non valida"/>
+<phrase i="StringLengthOver" t="La stringa supera la lunghezza massima."/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="Risincronizzazione in corso…"/>
+<phrase i="PRV_Msg_Resync_OK" t="Risincronizzazione completata."/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="Riavvio telefono. Attendere."/>
+<phrase i="L_Active_Call_Progress" t="Chiamata in corso. Terminare la chiamata e riprovare."/>
+<phrase i="L_Unable_To_Add_Participant" t="Impossibile aggiungere un partecipante."/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="Nessuno"/>
+<phrase i="L_RReason1" t="Errore DHCP"/>
+<phrase i="L_RReason2" t="Aggiornamento"/>
+<phrase i="L_RReason3" t="Provisioning"/>
+<phrase i="L_RReason4" t="Aggiornamento"/>
+<phrase i="L_RReason5" t="Azionato dall'utente"/>
+<phrase i="L_RReason6" t="Aggiornamento"/>
+<phrase i="L_RReason7" t="Azionato dal SIP"/>
+<phrase i="L_RReason8" t="Aggiornamento"/>
+<phrase i="L_RReason9" t="Errore di sistema"/>
+<phrase i="L_RReason10" t="Link Down"/>
+<phrase i="L_RReason11" t="Sistema 1"/>
+<phrase i="L_RReason12" t="Sistema 2"/>
+<phrase i="L_RReason13" t="Duplicazione IP"/>
+<phrase i="L_RReason14" t="Backup IP"/>
+<phrase i="L_RReason15" t="Sistema 3"/>
+<phrase i="L_RReason16" t="Sistema 4"/>
+<phrase i="L_RReason17" t="Sistema 5"/>
+<phrase i="L_RReason18" t="Sistema 6"/>
+<phrase i="L_RReason19" t="Sistema 7"/>
+<phrase i="L_RReason20" t="Azionato dal SIP"/>
+<phrase i="L_RReason21" t="Download dizionario"/>
+<phrase i="L_RReason22" t="VLAN cambiata"/>
+<phrase i="L_RReason23" t="Configuraz. di rifer."/>
+<phrase i="L_RReason24" t="Ripristino impostazioni di fabbrica"/>
+<phrase i="L_RReason25" t="Req. software"/>
+<phrase i="L_RReason26" t="IP cambiato"/>
+
+<phrase i="L_Calls" t="Chiamate"/>
+
+<!-- ############# Full Screen Progress Spinner ########### -->
+<phrase i="L_ProgressSpinnerText" t="Aggiornamento firmware"/>
+
+<!-- ############# Accessories ############ -->
+<phrase i="L_Accessories" t="Accessori"/>
+<phrase i="L_AccessoryDetails" t="Dettagli accessorio"/>
+<phrase i="L_DeviceType" t="Tipo di dispositivo"/>
+<phrase i="L_DeviceClass" t="Classe dispositivo"/>
+<phrase i="L_Configured" t="Configurato"/>
+<phrase i="L_unitEnable" t="Unità abilitata"/>
+<phrase i="L_unitState" t="Unità online"/>
+
+<!-- #############  Cisco Headset#############-->
+<phrase i="L_Setup" t="Imposta"/>
+<phrase i="L_Microphone" t="Microfono"/>
+<phrase i="L_Tuning" t="Sintonizzazione"/>
+<phrase i="L_Sidetone" t="Ritorno voce"/>
+<phrase i="L_MicrophoneTest" t="Test microfono"/>
+<phrase i="L_InputLevel" t="Livello di ingresso"/>
+<phrase i="L_SpeakNow" t="Parla adesso"/>
+<phrase i="L_SpeakLevel" t="Parla per visualizzare il livello di ingresso"/>
+<phrase i="L_PlayRecord" t="Riproduci registrazione"/>
+<phrase i="L_AdjustMicroGain" t="Regola il guadagno del microfono"/>
+<phrase i="L_Softer" t="Basso"/>
+<phrase i="L_Louder" t="Alto"/>
+<phrase i="L_AdjustAudioTune" t="Regola sintonizzazione audio"/>
+<phrase i="L_Warmer" t="Caldo"/>
+<phrase i="L_Brighter" t="Nitido"/>
+<phrase i="L_AdjustMicrophone" t="Regola il microfono"/>
+
+<phrase i="L_headsetSettings" t="Impostazioni cuffie Cisco"/>
+<phrase i="L_headsetSpeaker" t="Altoparlante cuffie Cisco"/>
+<phrase i="L_headsetMicrophone" t="Microfono cuffia Cisco"/>
+<phrase i="L_Test" t="Test"/>
+<phrase i="L_Gain" t="Guadagno"/>
+<phrase i="L_CiscoWiredHeadset" t="Cuffie con cavo Cisco"/>
+<phrase i="L_CiscoWirelessHeadset" t="Cuffie wireless Cisco"/>
+<phrase i="L_CiscoHeadset" t="Cuffie Cisco"/>
+<phrase i="L_NewAccDetected" t="Nuovo accessorio rilevato."/>
+<phrase i="L_HeadsetSetupProgress" t="Premere Imposta per configurare le cuffie, altrimenti questa pagina si chiuderà in %d secondi."/>
+<phrase i="L_HeadsetSetupProgressOneSecond" t="Premere Imposta per configurare le cuffie, altrimenti questa pagina si chiuderà in 1 secondo."/>
+<phrase i="L_HeadsetUpgrade" t="Aggiornamento software in corso. Non scollegare le cuffie."/>
+<phrase i="L_HeadsetMDUpgradeNotify" t="È pronto l'aggiornamento del firmware della cuffia.Potrebbe richiedere diversi minuti e non sarà possibile utilizzare la cuffia durante l'aggiornamento. Eseguire l'aggiornamento adesso?"/>
+<phrase i="L_CannotRecord" t="Non è possibile controllare il guadagno del microfono o il volume durante una chiamata."/>
+<phrase i="L_Version" t="Versione"/>
+<phrase i="L_UpgradeFaild" t="Aggiornamento non riuscito."/>
+<phrase i="S_PlayBack" t="Riproduzione"/>
+<phrase i="L_Upgrade" t="Aggior."/>
+<phrase i="L_Postpone" t="Rimanda"/>
+
+<!-- #############  PRT Screen#############-->
+<phrase i="L_ReportProblem" t="Segnala"/>
+<phrase i="L_ProblemDate" t="Data problema"/>
+<phrase i="L_ProblemTime" t="Ora problema"/>
+<phrase i="L_ProblemDescription" t="Descriz. del prob."/>
+<phrase i="L_SelectProblem" t="Selezionare"/>
+<phrase i="L_PRTProblem1" t="Disconnessione o riavvio telefono"/>
+<phrase i="L_PRTProblem2" t="Connessione di rete non riuscita"/>
+<phrase i="L_PRTProblem3" t="Registrazione tel. non riuscita"/>
+<phrase i="L_PRTProblem4" t="Chiamata non riuscita"/>
+<phrase i="L_PRTProblem5" t="Impossibile rispondere alle chiam."/>
+<phrase i="L_PRTProblem6" t="Funzioni chiamata non funzionanti"/>
+<phrase i="L_PRTProblem7" t="Qualità audio/video scarsa"/>
+<phrase i="L_PRTProblem8" t="Audio/video monodirezionale"/>
+<phrase i="L_PRTProblem9" t="Audio/video non disponibile"/>
+<phrase i="L_PRTProblem10" t="Risposta UI lenta"/>
+<phrase i="L_PRTProblem11" t="Errore visualizzazione UI"/>
+<phrase i="L_PRTProblem12" t="Altro"/>
+<phrase i="L_PrtSpinnerText" t="Generazione del file PRT"/>
+<phrase i="L_PrtStatusOKText" t="Caricamento riuscito. File: %s"/>
+<phrase i="L_PrtStatusFailedText" t="Caricamento PRT non riuscito. È sulla pagina web: %s"/>
+<phrase i="L_PrtStatusFailedText1" t="Caricamento PRT non riuscito. È sulla pagina web:"/>
+<phrase i="L_PrtStatusNoURLText" t="File PRT disponibile nella pagina web (%s)"/>
+<phrase i="L_PrtStatusNoURLText1" t="File PRT disponibile nella pagina web"/>
+<phrase i="L_PrtWarningText" t="Selezionare la descrizione del problema."/>
+<phrase i="T_PRT_Submitted" t="Problema inviato"/>
+<phrase i="T_PRT_Error" t="Errore: %d"/>
+
+<!-- #############  802.1X Authentication #############-->
+<phrase i="L_802Authentication" t="Autenticazione 802.1X"/>
+<phrase i="L_DeviceAuthentication" t="Autenticazione disposit."/>
+<phrase i="L_TransactionStatus" t="Stato transazione"/>
+<phrase i="L_Protocol" t="Protocollo"/>
+
+<!-- #############  Agent Login #############-->
+<phrase i="S_AState" t="StAgente"/>
+<phrase i="L_ACD_AGENT_STATE" t="Imposta stato agente"/>
+<phrase i="S_ASignIn" t="AcAgente"/>
+<phrase i="S_ASignOut" t="UsAgente"/>
+<phrase i="S_AgtIn" t="AcAgente"/>
+<phrase i="S_AgtOut" t="UsAgente"/>
+<phrase i="T_ACD_CallInformation" t="Informazioni chiamata"/>
+<phrase i="L_ACD_WaitTime" t="Tempo di attesa"/>
+<phrase i="L_ACD_CCUID" t="UID CC"/>
+<phrase i="L_ACD_CCName" t="Nome CC"/>
+<phrase i="L_ACD_Queue" t="Coda"/>
+<phrase i="L_ACD_LongestWaitTime" t="Tempo di attesa più lungo"/>
+<phrase i="S_ACallInfo" t="Info ch."/>
+<phrase i="S_ADispCode" t="Esito"/>
+<phrase i="S_ATrace" t="Traccia"/>
+<phrase i="S_AEmergcy" t="Emergen."/>
+<phrase i="L_ACD_DispCode" t="Codice esito"/>
+<phrase i="L_ACD_Emergency" t="Riasseg. emergenza"/>
+<phrase i="L_Avail" t="Disponibile"/>
+<phrase i="L_Unavail" t="Non disp."/>
+<phrase i="L_Wrap" t="Riepilogo"/>
+<phrase i="L_SignOut" t="Disconnetti"/>
+<phrase i="L_AgtState" t="Agente"/>
+<phrase i="L_AQS_EMPTY" t="vuota"/>
+<phrase i="L_AQS_NORMAL" t="in coda"/>
+<phrase i="L_AQS_FULL" t="piena"/>
+<phrase i="L_SECOND" t="%d s"/>
+<phrase i="L_SECONDS" t="%d s"/>
+<phrase i="L_Queue_Call" t="%d chiamata"/>
+<phrase i="L_Queue_Calls" t="%d chiamate"/>
+<phrase i="L_AgtIn" t="Agente connesso"/>
+<phrase i="L_AgtOut" t="Agente disconnesso"/>
+
+
+<!-- #############  Exec/Admin Feature #############-->
+<phrase i="L_Executive" t="Dirigente"/>
+<phrase i="L_Executive_List" t="Elenco dirigenti"/>
+<phrase i="L_Assistant" t="Assistente"/>
+<phrase i="L_AllowOptInOut" t="Attivazione/Disattivazione assistente"/>
+<phrase i="L_CallFilter" t="Filtro chiamata"/>
+<phrase i="L_CallFilterMode" t="Modalità filtro chiamate"/>
+<phrase i="L_CallFilterType" t="Tipo di filtro chiamate"/>
+<phrase i="L_AssistsList" t="Elenco assistenti"/>
+<phrase i="M_No_Executive" t="Nessun dirigente disponibile."/>
+<phrase i="L_DivertNum" t="Numero deviazione"/>
+<phrase i="OL_AllCalls" t="Tot ch"/>
+<phrase i="OL_InternalCalls" t="Chiamate interne"/>
+<phrase i="OL_ExternalCalls" t="Chiamate esterne"/>
+<phrase i="OL_Simple" t="Semplice"/>
+<phrase i="OL_Advanced" t="Avanzata"/>
+<phrase i="L_Opt0" t="Disattiva"/>
+<phrase i="L_Opt1" t="Attiva"/>
+<phrase i="M_CallFilterPrompt" t="Qualsiasi modifica delle impostazioni del filtro delle chiamate ha effetto su tutti gli altri assistenti. Continuare?"/>
+<phrase i="M_DivertNumberPrompt" t="Numero deviazione è un campo obbligatorio."/>
+
+<!-- #############  GDS Activation Feature #############-->
+<phrase i="L_Welcome" t="Benvenuto"/>
+<phrase i="S_Continue" t="Continua"/>
+<phrase i="L_Enter_Activation_Code" t="Immettere codice di attivazione"/>
+<phrase i="L_Activation_Connecting" t="Connessione in corso."/>
+<phrase i="L_Activation_Download_Configuration" t="Download in corso..."/>
+<phrase i="L_Activation_Check_Info" t="Codice di attivazione non valido."/>
+<phrase i="L_Activation_Invalid_Config" t="Configurazione non valida. Contattare l'amministratore."/>
+<phrase i="L_Activation_Service_Unavailable" t="Il servizio non è disponibile. Riprovare più tardi."/>
+<phrase i="L_Activation_Internal_Error" t="Riavviare il telefono o contattate l'amministratore."/>
+<phrase i="L_Activation_Network_Error" t="Verificare la connessione Internet o contattare l'amministratore."/>
+<phrase i="L_Activation_Cert_Error" t="Certificato del server non valido. Contattare l'amministratore."/>
+<phrase i="L_Activation_Download_Retrying" t="Download non riuscito. Nuovo tentativo in corso..."/>
+<phrase i="L_Activation_Download_Failed" t="Download non riuscito. Contattare l'amministratore."/>
+<phrase i="M_Config_In_Progress" t="Controllo configurazione in corso. Questa operazione richiede alcuni minuti."/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/> <!--aks:can be removed after all required screens are fixed-->
+<phrase i="L_NetworkName" t="Nome rete"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_802.11" t="Banda frequenza"/>
+<phrase i="L_5ghz" t="5 GHz"/>
+<phrase i="L_2.4ghz" t="2,4 GHz"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_WiFi_Type" t="Tipo di Wi-Fi"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="YYYY"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="HH"/>
+<phrase i="Label_mm" t="MM"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_SWITCH_PORT_CFG" t="Config. porta switch"/>
+<phrase i="L_PC_PORT_CFG" t="Configurazione porta PC"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_PC_PORT_MIRRORING" t="Mirror porta PC"/>
+<phrase i="L_STARTUP_DELAY" t="Avvio ritardato"/>
+<phrase i="L_DHCP_VLAN_OPTION" t="Opzione DHCP VLAN"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="ID VLAN"/>
+<phrase i="L_VLAN_PRIPORITY" t="Priorità VLAN"/>
+<phrase i="L_DATAPORT_VLAN" t="VLAN porta PC"/>
+<phrase i="L_DATAPORT_VLANID" t="ID VLAN porta PC"/>
+<phrase i="L_DATAPORT_PRIORITY" t="Priorità porta PC"/>
+<phrase i="OL_NO_LIMIT" t="Senza limite"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_WLAN" t="WLAN"/>
+<phrase i="OL_WPS" t="WPS"/>
+<phrase i="OL_RELEASE_DHCP" t="Rilascia IP DHCP"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_DIGEST-MD5" t="DIGEST-MD5"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  #Status messages #############-->
+<phrase i="M_SM_status_no_connection" t="Nessuna connessione"/>
+<phrase i="M_SM_status_Eth_connected" t="Ethernet connesso"/>
+<phrase i="M_SM_status_Wifi_connected" t="Wi-Fi conesso"/>
+<phrase i="M_SM_Eth_Dis" t="Ethernet disconnesso"/>
+<phrase i="M_SM_Wifi_Dis" t="Wi-Fi disconnesso"/>
+<phrase i="M_SM_V6_IP_Dup" t="Indirizzo IPv6 duplicato"/>
+<phrase i="M_SM_V4_IP_Dup" t="Indirizzo IPv4 duplicato"/>
+<phrase i="M_SM_V6_Dns_Err" t="Errore di risoluzione DNSv6"/>
+<phrase i="M_SM_Usr_Cncld_Pwr_off" t="Spegnimento telefono annullato: direttiva di spegnimento dallo switch annullata a causa di un'interazione con l'utente."/>
+<phrase i="M_SM_POE_Rqd" t="Errore spegnimento telefono: impossibile spegnere il telefono. Per eseguire tale operazione è necessario Power over Ethernet."/>
+<phrase i="M_SM_NO_FILE_CHG" t="Nessun file modificato"/>
+<phrase i="M_SM_PORT_CFG_ERR" t="Errore configurazione porta"/>
+<phrase i="M_SM_V4_ADDR_REL" t="Indirizzo IPv4 rilasciato"/>
+<phrase i="M_SM_V4_ADDR_RENEW" t="Indirizzo IPv4 rinnovato"/>
+<phrase i="M_SM_NTP_TEMP_TIME" t="L'ora inserita manualmente verrà sovrascritta quando l'NTP è disponibile."/>
+<phrase i="M_SM_CertError" t="Errore certificato SSL %s"/>
+<phrase i="M_SM_DNSError" t="Errore durante la risoluzione dell'indirizzo %s"/>
+<phrase i="M_SM_DNSSuccess" t="%s risolto"/>
+<phrase i="M_SM_NoGeolocation" t="Posizione per emergenze non rilevabile per la linea: %s"/>
+<phrase i="M_SM_FailedGeolocation" t="Posizione per emergenze non rilevabile dal sistema."/>
+
+<phrase i="ReadOnly_Prompt" t="Non si ha il permesso di fare questo cambiamento."/>
+<phrase i="Copyright_Year" t="2000-2020"/>
+<phrase i="Copyright_Text" t="Copyright 2000-2020 Cisco Systems, Inc."/>
+
+<!-- #############  #Upgrade error message #############-->
+<phrase i="M_UG_FAIL" t="Errore aggiornamento"/>
+<phrase i="M_UG_CRC_FAIL" t="Verifica CRC non riuscita"/>
+<phrase i="M_UG_MAGIC_FAIL" t="Carico non riconosciuto"/>
+<phrase i="M_UG_MEMORY_NOT_ENOUGH" t="Memoria di sistema disponibile insufficiente"/>
+<phrase i="M_UG_FILE_NOT_FOUND" t="File non trovato"/>
+<phrase i="M_UG_READ_FAIL" t="Recupero dati non riuscito"/>
+<phrase i="M_UG_WRITE_FAIL" t="Scrittura dati non riuscita"/>
+<phrase i="M_UG_HASH_CHECK_FAIL" t="Controllo hash non riuscito"/>
+<phrase i="M_UG_HEADER_FAIL" t="Controllo intestazione principale non riuscito"/>
+<phrase i="M_UG_UPGRADE_ABORT" t="Procedura di aggiornamento interrotta"/>
+<phrase i="M_UG_FORBID" t="Incompatibilità hardware o software"/>
+<phrase i="M_UG_CONN_FAIL" t="Impossibile connettersi al server"/>
+<phrase i="M_UG_INTERNAL_ERR" t="Errore interno procedura di aggiornamento"/>
+<phrase i="M_UG_BAD_LOAD_EBR" t="Carico errato o record di riavvio esteso"/>
+<phrase i="M_UG_BAD_SCHEME" t="Schema protocollo di download errato"/>
+<phrase i="M_UG_IN_PROGRESS" t="Aggiornamento in corso"/>
+<phrase i="M_UG_BAD_URL" t="URL specificato errato"/>
+<phrase i="M_UG_AUTHORIZED" t="Aggiornamento transizione autorizzato."/>
+<phrase i="M_UG_UNAUTHORIZED" t="Aggiornamento transizione non autorizzato."/>
+<phrase i="M_UG_AUTH_FAIL" t="Errore durante la procedura di autorizzazione del carico della transizione"/>
+<phrase i="M_UG_AUTH_FNF" t="Errore durante la procedura di autorizzazione del carico della transizione"/>
+<phrase i="M_UG_SERV_CERT_ERR" t="Errore certificato."/>
+<phrase i="M_UG_UNKNOWN_ERR" t="Errore sconosciuto"/>
+
+<phrase i="Tr_Configure" t="Configuration check in progress."/>
+<phrase i="Tr_Authorize" t="Authorization in progress."/>
+<phrase i="Tr_Auth_Download" t="Gli aggiornamenti della transizione e della reversione sono autorizzati. Aggiornamento in corso..."/>
+<phrase i="Tr_Unauth_Download" t="È autorizzato solo l'aggiornamento della revisione. Aggiornamento in corso..."/>
+<phrase i="Tr_AuthFail" t="Autorizzazione non riuscita. Verificare la configurazione e riprovare."/>
+<phrase i="Tr_ConfigureFail" t="Failed to download the configuration. Contact your administrator."/>
+<phrase i="Tr_ContactAdmin" t="Contact your administrator."/>
+
+<!-- TODO: Delete the following 3 strings when all code references are gone-->
+<phrase i="Tr_Revert" t="Load reversion in progress..."/>
+<phrase i="Tr_RevertPrompt" t="Do you want to revert to the previous load?"/>
+<phrase i="Tr_RevertFail" t="Failed to revert to the previous load"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s&amp;mobilePhone=%s"/>
+<phrase i="URL_AddToBSPAB" t="Application_BsDirPersAddToFrom?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2016"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All rights reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi protected setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade file select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi profile name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push button configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching available sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to personal address book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to personal address book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with personal address book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the conflict list"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the personal address book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth device name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices"/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait"/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting wireless profile"/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call history type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add new Wi-Fi profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit all changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware upgrade window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space not allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password not valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available speed dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current personal directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension name of certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter PIN."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of call history entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of received calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of placed calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of missed calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected call history entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected received calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected placed calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected missed calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to personal address book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal address book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Recents"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default transmit key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA shared key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of private key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS inner protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP inner protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="PIN"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone no"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work no"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile no"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home no"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add personal address entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check server certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed calls"/>
+<phrase i="S_Pg_C_All" t="All calls"/>
+<phrase i="S_Pg_C_XsiAll" t="Server All calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import address book from mobile phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- status messages for future use. When using, move them in translatable section-->
+<phrase i="M_SM_cant_pwr_off" t="Phone off error: Could not power off; the required EnergyWise domain is not configured."/>
+<phrase i="M_SM_app_conf" t="apply_config"/>
+<phrase i="M_SM_cust_pend" t="Custom-pending"/>
+<phrase i="M_SM_psp_dev_unreg_pwr_off" t="Device unregistered when it entered powered off due to the Power Save Plus feature"/>
+<phrase i="M_SM_trst_lst_updtd" t="Trust list updated"/>
+<phrase i="M_SM_vpn_proc_not_rng" t="VPN process not running"/>
+<phrase i="M_SM_vpn_clnt_not_rng" t="VPN client not running"/>
+<phrase i="M_SM_vpn_not_cnfgd" t="VPN not configured"/>
+<phrase i="M_SM_trst_lst_updt_faild" t="Trust list update failed"/>
+<phrase i="M_SM_itl_upd_failed" t="ITL update failed"/>
+<phrase i="M_SM_no_trst_lst" t="No trust list installed"/>
+<phrase i="M_SM_itl_instld" t="ITL installed"/>
+<phrase i="M_SM_tz_dnld_failed" t="Time zone data download failed"/>
+<phrase i="M_SM_V6_dns_to" t="IPv6 DNS timeout"/>
+<phrase i="M_SM_V4_no_tftp_svr" t="No IPv4 TFTP server"/>
+<phrase i="M_SM_V6_no_tftp_svr" t="No IPv6 TFTP server"/>
+<phrase i="M_SM_V6_dhcp_to" t="DHCPv6 Timeout"/>
+<phrase i="M_SM_V6_dns_h_un" t="DNS unknown IPv6 host"/>
+<phrase i="M_SM_V6_no_dns_svr" t="No IPv6 DNS server"/>
+<phrase i="M_SM_V6_ADDR_REL" t="IPv6 address released"/>
+<phrase i="M_SM_load_svr_invld" t="Load server is invalid"/>
+<phrase i="M_SM_tftp_svr" t="TFTP server"/>
+<phrase i="M_SM_tftp_not_auth755" t="TFTP not authorized"/>
+<phrase i="M_SM_pend" t="Pending"/>
+<phrase i="M_SM_ctl_instd" t="CTL installed"/>
+<phrase i="M_SM_ctl_updtd_failed" t="CTL update failed"/>
+<phrase i="M_SM_file_auth_fail" t="File auth fail"/>
+<phrase i="M_SM_load_auth_fail" t="Load authenication failed"/>
+<phrase i="M_SM_err_updt_lcl" t="Error updating locale"/>
+<phrase i="M_SM_load_rej_hc" t="Load rejected HC"/>
+<phrase i="M_SM_failback" t="Failback"/>
+<phrase i="M_SM_err_vrfy_cfg" t="Error verifying config info"/>
+<phrase i="M_SM_tftp_err" t="TFTP error"/>
+<phrase i="M_SM_tftp_acc_err" t="TFTP access error"/>
+<phrase i="M_SM_tcp_to" t="TCP-timeout"/>
+<phrase i="M_SM_ver_err" t="Version Error"/>
+<phrase i="M_SM_prog_err" t="Programming Error"/>
+<phrase i="M_SM_no_def_rtr" t="No default router"/>
+<phrase i="M_SM_V4_no_dns_svr" t="No IPv4 DNS server"/>
+<phrase i="M_SM_V4_dns_to" t="IPv4 DNS timeout"/>
+<phrase i="M_SM_V4_dns_h_un" t="DNS unknown IPv4 host"/>
+<phrase i="M_SM_tftp_to" t="TFTP timeout"/>
+<phrase i="M_SM_V4_dhcp_to" t="IPv4 DHCP timeout"/>
+<phrase i="M_SM_V6_Vid_Cap" t="VideoCap with IPv6 Only"/>
+
+<!-- Voice Feedback Strings (hints). DO NOT LOCALIZE this section-->
+<phrase i="VF_FEEDBACK_ON" t="voice feedback on press three times to turn off"/>
+<phrase i="VF_FEEDBACK_OFF" t="voice feedback off"/>
+<phrase i="VF_HOME_SCREEN" t="Home Screen"/>
+<phrase i="VF_STARTUP_SCREEN" t="Startup Screen"/>
+<phrase i="VF_OPTION" t="Option"/>
+<phrase i="VF_XFER_LINE" t="Transfer line"/>
+<phrase i="VF_CONF_LINE" t="Conference line"/>
+<phrase i="VF_INPUT_FIELD" t="Input field"/>
+<phrase i="VF_SWITCH_FIELD" t="Switch field"/>
+<phrase i="VF_OPTION_FIELD" t="Option field"/>
+<phrase i="VF_EXPAND_FIELD" t="Expand field"/>
+<phrase i="VF_NEXT_PAGE" t="Next page"/>
+<phrase i="VF_SLIDER_FIELD" t="Slider field"/>
+<phrase i="VF_MENU" t="Menu"/>
+<phrase i="VF_INCOMING_CALL" t="Incoming call from"/>
+<phrase i="VF_OUTGOING_CALL" t="Outgoing call to"/>
+<phrase i="VF_MISSED_CALL" t="Missed call from"/>
+<phrase i="VF_HELD_CALL" t="Held call with"/>
+<phrase i="VF_CONNECTED_CALL" t="Connected call with"/>
+<phrase i="VF_CANCEL_FORWARD" t="Cancel call forward"/>
+<phrase i="VF_MUTE" t="Mute"/>
+<phrase i="VF_SELECTED" t="Selected"/>
+<phrase i="VF_CURSOR" t="Cursor"/>
+<phrase i="VF_AT_START" t="Cursor at start"/>
+<phrase i="VF_AT_END" t="Cursor at end"/>
+<phrase i="VF_JANUARY" t="January"/>
+<phrase i="VF_FEBRUARY" t="February"/>
+<phrase i="VF_MARCH" t="March"/>
+<phrase i="VF_APRIL" t="April"/>
+<phrase i="VF_MAY" t="May"/>
+<phrase i="VF_JUNE" t="June"/>
+<phrase i="VF_JULY" t="July"/>
+<phrase i="VF_AUGUST" t="August"/>
+<phrase i="VF_SEPTEMBER" t="September"/>
+<phrase i="VF_OCTOBER" t="October"/>
+<phrase i="VF_NOVEMBER" t="November"/>
+<phrase i="VF_DECEMBER" t="December"/>
+<phrase i="VF_MENU_CLOSED" t="Menu Closed"/>
+<phrase i="VF_DND_SET" t="Do Not Disturb Set"/>
+<phrase i="VF_DND_CANCEL" t="Do Not Disturb Cancelled"/>
+<!-- Voice Feedback Strings. END OF THIS SECTION-->
+
+</phrases>

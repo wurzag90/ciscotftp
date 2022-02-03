@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Max number of parsable phrases is capped at 4096 in csstringrepo.c --><phrases>
+<trkLocaleName>Anglès_Estats_Units</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  Conference Microphones ###########-->
+
+<phrase i="L_WirelessPairing_info" t="Manteniu premuda la tecla de silenci al micròfon %d durant 3 segons. Durant l'emparellament, el micròfon parpellejarà en blanc."/>
+<phrase i="L_UNPLUG_WIRED" t="Desconnecteu els micròfons de cable abans de prémer Emparellar."/>
+
+<phrase i="L_WIRED_MIC_CONNECTED" t="Micròfon de cable %d connectat."/>
+<phrase i="L_WIRED_MIC_DISCONNECTED" t="Micròfon de cable %d desconnectat."/>
+<phrase i="L_WIRELESS_MIC_DISCONNECTED" t="Micròfon sense fils %d desconnectat."/>
+<phrase i="L_WIRELESS_MIC_CONNECTED" t="Micròfon sense fils %d connectat."/>
+
+<phrase i="L_LOW_BATTERY" t="Bateria del micròfon per sota del %d%25%25 de càrrega."/>
+<phrase i="L_RANGE" t="Interval"/>
+<phrase i="L_BATTERY_LEVEL" t="Nivell de la bateria %d%%"/>
+<phrase i="L_BATTERY_POOR_CONNECTION" t="Mala connexió de la bateria"/>
+<phrase i="L_BATTERY_BAD" t="Bateria baixa"/>
+<phrase i="L_PAIRED" t="Emparellat"/>
+<phrase i="L_UNPAIRED" t="Desemparellat"/>
+<phrase i="L_LOST_LINK" t="Enllaç perdut"/>
+<phrase i="L_UPGRADE_IN_PROGRES" t="Actualització en curs"/>
+<phrase i="L_WIRELESS_MICROPHONE" t="Micròfon sense fils %d"/>
+<phrase i="L_MICROPHONE" t="Micròfon %d"/>
+<phrase i="L_MICROPHONES" t="Micròfons"/>
+<phrase i="L_WIRED_MIC" t="Micròfons de cable"/>
+<phrase i="L_WIRELESS_MIC" t="Micròfons sense fils"/>
+<phrase i="L_PAIR" t="Emparellar"/>
+<phrase i="L_UNPAIR" t="Desemparellar"/>
+<phrase i="L_LOSTLINK" t="Enllaç perdut"/>
+<phrase i="L_WIRELESS_MICROPHONE_ID" t="Emparellant el micròfon %d"/>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="Reinici del sistema"/>
+<phrase i="L_S_NET" t="Inicialitzant xarxa"/>
+<phrase i="L_S_DOWNLOAD" t="Baixada en curs"/>
+<phrase i="L_S_UPGRADE" t="S'està actualitzant a"/>
+<phrase i="L_S_UPGRADEFAILED" t="Error d'actualització."/>
+<phrase i="L_S_RESYNC" t="S'està resincronitzant a"/>
+<phrase i="L_S_RESYNCFAILED" t="Error en resincronitzar."/>
+<phrase i="L_S_SRVC_PROVISIONING_FAILED" t="Comproveu la configuració d'aprovisionament o poseu-vos en contacte amb el vostre proveïdor de serveis."/>
+<phrase i="L_S_CONNECT" t="Connectant"/>
+<phrase i="L_S_NOCME" t="No es pot trobar UCxxx. Poseu-vos en contacte amb l'administrador."/>
+<phrase i="L_S_REGTOKENREJECT" t="Clau de registre de SPCP Rebutjada. Intentant novament..."/>
+<phrase i="L_S_REGISTERING" t="Registrant"/>
+<phrase i="L_S_REGISTERED" t="Registre complet."/>
+<phrase i="L_S_REGREJECT" t="Registre rebutjat."/>
+<phrase i="L_S_REGFAILED" t="Error en el registre."/>
+<phrase i="L_S_NO_REG" t="El telèfon no s'ha registrat. Poseu-vos en contacte amb l'administrador."/>
+<phrase i="L_S_NO_NETWORK" t="El telèfon no es pot connectar a la xarxa. Comproveu els cables de la xarxa. Si el problema persisteix, poseu-vos en contacte amb l'administrador."/>
+<phrase i="L_S_NO_WIFI_NETWORK" t="Cal configurar la xarxa per activar les funcions de trucada."/>
+<phrase i="L_S_SRVC_NO_NETWORK" t="Comproveu la connexió a Internet o poseu-vos en contacte amb el vostre proveïdor de serveis."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_NEWCALL" t="N. Truc."/>
+<phrase i="L_DS_ENTERNUMBER" t="Introduir número"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="Desv. de totes les trucades"/>
+<phrase i="L_DS_ENTER_CFWD" t="Desviament de trucades"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="Desv. de trucades ocupat"/>
+<phrase i="L_DS_ENTER_NOANS" t="Desv. de trucades sense resposta"/>
+<phrase i="L_DS_ENTER_BXFER" t="Introduir objectiu de transferència a cegues"/>
+<phrase i="L_DS_ENTER_PARK" t="Introduir el número per aparcar"/>
+<phrase i="L_DS_ENTER_UNPARK" t="Introduir el número per desaparcar"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="Introduir objectiu de servei de referència"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="Introduir objectiu de servei especial"/>
+<phrase i="L_DS_ENTER_MORE" t="Introduïu més dígits"/>
+<phrase i="L_DS_ENTER_PICKUP" t="Introduir el número de captura"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="Introduir el grup de captura"/>
+<phrase i="L_DS_ENTER_PAGE" t="Introduir l'objectiu de pàgina"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="Introduir el número extern"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="Introduïu el codi de compte"/>
+<phrase i="L_DS_ENTER_PROXYCALL" t="Trucada de proxy"/>
+<phrase i="L_DS_ENTER_DIVERTALL" t="Desviar-ho tot"/>
+<phrase i="L_DS_LINE" t="Línia: %s"/>
+<phrase i="L_DS_FOR" t="per a %s"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="Línia"/>
+<phrase i="L_READY" t="Llest"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="No registrat"/>
+<phrase i="L_CAPPN_DISABLED" t="Desactivat"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="Marc. ràpid"/>
+<phrase i="L_CAPPN_APP" t="Aplicació"/>
+<phrase i="L_CAPPN_URL" t="URL de serveis"/>
+<phrase i="L_CAPPN_FEAT" t="Funció"/>
+<phrase i="L_CAPPN_EXTFUNC" t="Funció ampliada"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="Convidat preparat"/>
+<phrase i="CALL_RINGING" t="Trucada entrant"/>
+<phrase i="L_CONNECTED" t="Connectat"/>
+<phrase i="L_NOT_CONNECTED" t="Sense connectar"/>
+<phrase i="L_OK" t="Acceptar"/>
+<phrase i="L_DUPLICATED" t="Duplicada"/>
+<phrase i="L_INITIALIZING" t="Inicialitzant"/>
+<phrase i="L_CONNECTING" t="Connectant"/>
+<phrase i="L_DHCP_ERROR" t="Error de DHCP"/>
+<phrase i="CALL_HOLDING" t="Trucada en espera"/>
+<phrase i="CALL_END" t="Trucada finalitzada"/>
+<phrase i="CALL_CALLING" t="Trucada en curs"/>
+<phrase i="CALL_SEIZED" t="Presa"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="Espera"/>
+<phrase i="CALL_DIALING" t="Marcant"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="Reprenent"/>
+<phrase i="CALL_SHARE" t="Compartir trucada"/>
+<phrase i="CALL_PAGE" t="Pàgina"/>
+<phrase i="CALL_PICKUP" t="Captura de trucada"/>
+<phrase i="CALL_PICKUPCALL" t="Trucada capturada"/>
+<phrase i="CALL_PICKUPFAILED" t="Error en capturar la trucada."/>
+<phrase i="CALL_PICKUP_NULL" t="No hi ha trucades sonant."/>
+<phrase i="CALL_GPICKUP" t="Captura de trucades de grup"/>
+<phrase i="CALL_GPICKUPSTATION" t="Captura d'estació"/>
+<phrase i="CALL_ANSWERING" t="Responent"/>
+<phrase i="CALL_UNKNOWN" t="Desconegut"/>
+<phrase i="CALL_ANONYMOUS" t="Anònim"/>
+<phrase i="CALL_USER" t="Usuari"/>
+<phrase i="CALL_IDLE" t="Inactiu"/>
+<phrase i="CALL_PROGRESSING" t="En curs"/>
+<phrase i="CALL_ALERT" t="Avís"/>
+<phrase i="CALL_ACTIVE" t="Actiu"/>
+<phrase i="CALL_HELD" t="Espera"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="Pont actiu"/>
+<phrase i="CALL_BRIDGE_HELD" t="Pont espera"/>
+<phrase i="CALL_FROM" t="De"/>
+<phrase i="CALL_TO" t="A"/>
+<phrase i="CALL_CALLBACK" t="Retrotrucada"/>
+<phrase i="CALL_FORWARD" t="Desviar"/>
+<phrase i="CALL_XFERTO" t="Transferir a"/>
+<phrase i="CALL_PAGEFROM" t="Trucar des de"/>
+<phrase i="CALL_PAGETO" t="Trucar a"/>
+<phrase i="CALL_BY" t="Per"/>
+<phrase i="CALL_CALLER" t="Persona que truca"/>
+<phrase i="CALL_BUSY" t="Ocupat"/>
+<phrase i="CALL_REORDER" t="Canvia l'ordre"/>
+<phrase i="CALL_CONGESTION" t="Congestió"/>
+<phrase i="CALL_PROCEED" t="Continuar"/>
+<phrase i="CALL_RML" t="Multilínia remota en ús"/>
+<phrase i="CALL_INVALIDNUM" t="Número no vàlid"/>
+<phrase i="CALL_INVALID" t="No vàlid"/>
+<phrase i="L_GATHERINFO" t="Recopilant informació"/>
+<phrase i="L_FAILED" t="Error"/>
+<phrase i="L_Empty" t="Buit"/>
+<phrase i="L_DND" t="No molestar"/>
+<phrase i="L_CFWD" t="Trucades desviades"/>
+<phrase i="L_CFWDTO" t="a %s"/>
+<phrase i="L_MissedCall" t="Nova trucada perduda"/>
+<phrase i="L_MissedCalls" t="Noves trucades perdudes"/>
+<phrase i="L_RingCallList" t="Llista de trucades entrants"/>
+<phrase i="L_RingStationList" t="Llista d'estacions sonant"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="Número d'aparcament no vàlid"/>
+<phrase i="L_SECS_LOGIN_OK" t="Inici de sessió correcte."/>
+<phrase i="L_SECS_LOGIN_FAILED" t="Error en iniciar la sessió. Comproveu l'ID d'usuari i la contrasenya."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="Error en actualitzar la disponibilitat d'ACD."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="Actualització de disponibilitat d'ACD correcta."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="S'està connectant amb el servidor ACD"/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="Introduir ID d'usuari i contrasenya."/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="Connectant amb el servidor"/>
+<phrase i="L_SECS_HOTELING_OK" t="Inici de sessió correcte."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="Error en l'inici de sessió."/>
+<phrase i="L_SECS_HOTELING_LOGOUT_CONFIRMATION" t="Segur que voleu tancar la sessió?"/>
+<phrase i="L_ACD_LoginForm" t="Formulari d'inici de sessió d'ACD"/>
+<phrase i="L_TRANSFERRING" t="Transferint"/>
+<phrase i="L_XFERFAILED" t="Error de transferència"/>
+<phrase i="L_LineSeizing" t="Intent de connexió amb la línia"/>
+<phrase i="L_GatheringCallInfo" t="Recopilant informació de trucada"/>
+<phrase i="L_SelectingCall" t="Seleccionant la trucada"/>
+<phrase i="L_SelectingStation" t="Seleccionant estació"/>
+<phrase i="L_ContactingStunServer" t="Connectant amb el servidor"/>
+<phrase i="L_CalledPartyRinging" t="Receptor sonant"/>
+<phrase i="L_TryingHold" t="En espera en curs"/>
+<phrase i="L_TringResume" t="S'està reprenent"/>
+<phrase i="L_StunIn" t="STUN connectat"/>
+<phrase i="L_Shared" t="Compartit"/>
+<phrase i="L_Conference" t="Conferència"/>
+<phrase i="L_SecureCallIndication" t="Indicació de trucada segura"/>
+<phrase i="L_SystemBeep" t="Xiulet del sistema"/>
+<phrase i="L_2ndDial" t="Segon marcatge"/>
+<phrase i="L_OutsideDial" t="Marcatge extern"/>
+<phrase i="L_BluetoothDial" t="Marcatge per Bluetooth"/>
+<phrase i="L_MessageWaiting" t="Missatge en espera"/>
+<phrase i="L_RingBack" t="Retorn de trucada"/>
+<phrase i="L_OffhookWarning" t="Advertència de despenjat"/>
+<phrase i="L_Ring" t="Timbre"/>
+<phrase i="L_Alert" t="Alerta"/>
+<phrase i="L_Ring_hold" t="Timbre. Espera"/>
+<phrase i="L_Ring_Callback" t="Timbre. Retorn de trucada"/>
+<phrase i="L_Inbound" t="Entrant"/>
+<phrase i="L_Outbound" t="Sortint"/>
+<phrase i="L_Forwarded" t="Desviat"/>
+<phrase i="L_Transfered" t="Transferit"/>
+<phrase i="L_Transfer" t="Transferir"/>
+<phrase i="L_Secure" t="Segur"/>
+<phrase i="L_CallsList" t="Llista de trucades"/>
+<phrase i="L_InvalidAcntCode" t="Codi de compte no vàlid"/>
+<phrase i="L_ServiceUnavailable" t="Servei no disponible"/>
+<phrase i="L_Via" t="(Via: %s)"/>
+<phrase i="L_CALL_DTMF_WAIT" t="Introduïu més dígits i premeu D'acord per continuar..."/>
+<phrase i="L_CALL_PARKED" t="Aparcament de trucada en curs"/>
+<phrase i="L_TO" t="a"/>
+<phrase i="L_Incoming" t="Entrant"/>
+<phrase i="L_Private" t="Privat"/>
+<phrase i="L_Seized" t="Presa"/>
+<phrase i="L_CurrentSelectionTitle" t="%d de %d"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="En ús"/>
+<phrase i="CALL_OTHERRESERVED" t="Reservades"/>
+<phrase i="CALL_OTHERIDLE" t="Altres: inactiu"/>
+<phrase i="CALL_OTHERNOSERV" t="Sense servei"/>
+<phrase i="CALL_OTHERHOLD" t="Altres: en espera"/>
+<phrase i="CALL_OTHERRING" t="Altres: sonant"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="Estadístiques de trucades"/>
+<phrase i="T_AB_STSCH_LIST" t="Estadístiques de trucades"/>
+<phrase i="L_Name" t="Nom"/>
+<phrase i="L_WorkPhone" t="Tel. feina"/>
+<phrase i="L_Extension" t="Extensió"/>
+<phrase i="L_HomePhone" t="Telèfon de casa"/>
+<phrase i="L_ConferenceNumber" t="Número de conferència"/>
+<phrase i="L_MobilePhone" t="Telèfon mòbil"/>
+<phrase i="L_RingTone" t="Melodia"/>
+<phrase i="L_AT" t="a les"/>
+<phrase i="L_PeerName" t="Nom d'igual"/>
+<phrase i="L_PeerNumber" t="Tel. d'igual"/>
+<phrase i="L_CallType" t="Tipus de trucada"/>
+<phrase i="L_CallDuration" t="Durada de la trucada"/>
+<phrase i="L_CallDuration1" t="Durada:"/>
+<phrase i="L_EncCodec" t="Còdec de codificació"/>
+<phrase i="L_DecCodec" t="Còdec de descodificació"/>
+<phrase i="L_CallTime" t="Temps de trucada"/>
+<phrase i="L_CallID" t="Id. trucada"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="Estat d'aparcament de la trucada"/>
+<phrase i="T_AB_CALLPARK_LIST" t="Llista d'aparcaments de trucades"/>
+<phrase i="L_ParkingAt" t="Aparcant a"/>
+<phrase i="L_ParkingBy" t="Aparcament per"/>
+<phrase i="CPARK_PROGRESSING" t="Obtenir estat d'aparcament de trucada en curs..."/>
+<phrase i="CPARK_FAILED" t="Error de sol·licitud d'estat d'aparcament de trucada"/>
+<phrase i="CPARK_EMPTY" t="Aparcament de trucada buit"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="Selec. codi estrella"/>
+<phrase i="callReturnCode" t="Retorn de trucada"/>
+<phrase i="blindXferCode" t="Transferència a cegues"/>
+<phrase i="callBackActCode" t="Retrotrucada"/>
+<phrase i="callBackDeactCode" t="Canc. retorn de trucada"/>
+<phrase i="forwardAllActCode" t="Desv. totes les trucades"/>
+<phrase i="forwardAllDeactCode" t="Canc. desv. totes truc."/>
+<phrase i="forwardBusyActCode" t="Desv. de trucades ocupat"/>
+<phrase i="forwardBusyDeactCode" t="Canc. desv. truc. ocupat"/>
+<phrase i="forwardNoAnsActCode" t="Desv. truc. sense resp."/>
+<phrase i="forwardNoAnsDeactCode" t="Canc. rv. truc. no res."/>
+<phrase i="forwardNoAnsActCode_s" t="Desv. truc. sense resp."/>
+<phrase i="forwardNoAnsDeactCode_s" t="Canc. d. truc. no resp."/>
+<phrase i="blockCIDActCode" t="Bloquejar ID de trucades"/>
+<phrase i="blockCIDDeactCode" t="Cancel·lar bloqueig CID"/>
+<phrase i="blockCIDPerCallActCode" t="Bloquejar CID següent"/>
+<phrase i="blockCIDPerCallDeactCode" t="Canc. bloqueig CID seg."/>
+<phrase i="blockANCode" t="Bloq. trucades anònimes"/>
+<phrase i="blockANCDeactCode" t="Canc. bloq. truc. anòn."/>
+<phrase i="blockANCode_s" t="Bloquejar ANC"/>
+<phrase i="blockANCDeactCode_s" t="Cancel·lar bloqueig ANC"/>
+<phrase i="DNDActCode" t="No molestar"/>
+<phrase i="DNDDeactCode" t="Cancel·lar No molestar"/>
+<phrase i="CIDActCode" t="Ident. persona que truca"/>
+<phrase i="CIDDeactCode" t="Canc. ID de p. que truca"/>
+<phrase i="secureAllActCode" t="Assegurar totes trucades"/>
+<phrase i="secureAllDeactCode" t="Canc. asseg. totes truc."/>
+<phrase i="secureOneCallActCode" t="Assegurar següent"/>
+<phrase i="secureOneCallDeactCode" t="Canc. assegurar següent"/>
+<phrase i="pagingCode" t="Paginació"/>
+<phrase i="callParkCode" t="Aparcament de trucada"/>
+<phrase i="callUnparkCode" t="Desaparcament de trucada"/>
+<phrase i="callPickupCode" t="Captura de trucada"/>
+<phrase i="groupCallPickupCode" t="Captura trucades de grup"/>
+<phrase i="mediaLoopBackCode" t="Retrocés de mitjans"/>
+<phrase i="preferG711uCode" t="Preferir G711U"/>
+<phrase i="forceG711uCode" t="Forçar G711U"/>
+<phrase i="preferG711aCode" t="Preferir G711A"/>
+<phrase i="forceG711aCode" t="Forçar G711A"/>
+<phrase i="preferG723Code" t="Preferir G723"/>
+<phrase i="forceG723Code" t="Forçar G723"/>
+<phrase i="preferG726r16Code" t="Preferir G726r16"/>
+<phrase i="forceG726r16Code" t="Forçar G726r16"/>
+<phrase i="preferG726r24Code" t="Preferir G726r24"/>
+<phrase i="forceG726r24Code" t="Forçar G726r24"/>
+<phrase i="preferG726r32Code" t="Preferir G726r32"/>
+<phrase i="forceG726r32Code" t="Forçar G726r32"/>
+<phrase i="preferG726r40Code" t="Preferir G726r40"/>
+<phrase i="forceG726r40Code" t="Forçar G726r40"/>
+<phrase i="preferG729aCode" t="Preferir G729A"/>
+<phrase i="forceG729aCode" t="Forçar G729A"/>
+<phrase i="preferG722Code" t="Preferir G722"/>
+<phrase i="forceG722Code" t="Forçar G722"/>
+<phrase i="preferL16Code" t="Preferir L16"/>
+<phrase i="forceL16Code" t="Forçar L16"/>
+<phrase i="preferILBCCode" t="Preferir iLBC"/>
+<phrase i="forceILBCCode" t="Forçar iLBC"/>
+<phrase i="preferISACCode" t="Preferir iSAC"/>
+<phrase i="forceISACCode" t="Forçar iSAC"/>
+<phrase i="preferG722_2Code" t="Preferir G722_2"/>
+<phrase i="forceG722_2Code" t="Forçar G722_2"/>
+<phrase i="preferOPUSCode" t="Preferir OPUS"/>
+<phrase i="forceOPUSCode" t="Forçar OPUS"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_AM" t="AM"/>
+<phrase i="L_PM" t="PM"/>
+<phrase i="L_UpTime" t="Temps transcorregut"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="dia i"/>
+<phrase i="L_DAYS_AND" t="dies i"/>
+<phrase i="L_Packets" t="(Paquets)"/>
+<phrase i="L_Registered" t="Registrada"/>
+<phrase i="L_notRegistered" t="No reg."/>
+<phrase i="L_notReachable" t="No disp."/>
+<phrase i="L_Authenticate" t="Autenticar"/>
+<phrase i="L_Succeeded" t="Correcte"/>
+<phrase i="L_Error" t="Error"/>
+<phrase i="L_LastRegAt" t="Últim registre:"/>
+<phrase i="L_NextRegIn" t="Proper registre:"/>
+<phrase i="L_Proxy" t="Proxy:"/>
+<phrase i="L_Reason" t="Motiu"/>
+<phrase i="L_Status" t="Estat"/>
+<phrase i="L_CallStatusInfo" t="Estat"/>
+<phrase i="L_XMLServices" t="Serveis XML"/>
+<phrase i="L_Tone" t="To"/>
+<phrase i="L_Type" t="Tipus"/>
+<phrase i="L_CallName" t="Nom"/>
+<phrase i="L_Number" t="Número"/>
+<phrase i="L_Enc" t="Codificar"/>
+<phrase i="L_Dec" t="Descodificar"/>
+<phrase i="L_Dur" t="Durada"/>
+<phrase i="L_CALL" t="Trucada"/>
+<phrase i="L_CALLSTATUS" t="Estat de la trucada %d"/>
+<phrase i="L_CALL1" t="Trucada 1"/>
+<phrase i="L_CALL2" t="Trucada 2"/>
+<phrase i="L_CALL3" t="Trucada 3"/>
+<phrase i="L_CALL4" t="Trucada 4"/>
+<phrase i="L_CALL5" t="Trucada 5"/>
+<phrase i="L_CALL6" t="Trucada 6"/>
+<phrase i="L_CALL7" t="Trucada 7"/>
+<phrase i="L_CALL8" t="Trucada 8"/>
+<phrase i="L_CALL9" t="Trucada 9"/>
+<phrase i="L_CALL10" t="Trucada 10"/>
+<phrase i="L_CALL11" t="Trucada 11"/>
+<phrase i="L_INFO" t="Informació"/>
+<phrase i="L_Extension" t="Extensió"/>
+<phrase i="L_Extension1" t="Ext.:"/>
+<phrase i="T_PHN_STATUS" t="Estat del telèfon"/>
+<phrase i="T_LINE_STATUS" t="Estat de la línia"/>
+<phrase i="T_PROV_STATUS" t="Provisió"/>
+<phrase i="T_PROV_STATUS1" t="Estat de provisió 1"/>
+<phrase i="T_PROV_STATUS2" t="Estat de provisió 2"/>
+<phrase i="T_PROV_STATUS3" t="Estat de provisió 3"/>
+<phrase i="T_PHN_SYS_STATUS" t="Estat del telèfon"/>
+<phrase i="L_ExtLabel" t="Estat d'ext. %d"/>
+<phrase i="L_Line1Status" t="Estat de la línia 1"/>
+<phrase i="L_Line2Status" t="Estat de la línia 2"/>
+<phrase i="L_Line3Status" t="Estat de la línia 3"/>
+<phrase i="L_Line4Status" t="Estat de la línia 4"/>
+<phrase i="L_Line5Status" t="Estat de la línia 5"/>
+<phrase i="L_Line6Status" t="Estat de la línia 6"/>
+<phrase i="L_Line7Status" t="Estat de la línia 7"/>
+<phrase i="L_Line8Status" t="Estat de la línia 8"/>
+<phrase i="L_Line9Status" t="Estat de la línia 9"/>
+<phrase i="L_Line10Status" t="Estat de la línia 10"/>
+<phrase i="L_Line11Status" t="Estat de la línia 11"/>
+<phrase i="L_Line12Status" t="Estat de la línia 12"/>
+<phrase i="L_Line13Status" t="Estat de la línia 13"/>
+<phrase i="L_Line14Status" t="Estat de la línia 14"/>
+<phrase i="L_Line15Status" t="Estat de la línia 15"/>
+<phrase i="L_Line16Status" t="Estat de la línia 16"/>
+<phrase i="DeletePrompt" t="Esteu segur que voleu eliminar %s?"/>
+<phrase i="DeleteListPrompt" t="Voleu eliminar els registres de trucada de %s?"/>
+<phrase i="DeleteAllPrompt" t="Voleu eliminar tots els registres?"/>
+<phrase i="DeleteAllCallsPrompt" t="Voleu eliminar tots els registres per a totes les línies?"/>
+<phrase i="AddPrompt" t="Dades d'entrada incomplets. Voleu desar-los?"/>
+<phrase i="AddNullPrompt" t="Dades d'entrada incompletes. "/>
+<phrase i="AddFullPrompt" t="La llibreta d'adreces està completa. No es pot copiar l'entrada."/>
+<phrase i="UpdatePrompt" t="Les dades d'entrada estan incompletes. Voleu actualitzar?"/>
+<phrase i="ClearPrompt" t="Voleu eliminar el registre %s?"/>
+<phrase i="ClearStatusPrompt" t="Voleu esborrar els missatges d'estat?"/>
+<phrase i="ClearString" t="Voleu eliminar %s?"/>
+<phrase i="Prompt_Logout" t="Voleu tancar la sessió?"/>
+<phrase i="Message_Rebooting" t="S'està reiniciant"/>
+<phrase i="Message_UpdateConfig" t="S'està aplicant la configuració"/>
+<phrase i="Message_FactoryReset" t="Restabliment als valors de fàbrica. S'està reiniciant."/>
+<phrase i="Message_RebootingVoIP" t="Actualitzant component de veu"/>
+<phrase i="Message_CustomReset" t="Restabliment personalitzat. S'està reiniciant."/>
+<phrase i="All" t="Totes les trucades"/>
+<phrase i="Answered" t="Trucades rebudes"/>
+<phrase i="Outgoing" t="Trucades realitzades"/>
+<phrase i="Missed" t="Perdudes"/>
+<phrase i="AnsweredCallType" t="Trucada rebuda"/>
+<phrase i="OutgoingCallType" t="Trucada realitzada"/>
+<phrase i="MissedCallType" t="Trucada perduda"/>
+<phrase i="RebootPrompt" t="Voleu reiniciar el sistema?"/>
+<phrase i="DeepsleepPrompt" t="Durant l'estalvi d'energia, és possible que el telèfon no pugui rebre trucades."/>
+<phrase i="PowerSavePromptUpgrading" t="Actualització en curs; torneu-ho a provar més tard."/>
+<phrase i="PowerSavePromptEmlogin" t="Tanqueu la sessió d'Extension Mobility i torneu-ho a provar."/>
+<phrase i="PowerSavePromptHoteling" t="Tanqueu la sessió i torneu-ho a provar."/>
+<phrase i="PowerSavePromptCallInProgress" t="Trucada en curs. Pengeu i torneu-ho a provar."/>
+<phrase i="FactoryResetPrompt" t="Voleu realitzar un restabliment als valors de fàbrica per al sistema?"/>
+<phrase i="ResetPrompt" t="Voleu restablir el sistema?"/>
+<phrase i="ClearWlanMessagesPrompt" t="Segur que voleu esborrar tots els missatges?"/>
+<phrase i="CustomResetPrompt" t="Voleu comprovar si hi ha actualitzacions per al perfil de personalització? (s'executa en segon pla)"/>
+<phrase i="WPSPbcPrompt" t="Premeu el botó WPS a l'altre dispositiu i després premeu Continuar."/>
+<phrase i="WPSPinPrompt" t="Introduïu el PIN [ %s ] a l'altre dispositiu"/>
+<phrase i="MSG_InvalidPasswordData" t="Credencials no vàlides."/>
+<phrase i="Label_Day" t="Dia"/>
+<phrase i="CertInstall" t="Instal·lat"/>
+<phrase i="CertNotInstall" t="No instal·lat"/>
+<phrase i="L_Network_Type" t="Tipus de xarxa"/>
+<phrase i="L_Network_Statistics" t="Estadístiques de xarxa"/>
+<phrase i="L_Address_Type" t="Tipus d'adreça"/>
+<phrase i="L_Gateway" t="Encamin. predet."/>
+<phrase i="L_MAC_Address" t="Adreça MAC"/>
+<phrase i="T_DEVICE_INFO" t="Informació de producte"/>
+<phrase i="L_Product_Name" t="Nom del producte"/>
+<phrase i="L_Serial_Number" t="Número de sèrie"/>
+<phrase i="L_Software_Version" t="Versió de programari"/>
+<phrase i="L_Wi-Fi_Messages" t="Missatges de Wi-Fi"/>
+<phrase i="L_VID" t="VID"/>
+<phrase i="L_Desp" t="Descripció"/>
+<phrase i="L_Hardware_Version" t="Versió de maquinari"/>
+<phrase i="L_Certificate" t="Certificat"/>
+<phrase i="L_Config_Version" t="Versió de la configuració"/>
+<phrase i="L_CustomizationInfo" t="Personalització"/>
+<phrase i="L_Asset_ID" t="ID d'actiu"/>
+<phrase i="L_DHCP_Server" t="Servidor DHCP"/>
+<phrase i="L_TFTP_Server_1" t="Servidor TFTP 1"/>
+<phrase i="L_Last_TFTP_Server" t="Últim servidor TFTP"/>
+<phrase i="L_Host_Name" t="Nom de host"/>
+<phrase i="L_Domain_Name" t="Domini"/>
+<phrase i="L_CallManager_1" t="CallManager 1"/>
+<phrase i="L_Directories_URL" t="URL de directoris"/>
+<phrase i="L_Services_URL" t="URL de serveis"/>
+<phrase i="L_Messages_URL" t="URL de missatges"/>
+<phrase i="L_Authentication_URL" t="URL d'autenticació"/>
+<phrase i="L_User_Locale" t="Configuració regional d'usuari"/>
+<phrase i="L_Network_Locale" t="Configuració regional de xarxa"/>
+<phrase i="L_Switch_Port_Link" t="Connex. port commutador"/>
+<phrase i="L_Switch_Port_Config" t="Config. port commut."/>
+<phrase i="L_PC_Port_Config" t="Config. port PC"/>
+<phrase i="L_PC_Port_Link" t="Enllaç de port de PC"/>
+<phrase i="L_Status_Messages" t="Missatges d'estat"/>
+<phrase i="T_PERIPHERAL_STATUS" t="Estat de perifèric"/>
+<phrase i="L_Peripheral" t="Perifèric"/>
+<phrase i="L_Analog_Headset" t="Auriculars analògics"/>
+<phrase i="L_USB_Status" t="Unitat USB"/>
+<phrase i="L_xmit" t="xmit"/>
+<phrase i="L_recv" t="rebre"/>
+<phrase i="L_Multicast" t="mcst"/>
+<phrase i="L_EthPackets" t="Ethernet: paquets (bytes)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: paquets (bytes)"/>
+<phrase i="L_Wireless" t="Sense fil"/>
+<phrase i="L_No_Network" t="Sense xarxa"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="Tecla"/>
+<phrase i="L_IPv4Status" t="Estat d'IPv4"/>
+<phrase i="L_IPv6Status" t="Estat d'IPv6"/>
+<phrase i="L_Prefixlen" t="Longitud de prefix"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="Contestador 1"/>
+<phrase i="L_Sidecar2_Status" t="Contestador 2"/>
+<phrase i="L_DISCONNECTED" t="Desconnectat"/>
+<phrase i="L_Attendant_Console_Unit" t="Unitat de la consola de l'assistent %d"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="Sí"/>
+<phrase i="L_No" t="No"/>
+<phrase i="L_Switch0" t="Desactivat"/>
+<phrase i="L_Switch1" t="Activat"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="Editar entrada d'adreça personal"/>
+<phrase i="T_AB_Add_Entry" t="Afegir entrada d'adreça personal"/>
+<phrase i="T_AB_Search" t="Buscar entrada d'adreça"/>
+<phrase i="T_AB_Select" t="Seleccioneu una entrada d'adreça"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="Hora de trucada"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="Trucada perduda"/>
+<phrase i="L_PhoneNo" t="Número"/>
+<phrase i="L_CallAt" t="Trucar a"/>
+<phrase i="L_Duration" t="Durada"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="Editar marcatge ràpid"/>
+<phrase i="T_SD_List" t="Marcatges ràpids"/>
+<phrase i="L_SpeedDialNo" t="Número de marcatge ràpid"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="Trieu un to de trucada"/>
+<phrase i="T_RT_Select_USB" t="Seleccionar to de trucada d'USB"/>
+<phrase i="T_RT_Select_Slot" t="Seleccionar ranura para desar el to de trucada"/>
+<phrase i="T_RT_Not_Installed" t="No instal·lat"/>
+<phrase i="T_RT_USER_1" t="Usuari 1"/>
+<phrase i="T_RT_USER_2" t="Usuari 2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="Informació i configuració"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Auriculars Bluetooth"/>
+<phrase i="L_UserPref" t="Preferències d'usuari"/>
+<phrase i="L_CallRecord" t="Configuració de registre de trucades"/>
+<phrase i="L_CallRecordMode" t="Registrar mode d'àudio"/>
+<phrase i="L_CallRecordAudioPath" t="Registrar ruta d'àudio"/>
+<phrase i="L_CallRecordBeep" t="Regist. recordat. de xiulet"/>
+<phrase i="L_CallRecords" t="Registres"/>
+<phrase i="L_CallRecordsPlayer" t="Enregistraments de trucades"/>
+<phrase i="L_Directory" t="Directoris"/>
+<phrase i="OL_Fastest" t="El més ràpid"/>
+<phrase i="OL_Faster" t="Més ràpid"/>
+<phrase i="OL_Normal" t="Normal"/>
+<phrase i="OL_Slower" t="Més lent"/>
+<phrase i="OL_Slowest" t="El més lent"/>
+<phrase i="L_VoiceSpeed" t="Velocitat de veu"/>
+<phrase i="L_SelectVFSpeed" t="Seleccionar velocitat de veu"/>
+<phrase i="L_VoiceVolume" t="Volum de veu"/>
+<phrase i="L_VoiceFeedback" t="Retroalimentació de veu"/>
+<phrase i="L_Accessibility" t="Accessibilitat"/>
+<phrase i="L_CallHistory" t="Recents"/>
+<phrase i="L_DisplayFrom" t="Mostrar recents de"/>
+<phrase i="L_SpeedDial" t="Marcatges ràpids"/>
+<phrase i="L_VideoMonitoring" t="Supervisió de vídeo"/>
+<phrase i="L_WebApplication" t="Aplicacions"/>
+<phrase i="L_CallPreferences" t="Preferències de trucada"/>
+<phrase i="L_Anywhere" t="Qualsevol lloc"/>
+<phrase i="L_SelectLine" t="Seleccionar línia"/>
+<phrase i="L_Locations" t="Ubicacions"/>
+<phrase i="L_EditLocation" t="Editar la ubicació"/>
+<phrase i="L_AddLocation" t="Afegir una ubicació"/>
+<phrase i="L_LocationName" t="Nom"/>
+<phrase i="L_LocationNumber" t="Número"/>
+<phrase i="L_EnableLocation" t="Habilit. ubicació"/>
+<phrase i="L_DeletePrompt" t="Eliminar %s?"/>
+<phrase i="L_ConnectionSetting" t="Configuració de connexió"/>
+<phrase i="L_NetworkConfig" t="Configuració de la xarxa"/>
+<phrase i="L_AudioPreferences" t="Preferències d'àudio"/>
+<phrase i="L_RingSetting" t="Configuració de trucada"/>
+<phrase i="L_ScreenPreferences" t="Preferències de pantalla"/>
+<phrase i="L_Administration" t="Administració del dispositiu"/>
+<phrase i="T_ST_IP_Address" t="Configuració d'adreça IP estàtica"/>
+<phrase i="T_ST_IPV4_Address" t="Configuració d'adreça IPv4"/>
+<phrase i="T_ST_IPV6_Address" t="Configuració d'adreça IPv6"/>
+<phrase i="L_IPAddress" t="Adreça IP"/>
+<phrase i="L_StaticIPAddress" t="Adreça IP est."/>
+<phrase i="L_SubnetMask" t="Màsc. subxarxa"/>
+<phrase i="L_GatewayAddress" t="Dir. p. enllaç"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="L_PrefixLength" t="Longitud de prefix"/>
+<phrase i="L_BroadcastEcho" t="Eco de difusió"/>
+<phrase i="L_AutoConfig" t="Config. auto."/>
+<phrase i="T_ST_Admin" t="Administració"/>
+<phrase i="L_About" t="Quant a"/>
+<phrase i="L_SetPassword" t="Establir contrasenya"/>
+<phrase i="L_DateTime" t="Data/hora"/>
+<phrase i="L_Language" t="Idioma"/>
+<phrase i="L_Reboot" t="Reiniciar"/>
+<phrase i="L_Reset" t="Restablir"/>
+<phrase i="L_UserDataReset" t="Restablir dades d'usuari"/>
+<phrase i="L_ConfigReset" t="Restablir dades de configuració"/>
+<phrase i="L_NetworkReset" t="Dades de xarxa"/>
+<phrase i="L_ServiceProviderReset" t="Restablir proveïdor de servei"/>
+<phrase i="L_Deepsleep" t="Estalvi d'energia"/>
+<phrase i="L_FactoryReset" t="Rest. als valors de fàb."/>
+<phrase i="L_CustomReset" t="Restabliment personalitzat"/>
+<phrase i="L_ProfileRule" t="Regla del perfil"/>
+<phrase i="L_CallControlSettings" t="Configuració de control de trucades"/>
+<phrase i="L_SignalingProtocol" t="Protocol de senyalització"/>
+<phrase i="L_AutoDetectSPCP" t="Detectar automàticament SCCP"/>
+<phrase i="T_ST_Audio" t="Configuració d'àudio"/>
+<phrase i="L_PrefAudioDevice" t="Disp. àudio preferit"/>
+<phrase i="L_EnableStereo" t="Tipus d'auricular"/>
+<phrase i="L_PhRingTone" t="Timbre predeterminat"/>
+<phrase i="L_Ext1RingTone" t="Ext. 1. To de trucada"/>
+<phrase i="L_Ext2RingTone" t="Ext. 2. To de trucada"/>
+<phrase i="L_Ext3RingTone" t="Ext. 3. To de trucada"/>
+<phrase i="L_Ext4RingTone" t="Ext. 4. To de trucada"/>
+<phrase i="L_Ext5RingTone" t="Ext. 5. To de trucada"/>
+<phrase i="L_Ext6RingTone" t="Ext. 6. To de trucada"/>
+<phrase i="L_Ext7RingTone" t="Ext. 7. To de trucada"/>
+<phrase i="L_Ext8RingTone" t="Ext. 8. To de trucada"/>
+<phrase i="L_Ext9RingTone" t="Ext. 9. To de trucada"/>
+<phrase i="L_Ext10RingTone" t="Ext. 10. To de trucada"/>
+<phrase i="L_Ext11RingTone" t="Ext. 11. To de trucada"/>
+<phrase i="L_Ext12RingTone" t="Ext. 12. To de trucada"/>
+<phrase i="L_Ext13RingTone" t="Ext. 13. To de trucada"/>
+<phrase i="L_Ext14RingTone" t="Ext. 14. To de trucada"/>
+<phrase i="L_Ext15RingTone" t="Ext. 15. To de trucada"/>
+<phrase i="L_Ext16RingTone" t="Ext. 16. To de trucada"/>
+<phrase i="L_SpeakerTuning" t="Nivell de l'altaveu"/>
+<phrase i="L_MicrophoneGain" t="Guany del micròfon"/>
+<phrase i="L_Micgain" t="Guany del mic."/>
+
+<phrase i="T_ST_CallForward" t="Config. de reenviament de trucades"/>
+<phrase i="L_ForwardAll" t="Desviar tot"/>
+<phrase i="L_ForwardBusy" t="Desviar ocupat"/>
+<phrase i="L_ForwardNoAns" t="Desv. de trucades sense resposta"/>
+<phrase i="L_ForwardAllNumbers" t="Desv. tots els números"/>
+<phrase i="L_ForwardBusyNumber" t="Desviar núm. ocupat"/>
+<phrase i="L_ForwardNoAnsNumber" t="Reenv. núm. no resp."/>
+<phrase i="L_ForwardNoAnsDelay" t="Desv. ret. no resp."/>
+<phrase i="L_NumberofRingsBeforeForwarding" t="Nombre de timbres"/>
+<phrase i="L_RingReminder" t="Recordatori de trucada"/>
+<phrase i="L_IPMODE" t="Mode IP"/>
+<phrase i="L_WiFiConfiguration" t="Configuració de Wi-Fi"/>
+<phrase i="L_EthernetConfiguration" t="Configuració d'Ethernet"/>
+<phrase i="L_ConnectionType" t="Tipus de connexió"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="Connexió automàtica"/>
+<phrase i="L_Headset" t="Auriculars"/>
+<phrase i="L_WebServer" t="Servidor Web"/>
+<phrase i="L_DiscoveryAddress" t="Adreça de detecció"/>
+<phrase i="L_LVSAutoDiscovery" t="Detecció autom. de sistema clau"/>
+<phrase i="L_LVSProxyAddress" t="Adreça IP del sistema clau"/>
+<phrase i="L_DHCPOption" t="Opció DHCP"/>
+<phrase i="L_DHCPv6Option" t="Opció DHCPv6"/>
+<phrase i="L_TranProtocol" t="Protocol de transport"/>
+<phrase i="L_NetworkStatus" t="Estat de la xarxa"/>
+<phrase i="L_RebootHistory" t="Historial de reinicis"/>
+<phrase i="L_IPStatus" t="Estat d'IP"/>
+<phrase i="T_ST_SetTime" t="Establir hora actual"/>
+<phrase i="L_Presence_Available" t="Disponible"/>
+<phrase i="L_Presence_Away" t="Fora"/>
+<phrase i="L_Presence_DND" t="No molestar"/>
+<phrase i="L_Presence_Offline" t="Fora de línia"/>
+<phrase i="L_Presence_Title" t="La meva presència"/>
+<phrase i="L_IMPContacts" t="Contactes d'IM&amp;P"/>
+<phrase i="L_ContactDetails" t="Detalls de contacte"/>
+<phrase i="L_AllContacts" t="Tots els contactes"/>
+<phrase i="L_Favorites" t="Preferits"/>
+<phrase i="L_XMPPDisconnected" t="Desconnectat del servidor"/>
+<phrase i="L_XMPPAuthFailed" t="Errors d'autenticació"/>
+<phrase i="L_AB" t="Llibreta d'adreces personal"/>
+<phrase i="L_AllDirectorySearch" t="Tot"/>
+<phrase i="L_XMLDirectory" t="Directori corporatiu (XML)"/>
+<phrase i="L_LDAPDirectory" t="Directori corporatiu (LDAP)"/>
+<phrase i="L_LVSDirectory" t="Directori corporatiu"/>
+<phrase i="L_BroadsoftDirectory" t="Directori Broadsoft"/>
+<phrase i="L_BroadsoftPersonal" t="Personal"/>
+<phrase i="L_BroadsoftGroup" t="Grup"/>
+<phrase i="L_BroadsoftEnterprise" t="Empresarial"/>
+<phrase i="L_BroadsoftGroupCommon" t="Comú grup"/>
+<phrase i="L_BroadsoftEnterpriseCommon" t="Comú emp."/>
+<phrase i="L_XMLService" t="Serveis XML de Cisco"/>
+<phrase i="T_ST_CallHistories" t="Historials de trucades"/>
+<phrase i="T_ST_Language" t="Selecció d'idioma"/>
+<phrase i="T_ST_Password" t="Establir contrasenya"/>
+<phrase i="L_OldPassword" t="Contrasenya antiga"/>
+<phrase i="L_NewPassword" t="Nova contrasenya"/>
+<phrase i="L_ReEnterNewPassword" t="Tornar intro. cont."/>
+<phrase i="L_IncorrectOldPassword" t="La contrasenya antiga no coincideix amb la contrasenya original."/>
+<phrase i="L_NewPasswordNotSame" t="La contrasenya nova i la que heu tornat a introduir no coincideixen."/>
+<phrase i="L_NewPasswordNotLong" t="La contrasenya de l'usuari ha de tenir com a mínim 4 caràcters."/>
+<phrase i="L_CallForwarding" t="Desviament de trucades"/>
+<phrase i="L_CallWaiting" t="Trucada en espera"/>
+<phrase i="L_VoiceMail" t="Bústia de veu"/>
+<phrase i="L_BlockCallerID" t="Bloquejar ID de trucades"/>
+<phrase i="L_BlockAnonymCall" t="Bloq. trucades anònimes"/>
+<phrase i="L_SecureCall" t="Trucada segura"/>
+<phrase i="L_DialAssist" t="Assistència de marcatge"/>
+<phrase i="L_AutoAnswerPage" t="Pàg. resposta auto."/>
+<phrase i="L_MissCallShortCut" t="Drec. truc. perd."/>
+<phrase i="L_EnabledScreenSaver" t="Protector de pantalla"/>
+<phrase i="L_DisplayBrightness" t="Brillantor de la pantalla"/>
+<phrase i="L_ContrastLevel" t="Nivell de contrast"/>
+<phrase i="L_WallPaper" t="Fons de pantalla"/>
+<phrase i="T_ST_ScreenSaver" t="Configuració prot. pantalla"/>
+<phrase i="L_ScreenSaverType" t="Tipus prot. pantalla"/>
+<phrase i="L_TriggerInterval" t="Interv. activ. (s)"/>
+<phrase i="L_RefreshInterval" t="Interv. actualitz. (s)"/>
+<phrase i="L_BackLight" t="Llum del fons"/>
+<phrase i="L_BackLightTimer" t="Tempor. de llum de fons"/>
+<phrase i="L_Contrast" t="Contrast"/>
+<phrase i="L_Brightness" t="Brillantor"/>
+<phrase i="T_StarCodeList" t="Selec. codi d'estrella"/>
+<phrase i="T_Select_Image" t="Seleccionar una imatge"/>
+<phrase i="T_ST_Time" t="Configuració d'hora"/>
+<phrase i="L_TimeZone" t="Zona horària"/>
+<phrase i="L_DayLightSaving" t="Horari d'estiu"/>
+<phrase i="L_NTPServer1" t="Servidor NTP 1"/>
+<phrase i="L_NTPServer2" t="Servidor NTP 2"/>
+<phrase i="L_SetCurrentTimeManually" t="Establir hora actual manualment"/>
+<phrase i="T_ST_TimeZone" t="Seleccionar zona horària"/>
+<phrase i="L_TimeFormat" t="Format d'hora"/>
+<phrase i="L_DateFormat" t="Format de data"/>
+<phrase i="L_DHCP_Address_Released" t="Adreça DHCP alliberada"/>
+<phrase i="L_Erase_Config" t="Esborrar la configuració"/>
+<phrase i="L_WebServerWritable" t="Es pot escriure al servidor web"/>
+<phrase i="M_ABEmpty" t="La llibreta d'adreces està buida."/>
+<phrase i="M_ABDuplicate" t="Tots els enregistraments són idèntics."/>
+<phrase i="M_InvalidVLAN" t="L'ID d'VLAN ha d'estar entre 0 i 4095."/>
+<phrase i="M_InvalidDataportVLAN" t="L'ID d'VLAN del port del PC ha d'estar entre 0 i 4095."/>
+<phrase i="M_InvalidDHCPVLANOption" t="Opció [%s] de DHCP VLAN no vàlida."/>
+<phrase i="M_InvalidDataportPriority" t="La prioritat ha d'estar entre 0 i 7."/>
+<phrase i="M_InvalidMAddr" t="L'adreça de detecció ha de tenir el format aaa.bbb.ccc.ddd:pppp."/>
+<phrase i="M_InvalidNetStartupDelay" t="El retard d'inici ha d'estar entre 1 i 300."/>
+<phrase i="M_RebootInvalid" t="Trucades de telèfon en curs. No es pot reiniciar."/>
+<phrase i="M_FactoryResetInvalid" t="Trucades en curs. No es pot fer un restabliment als valors de fàbrica."/>
+<phrase i="M_CustomResetInvalid" t="Trucades en curs. No es pot fer un restabliment personalitzat."/>
+<phrase i="M_OperationInvalid" t="Trucades de telèfon en curs. No es pot dur a terme l'operació."/>
+<phrase i="M_OperationInvalidInUpgrade" t="Actualització del telèfon en curs. No es pot realitzar l'operació."/>
+<phrase i="M_ProfileRuleInvalid" t="Trucades en curs. No es pot resincronitzar amb la regla del perfil."/>
+<phrase i="M_InvalidDHCPOptions" t="El valor ha de ser una llista separada per comes [%s]."/>
+<phrase i="M_UpgradeStart" t="Inici d'actualització."/>
+<phrase i="M_UpgradeInProgress" t="Actualització en curs. No apagueu l'equip."/>
+<phrase i="M_DownloadProgress" t="Descarregant entrades d'adreça"/>
+<phrase i="M_UpgradeCompleted" t="Actualització completada."/>
+<phrase i="M_UpgradeAborted" t="Actualització avortada per l'usuari."/>
+<phrase i="M_UpgradeAbortedWithError" t="Actualització anul·lada amb error."/>
+<phrase i="M_UpgradeCompletedReboot" t="Actualització completada. Reiniciant."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="Actualització avortada accidentalment. Reiniciant."/>
+<phrase i="M_InvalidCFWDNoAnsDelay" t="El retard de desviament sense resposta ha d'estar entre 1 i 300."/>
+<phrase i="M_InvalidCFWDNoFKS" t="No escriviu més de %d caràcters."/>
+<phrase i="M_EmptyCFWDNoFKS" t="El número de telèfon de desviament de trucada és un camp obligatori"/>
+<phrase i="M_InvalidCFWDNoAnsDelayXSI" t="El retard de desviament sense resp. d'XSI ha d'estar entre 2 i 20 o ha de ser 0."/>
+<phrase i="T_Login_Form" t="Formulari d'inici de sessió"/>
+<phrase i="L_Pending" t="Pendent"/>
+<phrase i="L_Customized" t="Personalitzat"/>
+<phrase i="L_Open" t="Obrir"/>
+<phrase i="L_Unavailable" t="No disponible"/>
+<phrase i="L_CustomPending" t="Personalitzat-Pendent"/>
+<phrase i="L_Acquired" t="Adquirit"/>
+<phrase i="L_Aborted" t="Avortat"/>
+<phrase i="L_GdsAcquired" t="GDS-Adquirit"/>
+<phrase i="L_GdsPending" t="GDS-Pendent"/>
+<phrase i="L_GdsCustomPending" t="GDS-Personalitzat-Pendent"/>
+<phrase i="L_Hour" t="Hora"/>
+<phrase i="L_Minute" t="Minut"/>
+<phrase i="L_Second" t="Segon"/>
+<phrase i="L_HourShort" t="Hora"/>
+<phrase i="L_MinuteShort" t="Min"/>
+<phrase i="L_SecondShort" t="Seg"/>
+<phrase i="M_InvalidRefreshTime" t="L'interval d'actualització ha d'estar entre 1 i 999999 segons."/>
+<phrase i="M_InvalidBackLightTime" t="El temps d'activació de llum de fons ha de ser 30 o més."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="El valor d'activació ha d'estar entre 30 i 65000 segons."/>
+<phrase i="M_InvalidContrastLevel" t="La brillantor ha d'estar entre 4 i 15."/>
+<phrase i="M_InvalidContrastActualLevel" t="El contrast ha d'estar entre 1 i 15."/>
+<phrase i="L_Att_Cons_Pref" t="Pref. consola de contestador"/>
+<phrase i="L_Attendant_Console_Pref" t="Pref. consola de contestador"/>
+<phrase i="L_LCD_Contrast" t="Brillantor"/>
+<phrase i="L_Font_Size" t="Mida del text"/>
+<phrase i="L_Display_Mode" t="Mode de visualització"/>
+<phrase i="L_Authenticating" t="Autenticació"/>
+<phrase i="L_Authenticated" t="Autenticat"/>
+<phrase i="L_Exposure" t="Exposició"/>
+<phrase i="L_Kem_Type" t="Tipus KEM"/>
+<phrase i="M_Directories_Disabled" t="Directori desactivat. Poseu-vos en contacte amb l'administrador."/>
+<phrase i="M_Directories_Unavailable" t="No hi ha cap directori disponible. Contacteu amb l'administrador."/>
+<phrase i="M_DirAll_Unavailable" t="No disponible ara. Contacteu amb l'administrador."/>
+<phrase i="L_SIGNIN_FAILED" t="Error de les credencials d'inici de sessió, contacteu amb l'administrador"/>
+
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="Directori intern"/>
+<phrase i="L_EXTERNAL_DIR" t="Directori extern"/>
+<phrase i="L_GROUPS_DIR" t="Directori de grups"/>
+<phrase i="L_STATIONS_DIR" t="Directori d'estacions"/>
+<phrase i="L_Auto_Attnd" t="Contestador automàtic"/>
+<phrase i="L_Int_Music" t="Música interna"/>
+<phrase i="L_ExternalMusic" t="Música externa"/>
+<phrase i="L_Station" t="Estació"/>
+<phrase i="L_PageGroup1" t="Grup de pàgines 1"/>
+<phrase i="L_PageGroup2" t="Grup de pàgines 2"/>
+<phrase i="L_PageGroup3" t="Grup de pàgines 3"/>
+<phrase i="L_PageGroup4" t="Grup de pàgines 4"/>
+<phrase i="L_PageGroup5" t="Grup de pàgines 5"/>
+<phrase i="L_Page_Grp" t="Grup de pàgines"/>
+<phrase i="L_ExternalPage" t="Pàgina externa"/>
+<phrase i="L_CallPark" t="Aparcament de trucada"/>
+<phrase i="L_PickUp" t="Captur"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="Organització"/>
+<phrase i="L_FirstName" t="Nom"/>
+<phrase i="L_LastName" t="Cognoms"/>
+<phrase i="LDAP_DISPLAY_NAME" t="Nom"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="Tel. feina"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="Telèfon mòbil"/>
+<phrase i="LDAP_ACCESS_ERROR" t="Error LDAP: no es pot connectar amb el servidor"/>
+<phrase i="LDAP_STARTTLS_ERROR" t="Error LDAP: Error de l'operació StartTLS"/>
+<phrase i="LDAP_InvalidInput" t="Error de LDAP: valor d'entrada no vàlid"/>
+<phrase i="LDAP_NoFilter" t="Definiu el filtre."/>
+<phrase i="LDAP_TooManyResults" t="S'han trobat massa resultats. Limiteu la cerca."/>
+<phrase i="LDAP_NoResult" t="No es troben coincidències"/>
+<phrase i="NoRingTone" t="Establir to de trucada"/>
+<phrase i="S_Failed" t="Error de cerca."/>
+<phrase i="S_Sys_Err" t="Error del sistema."/>
+<phrase i="T_LDAP_ResultList" t="Llista result. (LDAP) dir. emp."/>
+<phrase i="T_LDAPQueryForm" t="Formulari de consulta LDAP"/>
+<phrase i="T_LDAPAddrEntry" t="Ent. adreça (LDAP) dir. empresa"/>
+<phrase i="T_LDAPQuery" t="Sol·licitar servidor LDAP"/>
+<phrase i="T_LDAP" t="LDAP"/>
+<phrase i="L_SimpleSearch" t="Cerca senzilla"/>
+<phrase i="L_AdvSearch" t="Cerca avançada"/>
+<phrase i="T_LDAPSigninForm" t="Inici de sessió de LDAP"/>
+<phrase i="L_ClientDN" t="DN Client"/>
+
+<!-- #############  #BroadSoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="Error d'accés al directori. Comproveu la configuració i els ajustos de xarxa."/>
+<phrase i="BSDIR_ACCESS_TIMEOUT" t="Temps d'accés al directori excedit. Comproveu la configuració i els ajustos de xarxa."/>
+<phrase i="BSDIR_InvalidInput" t="Error de directori BroadSoft: valor d'entrada no vàlid."/>
+<phrase i="BSDIR_HTTP_AUTH_ERR" t="Error d'autenticació. Comproveu el compte."/>
+<phrase i="BSDIR_TooManyResults" t="S'han trobat massa resultats. Limiteu la cerca."/>
+<phrase i="BSDIR_NoSearchParameters" t="Introduir criteri de cerca"/>
+<phrase i="BSDIR_Setting_MSG" t="Aquest canvi afecta altres configuracions de grup. Voleu desar-lo?"/>
+<phrase i="T_BSDIR_CONFIG" t="Config. dir BroadSoft"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="Buscar directori personal"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="Buscar directori de grup"/>
+<phrase i="T_BSDIR_SEARCH_GROUP_COMMON" t="Buscar directori comú de grup"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="Buscar directori empresarial"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE_COMMON" t="Buscar directori comú empresarial"/>
+<phrase i="T_BSDIR_SEARCH_ALL" t="Buscar tots els directoris BroadSoft"/>
+<phrase i="T_BSDIR_Pers_Contact_Add" t="Afegir un contacte personal de BroadSoft"/>
+<phrase i="T_BSDIR_Pers_Contact_Edit" t="Editar contacte personal de BroadSoft"/>
+<phrase i="M_SavePersContactPrompt" t="No s'ha pogut desar el contacte %s."/>
+<phrase i="M_DeletePersContactPrompt" t="No s'ha pogut eliminar el contacte %s."/>
+
+<phrase i="L_HOST_SERVER" t="Servidor host"/>
+<phrase i="L_AUTH_TYPE" t="Tipus d'autenticació"/>
+<phrase i="L_SIPAUTH_ID" t="ID d'autenticació SIP"/>
+<phrase i="L_SIPAUTH_PWD" t="Contrasenya SIP"/>
+<phrase i="L_DIR_NAME" t="Nom del directori"/>
+<phrase i="T_Configure" t="Configurar %s"/>
+
+<phrase i="T_BSDIR_SEARCH" t="Buscar directori BroadSoft"/>
+<phrase i="T_SIMPLE_SEARCH" t="Cerca senzilla"/>
+<phrase i="T_ADVANCED_SEARCH" t="Cerca avançada"/>
+<phrase i="L_BSDIR_LNAME" t="Cognoms"/>
+<phrase i="L_BSDIR_FNAME" t="Nom"/>
+<phrase i="L_BSDIR_GROUPID" t="ID de grup"/>
+<phrase i="L_BSDIR_DEPT" t="Departament"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="Dept."/>
+<phrase i="L_BSDIR_EMAIL" t="Correu electrònic"/>
+
+<phrase i="BSCLOG_ACCESS_ERROR" t="Error d'accés. Comproveu la configuració i la xarxa"/>
+<phrase i="BsClog_InvalidInput" t="Valor d'entrada buit o no vàlid."/>
+<phrase i="BsClog_TooManyResults" t="Massa registres de trucades."/>
+<phrase i="BsClog_NoResult" t="Sense registres de trucades."/>
+<phrase i="BSCLOG_HTTP_AUTH_ERR" t="Error d'autenticació: Torneu a provar l'autenticació."/>
+
+<phrase i="BsAnywhere_TooManyResults" t="S'ha assolit el nombre màxim d'ubicacions a qualsevol lloc."/>
+<phrase i="BsAnywhere_NoLine" t="Cap línia habilitada per a qualsevol lloc."/>
+<phrase i="BsAnywhere_BadRequest" t="Acció o entrada no vàlida."/>
+<phrase i="BsAnywhere_ServerBusy" t="El servidor està ocupat."/>
+
+<phrase i="XSI_GET_ERROR" t="No s'ha pogut obtenir la configuració d'XSI."/>
+<phrase i="XSI_GET_AUTH_ERROR" t="Error d'autenticació. No s'ha pogut obtenir la configuració d'XSI."/>
+<phrase i="XSI_GET_DNS_ERROR" t="Error de DNS. No s'ha pogut obtenir la configuració d'XSI."/>
+<phrase i="XSI_SET_ERROR" t="No s'ha pogut establir la configuració d'XSI."/>
+<phrase i="XSI_SET_AUTH_ERROR" t="Error d'autenticació. No s'ha pogut establir la configuració d'XSI."/>
+<phrase i="XSI_SET_DNS_ERROR" t="Error de DNS. No s'ha pogut establir la configuració d'XSI."/>
+<phrase i="XSI_SET_INVALID" t="Paràmetres no vàlids. No s'ha pogut establir la configuració d'XSI."/>
+<phrase i="XSI_SET_ERR_400_PERMISSION" t="No teniu permís per canviar la configuració."/>
+<phrase i="XSI_SET_ERR_400_INVALIDNUM" t="Número de telèfon no vàlid. El número ha de contenir només -, 0-9 o un número E.164. El nombre màxim de dígits és de 30."/>
+
+<phrase i="T_LVSDIR_REQ" t="Sol·licitant directori LVS del servidor."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="Error de sol·licitud de directori LVS."/>
+
+<!-- #############  #All Directories #############-->
+<phrase i="T_ALLDIRECTORY_SEARCH" t="Buscar tots els directoris"/>
+<phrase i="T_ALLDIRECTORY_RESULTS" t="Resultats de la cerca"/>
+<phrase i="T_ALLDIRECTORY_DETAILS" t="Detalls del resultat de la cerca"/>
+<phrase i="ALLDIRECTORY_TIMEOUT_ERROR" t="S'ha excedit el temps d'espera de cerca. Comproveu la config. i la xarxa."/>
+
+<!-- #############  #Call Recording #############-->
+<phrase i="L_RECORDING" t="Registrant"/>
+<phrase i="L_RECORDINGPAUSED" t="Enregistrament en pausa"/>
+
+<!-- #############  #Customizable PLKs  #############-->
+<phrase i="L_DefSpeedDial" t="Definir marcatge ràpid"/>
+<phrase i="L_Define_BLF_Presence" t="Definir presència de BLF"/>
+<phrase i="L_PLK_ERROR" t="Error: Entrada buida o no vàlida."/>
+<phrase i="PLK_DeletePrompt" t="Segur que voleu eliminar la funció de %s %d?"/>
+<phrase i="L_SelectFeature" t="Seleccionar funció"/>
+<phrase i="L_BLF_Presence" t="Presència de BLF"/>
+<phrase i="L_BLF_SD" t="BLF + Marcatge ràpid"/>
+<phrase i="L_BLF_List" t="Llista de BLF"/>
+<phrase i="L_BLF_CP" t="BLF + Captura de trucada"/>
+<phrase i="L_BLF_SD_CP" t="BLF + Marc. ràpid + Captura trucada"/>
+<phrase i="L_Define_BLF_Presence" t="Definir presència de BLF"/>
+<phrase i="L_Search_BLF_List" t="Buscar llista de BLF"/>
+<phrase i="L_Select_User" t="Seleccionar usuari"/>
+<phrase i="L_UserId" t="ID d'usuari"/>
+<phrase i="L_Label" t="Etiqueta"/>
+<phrase i="L_MWI" t="MWI"/>
+<phrase i="L_MWI_SD" t="MWI + Marcatge ràpid"/>
+<phrase i="L_PLK_Shortcut" t="Drecera de menús"/>
+<phrase i="L_PLK_LCR" t="Retorn de trucada"/>
+<phrase i="L_PLK_ACD" t="ACD"/>
+<phrase i="L_PLK_CallRetrieve" t="Recuperar la trucada"/>
+<phrase i="L_PLK_Forward" t="Desviar"/>
+<phrase i="L_PLK_CLR_DND" t="Desactivar No mol."/>
+<phrase i="L_PLK_CLR_Forward" t="Desact. desviament"/>
+<phrase i="L_PLK_CLR_Divert" t="Esborrar desviament"/>
+<phrase i="L_CallInfo" t="Inf. trucades"/>
+<phrase i="L_CallList" t="Llista de trucades"/>
+<phrase i="L_ProxyCall" t="Trucades de proxy"/>
+<phrase i="L_Divert" t="Desviar"/>
+<phrase i="L_CallPush" t="Inserció de trucada"/>
+<phrase i="L_BridgeIn" t="Ajuntar"/>
+<phrase i="M_Key_Disabled" t="La tecla està desactivada."/>
+<phrase i="M_Callpush_Not_Held" t="La trucada no està connectada ni retinguda."/>
+<phrase i="M_Callpush_No_Held" t="No hi ha cap trucada connectada o retinguda en aquesta línia."/>
+<phrase i="M_No_Idle_Call" t="Cap trucada inactiva per continuar."/>
+<phrase i="M_Not_Remote_Connected" t="La trucada no està connectada a l'extrem remot."/>
+<phrase i="M_No_CallInfo" t="La informació de trucades no està disponible."/>
+<!-- PLK labels -->
+<phrase i="L_AttConsole" t="Consola d'assistent"/>
+<phrase i="L_WpsPbc" t="PBC WPS"/>
+<phrase i="L_WpsPin" t="PIN WPS"/>
+<phrase i="L_IPV4_Address" t="Adreça IPv4"/>
+<phrase i="L_IPV6_Address" t="Adreça IPv6"/>
+<phrase i="L_UserSignIn" t="Inici sessió usuari"/>
+<phrase i="L_UserSignOut" t="Tanc. sessió usuari"/>
+<phrase i="L_ProAcnt" t="Compte de perfil"/>
+<phrase i="L_Phone_Statistics" t="Estadíst. de telèfon"/>
+<phrase i="L_XML_Application" t="Aplicació XML"/>
+<phrase i="L_Personal_Directory" t="Directori personal"/>
+<phrase i="L_All_Directories" t="Tots els directoris"/>
+<phrase i="L_XML_Directory" t="Directori XML"/>
+<phrase i="L_LDAP_Directory" t="Directori LDAP"/>
+<phrase i="L_BluetoothContacts" t="Contactes Bluetooth"/>
+<!-- PSK labels -->
+<phrase i="S_Accessibility" t="Accessi."/>
+<phrase i="S_AllCalls" t="Totes t."/>
+<phrase i="S_Received" t="Rebudes"/>
+<phrase i="S_Placed" t="Realitz."/>
+<phrase i="S_Executive" t="Executiu"/>
+<phrase i="S_Assistant" t="Assist."/>
+<phrase i="S_UserPref" t="Pr. us."/>
+<phrase i="S_CallPref" t="Pr. tr."/>
+<phrase i="S_CfwdSetting" t="Pr.d.dv."/>
+<phrase i="S_Anywhere" t="Quals."/>
+<phrase i="S_AudioPref" t="Pr. àud."/>
+<phrase i="S_ScreenPref" t="Pr.pant."/>
+<phrase i="S_ScreenSaver" t="Prot.pa."/>
+<phrase i="S_AttConsole" t="Con.ass."/>
+<phrase i="S_RingTone" t="Melodia"/>
+<phrase i="S_BlueTooth" t="BT"/>
+<phrase i="S_NetworkConf" t="Xarxa"/>
+<phrase i="S_EthernetConf" t="Ethernet"/>
+<phrase i="S_WiFiConf" t="Pr.Wi-Fi"/>
+<phrase i="S_WlanProfile" t="P. Wi-Fi"/>
+<phrase i="S_WpsPbc" t="PBC WPS"/>
+<phrase i="S_WpsPin" t="PIN WPS"/>
+<phrase i="S_WlanStatus" t="Es.Wi-Fi"/>
+<phrase i="S_IPV4_Addr" t="Ad. IPv4"/>
+<phrase i="S_IPV6_Addr" t="Ad. IPv6"/>
+<phrase i="S_DeviceAdmin" t="Adm. d."/>
+<phrase i="S_SetPassword" t="Contras."/>
+<phrase i="S_UserSignIn" t="In.sess."/>
+<phrase i="S_UserSignOut" t="T. sess."/>
+<phrase i="S_DateTime" t="Data/h"/>
+<phrase i="S_Language" t="Idioma"/>
+<phrase i="S_Reboot" t="Reini."/>
+<phrase i="S_Deepsleep" t="Est. en."/>
+<phrase i="S_FactoryReset" t="Res.fàb."/>
+<phrase i="S_ProfileRule" t="R. perf."/>
+<phrase i="S_ProfileAccount" t="C. perf."/>
+<phrase i="S_MICROPHONES" t="Est.lín."/>
+<phrase i="S_WIRED_MIC" t="M. cable"/>
+<phrase i="S_WIRELESS_MIC" t="M. s.fil"/>
+<phrase i="S_Status" t="Estat"/>
+<phrase i="S_ProductInfo" t="Inf. pd."/>
+<phrase i="S_NetworkStatus" t="Es.xarxa"/>
+<phrase i="S_IPv4Status" t="Est.IPv4"/>
+<phrase i="S_IPv6Status" t="Est.IPv6"/>
+<phrase i="S_PHN_STATUS" t="Est.tel."/>
+<phrase i="S_Phone_statistics" t="Es. tel."/>
+<phrase i="S_LINE_STATUS" t="Est.lín."/>
+<phrase i="S_PROV_STATUS" t="Provisió"/>
+<phrase i="S_Call_Statistics" t="Est.tr."/>
+<phrase i="S_ReportProblem" t="Not. pr."/>
+<phrase i="S_RebootHistory" t="R. hist."/>
+<phrase i="S_Accessories" t="Access."/>
+<phrase i="S_Status_Msg" t="M. estat"/>
+<phrase i="S_Wi-Fi_Msg" t="M. Wi-Fi"/>
+<phrase i="S_XML_App" t="Ap. XML"/>
+<phrase i="S_Directory" t="Dir."/>
+<phrase i="S_Personal_Dir" t="Dir. p."/>
+<phrase i="S_All_Dirs" t="Tots d."/>
+<phrase i="S_XML_Dir" t="Dir. XML"/>
+<phrase i="S_LDAP_Dir" t="D. LDAP"/>
+<phrase i="S_BroadsoftDirectory" t="BSoft d."/>
+<phrase i="S_BroadsoftPersonal" t="Personal"/>
+<phrase i="S_BroadsoftGroup" t="Grup"/>
+<phrase i="S_BroadsoftEnterprise" t="Empr."/>
+<phrase i="S_BroadsoftGroupCommon" t="Com.grup"/>
+<phrase i="S_BroadsoftEnterpriseCommon" t="Comú em."/>
+<phrase i="S_BT_contacts" t="Cont. BT"/>
+<phrase i="S_IMPContacts" t="Con. IMP"/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="Conf.Lín"/>
+<phrase i="S_XferLx" t="Tr.Lín"/>
+<phrase i="S_Redial" t="Retruc."/>
+<phrase i="S_Contacts" t="Contact."/>
+<phrase i="S_Recents" t="Recents"/>
+<phrase i="S_Forward" t="Desviar"/>
+<phrase i="S_ForwardAll" t="Desv tot"/>
+<phrase i="S_DND" t="NoMlsta"/>
+<phrase i="S_NForward" t="No Desv."/>
+<phrase i="S_NForwardAll" t="No d. t."/>
+<phrase i="S_NDND" t="No Mol."/>
+<phrase i="S_LCR" t="Ret. tr."/>
+<phrase i="S_Missed" t="Perdudes"/>
+<phrase i="S_Login" t="Ini.ses."/>
+<phrase i="S_Logout" t="T.sessió"/>
+<phrase i="S_SignIn" t="Ini.ses."/>
+<phrase i="S_SignOut" t="T.sessió"/>
+<phrase i="S_Avail" t="Disp."/>
+<phrase i="S_UnAvail" t="No disp."/>
+<phrase i="S_UnPark" t="Desap."/>
+<phrase i="S_PickUp" t="Captur"/>
+<phrase i="S_Mobility" t="Mobilit."/>
+<phrase i="S_GrPickup" t="CaptNúm."/>
+<phrase i="S_NewCall" t="N. Truc."/>
+<phrase i="S_Barge" t="Intrus."/>
+<phrase i="S_BargeSilent" t="Intr."/>
+<phrase i="S_Resume" t="Continu."/>
+<phrase i="S_Answer" t="Respon"/>
+<phrase i="S_Hold" t="Espera"/>
+<phrase i="S_EndCall" t="FiTruc."/>
+<phrase i="S_End" t="Final"/>
+<phrase i="S_Transfer" t="Transf."/>
+<phrase i="S_CONF" t="Conf."/>
+<phrase i="S_BXfer" t="TrDir"/>
+<phrase i="S_Park" t="Aparcar"/>
+<phrase i="S_Join" t="Connect."/>
+<phrase i="S_Update" t="Actual."/>
+<phrase i="S_Dial" t="Trucada"/>
+<phrase i="S_delChar" t="ElimCar"/>
+<phrase i="S_AbbrDial" t="MarcAbr"/>
+<phrase i="S_Back" t="Enrere"/>
+<phrase i="S_Close" t="Tancar"/>
+<phrase i="S_Save" t="Guardar"/>
+<phrase i="S_Delete" t="Eliminar"/>
+<phrase i="S_Add" t="Afegir"/>
+<phrase i="S_Option" t="Opcions"/>
+<phrase i="S_Other" t="Altres"/>
+<phrase i="S_EditDial" t="EditNúm"/>
+<phrase i="S_EditDial1" t="EditNúm"/>
+<phrase i="S_AddNew" t="Afegir nou"/>
+<phrase i="S_Copy" t="Copiar"/>
+<phrase i="S_Paste" t="Enganxar"/>
+<phrase i="S_Search" t="Cercar"/>
+<phrase i="S_SimpleSearch" t="C. senz."/>
+<phrase i="S_AdvancedSearch" t="C. avan."/>
+<phrase i="S_Select" t="Selec."/>
+<phrase i="S_Replace" t="Substit."/>
+<phrase i="S_Default" t="Prdtrm."/>
+<phrase i="S_Add2SpeedDial" t="Afegir a marcatge ràpid"/>
+<phrase i="S_SendMessage" t="Enviar missatge"/>
+<phrase i="S_InputAll" t="Introduir tot"/>
+<phrase i="S_InputNum" t="Introduir número"/>
+<phrase i="S_InputIP" t="Introduir IP"/>
+<phrase i="S_InputHebrew" t="Introduir Hebreu"/>
+<phrase i="S_InputStarCode" t="Int. cod. asterisc"/>
+<phrase i="S_Clear" t="Elim."/>
+<phrase i="S_DeleteList" t="Eliminar llista"/>
+<phrase i="S_DeleteAll" t="Eliminar tot"/>
+<phrase i="S_DeleteEntry" t="Eliminar entrada"/>
+<phrase i="S_Add2AB" t="Afegir contacte"/>
+<phrase i="S_SortByName" t="Ordenar per nom"/>
+<phrase i="S_Next" t="Seg."/>
+<phrase i="S_Zoom" t="Zoom"/>
+<phrase i="S_EditSettings" t="Editar configuració"/>
+<phrase i="S_Previous" t="Anterior"/>
+<phrase i="S_Previous1" t="Anterior"/>
+<phrase i="S_Up" t="Amunt"/>
+<phrase i="S_Down" t="Avall"/>
+<phrase i="S_SelectFromAB" t="Afegir de cont."/>
+<phrase i="S_Play" t="Reprod."/>
+<phrase i="S_Exit" t="Sortir"/>
+<phrase i="S_Resync" t="Resinc."/>
+<phrase i="S_SetTime" t="Guardar"/>
+<phrase i="S_Set" t="Establir"/>
+<phrase i="S_MoveUp" t="Pujar"/>
+<phrase i="S_MoveDown" t="Baixar"/>
+<phrase i="S_Edit" t="Editar"/>
+<phrase i="S_View" t="Veure"/>
+<phrase i="S_Enable_Disable" t="Activar/desactivar"/>
+<phrase i="S_Refresh" t="Actual."/>
+<phrase i="S_List" t="Llista"/>
+<phrase i="S_Stop" t="Aturar"/>
+<phrase i="S_AddList" t="Af. ll."/>
+<phrase i="S_Scan" t="Anàlisi"/>
+<phrase i="S_Connect" t="Connect."/>
+<phrase i="S_Disconnect" t="Desconn"/>
+<phrase i="S_ConnectAll" t="ConTot"/>
+<phrase i="S_Detail" t="Detalls"/>
+<phrase i="S_Cancel" t="Anul·lar"/>
+<phrase i="S_OK" t="Acceptar"/>
+<phrase i="S_Unpair" t="Descon."/>
+<phrase i="S_SelectAll" t="SelecTot"/>
+<phrase i="S_ClearAll" t="Esb. tot"/>
+<phrase i="S_More" t="Més"/>
+<phrase i="S_Format" t="Format"/>
+<phrase i="S_Monitor" t="Monitor"/>
+<phrase i="S_VCARD" t="Importar"/>
+<phrase i="S_Retry" t="Reintent"/>
+<phrase i="S_FLASH" t="Flaix"/>
+<phrase i="S_STARCODE" t="*codi"/>
+<phrase i="S_IP" t="IP"/>
+<phrase i="S_NUM" t="Número"/>
+<phrase i="S_ALPHA" t="Alfa"/>
+<phrase i="S_Audio" t="Àudio"/>
+<phrase i="S_Video" t="Vídeo"/>
+<phrase i="S_Call" t="Trucada"/>
+<phrase i="S_Submit" t="Enviar"/>
+<phrase i="S_CallRecordStart" t="Registre"/>
+<phrase i="S_CallRecordStop" t="AtEnreg."/>
+<phrase i="S_CallRecordPause" t="P. enr."/>
+<phrase i="S_CallRecordResume" t="R. enr."/>
+<phrase i="S_Pause" t="Pausa"/> <!--Used on 6821,replace for PauseRec-->
+<phrase i="S_Ignore" t="Ignorar"/>
+<phrase i="S_Override" t="Anul·lar"/>
+<phrase i="S_HotelingGuestIn" t="Ent.Inv."/>
+<phrase i="S_HotelingGuestOut" t="Sor.Con."/>
+<phrase i="S_AUDIO_SWAP_IN" t="M. àudio"/>
+<phrase i="S_AUDIO_SWAP_OUT" t="M. àudio"/>
+<phrase i="S_Skip" t="Ometre"/>
+<phrase i="S_Settings" t="Config."/>
+<phrase i="S_Favorites" t="Pref."/>
+<phrase i="S_Messages" t="Missat."/>
+<phrase i="S_Selfview" t="V. pròp."/>
+<phrase i="S_CallList" t="Ll. tr."/>
+<phrase i="S_ShowVideo" t="M. vídeo"/>
+<phrase i="S_Presence" t="Pres."/>
+<phrase i="S_Swap" t="Canviar"/>
+<phrase i="S_ProxyCall" t="T.proxy"/>
+<phrase i="S_Divert" t="Desviar"/>
+<phrase i="S_DivertAll" t="DesvTot"/>
+<phrase i="S_ClrDivert" t="No der."/>
+<phrase i="S_CallPush" t="Push tr."/>
+<phrase i="S_CallRetrieve" t="Recup."/>
+<phrase i="S_BridgeIn" t="Ajunt."/>
+<phrase i="S_Micgain" t="G. mic."/>
+<phrase i="S_Setup" t="Config."/>
+<phrase i="S_SpeedDial" t="M. ràpid"/>
+<phrase i="S_Continue" t="Continuar"/>
+<phrase i="S_WiFiScan" t="Anàl. WiFi"/>
+<phrase i="S_Category" t="Cat."/>
+<phrase i="S_Filter" t="Filtre"/>
+
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="Fahrenheit"/>
+<phrase i="OL_Celsius" t="Celsius"/>
+<phrase i="OL_MONO" t="Mono"/>
+<phrase i="OL_STEREO" t="Estèreo"/>
+<phrase i="OL_InProgress" t="En curs"/>
+<phrase i="OL_DnsResolution" t="Resolució de DNS"/>
+<phrase i="OL_NoServerName" t="Cap nom de serv."/>
+<phrase i="OL_InvalidServer" t="Servidor no vàlid o restringit"/>
+<phrase i="OL_NoResources" t="Recursos exhaurits"/>
+<phrase i="OL_FileNotFound" t="Fitxer no trobat"/>
+<phrase i="OL_CorruptFile" t="Fitxer malmès"/>
+<phrase i="OL_EncrptionKey" t="Clau de xifratge"/>
+<phrase i="OL_InvalidURL" t="URL no vàlida"/>
+<phrase i="OL_Phone" t="Telèfon"/>
+<phrase i="OL_Handsfree" t="Mans lliures"/>
+<phrase i="OL_Both" t="Ambdós"/>
+<phrase i="OL_DownloadFailed" t="Error de descàrrega"/>
+<phrase i="OL_DownloadConflict" t="%d entrades noves; %d entrades amb conflictes."/>
+<phrase i="OL_DownloadTypeError" t="Bluetooth no està en mode mans lliures."/>
+<phrase i="OL_DownloadFull" t="La llibreta d'adreces està plena. No es poden descarregar més entrades."/>
+<phrase i="OL_ParsingError" t="Error d'anàlisi en regla"/>
+<phrase i="OL_Ended" t="Finalitzat"/>
+<phrase i="OL_StaticIP" t="IP estàtica"/>
+<phrase i="OL_PictureRotation" t="Rotació d'imatges"/>
+<phrase i="OL_CurrentWallpaper" t="Fons de pantalla actual"/>
+<phrase i="OL_DownloadPicture" t="Desc. img."/>
+<phrase i="OL_Default" t="Predet."/>
+<phrase i="OL_Clock" t="Rellotge"/>
+<phrase i="OL_Logo" t="Logotip"/>
+<phrase i="OL_Lock" t="Bloquejar"/>
+<phrase i="OL_Speaker" t="Altaveu"/>
+<phrase i="OL_Headset" t="Auriculars"/>
+<phrase i="OL_Handset" t="Auricular"/>
+<phrase i="OL_Ringer" t="Timbre"/>
+<phrase i="OL_Volume" t="Volum"/>
+<phrase i="OL_Headset_Fail" t="Utilitzeu els controls dels auriculars per ajustar el volum."/>
+<phrase i="OL_LightBlue" t="Blau clar"/>
+<phrase i="OL_LightGray" t="Gris clar"/>
+<phrase i="OL_LightGreen" t="Verd clar"/>
+<phrase i="OL_None" t="Cap"/>
+<phrase i="OL_Simple" t="Simple"/>
+<phrase i="OL_PlainTLS" t="TLS de text"/>
+<phrase i="OL_64HEX" t="10 dígits hexadecimals"/>
+<phrase i="OL_128HEX" t="26 dígits hexadecimals"/>
+<phrase i="OL_64ASCII" t="5 caràcters ASCII"/>
+<phrase i="OL_128ASCII" t="13 caràcters ASCII"/>
+<phrase i="OL_Enterprise" t="Empresarial"/>
+<phrase i="OL_Group" t="Grup"/>
+<phrase i="OL_Personal" t="Personal"/>
+<phrase i="OL_EnterpriseCommon" t="Comú empresa"/>
+<phrase i="OL_GroupCommon" t="Comú grup"/>
+<phrase i="OL_Login_Credentials" t="Cred. inici sessió"/>
+<phrase i="OL_SIP_Credentials" t="Cred. SIP"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_6" t="6"/>
+<phrase i="OL_7" t="7"/>
+<phrase i="OL_8" t="8"/>
+<phrase i="OL_9" t="9"/>
+<phrase i="OL_10" t="10"/>
+<phrase i="OL_11" t="11"/>
+<phrase i="OL_12" t="12"/>
+<phrase i="OL_13" t="13"/>
+<phrase i="OL_14" t="14"/>
+<phrase i="OL_15" t="15"/>
+<phrase i="OL_16" t="16"/>
+<phrase i="OL_Disabled" t="Desactivat"/>
+<phrase i="OL_Enabled" t="Activat"/>
+<phrase i="OL_AUTO" t="Automàtic"/>
+<phrase i="OL_10_HALF" t="10 MB meit."/>
+<phrase i="OL_10_FULL" t="10 MB com."/>
+<phrase i="OL_100_HALF" t="100 MB meit."/>
+<phrase i="OL_100_FULL" t="100 MB com."/>
+<phrase i="OL_1000_FULL" t="1000 com."/>
+<phrase i="OL_10s" t="10 s"/>
+<phrase i="OL_20s" t="20 s"/>
+<phrase i="OL_30s" t="30 s"/>
+<phrase i="OL_AlwaysOn" t="Sempre eng."/>
+<phrase i="OL_1m" t="1 min"/>
+<phrase i="OL_5m" t="5 min"/>
+<phrase i="OL_30m" t="30 min"/>
+<phrase i="OL_monthday" t="mes/dia"/>
+<phrase i="OL_daymonth" t="dia/mes"/>
+<phrase i="OL_12hr" t="12 h"/>
+<phrase i="OL_24hr" t="24 h"/>
+<phrase i="OL_IPv4" t="Només IPv4"/>
+<phrase i="OL_IPv6" t="Només IPv6"/>
+<phrase i="OL_DUAL_MODE" t="Mode dual"/>
+<phrase i="OL_Phone" t="Telèfon"/>
+<phrase i="OL_Server" t="Servidor"/>
+<phrase i="OL_Show" t="Mostrar"/>
+<phrase i="OL_Hide" t="Amagar"/>
+<phrase i="OL_BEKEM" t="BEKEM"/>
+<phrase i="OL_AKEM" t="CP-8800-Audio"/>
+<phrase i="OL_VKEM" t="CP-8800-Video"/>
+
+<!-- Option label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="Automàtic"/>
+<phrase i="OL_Name" t="Nom"/>
+<phrase i="OL_Ext" t="Ext."/>
+<phrase i="OL_Both" t="Ambdós"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############-->
+<phrase i="T_EditProfile" t="Editar perfil"/>
+<phrase i="T_SetupWiFi" t="Configurar Wi-Fi"/>
+<phrase i="T_WlanProfileListprofile" t="Seleccioneu un perfil"/>
+<phrase i="T_WlanScanList" t="Connecteu-vos a Wi-Fi"/>
+<phrase i="T_WlanServerCaList" t="Seleccioneu un fitxer com a certificat de servidor"/>
+<phrase i="T_WlanClientCaList" t="Seleccioneu un fitxer com a certificat de client"/>
+<phrase i="T_WlanProfileReplace" t="Seleccioneu un perfil para substituir-lo"/>
+<phrase i="T_WlanWpsSelect" t="Seleccioneu el mode WPS"/>
+<phrase i="WirelessStatusDetail" t="Detall sense fil"/>
+<phrase i="T_Profile" t="Perfil"/>
+<phrase i="T_WlanPartitionLsit" t="Seleccioneu una partició"/>
+<phrase i="L_InvalidProfile" t="Perfil no vàlid"/>
+<phrase i="L_Disable" t="Desactivar"/>
+<phrase i="L_None" t="Cap"/>
+<phrase i="L_Auto" t="Automàtic"/>
+<phrase i="L_EapFast" t="EAP-FAST"/>
+<phrase i="L_PeapGtc" t="PEAP-GTC"/>
+<phrase i="L_PeapMschapv2" t="PEAP-MSCHAPV2"/>
+<phrase i="L_Psk" t="PSK"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_802Dot1x" t="802.1x"/>
+<phrase i="L_WpaEnt" t="WPA empresarial"/>
+<phrase i="L_Wpa2Ent" t="WPA2 empresarial"/>
+<phrase i="L_Connection" t="Connexió"/>
+<phrase i="L_SecurityMode" t="Mode seguretat"/>
+<phrase i="L_ProfileName" t="Nom del perfil"/>
+<phrase i="L_SecuredWith" t="Seguretat"/>
+<phrase i="L_CipherType" t="Tipus de xifratge"/>
+<phrase i="L_KeyId" t="Clau de transmissió predeterminada"/>
+<phrase i="L_KeyLen" t="Mida de clau"/>
+<phrase i="L_Key1" t="Clau 1"/>
+<phrase i="L_Key2" t="Clau 2"/>
+<phrase i="L_Key3" t="Clau 3"/>
+<phrase i="L_Key4" t="Clau 4"/>
+<phrase i="L_PskKey" t="Clau WPA compartida"/>
+<phrase i="L_WEPKey" t="Clau WEP"/>
+<phrase i="L_Pphrase" t="Frase de pas"/>
+<phrase i="L_EapType" t="Tipo EAP"/>
+<phrase i="L_UserId" t="ID d'usuari"/>
+<phrase i="L_Password" t="Contrasenya"/>
+<phrase i="L_CheckSvrCa" t="Comprovar certificat de servidor"/>
+<phrase i="L_On" t="Activat"/>
+<phrase i="L_Off" t="Desactivat"/>
+<phrase i="L_LinkSignal" t="Intensitat del senyal"/>
+<phrase i="L_NoiseLevel" t="Nivell de soroll"/>
+<phrase i="L_Bssid" t="Adreça MAC d'AP"/>
+<phrase i="L_Frequency" t="Freqüència"/>
+<phrase i="L_DataEncryption" t="Xifratge de dades"/>
+<phrase i="L_EncryptionType" t="Tipus de xifratge"/>
+<phrase i="L_TransmitRate" t="Velocitat de transmissió"/>
+<phrase i="L_Channel" t="Canal"/>
+<phrase i="L_RootCa" t="Certificat arrel"/>
+<phrase i="L_UserCa" t="Certificat d'usuari"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="Contrasenya de clau privada"/>
+<phrase i="L_AnonyId" t="ID anònim"/>
+<phrase i="L_TtlsInnerProto" t="Protocol intern TTLS"/>
+<phrase i="L_PeapInnerProto" t="Protocol intern PEAP"/>
+<phrase i="L_WlanConfiguration" t="Configuració sense fil"/>
+<phrase i="L_WlanWpsPbc" t="Configuració del botó"/>
+<phrase i="L_WlanWpsPbcText1" t="Per a dispositius amb un botó de configuració protegida per Wi-Fi,"/>
+<phrase i="L_WlanWpsPbcText2" t="premeu el botó al dispositiu i seleccioneu"/>
+<phrase i="L_WlanWpsPbcText3" t="aquest mode."/>
+<phrase i="L_WlanWpsPin" t="Configuració de PIN"/>
+<phrase i="L_WlanWpsPinText1" t="Per a dispositius que requereixen PIN, introduïu el"/>
+<phrase i="L_WlanWpsPinText2" t="número següent: %s, i seleccioneu aquest mode"/>
+<phrase i="L_WlanWpsPinText3" t="seleccionar aquest mode."/>
+<phrase i="L_WlanProfile" t="Perfil Wi-Fi"/>
+<phrase i="L_Networksetup" t="Configuració de xarxa"/>
+<phrase i="L_WlanAddCurrent" t="Afegir connexió com a perfil"/>
+<phrase i="L_WlanStatus" t="Estat de Wi-Fi"/>
+<phrase i="L_WlanWps" t="Configuració protegida de Wi-Fi"/>
+<phrase i="WlanMsgPfLock" t="El perfil sense fil està bloquejat"/>
+<phrase i="WlanMsgPfNameLenNull" t="Nom de perfil no vàlid"/>
+<phrase i="WlanMsgPfNameLenOver" t="Nom de perfil massa llarg"/>
+<phrase i="WlanMsgSssidLenNull" t="El nom de xarxa no pot estar buit."/>
+<phrase i="WlanMsgSssidLenOver" t="SSID massa llarg"/>
+<phrase i="WlanMsgWepNoValue" t="Establir ID clau en %d, que no té valor clau."/>
+<phrase i="WlanMsgWepWrongLen" t="Longitud de clau %d no vàlida."/>
+<phrase i="WlanMsgWepWrongHex" t="La clau %d no té dígits hexadecimals."/>
+<phrase i="WlanMsgPsKeyLenLess" t="Clau WPA compartida massa llarga"/>
+<phrase i="WlanMsgPsKeyLenOver" t="Clau WPA compartida massa llarga"/>
+<phrase i="WlanMsgPsKeyInvalide" t="La contrasenya ha d'incloure 64 dígits hexadecimals, o de 8 a 63 caràcters ASCII."/>
+<phrase i="WlanMsgWepKeyInvalid" t="La clau WEP ha de tenir 10 o 26 dígits hexadecimals o bé 5 o 13 caràcters ASCII."/>
+<phrase i="WlanMsgIdentityLenNull" t="L'ID d'usuari no pot estar buit."/>
+<phrase i="WlanMsgIdentityLenOver" t="Identitat massa llarga"/>
+<phrase i="WlanMsgServerCaWrong" t="Certificat de servidor no vàlid"/>
+<phrase i="WlanMsgClientCaWrong" t="Certificat de client no vàlid"/>
+<phrase i="WlanMsgPasswordLenNull" t="La contrasenya no pot estar buida."/>
+<phrase i="WlanMsgPasswordLenOver" t="Contrasenya massa llarga"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="No és una identitat anònima"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="Identitat anònima massa llarga"/>
+<phrase i="WlanMsgOverMaxPFNum" t="La llista està completa. Voleu substituir un altre perfil?"/>
+<phrase i="WlanMsgUseWpsPbc" t="Utilitzar WPS PBC per connectar"/>
+<phrase i="WlanMsgUseWpsPin" t="Utilitzar WPS PIN per connectar"/>
+<phrase i="WlanNoProfileConnect" t="Perfil no disponible per connectar"/>
+<phrase i="WlanNoScanProfileAdd" t="No hi ha cap perfil escanejat per afegir"/>
+<phrase i="WlanProfileExistReplace" t="Perfil amb SSID: %s ja existeix. Voleu substituir aquest perfil?"/>
+<phrase i="WlanNotEnable" t="La Wi-Fi ha d'estar activada."/>
+<phrase i="WlanNotConnect" t="La Wi-Fi no s'ha connectat. No es pot afegir a la llista de perfils"/>
+<phrase i="WPSNotSet" t="Premeu Establir per fer servir WPS."/>
+<phrase i="WLANNotSet" t="Premeu Establir per fer servir la WLAN."/>
+<phrase i="WlanProfileExist" t="Perfil amb SSID: %s ja existeix."/>
+<phrase i="WlanNotInterface" t="Cal desconnectar Ethernet per fer servir Wi-Fi."/>
+<phrase i="WlanMsgAssociating" t="Associant amb SSID: %s"/>
+<phrase i="WlanMsgFailAssociation" t="Error en associar-se amb %s"/>
+<phrase i="WlanMsgFailAssociationContinue" t="Error en associar-se amb %s, es continuarà intentant en segon pla."/>
+<phrase i="WlanMsgOobSkip" t="Si ometeu aquest pas, haureu de configurar la xarxa manualment."/>
+
+<phrase i="WlanMsgSuccessAssociation" t="Connexió correcta."/>
+<phrase i="WlanMsgSuccessAssociationSSID" t="Connexió correcta a %s."/>
+
+<phrase i="WlanProfileAlreadyConnected" t="Aquest perfil ja està connectat."/>
+<phrase i="WlanWpsFailConnect" t="Error en connectar-se amb WPS"/>
+<phrase i="WlanAddIntoProfile" t="Voleu afegir aquesta configuració com a perfil?"/>
+<phrase i="WlanScanning" t="Anàlisis sense fil en curs"/>
+<phrase i="WlanWpsConnect" t="La configuració WPS s'ha completat. Podeu afegir la configuració al perfil a la pàgina d'estat sense fil."/>
+<phrase i="WlanConnectAll1" t="Voleu utilitzar la llista de perfils per connectar?"/>
+<phrase i="WlanConnectAll2" t="Voleu desconnectar la connexió actual i fer servir la llista de perfils per connectar?"/>
+<phrase i="WlanMsgConnectAll" t="Utilitzar la llista de perfils per connectar"/>
+<phrase i="WlanMsgFailConnectAll" t="Error en connectar. Intentant novament en segon pla"/>
+<phrase i="WlanAddCurrent" t="Voleu afegir la connexió actual com a perfil?"/>
+<phrase i="FileLengthOver" t="El nom del fitxer supera la longitud de %d."/>
+<phrase i="WlanProfileConnectDisable" t="El perfil Wi-Fi està desactivat"/>
+<phrase i="WlanProfileEnable" t="Voleu activar aquest perfil?"/>
+<phrase i="WlanProfileDisable" t="Voleu desactivar aquest perfil?"/>
+<phrase i="WlanEmptyScanningResult" t="No hi ha resultats d'anàlisi. Torneu-ho a provar"/>
+<phrase i="devRestart" t="Potser haureu de registrar el disp. novament."/>
+<phrase i="M_NetworkBusy" t="La xarxa està ocupada."/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="Seleccionar títol"/>
+<phrase i="T_MP3SourceList" t="Afegir títol a la llista de reproducció"/>
+<phrase i="T_MP3PartitionList" t="Seleccioneu una partició per obtenir cançons"/>
+<phrase i="MP3MsgOverMaxSongNum" t="La llista s'ha limitat a %d entrades."/>
+<phrase i="MP3MsgEntryNotExist" t="L'entrada no existeix."/>
+<phrase i="MP3MsgAPendingCall" t="No es pot reproduir un enregistrament durant una trucada."/>
+<phrase i="MP3MsgFileNameOverLen" t="El nom dels fitxers %d supera la longitud %d."/>
+<phrase i="MP3MsgGetList" t="Obtenint la llista de la unitat USB"/>
+<phrase i="MP3MsgSaveRing" t="Desant to des de la unitat USB"/>
+<phrase i="MP3MsgFileIllegle" t="El format del fitxer no és vàlid."/>
+<phrase i="MP3DeletePrompt" t="Voleu eliminar %s de la llista de reproducció?"/>
+<phrase i="MP3MsgSelectNull" t="No s'ha seleccionat cap cançó per afegir-la a la llista de reproducció."/>
+<phrase i="MP3MsgSelectOverMax" t="Heu triat més de %d cançons."/>
+<phrase i="MP3UsbFolderNotPresent" t="La carpeta '%s' no existeix. Comproveu si teniu fitxers mp3 a la carpeta 'mp3' del dispositiu USB."/>
+<phrase i="MP3UsbFileNotPresent" t="No hi ha fitxers MP3 a la carpeta '%s'. Comproveu si teniu fitxers mp3 a la carpeta 'mp3' del dispositiu USB."/>
+<phrase i="MP3DeleteAllPrompt" t="Voleu eliminar totes les cançons de la llista de reproducció?"/>
+<phrase i="MP3MsgCalcTime" t="Calculant el temps de reproducció"/>
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="Ethernet en ús"/>
+<phrase i="NC_TITLE_WIRELESS" t="connexió sense fil en ús"/>
+<phrase i="NC_NOT_AVAILABLE" t="No disponible"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="Connectant a PA"/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="Comprovant la connexió Ethernet"/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="Error en la connexió sense fil."/>
+<phrase i="NC_L2_FAIL_WIRED" t="Error de connexió d'Ethernet"/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="La connexió sense fil funciona correctament."/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="La connexió Ethernet funciona correctament."/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="Utilitzar IP estàtica"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="Obtenint IP per DHCP"/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="Obtenint IP per PPPoE"/>
+<phrase i="NC_L3_FAIL_STATIC" t="Error en establir l'adreça IP."/>
+<phrase i="NC_L3_FAIL_DHCP" t="Error en obtenir IP per DHCP."/>
+<phrase i="NC_L3_FAIL_PPPOE" t="Error en obtenir IP per PPPoE."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="Establir adreça IP"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="Obtenir adreça IP"/>
+<phrase i="NC_WAIT_VLAN_ID" t="Obtenint ID de VLAN"/>
+<phrase i="NC_NO_PROFILE_LIST" t="No hi ha llista de perfils"/>
+<phrase i="NC_VPN_CONNECTING" t="Crear connexió VPN."/>
+<phrase i="NC_VPN_CONNECTED" t="Connexió VPN correcta."/>
+<phrase i="NC_VPN_FAILED" t="Error en crear una connexió VPN."/>
+<phrase i="NC_WPS_SUCCESS" t="Negociació de WPS correcta."/>
+<phrase i="NC_WPS_FAIL" t="Error de negociació de WPS."/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="No s'ha trobat el dispositiu USB. Inseriu el dispositiu USB a la ranura USB del telèfon."/>
+<phrase i="UsbFolderNotPresent" t="La carpeta '%s' no existeix."/>
+<phrase i="UsbFileNotPresent" t="No hi ha fitxers a la carpeta '%s'."/>
+<phrase i="UsbFileNotPresent2" t="El fitxer %s no existeix."/>
+<phrase i="UsbUnknownError" t="Error USB desconegut"/>
+<phrase i="UsbPartitionName" t="Partició"/>
+<phrase i="UsbDevicePluged" t="Dispositiu USB connectat. Espereu fins que el dispositiu es munti."/>
+
+<!-- #############  #USB Headset msgs #############-->
+<phrase i="UsbDeviceConnected" t="Accessori connectat"/>
+<phrase i="UsbDeviceDisconnected" t="Accessori desconnectat."/>
+<phrase i="UsbDeviceNotSupported" t="Accessori no compatible."/>
+<phrase i="UsbDeviceErrorStatus" t="Error de l'accessori."/>
+
+<phrase i="UsbDeviceMaxHeadsets" t="S'ha superat el nombre màxim d'auriculars"/>
+<phrase i="UsbDeviceNoPower" t="El telèfon no pot activar aquest accessori."/>
+<phrase i="UsbDeviceDisabled" t="L'accessori no és compatible."/>
+<phrase i="UsbDeviceError" t="Torneu a intentar connectar el dispositiu."/>
+<phrase i="UsbDeviceMaxKEMs" t="Nombre màxim de consoles de l'operadora"/>
+<phrase i="UsbDeviceSysError" t="No  es poden detectar els accessoris."/>
+
+<!-- #############  #Microphone/Speaker msgs #############-->
+<phrase i="ExternalMicrophone" t="Micròfon extern."/>
+<phrase i="ExternalSpeaker" t="Altaveu extern."/>
+
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="El dispositiu USB està ple. S'ha aturat l'enregistrament de les trucades. Connecteu un dispositiu nou i comenceu l'enregistrament de nou."/>
+<phrase i="UsbDeviceIsFull" t="El dispositiu està ple. Connecteu un dispositiu nou i torneu a començar l'enregistrament."/>
+<phrase i="CallRecordMaxSingleFileReached" t="S'ha assolit la longitud d'enregistrament individual màxima. Inicieu un enregistrament nou."/>
+<phrase i="CallRecordMaxFileNumberReached" t="S'ha assolit el nombre màxim d'enregistraments. Elimineu-ne alguns i inicieu un enregistrament nou."/>
+<phrase i="CallRecordListDeletePrompt" t="Realment voleu eliminar aquest enregistrament?:"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="Segur que voleu eliminar tots els enregistraments?"/>
+<phrase i="CallRecordNameInvalid" t="El nom del fitxer d'enregistrament de trucada no és vàlid."/>
+<phrase i="CallRecordLenInvalid" t="No es pot calcular la longitud de l'enregistrament de trucades."/>
+<phrase i="CallRecordFoldInvalid" t="El directori de l'enregistrament de trucades no és vàlid."/>
+<phrase i="CallRecordUnknownError" t="Error desconegut en l'enregistrament de trucades"/>
+<phrase i="CallRecordMsgAPendingCall" t="No es pot reproduir un enregistrament durant una trucada."/>
+<phrase i="CallRecordStarted" t="Enregistrament ha començat."/>
+<phrase i="CallRecordStopped" t="Enregistrament aturat."/>
+<phrase i="CallRecordPaused" t="Enregistrament en pausa."/>
+<phrase i="CallRecordResumed" t="Enregistrament reprès."/>
+<phrase i="CallRecordPending" t="Esperant inici enreg."/>
+<phrase i="CallRecordServerError" t="Error del servidor"/>
+<phrase i="CallRecordStartError" t="Enregistrament no iniciat."/>
+<phrase i="CallRecordStopError" t="Enregistrament no aturat."/>
+<phrase i="CallRecordPauseError" t="Enregistrament no pausa. "/>
+<phrase i="CallRecordResumeError" t="Enregistrament no reprès."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="Bluetooth ha d'estar activat per a %s."/>
+<phrase i="BT_Discovering" t="S'està detectant %s."/>
+<phrase i="BT_Discovered" t="S'ha detectat %s."/>
+<phrase i="BT_DiscoveredFaild" t="Error a %s detectat."/>
+<phrase i="BT_DeviceNotFound" t="No s'ha trobat cap dispositiu Bluetooth."/>
+<phrase i="BT_Pairing" t="Emparellant %s."/>
+<phrase i="BT_Paired" t="%s s'ha emparellat correctament."/>
+<phrase i="BT_PairingFailed" t="Error de connexió."/>
+<phrase i="BT_Abort" t="Connexió a %s avortada."/>
+<phrase i="BT_UnPairPrompt" t="Voleu desconnectar %s?"/>
+<phrase i="BT_PinCodePrompt" t="Introduïu el PIN."/>
+<phrase i="BT_ScanningPrompt" t="Escaneig en curs. Espereu 10 segons i torneu-ho a provar."/>
+<phrase i="BT_ConnectingPrompt" t="Connexió en curs. Espereu 10 segons i torneu-ho a provar."/>
+<phrase i="BT_DownloadingPrompt" t="Descàrrega en curs. Espereu un minut i torneu-ho a provar."/>
+<phrase i="BT_CallActivePrompt" t="Trucada en curs. La trucada ha de finalitzar per poder provar-ho novament. "/>
+<phrase i="BT_OP_FAIL" t="Error de l'operació."/>
+<phrase i="BT_OP_WAIT_ENABLE" t="S'està habilitant Bluetooth. Torneu a provar-ho."/>
+<phrase i="BT_Dev_Connected" t="El dispositiu ja està connectat."/>
+<phrase i="BT_Search" t="Escaneig de dispositius Bluetooth"/>
+<phrase i="BT_Connecting_Dev" t="Connexió de dispositiu Bluetooth en curs."/>
+<phrase i="BT_HeadsetNamePrompt" t="El nom de l'auricular no pot estar buit."/>
+<phrase i="BT_PhoneModeError" t="El mode del telèfon no es pot connectat al telèfon mòbil."/>
+<phrase i="BT_HandsfreeModeError" t="el mode de mans lliures no es pot connectar a l'auricular."/>
+<phrase i="BT_DownloadUpdate" t="Actualització de llibreta d'adreces personal en curs."/>
+<phrase i="BT_DownloadAddFull" t="La llibreta d'adreces està completa. No es poden afegir totes les entrades: %d entrades afegides; %d entrades omeses."/>
+<phrase i="BT_DownloadConflictFull" t="La llibreta d'adreces està plena. No s'hi poden afegir més entrades. Actualitzeu %d entrades en conflicte, afegiu %d entrades noves, ometeu %d entrades noves"/>
+<phrase i="BT_OverMaxProfileNum" t="La llista està completa. Voleu substituir un altre perfil?"/>
+<phrase i="BT_ConToast" t="Bluetooth connectat"/>
+<phrase i="BT_DisconToast" t="Bluetooth    desconnectat"/>
+<phrase i="BT_HandsfreePin" t="Assegureu-vos que el dispositiu que esteu emparellant mostri el PIN"/>
+<phrase i="BT_St_Cntct_Prompt" t="Voleu emmagatzemar tots els contactes mòbils al telèfon d'escriptori? Podeu eliminar-los més tard als contactes."/>
+<phrase i="T_Sv_Mob_Cntct" t="Desar contactes de mòbil"/>
+<phrase i="T_BluetoothProfileList" t="Seleccionar un perfil Bluetooth"/>
+<phrase i="T_BluetoothProfilePlace" t="Seleccioneu el perfil Bluetooth que voleu substituir"/>
+<phrase i="T_BTMode" t="Mode Bluetooth"/>
+<phrase i="T_BTProfile" t="Perfils Bluetooth"/>
+<phrase i="T_AddDevice" t="Dispositius"/>
+<phrase i="T_BTHeadsetName" t="Nom de l'auricular"/>
+<phrase i="T_BTLoadPhoneBook" t="Descarregar llibreta d'adreces"/>
+<phrase i="T_BTShowPhoneBook" t="Mostrar llibreta d'adreces"/>
+<phrase i="T_BTChoosePair" t="Seleccionar dispositiu Bluetooth"/>
+<phrase i="T_BTEditProfile" t="Editar perfil Bluetooth"/>
+<phrase i="L_BTDeviceName" t="Nom del dispositiu"/>
+<phrase i="L_BTPINCODE" t="PIN"/>
+<phrase i="L_BTConnectAuto" t="Connectar automàticament"/>
+<phrase i="T_BTDownLoad" t="Descarregar"/>
+<phrase i="T_BTReplace" t="Substituir"/>
+<phrase i="T_BTDeleteAccessory" t="Eliminar accessori"/>
+<phrase i="CALL_SERVNOTAVAIL" t="Servei no disponible"/>
+<phrase i="CALL_NETERR" t="Error de xarxa"/>
+<phrase i="CALL_NORES" t="Sense resposta"/>
+<phrase i="CALL_PROTOERR" t="Error de protocol"/>
+<phrase i="CALL_NOLINE" t="Sense línia"/>
+<phrase i="CALL_TIMEOUT" t="Temps d'espera"/>
+<phrase i="S_PHOLD" t="EspPriv"/>
+<phrase i="CALL_PHELD" t="En espera privada"/>
+<phrase i="S_IGNORE" t="Ignorar"/>
+<phrase i="S_DECLINE" t="Rebutjar"/>
+<phrase i="LINE_INUSE" t="En ús"/>
+<phrase i="CALL_PARKED" t="Trucada aparcada"/>
+<phrase i="CALL_SERVUNAVAIL" t="Servei no disponible"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" / . @ 1 : ; = ? - _ &amp; % "/>
+<phrase i="3851" t=" a b c 2 A B C "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" + * ~ ` &lt; &gt; "/>
+<phrase i="3860" t=" 0   , ! ^ ' &quot; | "/>
+<phrase i="3861" t=" # $ £ ¤ \ ( ) { } [ ] "/>
+
+<!-- #############  #language #############-->
+<phrase i="L_English" t="Anglès"/>
+<phrase i="L_English-US" t="Anglès-Estats Units"/>
+<phrase i="L_English-Canada" t="Anglès-Canadà"/>
+<phrase i="L_English-Australia" t="Anglès-Austràlia"/>
+<phrase i="L_English-Britain" t="Anglès-Gran Bretanya"/>
+<phrase i="L_English-NewZealand" t="Anglès-Nova Zelanda"/>
+<phrase i="L_French" t="Francès"/>
+<phrase i="L_French-Canada" t="Francès-Canadà"/>
+<phrase i="L_Spanish" t="Espanyol"/>
+<phrase i="L_Spanish-Mexico" t="Espanyol-Mèxic"/>
+<phrase i="L_Italian" t="Italià"/>
+<phrase i="L_German" t="Alemany"/>
+<phrase i="L_Norwegian" t="Noruec"/>
+<phrase i="L_Portuguese" t="Portuguès"/>
+<phrase i="L_Polish" t="Polonès"/>
+<phrase i="L_Dutch" t="Holandès"/>
+<phrase i="L_Swedish" t="Suec"/>
+<phrase i="L_Russian" t="Rus"/>
+<phrase i="L_Turkish" t="Turc"/>
+<phrase i="L_Slovak" t="Eslovac"/>
+<phrase i="L_Hungarian" t="Hongarès"/>
+<phrase i="L_Croatian" t="Croata"/>
+<phrase i="L_Bulgarian" t="Búlgar"/>
+<phrase i="L_Czech_Republic" t="República Txeca"/>
+<phrase i="L_Slovenian" t="Eslovè"/>
+<phrase i="L_Danish" t="Danès"/>
+<phrase i="L_Hebrew" t="Hebreu"/>
+
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="Número de càmera"/>
+<phrase i="L_Camera_Name" t="Nom de càmera"/>
+<phrase i="L_Camera_Ip" t="Adreça IP"/>
+<phrase i="L_Camara_UserName" t="Nom d'usuari"/>
+<phrase i="L_Camera_Password" t="Contrasenya"/>
+<phrase i="L_Camera_Port" t="Número de port"/>
+<phrase i="L_Camera_Resolution" t="Resolució"/>
+<phrase i="L_Camera_Quality" t="Qualitat de vídeo"/>
+<phrase i="L_Camera_FrameRate" t="Velocitat de fotogrames"/>
+<phrase i="L_Camera_Status" t="Estat"/>
+<phrase i="T_Camera_Entry" t="Informació de la càmera"/>
+<phrase i="T_Camera_List" t="Seleccioneu una càmera per realitzar-ne el seguiment"/>
+<phrase i="CamInvalidParam" t="Els paràmetres de la càmera %s no són vàlids."/>
+<phrase i="CamMissingURL" t="Falta la URL d'accés a la càmera %s."/>
+<phrase i="CamMissingUserName" t="Falta el nom d'usuari de la càmera %s."/>
+<phrase i="CamMissingPassword" t="Falta la contrasenya de la càmera %s."/>
+<phrase i="CamInvalidURL" t="La URL d'accés a la càmera %s no és vàlida."/>
+<phrase i="CamInvalidProtocol" t="El protocol de la càmera %s no és RTSP."/>
+<phrase i="CamNoVideo" t="Sense vídeo."/>
+<phrase i="CamConnecting" t="Connectant"/>
+<phrase i="CamConnectError" t="Sense vídeo. Error en connectar."/>
+<phrase i="CamAccessError" t="Sense vídeo. Accés denegat."/>
+<phrase i="CamResolveError" t="Sense vídeo. No es pot resoldre l'adreça."/>
+<phrase i="CamResolutionError" t="Sense vídeo. Resolució massa gran."/>
+<phrase i="CamBusy" t="La càmera està ocupada. Espereu i torneu-ho a provar."/>
+<phrase i="CamActivateDoorOK" t="Obertura de porta correcta per a %s."/>
+<phrase i="CamActivateDoorFailed" t="Error en obrir la porta per a %s."/>
+<phrase i="CamFeatureNotAvailable" t="La funció no està disponible quan el Bluetooth està activat"/>
+<phrase i="P_CamAccess" t="Accedint a vídeo"/>
+<phrase i="Shutter_Closed" t="L'obturador està tancat."/>
+<phrase i="Bandwidth_Allowance" t="Assignació d'amplada de banda"/>
+<phrase i="Exposure" t="Exposició"/>
+<phrase i="Auto" t="Automàtic"/>
+<phrase i="250_kbps" t="250 Kbps"/>
+<phrase i="500_kbps" t="500 Kbps"/>
+<phrase i="750_kbps" t="750 Kbps"/>
+<phrase i="1_mbps" t="1 Mbps"/>
+<phrase i="2_mbps" t="2 Mbps"/>
+<phrase i="L_Video_Stats" t="Estat de trucada de veu"/>
+<phrase i="L_VideoEncoder" t="Codificador"/>
+<phrase i="L_VideoDecoder" t="Descodificador"/>
+<phrase i="L_VideoPktSent" t="Paquets enviats"/>
+<phrase i="L_VideoPktRecv" t="Paquets rebuts"/>
+<phrase i="L_VideoAvgJitter" t="Vibració mitjana"/>
+<phrase i="L_VideoMaxJitter" t="Jitter màxim"/>
+<phrase i="L_VideoRxPktDiscarded" t="Paquet d'Rx descartat"/>
+<phrase i="L_VideoRxPktLost" t="Paquet d'Rx perdut"/>
+<phrase i="L_VideoTxResolution" t="Resolució de Tx"/>
+<phrase i="L_VideoRxResolution" t="Resolució d'Rx"/>
+<phrase i="L_VideoRxFrames" t="Fotogrames rebuts"/>
+<phrase i="L_VideoTxFrames" t="Fotogrames transmesos"/>
+<phrase i="L_VideoTxIDRFrames" t="Fotogrames IDR"/>
+<phrase i="L_VideoTxFastUpdateReq" t="iFrames de Tx necessaris"/>
+<phrase i="L_VideoRxIDRFrames" t="Fotogrames IDR"/>
+<phrase i="L_VideoRxFastUpdateReq" t="iFrames d'Rx necessaris"/>
+<phrase i="L_VideoTxFrameRate" t="Velocitat de fotogrames de Tx"/>
+<phrase i="L_VideoRxFrameRate" t="Velocitat de fotogrames d'Rx"/>
+<phrase i="L_VideoLatency" t="Latència de vídeo"/>
+<phrase i="L_VideoTxBandwidth" t="Ample de banda de Tx"/>
+<phrase i="L_VideoRxBandwidth" t="Ample de banda d'Rx"/>
+
+
+<phrase i="OL_Very_Low" t="Molt baix"/>
+<phrase i="OL_Lowest" t="El més baix"/>
+<phrase i="OL_Low" t="Baix"/>
+<phrase i="OL_Medium" t="Mitjana"/>
+<phrase i="OL_Normal" t="Normal"/>
+<phrase i="OL_High" t="Alt"/>
+<phrase i="OL_Highest" t="El més alt"/>
+<phrase i="OL_Very_High" t="Molt alt"/>
+
+<!-- #############  Profile Account #############-->
+<phrase i="L_ProAcnt_Setup" t="Configuració de compte de perfil"/>
+<phrase i="L_ProAcnt_Setup_Basic" t="Configuració de compte de perfil (HTTP)"/>
+<phrase i="L_ProAcnt_Setup_XsiLogin" t="Configuració de compte de perfil (XSI)"/>
+<phrase i="L_ProAcnt_Setup_XsiSip" t="Configuració de compte de perfil (SIP XSI)"/>
+<phrase i="L_PA_HOST_WARNING" t="Error d'inici de sessió, poseu-vos en contacte amb l'administrador."/>
+<phrase i="L_PA_Username" t="Nom d'usuari"/>
+<phrase i="L_PA_RESYNC_TRY" t="Iniciant la sessió al compte..."/>
+<phrase i="L_PA_RESYNC_OK" t="Inici de sessió correcte"/>
+<phrase i="L_PA_RESYNC_DISABLED" t="Funció de resinc. desactivada, poseu-vos en contacte amb l'administrador."/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="Extension Mobility"/>
+<phrase i="L_ExtMob_LoginForm" t="Iniciar sessió a Extension Mobility"/>
+<phrase i="L_EM_LOGIN_TRY" t="Inici de sessió en curs."/>
+<phrase i="L_EM_LOGIN_OK" t="Inici de sessió correcte."/>
+<phrase i="L_EM_LOGIN_FAILED" t="La informació de registre és incorrecta."/>
+<phrase i="L_EM_LOGOUT_TRY" t="Tancament de sessió en curs."/>
+<phrase i="L_EM_LOGOUT_OK" t="Tancament de sessió correcte."/>
+<phrase i="L_EM_LOGOUT_FAILED" t="Error en tancar la sessió. El telèfon es reiniciarà."/>
+<phrase i="L_EM_LOGIN_WARNING" t="Introduïu l'ID d'usuari i la contrasenya."/>
+<phrase i="L_EM_LOGOUT_CONFIRMATION" t="Segur que voleu tancar la sessió d'Extension Mobility?"/>
+<phrase i="L_EM_INACTIVE_WARNING" t="A causa de la inactivitat, aquest telèfon tancarà la sessió a Extension Mobility. Voleu restar amb la sessió iniciada?"/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="Voleu realitzar un restabliment de recuperació?"/>
+<phrase i="L_RecoveryReset" t="Restabliment de detecció"/>
+<phrase i="L_FirmwareUpgrade" t="Actualització de microprogramari"/>
+<phrase i="T_ST_Diag" t="Recuperació de diagnòstic"/>
+<phrase i="UsbImageFileNotPresent" t="No s'ha trobat /image/spa525g.bin. Copieu la imatge del microprogramari a /image/spa525g.bin."/>
+<phrase i="L_Picture" t="Imatge"/>
+<phrase i="L_IncomingPage" t="Busca entrant"/>
+<phrase i="L_OutgoingPage" t="Busca sortint"/>
+
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="La carpeta '%s' no existeix. Comproveu si teniu fitxers jpg a la carpeta '%s' del dispositiu USB."/>
+<phrase i="ImageUsbFileNotPresent" t="No hi ha fitxers JPG a la carpeta '%s'. Comproveu si teniu fitxers jpg a la carpeta '%s' del dispositiu USB."/>
+<phrase i="T_ImageSelect" t="Seleccionar una imatge"/>
+<phrase i="ImageMsgOverMaxImageNum" t="Heu triat més de %d imatges."/>
+
+<phrase i="WS_Jan" t="Gen."/>
+<phrase i="WS_Feb" t="Febr."/>
+<phrase i="WS_Mar" t="Març"/>
+<phrase i="WS_Apr" t="Abr."/>
+<phrase i="WS_May" t="Maig"/>
+<phrase i="WS_Jun" t="Juny"/>
+<phrase i="WS_Jul" t="Jul."/>
+<phrase i="WS_Aug" t="Ag."/>
+<phrase i="WS_Sep" t="Set."/>
+<phrase i="WS_Oct" t="Oct."/>
+<phrase i="WS_Nov" t="Nov."/>
+<phrase i="WS_Dec" t="Des."/>
+<phrase i="WS_Sun" t="Assolellat"/>
+<phrase i="WS_Mon" t="Dl."/>
+<phrase i="WS_Tue" t="Dt."/>
+<phrase i="WS_Wed" t="Dc."/>
+<phrase i="WS_Thu" t="Dj."/>
+<phrase i="WS_Fri" t="Dv."/>
+<phrase i="WS_Sat" t="Ds."/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="Sol·licitant"/>
+<phrase i="T_EmptyHTTPBody" t="Cos HTTP buit."/>
+<phrase i="T_404NotFound" t="404 no trobat."/>
+<phrase i="T_AudioDataError" t="Error de dades d'àudio."/>
+<phrase i="T_DNSError" t="Error de DNS."/>
+<phrase i="T_NoServer" t="No es pot connectar amb el servidor."/>
+<phrase i="T_NoResponse" t="El servidor no ha respost. Torneu-ho a provar."/>
+<phrase i="T_DataError" t="Error de dades."/>
+<phrase i="T_UnknownError" t="Error desconegut."/>
+<phrase i="T_RTPFail" t="El telèfon està atenent una altra trucada. Torneu-ho a provar més tard."/>
+<phrase i="T_XMLFormatError" t="Error de format XML: aplicació no vàlida."/>
+<phrase i="T_NotValidApp" t="Aquest telèfon no admet l'aplicació."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="Resultat"/>
+<phrase i="PRV_Msg_Resync" t="Resinc. a"/>
+<phrase i="PRV_Msg_ReqFailed" t="Error en sol·licitar resincronització. El telèfon està resincronitzant actualment. Torneu-ho a provar més tard."/>
+<phrase i="PRV_Msg_ReqFailedByUpg" t="Error en la sol·licitud a causa d'una actualització del microprogramari. Torneu-ho a provar més tard."/>
+<phrase i="PRV_Invalid_URL" t="Regla de perfil de resincronització no vàlida."/>
+<phrase i="StringLengthOver" t="La cadena excedeix la longitud màxima."/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="Resinc. en curs"/>
+<phrase i="PRV_Msg_Resync_OK" t="Resincronització correcta."/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="El telèfon es reiniciarà. Espereu"/>
+<phrase i="L_Active_Call_Progress" t="Trucada en curs. Pengeu i torneu-ho a provar."/>
+<phrase i="L_Unable_To_Add_Participant" t="No es pot afegir un participant."/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="Cap"/>
+<phrase i="L_RReason1" t="Error de DHCP"/>
+<phrase i="L_RReason2" t="Actualitzar"/>
+<phrase i="L_RReason3" t="Provisió"/>
+<phrase i="L_RReason4" t="Actualitzar"/>
+<phrase i="L_RReason5" t="Usuari activat"/>
+<phrase i="L_RReason6" t="Actualitzar"/>
+<phrase i="L_RReason7" t="SIP activat"/>
+<phrase i="L_RReason8" t="Actualitzar"/>
+<phrase i="L_RReason9" t="Error del sistema"/>
+<phrase i="L_RReason10" t="En. interr."/>
+<phrase i="L_RReason11" t="Sistema 1"/>
+<phrase i="L_RReason12" t="Sistema 2"/>
+<phrase i="L_RReason13" t="IP duplicada"/>
+<phrase i="L_RReason14" t="IP de seguretat"/>
+<phrase i="L_RReason15" t="Sistema 3"/>
+<phrase i="L_RReason16" t="Sistema 4"/>
+<phrase i="L_RReason17" t="Sistema 5"/>
+<phrase i="L_RReason18" t="Sistema 6"/>
+<phrase i="L_RReason19" t="Sistema 7"/>
+<phrase i="L_RReason20" t="SIP activat"/>
+<phrase i="L_RReason21" t="Baixada de dicc."/>
+<phrase i="L_RReason22" t="VLAN ha canviat"/>
+<phrase i="L_RReason23" t="RC"/>
+<phrase i="L_RReason24" t="Rest. als valors de fàb."/>
+<phrase i="L_RReason25" t="Requisits de programari"/>
+<phrase i="L_RReason26" t="IP canviada"/>
+
+<phrase i="L_Calls" t="Trucades"/>
+
+<!-- ############# Full Screen Progress Spinner ########### -->
+<phrase i="L_ProgressSpinnerText" t="Actualització de microprogramari en curs"/>
+
+<!-- ############# Accessories ############ -->
+<phrase i="L_Accessories" t="Accessoris"/>
+<phrase i="L_AccessoryDetails" t="Detalles de l'accessori"/>
+<phrase i="L_DeviceType" t="Tipus de dispositiu"/>
+<phrase i="L_DeviceClass" t="Classe de dispositiu"/>
+<phrase i="L_Configured" t="Configurat"/>
+<phrase i="L_unitEnable" t="Unitat activada"/>
+<phrase i="L_unitState" t="Unitat en línia"/>
+
+<!-- #############  Cisco Headset#############-->
+<phrase i="L_Setup" t="Configuració"/>
+<phrase i="L_Microphone" t="Micròfon"/>
+<phrase i="L_Tuning" t="Ajust"/>
+<phrase i="L_Sidetone" t="Efecte local"/>
+<phrase i="L_MicrophoneTest" t="Prova de micròfon"/>
+<phrase i="L_InputLevel" t="Nivell d'entrada"/>
+<phrase i="L_SpeakNow" t="Parlar ara"/>
+<phrase i="L_SpeakLevel" t="Parleu per veure el nivell d'entrada"/>
+<phrase i="L_PlayRecord" t="Reproduir enregistrament"/>
+<phrase i="L_AdjustMicroGain" t="Ajustar guany del micròfon"/>
+<phrase i="L_Softer" t="Baix"/>
+<phrase i="L_Louder" t="Alt"/>
+<phrase i="L_AdjustAudioTune" t="Ajustar nivells d'àudio"/>
+<phrase i="L_Warmer" t="Càlid"/>
+<phrase i="L_Brighter" t="Fred"/>
+<phrase i="L_AdjustMicrophone" t="Ajustar micròfon"/>
+
+<phrase i="L_headsetSettings" t="Configuració dels auriculars Cisco"/>
+<phrase i="L_headsetSpeaker" t="Altaveu dels auriculars Cisco"/>
+<phrase i="L_headsetMicrophone" t="Micròfon dels auriculars Cisco"/>
+<phrase i="L_Test" t="Prova"/>
+<phrase i="L_Gain" t="Guany"/>
+<phrase i="L_CiscoWiredHeadset" t="Auriculars de cable Cisco"/>
+<phrase i="L_CiscoWirelessHeadset" t="Auriculars sense fils Cisco"/>
+<phrase i="L_CiscoHeadset" t="Auriculars Cisco"/>
+<phrase i="L_NewAccDetected" t="Nou accessori detectat."/>
+<phrase i="L_HeadsetSetupProgress" t="Premeu Configuració per configurar els auriculars; en cas contrari, aquesta pàgina es tancarà en %d segons."/>
+<phrase i="L_HeadsetSetupProgressOneSecond" t="Premeu Configuració per configurar els auriculars; en cas contrari, aquesta pàgina es tancarà en 1 segon."/>
+<phrase i="L_HeadsetUpgrade" t="Actualització de programari en curs. No desendolleu els auriculars."/>
+<phrase i="L_HeadsetMDUpgradeNotify" t="L&amp;apos;actualització de firmware dels auriculars està llesta. Pot trigar uns minuts i no podeu fer servir els auriculars durant l&amp;apos;actualització. Voleu actualitzar ara?"/>
+<phrase i="L_CannotRecord" t="No podeu verificar el guany del micròfon o el volum durant una trucada."/>
+<phrase i="L_Version" t="Versió"/>
+<phrase i="L_UpgradeFaild" t="Error d'actualització."/>
+<phrase i="S_PlayBack" t="Repro."/>
+<phrase i="L_Upgrade" t="Actual."/>
+<phrase i="L_Postpone" t="Posposar"/>
+
+<!-- #############  PRT Screen#############-->
+<phrase i="L_ReportProblem" t="Informar de problema"/>
+<phrase i="L_ProblemDate" t="Data prob."/>
+<phrase i="L_ProblemTime" t="Hora prob."/>
+<phrase i="L_ProblemDescription" t="Descr. problema"/>
+<phrase i="L_SelectProblem" t="Seleccioneu"/>
+<phrase i="L_PRTProblem1" t="Desconnexió o reinici del telèfon"/>
+<phrase i="L_PRTProblem2" t="Error de connexió de xarxa"/>
+<phrase i="L_PRTProblem3" t="Error de registre del telèfon"/>
+<phrase i="L_PRTProblem4" t="Error en realitzar una trucada"/>
+<phrase i="L_PRTProblem5" t="No es poden respondre trucades"/>
+<phrase i="L_PRTProblem6" t="Les func. trucada no funcionen"/>
+<phrase i="L_PRTProblem7" t="Qualitat d'àudio/vídeo deficient"/>
+<phrase i="L_PRTProblem8" t="Àudio/vídeo en una adreça"/>
+<phrase i="L_PRTProblem9" t="Sense àudio/vídeo"/>
+<phrase i="L_PRTProblem10" t="Resposta d'IU lenta"/>
+<phrase i="L_PRTProblem11" t="Error de visualitz. d'IU"/>
+<phrase i="L_PRTProblem12" t="Altres"/>
+<phrase i="L_PrtSpinnerText" t="Generant fitxer PRT"/>
+<phrase i="L_PrtStatusOKText" t="Càrrega correcta. Fitxer: %s"/>
+<phrase i="L_PrtStatusFailedText" t="Error en carregar PRT. Està a la pàgina web: %s"/>
+<phrase i="L_PrtStatusFailedText1" t="Error en carregar PRT. Està a la pàgina web:"/>
+<phrase i="L_PrtStatusNoURLText" t="Fitxer PRT disponible a la pàgina web (%s)"/>
+<phrase i="L_PrtStatusNoURLText1" t="Fitxer PRT disponible a la pàgina web"/>
+<phrase i="L_PrtWarningText" t="Seleccioneu la descripció del problema."/>
+<phrase i="T_PRT_Submitted" t="Problema enviat"/>
+<phrase i="T_PRT_Error" t="Error: %d"/>
+
+<!-- #############  802.1X Authentication #############-->
+<phrase i="L_802Authentication" t="Autenticació 802.1X"/>
+<phrase i="L_DeviceAuthentication" t="Aut. del disp."/>
+<phrase i="L_TransactionStatus" t="Estat de la transacció"/>
+<phrase i="L_Protocol" t="Protocol"/>
+
+<!-- #############  Agent Login #############-->
+<phrase i="S_AState" t="Est. ag."/>
+<phrase i="L_ACD_AGENT_STATE" t="Establir estat d'agent"/>
+<phrase i="S_ASignIn" t="In. ag."/>
+<phrase i="S_ASignOut" t="T. ag."/>
+<phrase i="S_AgtIn" t="AgtEnt"/>
+<phrase i="S_AgtOut" t="AgtSort"/>
+<phrase i="T_ACD_CallInformation" t="Inf. trucada"/>
+<phrase i="L_ACD_WaitTime" t="Temps d'espera"/>
+<phrase i="L_ACD_CCUID" t="UID de CC"/>
+<phrase i="L_ACD_CCName" t="Nom de CC"/>
+<phrase i="L_ACD_Queue" t="Cua"/>
+<phrase i="L_ACD_LongestWaitTime" t="Temps d'espera més llarg"/>
+<phrase i="S_ACallInfo" t="Inf. tr."/>
+<phrase i="S_ADispCode" t="C. disp."/>
+<phrase i="S_ATrace" t="Rastr."/>
+<phrase i="S_AEmergcy" t="Emerg."/>
+<phrase i="L_ACD_DispCode" t="Codi de disposició"/>
+<phrase i="L_ACD_Emergency" t="Esc. emergència"/>
+<phrase i="L_Avail" t="Disponible"/>
+<phrase i="L_Unavail" t="No disponible"/>
+<phrase i="L_Wrap" t="Tancament"/>
+<phrase i="L_SignOut" t="Tancar la sessió"/>
+<phrase i="L_AgtState" t="Agent"/>
+<phrase i="L_AQS_EMPTY" t="buit"/>
+<phrase i="L_AQS_NORMAL" t="en cua"/>
+<phrase i="L_AQS_FULL" t="ple"/>
+<phrase i="L_SECOND" t="%d s"/>
+<phrase i="L_SECONDS" t="%d s"/>
+<phrase i="L_Queue_Call" t="%d trucada"/>
+<phrase i="L_Queue_Calls" t="%d trucades"/>
+<phrase i="L_AgtIn" t="Agent sessió iniciada"/>
+<phrase i="L_AgtOut" t="Agent sessió tancada"/>
+
+
+<!-- #############  Exec/Admin Feature #############-->
+<phrase i="L_Executive" t="Executiu"/>
+<phrase i="L_Executive_List" t="Llista d'executius"/>
+<phrase i="L_Assistant" t="Assistent"/>
+<phrase i="L_AllowOptInOut" t="Alta voluntària/baixa voluntària de l'assistent"/>
+<phrase i="L_CallFilter" t="Filtre de trucades"/>
+<phrase i="L_CallFilterMode" t="Mode de filtre de trucades"/>
+<phrase i="L_CallFilterType" t="Tipus de filtre de trucades"/>
+<phrase i="L_AssistsList" t="Llista d'assistents"/>
+<phrase i="M_No_Executive" t="Cap executiu disponible."/>
+<phrase i="L_DivertNum" t="Desviar número"/>
+<phrase i="OL_AllCalls" t="Totes truc."/>
+<phrase i="OL_InternalCalls" t="Trucades internes"/>
+<phrase i="OL_ExternalCalls" t="Trucades externes"/>
+<phrase i="OL_Simple" t="Simple"/>
+<phrase i="OL_Advanced" t="Avançada"/>
+<phrase i="L_Opt0" t="Baixa voluntària"/>
+<phrase i="L_Opt1" t="Alta voluntària"/>
+<phrase i="M_CallFilterPrompt" t="Qualsevol canvi en la configuració del filtre de trucades afecta la resta d'assistents. Voleu continuar?"/>
+<phrase i="M_DivertNumberPrompt" t="Desviar número és un camp obligatori."/>
+
+<!-- #############  GDS Activation Feature #############-->
+<phrase i="L_Welcome" t="Benvingut"/>
+<phrase i="S_Continue" t="Continuar"/>
+<phrase i="L_Enter_Activation_Code" t="Introduir codi d'activació"/>
+<phrase i="L_Activation_Connecting" t="Connexió en curs."/>
+<phrase i="L_Activation_Download_Configuration" t="Baixada en curs..."/>
+<phrase i="L_Activation_Check_Info" t="El codi d'activació no és vàlid."/>
+<phrase i="L_Activation_Invalid_Config" t="Configuració no vàlida. Poseu-vos en contacte amb l'administrador."/>
+<phrase i="L_Activation_Service_Unavailable" t="El servei no està disponible. Torneu-ho a provar més tard."/>
+<phrase i="L_Activation_Internal_Error" t="Reinicieu el telèfon o poseu-vos en contacte amb l'administrador."/>
+<phrase i="L_Activation_Network_Error" t="Comproveu la connexió a Internet o contacteu amb l'administrador."/>
+<phrase i="L_Activation_Cert_Error" t="Certificat de servidor no vàlid. Poseu-vos en contacte amb l'administrador."/>
+<phrase i="L_Activation_Download_Retrying" t="Error de baixada. S'està tornant a intentar..."/>
+<phrase i="L_Activation_Download_Failed" t="Error de baixada, poseu-vos en contacte amb l'administrador."/>
+<phrase i="M_Config_In_Progress" t="S'està comprovant la configuració. Això trigarà uns minuts."/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/> <!--aks:can be removed after all required screens are fixed-->
+<phrase i="L_NetworkName" t="Nom de la xarxa"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_802.11" t="Banda de freqüències"/>
+<phrase i="L_5ghz" t="5 GHz"/>
+<phrase i="L_2.4ghz" t="2,4 GHz"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_WiFi_Type" t="Tipus de Wi-Fi"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="AAAA"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="HH"/>
+<phrase i="Label_mm" t="MM"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_SWITCH_PORT_CFG" t="Config. port commut."/>
+<phrase i="L_PC_PORT_CFG" t="Config. port PC"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_PC_PORT_MIRRORING" t="Port PC mirall"/>
+<phrase i="L_STARTUP_DELAY" t="Retard d'inici"/>
+<phrase i="L_DHCP_VLAN_OPTION" t="Opció de DHCP VLAN"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="ID de VLAN"/>
+<phrase i="L_VLAN_PRIPORITY" t="Prioritat VLAN"/>
+<phrase i="L_DATAPORT_VLAN" t="Port d'VLAN"/>
+<phrase i="L_DATAPORT_VLANID" t="ID de port d'VLAN"/>
+<phrase i="L_DATAPORT_PRIORITY" t="Prior. port PC"/>
+<phrase i="OL_NO_LIMIT" t="Il·limitat"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_WLAN" t="VLAN"/>
+<phrase i="OL_WPS" t="WPS"/>
+<phrase i="OL_RELEASE_DHCP" t="Alliberar IP DHCP"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_DIGEST-MD5" t="DIGEST-MD5"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  #Status messages #############-->
+<phrase i="M_SM_status_no_connection" t="Sense connexió"/>
+<phrase i="M_SM_status_Eth_connected" t="Ethernet connectat"/>
+<phrase i="M_SM_status_Wifi_connected" t="Wi-Fi connectada"/>
+<phrase i="M_SM_Eth_Dis" t="Ethernet desconnectat"/>
+<phrase i="M_SM_Wifi_Dis" t="W-Fi desconnectada"/>
+<phrase i="M_SM_V6_IP_Dup" t="Adreça IPv6 duplicada"/>
+<phrase i="M_SM_V4_IP_Dup" t="Adreça IPv4 duplicada"/>
+<phrase i="M_SM_V6_Dns_Err" t="Error de resolució de DNSv6"/>
+<phrase i="M_SM_Usr_Cncld_Pwr_off" t="Apagada del telèfon cancel·lada: un usuari ha cancel·lat una directriu d'apagada del commutador."/>
+<phrase i="M_SM_POE_Rqd" t="Error de telèfon desactivat: no es pot apagar; cal alimentació per Ethernet per desactivar el telèfon."/>
+<phrase i="M_SM_NO_FILE_CHG" t="Cap fitxer no ha canviat"/>
+<phrase i="M_SM_PORT_CFG_ERR" t="Error en la configuració de port"/>
+<phrase i="M_SM_V4_ADDR_REL" t="Adreça IPv4 alliberada"/>
+<phrase i="M_SM_V4_ADDR_RENEW" t="Renovar adreça IPv4"/>
+<phrase i="M_SM_NTP_TEMP_TIME" t="L'hora manual s'ajustarà quan l'NTP estigui disponible"/>
+<phrase i="M_SM_CertError" t="Error de certificat SSL %s"/>
+<phrase i="M_SM_DNSError" t="Error en resoldre l'adreça %s"/>
+<phrase i="M_SM_DNSSuccess" t="%s resolt amb èxit"/>
+<phrase i="M_SM_NoGeolocation" t="El sistema no pot identificar la vostra ubicació d'emergència per a la línia %s."/>
+<phrase i="M_SM_FailedGeolocation" t="El sistema no pot identificar la vostra ubicació d'emergència."/>
+
+<phrase i="ReadOnly_Prompt" t="No teniu autorització per realitzar aquest canvi."/>
+<phrase i="Copyright_Year" t="2000-2020"/>
+<phrase i="Copyright_Text" t="Copyright 2000-2020 Cisco Systems, Inc."/>
+
+<!-- #############  #Upgrade error message #############-->
+<phrase i="M_UG_FAIL" t="Error d'actualització"/>
+<phrase i="M_UG_CRC_FAIL" t="Error de comprovació de CRC"/>
+<phrase i="M_UG_MAGIC_FAIL" t="Càrrega no reconeguda"/>
+<phrase i="M_UG_MEMORY_NOT_ENOUGH" t="Memòria del sistema insuficient"/>
+<phrase i="M_UG_FILE_NOT_FOUND" t="Fitxer no trobat"/>
+<phrase i="M_UG_READ_FAIL" t="Error en obtenir les dades"/>
+<phrase i="M_UG_WRITE_FAIL" t="Error en escriure les dades"/>
+<phrase i="M_UG_HASH_CHECK_FAIL" t="Error de comprovació de hash"/>
+<phrase i="M_UG_HEADER_FAIL" t="Error de comprovació d'encapçalament princ."/>
+<phrase i="M_UG_UPGRADE_ABORT" t="Procés d'actualització avortat"/>
+<phrase i="M_UG_FORBID" t="Incompatibilitat de maquinari o de programari"/>
+<phrase i="M_UG_CONN_FAIL" t="No es pot establir la connexió amb el servidor"/>
+<phrase i="M_UG_INTERNAL_ERR" t="Error intern en procés d'actualització"/>
+<phrase i="M_UG_BAD_LOAD_EBR" t="Carga errònia o reg. d'arrencada ampliat"/>
+<phrase i="M_UG_BAD_SCHEME" t="Esquema de protocol de descàrrega erroni"/>
+<phrase i="M_UG_IN_PROGRESS" t="Actualització en curs"/>
+<phrase i="M_UG_BAD_URL" t="URL especificada errònia"/>
+<phrase i="M_UG_AUTHORIZED" t="S'ha autoritzat l'actualització de transició."/>
+<phrase i="M_UG_UNAUTHORIZED" t="L'actualització de transició no està autoritzada."/>
+<phrase i="M_UG_AUTH_FAIL" t="S'ha produït un error en el procés d'autorització de la càrrega de transició"/>
+<phrase i="M_UG_AUTH_FNF" t="No s'ha trobat el fitxer d'autorització de la càrrega de transició."/>
+<phrase i="M_UG_SERV_CERT_ERR" t="Error de certificat."/>
+<phrase i="M_UG_UNKNOWN_ERR" t="Error desconegut"/>
+
+<phrase i="Tr_Configure" t="Configuration check in progress."/>
+<phrase i="Tr_Authorize" t="Authorization in progress."/>
+<phrase i="Tr_Auth_Download" t="Les actualitzacions de transició i restabliment estan permeses. Actualització en curs."/>
+<phrase i="Tr_Unauth_Download" t="Només estan permeses les actualitzacions de restabliment. Actualització en curs."/>
+<phrase i="Tr_AuthFail" t="Error d'autorització. Comproveu la configuració i torneu-ho a provar."/>
+<phrase i="Tr_ConfigureFail" t="Failed to download the configuration. Contact your administrator."/>
+<phrase i="Tr_ContactAdmin" t="Contact your administrator."/>
+
+<!-- TODO: Delete the following 3 strings when all code references are gone-->
+<phrase i="Tr_Revert" t="Load reversion in progress..."/>
+<phrase i="Tr_RevertPrompt" t="Do you want to revert to the previous load?"/>
+<phrase i="Tr_RevertFail" t="Failed to revert to the previous load"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s&amp;mobilePhone=%s"/>
+<phrase i="URL_AddToBSPAB" t="Application_BsDirPersAddToFrom?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2016"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All rights reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi protected setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade file select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi profile name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push button configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching available sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to personal address book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to personal address book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with personal address book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the conflict list"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the personal address book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth device name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices"/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait"/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting wireless profile"/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call history type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add new Wi-Fi profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit all changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware upgrade window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space not allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password not valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available speed dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current personal directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension name of certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter PIN."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of call history entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of received calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of placed calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of missed calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected personal address book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected call history entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected received calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected placed calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected missed calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth history entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to personal address book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal address book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Recents"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default transmit key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA shared key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of private key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS inner protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP inner protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="PIN"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone no"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work no"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile no"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home no"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add personal address entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check server certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed calls"/>
+<phrase i="S_Pg_C_All" t="All calls"/>
+<phrase i="S_Pg_C_XsiAll" t="Server All calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth device list"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import address book from mobile phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- status messages for future use. When using, move them in translatable section-->
+<phrase i="M_SM_cant_pwr_off" t="Phone off error: Could not power off; the required EnergyWise domain is not configured."/>
+<phrase i="M_SM_app_conf" t="apply_config"/>
+<phrase i="M_SM_cust_pend" t="Custom-pending"/>
+<phrase i="M_SM_psp_dev_unreg_pwr_off" t="Device unregistered when it entered powered off due to the Power Save Plus feature"/>
+<phrase i="M_SM_trst_lst_updtd" t="Trust list updated"/>
+<phrase i="M_SM_vpn_proc_not_rng" t="VPN process not running"/>
+<phrase i="M_SM_vpn_clnt_not_rng" t="VPN client not running"/>
+<phrase i="M_SM_vpn_not_cnfgd" t="VPN not configured"/>
+<phrase i="M_SM_trst_lst_updt_faild" t="Trust list update failed"/>
+<phrase i="M_SM_itl_upd_failed" t="ITL update failed"/>
+<phrase i="M_SM_no_trst_lst" t="No trust list installed"/>
+<phrase i="M_SM_itl_instld" t="ITL installed"/>
+<phrase i="M_SM_tz_dnld_failed" t="Time zone data download failed"/>
+<phrase i="M_SM_V6_dns_to" t="IPv6 DNS timeout"/>
+<phrase i="M_SM_V4_no_tftp_svr" t="No IPv4 TFTP server"/>
+<phrase i="M_SM_V6_no_tftp_svr" t="No IPv6 TFTP server"/>
+<phrase i="M_SM_V6_dhcp_to" t="DHCPv6 Timeout"/>
+<phrase i="M_SM_V6_dns_h_un" t="DNS unknown IPv6 host"/>
+<phrase i="M_SM_V6_no_dns_svr" t="No IPv6 DNS server"/>
+<phrase i="M_SM_V6_ADDR_REL" t="IPv6 address released"/>
+<phrase i="M_SM_load_svr_invld" t="Load server is invalid"/>
+<phrase i="M_SM_tftp_svr" t="TFTP server"/>
+<phrase i="M_SM_tftp_not_auth755" t="TFTP not authorized"/>
+<phrase i="M_SM_pend" t="Pending"/>
+<phrase i="M_SM_ctl_instd" t="CTL installed"/>
+<phrase i="M_SM_ctl_updtd_failed" t="CTL update failed"/>
+<phrase i="M_SM_file_auth_fail" t="File auth fail"/>
+<phrase i="M_SM_load_auth_fail" t="Load authenication failed"/>
+<phrase i="M_SM_err_updt_lcl" t="Error updating locale"/>
+<phrase i="M_SM_load_rej_hc" t="Load rejected HC"/>
+<phrase i="M_SM_failback" t="Failback"/>
+<phrase i="M_SM_err_vrfy_cfg" t="Error verifying config info"/>
+<phrase i="M_SM_tftp_err" t="TFTP error"/>
+<phrase i="M_SM_tftp_acc_err" t="TFTP access error"/>
+<phrase i="M_SM_tcp_to" t="TCP-timeout"/>
+<phrase i="M_SM_ver_err" t="Version Error"/>
+<phrase i="M_SM_prog_err" t="Programming Error"/>
+<phrase i="M_SM_no_def_rtr" t="No default router"/>
+<phrase i="M_SM_V4_no_dns_svr" t="No IPv4 DNS server"/>
+<phrase i="M_SM_V4_dns_to" t="IPv4 DNS timeout"/>
+<phrase i="M_SM_V4_dns_h_un" t="DNS unknown IPv4 host"/>
+<phrase i="M_SM_tftp_to" t="TFTP timeout"/>
+<phrase i="M_SM_V4_dhcp_to" t="IPv4 DHCP timeout"/>
+<phrase i="M_SM_V6_Vid_Cap" t="VideoCap with IPv6 Only"/>
+
+<!-- Voice Feedback Strings (hints). DO NOT LOCALIZE this section-->
+<phrase i="VF_FEEDBACK_ON" t="voice feedback on press three times to turn off"/>
+<phrase i="VF_FEEDBACK_OFF" t="voice feedback off"/>
+<phrase i="VF_HOME_SCREEN" t="Home Screen"/>
+<phrase i="VF_STARTUP_SCREEN" t="Startup Screen"/>
+<phrase i="VF_OPTION" t="Option"/>
+<phrase i="VF_XFER_LINE" t="Transfer line"/>
+<phrase i="VF_CONF_LINE" t="Conference line"/>
+<phrase i="VF_INPUT_FIELD" t="Input field"/>
+<phrase i="VF_SWITCH_FIELD" t="Switch field"/>
+<phrase i="VF_OPTION_FIELD" t="Option field"/>
+<phrase i="VF_EXPAND_FIELD" t="Expand field"/>
+<phrase i="VF_NEXT_PAGE" t="Next page"/>
+<phrase i="VF_SLIDER_FIELD" t="Slider field"/>
+<phrase i="VF_MENU" t="Menu"/>
+<phrase i="VF_INCOMING_CALL" t="Incoming call from"/>
+<phrase i="VF_OUTGOING_CALL" t="Outgoing call to"/>
+<phrase i="VF_MISSED_CALL" t="Missed call from"/>
+<phrase i="VF_HELD_CALL" t="Held call with"/>
+<phrase i="VF_CONNECTED_CALL" t="Connected call with"/>
+<phrase i="VF_CANCEL_FORWARD" t="Cancel call forward"/>
+<phrase i="VF_MUTE" t="Mute"/>
+<phrase i="VF_SELECTED" t="Selected"/>
+<phrase i="VF_CURSOR" t="Cursor"/>
+<phrase i="VF_AT_START" t="Cursor at start"/>
+<phrase i="VF_AT_END" t="Cursor at end"/>
+<phrase i="VF_JANUARY" t="January"/>
+<phrase i="VF_FEBRUARY" t="February"/>
+<phrase i="VF_MARCH" t="March"/>
+<phrase i="VF_APRIL" t="April"/>
+<phrase i="VF_MAY" t="May"/>
+<phrase i="VF_JUNE" t="June"/>
+<phrase i="VF_JULY" t="July"/>
+<phrase i="VF_AUGUST" t="August"/>
+<phrase i="VF_SEPTEMBER" t="September"/>
+<phrase i="VF_OCTOBER" t="October"/>
+<phrase i="VF_NOVEMBER" t="November"/>
+<phrase i="VF_DECEMBER" t="December"/>
+<phrase i="VF_MENU_CLOSED" t="Menu Closed"/>
+<phrase i="VF_DND_SET" t="Do Not Disturb Set"/>
+<phrase i="VF_DND_CANCEL" t="Do Not Disturb Cancelled"/>
+<!-- Voice Feedback Strings. END OF THIS SECTION-->
+
+</phrases>
