@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BINDIR=/home/container
-CONFIGS=/home/container
+BINDIR=/etc/mangos
+CONFIGS=/etc/mangos
 
 ${BINDIR}/realmd -c $CONFIGS/realmd.conf
