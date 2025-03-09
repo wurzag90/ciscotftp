@@ -12,5 +12,6 @@ COPY data/* /data/
 VOLUME /data
 EXPOSE 69/udp
 
+RUN ["chmod", "+x", "/docker-entrypoint.sh"]
 ENTRYPOINT ["/docker-entrypoint.sh"]
 CMD ["/usr/sbin/in.tftpd", "-L", "-v", "-s", "-u", "tftpd", "/data"]
